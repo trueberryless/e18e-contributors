@@ -1,22 +1,22 @@
 {
   "username": "dummdidumm",
-  "lastUpdated": "2026-09-06T13:08:58.073Z",
+  "lastUpdated": "2026-09-07T05:51:03.074Z",
   "aggregatedStats": {
-    "score": 12176,
-    "mergedPrs": 1209,
-    "reviews": 1509,
-    "reviewsReceived": 434,
-    "issuesLinked": 420,
-    "reactions": 3299
+    "score": 14163,
+    "mergedPrs": 1347,
+    "reviews": 1825,
+    "reviewsReceived": 570,
+    "issuesLinked": 522,
+    "reactions": 3385
   },
   "orgStats": {
     "sveltejs": {
-      "score": 12152,
-      "mergedPrs": 1207,
-      "reviews": 1507,
-      "reviewsReceived": 431,
-      "issuesLinked": 420,
-      "reactions": 3252
+      "score": 14139,
+      "mergedPrs": 1345,
+      "reviews": 1823,
+      "reviewsReceived": 567,
+      "issuesLinked": 522,
+      "reactions": 3338
     },
     "tanstack": {
       "score": 24,
@@ -102,12 +102,12 @@
         "reactions": 1
       },
       "kit": {
-        "score": 1726,
-        "mergedPrs": 111,
-        "reviews": 264,
-        "reviewsReceived": 96,
-        "issuesLinked": 88,
-        "reactions": 1070
+        "score": 2386,
+        "mergedPrs": 146,
+        "reviews": 394,
+        "reviewsReceived": 138,
+        "issuesLinked": 112,
+        "reactions": 1123
       },
       "language-tools": {
         "score": 4155,
@@ -190,12 +190,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 3331,
-        "mergedPrs": 254,
-        "reviews": 452,
-        "reviewsReceived": 228,
-        "issuesLinked": 179,
-        "reactions": 1193
+        "score": 4658,
+        "mergedPrs": 357,
+        "reviews": 638,
+        "reviewsReceived": 322,
+        "issuesLinked": 257,
+        "reactions": 1226
       },
       "svelte-eslint-parser": {
         "score": 18,

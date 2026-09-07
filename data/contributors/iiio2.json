@@ -1,13 +1,13 @@
 {
   "username": "iiio2",
-  "lastUpdated": "2026-09-07T01:05:59.736Z",
+  "lastUpdated": "2026-09-07T05:50:53.046Z",
   "aggregatedStats": {
-    "score": 1013,
-    "mergedPrs": 163,
+    "score": 1051,
+    "mergedPrs": 169,
     "reviews": 5,
-    "reviewsReceived": 157,
+    "reviewsReceived": 165,
     "issuesLinked": 11,
-    "reactions": 45
+    "reactions": 46
   },
   "orgStats": {
     "e18e": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 135,
-      "mergedPrs": 22,
+      "score": 173,
+      "mergedPrs": 28,
       "reviews": 1,
-      "reviewsReceived": 22,
+      "reviewsReceived": 30,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     },
     "vitest-dev": {
       "score": 82,
@@ -158,12 +158,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 135,
-        "mergedPrs": 22,
+        "score": 173,
+        "mergedPrs": 28,
         "reviews": 1,
-        "reviewsReceived": 22,
+        "reviewsReceived": 30,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       },
       "vite-ecosystem-ci": {
         "score": 0,

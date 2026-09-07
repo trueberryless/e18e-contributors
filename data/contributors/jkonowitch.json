@@ -1,15 +1,23 @@
 {
   "username": "jkonowitch",
-  "lastUpdated": "2026-09-05T00:34:55.931Z",
+  "lastUpdated": "2026-09-07T05:51:03.386Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "sveltejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "withastro": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "withastro": {
       "astro": {
         "score": 0,

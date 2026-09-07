@@ -1,13 +1,13 @@
 {
   "username": "NoiseFan",
-  "lastUpdated": "2026-09-06T16:29:24.129Z",
+  "lastUpdated": "2026-09-07T05:51:06.847Z",
   "aggregatedStats": {
-    "score": 674,
-    "mergedPrs": 98,
+    "score": 705,
+    "mergedPrs": 104,
     "reviews": 52,
     "reviewsReceived": 17,
     "issuesLinked": 4,
-    "reactions": 33
+    "reactions": 41
   },
   "orgStats": {
     "vitejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 659,
-      "mergedPrs": 96,
+      "score": 690,
+      "mergedPrs": 102,
       "reviews": 51,
       "reviewsReceived": 15,
       "issuesLinked": 4,
-      "reactions": 33
+      "reactions": 41
     },
     "vuejs": {
       "score": 0,
@@ -48,12 +48,12 @@
     },
     "vitest-dev": {
       "docs-cn": {
-        "score": 606,
-        "mergedPrs": 88,
+        "score": 637,
+        "mergedPrs": 94,
         "reviews": 49,
         "reviewsReceived": 8,
         "issuesLinked": 4,
-        "reactions": 33
+        "reactions": 41
       },
       "eslint-plugin-vitest": {
         "score": 11,

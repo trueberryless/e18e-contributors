@@ -1,22 +1,22 @@
 {
   "username": "gluxon",
-  "lastUpdated": "2026-09-06T13:08:53.431Z",
+  "lastUpdated": "2026-09-07T05:50:59.182Z",
   "aggregatedStats": {
-    "score": 53,
-    "mergedPrs": 2,
-    "reviews": 3,
-    "reviewsReceived": 2,
-    "issuesLinked": 0,
-    "reactions": 315
+    "score": 514,
+    "mergedPrs": 54,
+    "reviews": 47,
+    "reviewsReceived": 60,
+    "issuesLinked": 4,
+    "reactions": 346
   },
   "orgStats": {
     "pnpm": {
-      "score": 53,
-      "mergedPrs": 2,
-      "reviews": 3,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 315
+      "score": 514,
+      "mergedPrs": 54,
+      "reviews": 47,
+      "reviewsReceived": 60,
+      "issuesLinked": 4,
+      "reactions": 346
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "pnpm": {
-        "score": 44,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 315
+        "score": 505,
+        "mergedPrs": 53,
+        "reviews": 46,
+        "reviewsReceived": 59,
+        "issuesLinked": 4,
+        "reactions": 346
       },
       "pnpm.io": {
         "score": 6,

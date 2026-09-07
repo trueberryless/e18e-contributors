@@ -1,20 +1,20 @@
 {
   "username": "cooolbros",
-  "lastUpdated": "2026-09-06T13:08:57.931Z",
+  "lastUpdated": "2026-09-07T05:51:02.955Z",
   "aggregatedStats": {
-    "score": 24,
-    "mergedPrs": 3,
+    "score": 30,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 4,
+    "reviewsReceived": 5,
     "issuesLinked": 1,
     "reactions": 2
   },
   "orgStats": {
     "sveltejs": {
-      "score": 24,
-      "mergedPrs": 3,
+      "score": 30,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 4,
+      "reviewsReceived": 5,
       "issuesLinked": 1,
       "reactions": 2
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       },

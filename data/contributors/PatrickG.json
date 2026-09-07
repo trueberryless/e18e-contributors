@@ -1,21 +1,21 @@
 {
   "username": "PatrickG",
-  "lastUpdated": "2026-09-06T13:08:57.419Z",
+  "lastUpdated": "2026-09-07T05:51:02.499Z",
   "aggregatedStats": {
-    "score": 223,
-    "mergedPrs": 22,
-    "reviews": 17,
-    "reviewsReceived": 22,
-    "issuesLinked": 16,
+    "score": 242,
+    "mergedPrs": 24,
+    "reviews": 18,
+    "reviewsReceived": 24,
+    "issuesLinked": 18,
     "reactions": 79
   },
   "orgStats": {
     "sveltejs": {
-      "score": 223,
-      "mergedPrs": 22,
-      "reviews": 17,
-      "reviewsReceived": 22,
-      "issuesLinked": 16,
+      "score": 242,
+      "mergedPrs": 24,
+      "reviews": 18,
+      "reviewsReceived": 24,
+      "issuesLinked": 18,
       "reactions": 79
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 163,
-        "mergedPrs": 15,
-        "reviews": 13,
-        "reviewsReceived": 17,
-        "issuesLinked": 13,
+        "score": 182,
+        "mergedPrs": 17,
+        "reviews": 14,
+        "reviewsReceived": 19,
+        "issuesLinked": 15,
         "reactions": 55
       },
       "language-tools": {

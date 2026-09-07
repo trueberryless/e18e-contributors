@@ -1,19 +1,19 @@
 {
   "username": "thebjorn",
-  "lastUpdated": "2026-09-05T00:34:33.679Z",
+  "lastUpdated": "2026-09-07T05:51:04.224Z",
   "aggregatedStats": {
-    "score": 7,
+    "score": 10,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 66
   },
   "orgStats": {
     "sveltejs": {
-      "score": 7,
+      "score": 10,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 66
@@ -46,9 +46,9 @@
         "reactions": 18
       },
       "svelte": {
-        "score": 5,
+        "score": 8,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 47

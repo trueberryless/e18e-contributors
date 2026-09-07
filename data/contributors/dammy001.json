@@ -1,13 +1,13 @@
 {
   "username": "dammy001",
-  "lastUpdated": "2026-09-06T16:29:07.086Z",
+  "lastUpdated": "2026-09-07T05:50:55.571Z",
   "aggregatedStats": {
-    "score": 84,
+    "score": 108,
     "mergedPrs": 7,
-    "reviews": 14,
+    "reviews": 22,
     "reviewsReceived": 7,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 27,
+      "score": 51,
       "mergedPrs": 3,
-      "reviews": 3,
+      "reviews": 11,
       "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "vuejs": {
       "score": 36,
@@ -100,12 +100,12 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 6,
+        "score": 30,
         "mergedPrs": 0,
-        "reviews": 2,
+        "reviews": 10,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vuejs": {

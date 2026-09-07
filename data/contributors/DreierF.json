@@ -1,13 +1,13 @@
 {
   "username": "DreierF",
-  "lastUpdated": "2026-09-05T00:34:26.783Z",
+  "lastUpdated": "2026-09-07T05:50:58.309Z",
   "aggregatedStats": {
-    "score": 2,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 20
+    "score": 15,
+    "mergedPrs": 1,
+    "reviews": 1,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
+    "reactions": 21
   },
   "orgStats": {
     "oxc-project": {
@@ -27,12 +27,12 @@
       "reactions": 5
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 4
+      "score": 13,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
+      "reactions": 5
     }
   },
   "repoStats": {
@@ -82,12 +82,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 4
+        "score": 13,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
+        "reactions": 5
       }
     }
   }

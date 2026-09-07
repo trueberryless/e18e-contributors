@@ -1,12 +1,12 @@
 {
   "username": "IlyaSemenov",
-  "lastUpdated": "2026-09-05T17:41:19.687Z",
+  "lastUpdated": "2026-09-07T05:50:54.256Z",
   "aggregatedStats": {
-    "score": 39,
-    "mergedPrs": 3,
+    "score": 48,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 4,
-    "issuesLinked": 3,
+    "reviewsReceived": 6,
+    "issuesLinked": 4,
     "reactions": 116
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 33
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 3
     },
     "vuejs": {
@@ -156,11 +156,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 3
       },
       "vite-plugin-vue": {

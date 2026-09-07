@@ -1,10 +1,10 @@
 {
   "username": "OBITOONDEADO1MZ",
-  "lastUpdated": "2026-09-06T05:02:12.554Z",
+  "lastUpdated": "2026-09-07T05:50:58.354Z",
   "aggregatedStats": {
-    "score": 6,
+    "score": 12,
     "mergedPrs": 0,
-    "reviews": 2,
+    "reviews": 4,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
@@ -14,6 +14,14 @@
       "score": 3,
       "mergedPrs": 0,
       "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "pnpm": {
+      "score": 6,
+      "mergedPrs": 0,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -33,6 +41,16 @@
         "score": 3,
         "mergedPrs": 0,
         "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "pnpm": {
+      "pnpm": {
+        "score": 6,
+        "mergedPrs": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

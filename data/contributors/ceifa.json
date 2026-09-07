@@ -1,10 +1,10 @@
 {
   "username": "ceifa",
-  "lastUpdated": "2026-09-05T00:34:16.463Z",
+  "lastUpdated": "2026-09-07T05:50:51.106Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 4,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 6
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 6
@@ -64,9 +64,9 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 4

@@ -1,15 +1,23 @@
 {
   "username": "cramforce",
-  "lastUpdated": "2026-09-05T08:58:34.253Z",
+  "lastUpdated": "2026-09-07T05:51:02.961Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 4,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 5
   },
   "orgStats": {
+    "sveltejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "withastro": {
       "score": 1,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "withastro": {
       "astro": {
         "score": 1,

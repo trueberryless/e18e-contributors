@@ -1,22 +1,22 @@
 {
   "username": "fcrozatier",
-  "lastUpdated": "2026-09-06T13:08:58.170Z",
+  "lastUpdated": "2026-09-07T05:51:03.149Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 1,
-    "reviews": 0,
-    "reviewsReceived": 1,
-    "issuesLinked": 0,
-    "reactions": 27
+    "score": 70,
+    "mergedPrs": 10,
+    "reviews": 1,
+    "reviewsReceived": 10,
+    "issuesLinked": 2,
+    "reactions": 30
   },
   "orgStats": {
     "sveltejs": {
-      "score": 9,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 27
+      "score": 70,
+      "mergedPrs": 10,
+      "reviews": 1,
+      "reviewsReceived": 10,
+      "issuesLinked": 2,
+      "reactions": 30
     },
     "vitejs": {
       "score": 0,
@@ -30,20 +30,20 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 9
-      },
-      "svelte": {
-        "score": 8,
+        "score": 7,
         "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 18
+        "reactions": 9
+      },
+      "svelte": {
+        "score": 63,
+        "mergedPrs": 9,
+        "reviews": 1,
+        "reviewsReceived": 9,
+        "issuesLinked": 2,
+        "reactions": 21
       },
       "vite-plugin-svelte": {
         "score": 0,

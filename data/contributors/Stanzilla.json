@@ -1,12 +1,12 @@
 {
   "username": "Stanzilla",
-  "lastUpdated": "2026-09-06T16:29:00.073Z",
+  "lastUpdated": "2026-09-07T05:50:50.993Z",
   "aggregatedStats": {
-    "score": 211,
-    "mergedPrs": 22,
-    "reviews": 14,
-    "reviewsReceived": 17,
-    "issuesLinked": 17,
+    "score": 222,
+    "mergedPrs": 23,
+    "reviews": 15,
+    "reviewsReceived": 18,
+    "issuesLinked": 18,
     "reactions": 81
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 17
     },
     "pnpm": {
-      "score": 189,
-      "mergedPrs": 20,
-      "reviews": 12,
-      "reviewsReceived": 16,
-      "issuesLinked": 16,
+      "score": 200,
+      "mergedPrs": 21,
+      "reviews": 13,
+      "reviewsReceived": 17,
+      "issuesLinked": 17,
       "reactions": 52
     },
     "refined-github": {
@@ -138,11 +138,11 @@
         "reactions": 0
       },
       "pnpm": {
-        "score": 178,
-        "mergedPrs": 19,
-        "reviews": 11,
-        "reviewsReceived": 15,
-        "issuesLinked": 15,
+        "score": 189,
+        "mergedPrs": 20,
+        "reviews": 12,
+        "reviewsReceived": 16,
+        "issuesLinked": 16,
         "reactions": 46
       },
       "setup": {

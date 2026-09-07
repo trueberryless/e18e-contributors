@@ -1,22 +1,22 @@
 {
   "username": "LorisSigrist",
-  "lastUpdated": "2026-09-05T08:58:16.423Z",
+  "lastUpdated": "2026-09-07T05:51:02.421Z",
   "aggregatedStats": {
-    "score": 16,
-    "mergedPrs": 1,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 104
+    "score": 56,
+    "mergedPrs": 5,
+    "reviews": 2,
+    "reviewsReceived": 5,
+    "issuesLinked": 3,
+    "reactions": 136
   },
   "orgStats": {
     "sveltejs": {
-      "score": 15,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 97
+      "score": 55,
+      "mergedPrs": 5,
+      "reviews": 2,
+      "reviewsReceived": 5,
+      "issuesLinked": 3,
+      "reactions": 129
     },
     "vitejs": {
       "score": 1,
@@ -62,12 +62,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 8,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 82
+        "score": 48,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 5,
+        "issuesLinked": 3,
+        "reactions": 114
       },
       "svelte": {
         "score": 0,

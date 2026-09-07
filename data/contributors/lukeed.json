@@ -1,11 +1,11 @@
 {
   "username": "lukeed",
-  "lastUpdated": "2026-09-05T20:07:02.806Z",
+  "lastUpdated": "2026-09-07T05:50:53.053Z",
   "aggregatedStats": {
-    "score": 351,
-    "mergedPrs": 36,
+    "score": 358,
+    "mergedPrs": 37,
     "reviews": 42,
-    "reviewsReceived": 16,
+    "reviewsReceived": 18,
     "issuesLinked": 6,
     "reactions": 170
   },
@@ -43,10 +43,10 @@
       "reactions": 65
     },
     "vitejs": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 17,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 1,
       "reactions": 23
     },
@@ -190,10 +190,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 17,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 1,
         "reactions": 23
       }

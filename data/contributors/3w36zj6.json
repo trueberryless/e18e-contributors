@@ -1,12 +1,12 @@
 {
   "username": "3w36zj6",
-  "lastUpdated": "2026-09-05T08:58:02.881Z",
+  "lastUpdated": "2026-09-07T05:50:50.869Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 8,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 3
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 3
     },
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "withastro": {
@@ -48,11 +48,11 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "pnpm.io": {

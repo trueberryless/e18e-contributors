@@ -1,19 +1,19 @@
 {
   "username": "dai-shi",
-  "lastUpdated": "2026-09-05T00:34:39.817Z",
+  "lastUpdated": "2026-09-07T05:51:07.209Z",
   "aggregatedStats": {
-    "score": 5,
+    "score": 8,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "vitejs": {
-      "score": 5,
+      "score": 8,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "vitejs": {
+      "vite": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vite-plugin-react": {
         "score": 5,
         "mergedPrs": 1,

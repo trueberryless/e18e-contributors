@@ -1,10 +1,10 @@
 {
   "username": "janosh",
-  "lastUpdated": "2026-09-06T00:12:37.861Z",
+  "lastUpdated": "2026-09-07T05:50:52.891Z",
   "aggregatedStats": {
-    "score": 55,
+    "score": 58,
     "mergedPrs": 8,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 4,
     "issuesLinked": 2,
     "reactions": 73
@@ -35,9 +35,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 43,
+      "score": 46,
       "mergedPrs": 6,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 4,
       "issuesLinked": 1,
       "reactions": 71
@@ -116,9 +116,9 @@
         "reactions": 1
       },
       "kit": {
-        "score": 2,
+        "score": 5,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 23

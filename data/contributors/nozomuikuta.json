@@ -1,12 +1,12 @@
 {
   "username": "nozomuikuta",
-  "lastUpdated": "2026-09-06T16:29:09.384Z",
+  "lastUpdated": "2026-09-07T05:50:57.058Z",
   "aggregatedStats": {
-    "score": 487,
-    "mergedPrs": 55,
-    "reviews": 41,
-    "reviewsReceived": 37,
-    "issuesLinked": 21,
+    "score": 505,
+    "mergedPrs": 57,
+    "reviews": 42,
+    "reviewsReceived": 40,
+    "issuesLinked": 22,
     "reactions": 101
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 30
     },
     "vitejs": {
-      "score": 17,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 3,
-      "issuesLinked": 0,
+      "score": 35,
+      "mergedPrs": 4,
+      "reviews": 2,
+      "reviewsReceived": 6,
+      "issuesLinked": 1,
       "reactions": 11
     },
     "vitest-dev": {
@@ -154,11 +154,11 @@
         "reactions": 6
       },
       "vite": {
-        "score": 7,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
+        "score": 25,
+        "mergedPrs": 3,
+        "reviews": 1,
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
         "reactions": 5
       }
     },

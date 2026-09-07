@@ -1,22 +1,22 @@
 {
   "username": "tanhauhau",
-  "lastUpdated": "2026-09-06T13:08:59.514Z",
+  "lastUpdated": "2026-09-07T05:51:04.204Z",
   "aggregatedStats": {
-    "score": 356,
+    "score": 367,
     "mergedPrs": 40,
-    "reviews": 12,
+    "reviews": 14,
     "reviewsReceived": 11,
     "issuesLinked": 22,
-    "reactions": 643
+    "reactions": 692
   },
   "orgStats": {
     "sveltejs": {
-      "score": 355,
+      "score": 366,
       "mergedPrs": 40,
-      "reviews": 12,
+      "reviews": 14,
       "reviewsReceived": 11,
       "issuesLinked": 22,
-      "reactions": 636
+      "reactions": 685
     },
     "vitejs": {
       "score": 1,
@@ -134,12 +134,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 57,
+        "score": 68,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 1,
         "issuesLinked": 1,
-        "reactions": 489
+        "reactions": 538
       },
       "svelte-devtools": {
         "score": 1,

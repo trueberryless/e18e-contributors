@@ -1,13 +1,13 @@
 {
   "username": "brc-dd",
-  "lastUpdated": "2026-09-06T16:29:01.064Z",
+  "lastUpdated": "2026-09-07T05:50:51.622Z",
   "aggregatedStats": {
-    "score": 3135,
-    "mergedPrs": 334,
+    "score": 3158,
+    "mergedPrs": 337,
     "reviews": 302,
-    "reviewsReceived": 42,
-    "issuesLinked": 241,
-    "reactions": 352
+    "reviewsReceived": 46,
+    "issuesLinked": 243,
+    "reactions": 356
   },
   "orgStats": {
     "bombshell-dev": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 21,
-      "mergedPrs": 3,
+      "score": 44,
+      "mergedPrs": 6,
       "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 6
+      "reviewsReceived": 6,
+      "issuesLinked": 2,
+      "reactions": 10
     },
     "vuejs": {
       "score": 3114,
@@ -110,12 +110,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 33,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 6
+        "reviewsReceived": 5,
+        "issuesLinked": 2,
+        "reactions": 10
       },
       "vite-ecosystem-ci": {
         "score": 11,

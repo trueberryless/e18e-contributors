@@ -1,12 +1,12 @@
 {
   "username": "ghostdevv",
-  "lastUpdated": "2026-09-06T18:37:05.563Z",
+  "lastUpdated": "2026-09-07T05:50:51.631Z",
   "aggregatedStats": {
-    "score": 1777,
-    "mergedPrs": 65,
-    "reviews": 455,
-    "reviewsReceived": 68,
-    "issuesLinked": 5,
+    "score": 1836,
+    "mergedPrs": 67,
+    "reviews": 470,
+    "reviewsReceived": 70,
+    "issuesLinked": 6,
     "reactions": 96
   },
   "orgStats": {
@@ -75,11 +75,11 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 110,
-      "mergedPrs": 9,
-      "reviews": 16,
-      "reviewsReceived": 5,
-      "issuesLinked": 3,
+      "score": 169,
+      "mergedPrs": 11,
+      "reviews": 31,
+      "reviewsReceived": 7,
+      "issuesLinked": 4,
       "reactions": 58
     },
     "vitejs": {
@@ -254,11 +254,11 @@
         "reactions": 4
       },
       "kit": {
-        "score": 26,
-        "mergedPrs": 0,
-        "reviews": 7,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 85,
+        "mergedPrs": 2,
+        "reviews": 22,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 50
       },
       "language-tools": {

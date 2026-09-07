@@ -1,13 +1,13 @@
 {
   "username": "TheAlexLichter",
-  "lastUpdated": "2026-09-07T01:05:57.203Z",
+  "lastUpdated": "2026-09-07T05:50:50.999Z",
   "aggregatedStats": {
-    "score": 2797,
-    "mergedPrs": 253,
-    "reviews": 385,
-    "reviewsReceived": 147,
-    "issuesLinked": 31,
-    "reactions": 1682
+    "score": 2843,
+    "mergedPrs": 259,
+    "reviews": 387,
+    "reviewsReceived": 155,
+    "issuesLinked": 32,
+    "reactions": 1687
   },
   "orgStats": {
     "biomejs": {
@@ -67,18 +67,18 @@
       "reactions": 14
     },
     "vitejs": {
-      "score": 220,
-      "mergedPrs": 25,
-      "reviews": 17,
-      "reviewsReceived": 27,
-      "issuesLinked": 4,
-      "reactions": 85
+      "score": 260,
+      "mergedPrs": 30,
+      "reviews": 19,
+      "reviewsReceived": 34,
+      "issuesLinked": 5,
+      "reactions": 90
     },
     "vitest-dev": {
-      "score": 26,
-      "mergedPrs": 3,
+      "score": 32,
+      "mergedPrs": 4,
       "reviews": 2,
-      "reviewsReceived": 4,
+      "reviewsReceived": 5,
       "issuesLinked": 0,
       "reactions": 6
     },
@@ -476,12 +476,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 163,
-        "mergedPrs": 18,
-        "reviews": 13,
-        "reviewsReceived": 19,
-        "issuesLinked": 4,
-        "reactions": 74
+        "score": 204,
+        "mergedPrs": 23,
+        "reviews": 15,
+        "reviewsReceived": 26,
+        "issuesLinked": 5,
+        "reactions": 79
       },
       "vite-plugin-react": {
         "score": 38,
@@ -502,10 +502,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 19,
-        "mergedPrs": 2,
+        "score": 25,
+        "mergedPrs": 3,
         "reviews": 2,
-        "reviewsReceived": 3,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 2
       },

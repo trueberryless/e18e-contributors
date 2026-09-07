@@ -1,12 +1,12 @@
 {
   "username": "Barbapapazes",
-  "lastUpdated": "2026-09-07T01:06:01.114Z",
+  "lastUpdated": "2026-09-07T05:50:53.985Z",
   "aggregatedStats": {
-    "score": 423,
-    "mergedPrs": 54,
-    "reviews": 12,
+    "score": 433,
+    "mergedPrs": 55,
+    "reviews": 13,
     "reviewsReceived": 47,
-    "issuesLinked": 22,
+    "issuesLinked": 23,
     "reactions": 267
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 9
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vuejs": {
@@ -188,11 +188,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

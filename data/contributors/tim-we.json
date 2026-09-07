@@ -1,11 +1,11 @@
 {
   "username": "tim-we",
-  "lastUpdated": "2026-09-06T21:10:40.261Z",
+  "lastUpdated": "2026-09-07T05:50:51.535Z",
   "aggregatedStats": {
-    "score": 28,
-    "mergedPrs": 3,
+    "score": 46,
+    "mergedPrs": 6,
     "reviews": 2,
-    "reviewsReceived": 3,
+    "reviewsReceived": 6,
     "issuesLinked": 2,
     "reactions": 2
   },
@@ -19,10 +19,10 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 11,
-      "mergedPrs": 1,
+      "score": 29,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 4,
       "issuesLinked": 1,
       "reactions": 0
     }
@@ -40,10 +40,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 29,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 4,
         "issuesLinked": 1,
         "reactions": 0
       }

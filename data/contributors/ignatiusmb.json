@@ -1,32 +1,32 @@
 {
   "username": "ignatiusmb",
-  "lastUpdated": "2026-09-05T20:07:10.780Z",
+  "lastUpdated": "2026-09-07T05:51:03.296Z",
   "aggregatedStats": {
-    "score": 580,
-    "mergedPrs": 94,
-    "reviews": 11,
-    "reviewsReceived": 10,
-    "issuesLinked": 30,
-    "reactions": 73
+    "score": 633,
+    "mergedPrs": 100,
+    "reviews": 13,
+    "reviewsReceived": 18,
+    "issuesLinked": 34,
+    "reactions": 79
   },
   "orgStats": {
     "sveltejs": {
-      "score": 580,
-      "mergedPrs": 94,
-      "reviews": 11,
-      "reviewsReceived": 10,
-      "issuesLinked": 30,
-      "reactions": 73
+      "score": 633,
+      "mergedPrs": 100,
+      "reviews": 13,
+      "reviewsReceived": 18,
+      "issuesLinked": 34,
+      "reactions": 79
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 2,
-        "mergedPrs": 0,
+        "score": 24,
+        "mergedPrs": 3,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
         "reactions": 20
       },
       "language-tools": {
@@ -62,12 +62,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "score": 31,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 5,
+        "issuesLinked": 2,
+        "reactions": 13
       },
       "svelte-devtools": {
         "score": 460,

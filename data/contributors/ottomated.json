@@ -1,11 +1,11 @@
 {
   "username": "ottomated",
-  "lastUpdated": "2026-09-06T13:08:52.757Z",
+  "lastUpdated": "2026-09-07T05:50:58.597Z",
   "aggregatedStats": {
-    "score": 307,
-    "mergedPrs": 35,
+    "score": 323,
+    "mergedPrs": 38,
     "reviews": 15,
-    "reviewsReceived": 31,
+    "reviewsReceived": 32,
     "issuesLinked": 12,
     "reactions": 324
   },
@@ -19,10 +19,10 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 299,
-      "mergedPrs": 34,
+      "score": 315,
+      "mergedPrs": 37,
       "reviews": 15,
-      "reviewsReceived": 30,
+      "reviewsReceived": 31,
       "issuesLinked": 11,
       "reactions": 320
     },
@@ -72,10 +72,10 @@
         "reactions": 0
       },
       "kit": {
-        "score": 234,
-        "mergedPrs": 27,
+        "score": 240,
+        "mergedPrs": 28,
         "reviews": 13,
-        "reviewsReceived": 25,
+        "reviewsReceived": 26,
         "issuesLinked": 10,
         "reactions": 145
       },
@@ -88,8 +88,8 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 44,
-        "mergedPrs": 4,
+        "score": 54,
+        "mergedPrs": 6,
         "reviews": 1,
         "reviewsReceived": 4,
         "issuesLinked": 0,

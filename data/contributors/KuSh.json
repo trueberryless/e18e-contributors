@@ -1,12 +1,12 @@
 {
   "username": "KuSh",
-  "lastUpdated": "2026-09-06T13:08:52.424Z",
+  "lastUpdated": "2026-09-07T05:50:58.336Z",
   "aggregatedStats": {
-    "score": 50,
-    "mergedPrs": 7,
+    "score": 58,
+    "mergedPrs": 8,
     "reviews": 2,
-    "reviewsReceived": 6,
-    "issuesLinked": 1,
+    "reviewsReceived": 7,
+    "issuesLinked": 2,
     "reactions": 15
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 2
     },
     "pnpm": {
-      "score": 23,
-      "mergedPrs": 3,
+      "score": 31,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 1,
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
       "reactions": 11
     },
     "sveltejs": {
@@ -72,11 +72,11 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 23,
-        "mergedPrs": 3,
+        "score": 31,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
         "reactions": 9
       },
       "pnpm.io": {

@@ -1,10 +1,10 @@
 {
   "username": "antony",
-  "lastUpdated": "2026-09-05T20:07:01.803Z",
+  "lastUpdated": "2026-09-07T05:50:51.618Z",
   "aggregatedStats": {
-    "score": 356,
+    "score": 362,
     "mergedPrs": 20,
-    "reviews": 72,
+    "reviews": 74,
     "reviewsReceived": 5,
     "issuesLinked": 5,
     "reactions": 250
@@ -35,9 +35,9 @@
       "reactions": 28
     },
     "sveltejs": {
-      "score": 350,
+      "score": 356,
       "mergedPrs": 20,
-      "reviews": 71,
+      "reviews": 73,
       "reviewsReceived": 5,
       "issuesLinked": 5,
       "reactions": 219
@@ -116,9 +116,9 @@
         "reactions": 0
       },
       "kit": {
-        "score": 5,
+        "score": 11,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 48

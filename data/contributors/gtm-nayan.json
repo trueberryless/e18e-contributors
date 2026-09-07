@@ -1,13 +1,13 @@
 {
   "username": "gtm-nayan",
-  "lastUpdated": "2026-09-06T13:08:53.444Z",
+  "lastUpdated": "2026-09-07T05:50:59.189Z",
   "aggregatedStats": {
-    "score": 179,
-    "mergedPrs": 25,
-    "reviews": 10,
-    "reviewsReceived": 13,
-    "issuesLinked": 3,
-    "reactions": 55
+    "score": 221,
+    "mergedPrs": 28,
+    "reviews": 17,
+    "reviewsReceived": 16,
+    "issuesLinked": 4,
+    "reactions": 58
   },
   "orgStats": {
     "pnpm": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 179,
-      "mergedPrs": 25,
-      "reviews": 10,
-      "reviewsReceived": 13,
-      "issuesLinked": 3,
-      "reactions": 52
+      "score": 221,
+      "mergedPrs": 28,
+      "reviews": 17,
+      "reviewsReceived": 16,
+      "issuesLinked": 4,
+      "reactions": 55
     },
     "vitejs": {
       "score": 0,
@@ -72,12 +72,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 6,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 31
+        "score": 44,
+        "mergedPrs": 3,
+        "reviews": 7,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
+        "reactions": 33
       },
       "language-tools": {
         "score": 35,
@@ -120,12 +120,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 2,
+        "score": 5,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 16
+        "reactions": 17
       }
     },
     "vitejs": {

@@ -1,21 +1,21 @@
 {
   "username": "thor-juhasz",
-  "lastUpdated": "2026-09-05T20:07:15.091Z",
+  "lastUpdated": "2026-09-07T05:51:08.923Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 3,
+    "score": 33,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 5,
-    "issuesLinked": 1,
+    "reviewsReceived": 6,
+    "issuesLinked": 2,
     "reactions": 6
   },
   "orgStats": {
     "vitest-dev": {
-      "score": 16,
-      "mergedPrs": 2,
+      "score": 24,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
       "reactions": 2
     },
     "vuejs": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "vitest-dev": {
       "vitest": {
-        "score": 16,
-        "mergedPrs": 2,
+        "score": 24,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 2
       }
     },

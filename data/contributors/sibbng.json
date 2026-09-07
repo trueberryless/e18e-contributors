@@ -1,13 +1,13 @@
 {
   "username": "sibbng",
-  "lastUpdated": "2026-09-05T17:41:24.619Z",
+  "lastUpdated": "2026-09-07T05:50:57.492Z",
   "aggregatedStats": {
     "score": 35,
     "mergedPrs": 6,
     "reviews": 0,
     "reviewsReceived": 3,
     "issuesLinked": 0,
-    "reactions": 19
+    "reactions": 20
   },
   "orgStats": {
     "nuxt": {
@@ -32,7 +32,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 15
+      "reactions": 16
     },
     "vuejs": {
       "score": 0,
@@ -111,7 +111,7 @@
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 10
+        "reactions": 11
       },
       "vite-plugin-react": {
         "score": 1,

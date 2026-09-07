@@ -1,13 +1,13 @@
 {
   "username": "GauBen",
-  "lastUpdated": "2026-09-06T13:08:43.246Z",
+  "lastUpdated": "2026-09-07T05:50:51.610Z",
   "aggregatedStats": {
-    "score": 174,
-    "mergedPrs": 21,
-    "reviews": 9,
-    "reviewsReceived": 19,
+    "score": 207,
+    "mergedPrs": 26,
+    "reviews": 10,
+    "reviewsReceived": 24,
     "issuesLinked": 6,
-    "reactions": 111
+    "reactions": 112
   },
   "orgStats": {
     "bombshell-dev": {
@@ -43,10 +43,10 @@
       "reactions": 0
     },
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 1
     },
@@ -59,12 +59,12 @@
       "reactions": 5
     },
     "sveltejs": {
-      "score": 166,
-      "mergedPrs": 20,
-      "reviews": 9,
-      "reviewsReceived": 18,
+      "score": 193,
+      "mergedPrs": 24,
+      "reviews": 10,
+      "reviewsReceived": 22,
       "issuesLinked": 6,
-      "reactions": 88
+      "reactions": 89
     },
     "vitejs": {
       "score": 0,
@@ -134,10 +134,10 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 1
       }
@@ -202,10 +202,10 @@
         "reactions": 1
       },
       "kit": {
-        "score": 70,
-        "mergedPrs": 8,
-        "reviews": 4,
-        "reviewsReceived": 7,
+        "score": 85,
+        "mergedPrs": 10,
+        "reviews": 5,
+        "reviewsReceived": 9,
         "issuesLinked": 3,
         "reactions": 52
       },
@@ -218,12 +218,12 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 48,
-        "mergedPrs": 5,
+        "score": 60,
+        "mergedPrs": 7,
         "reviews": 4,
-        "reviewsReceived": 5,
+        "reviewsReceived": 7,
         "issuesLinked": 2,
-        "reactions": 23
+        "reactions": 24
       },
       "svelte.dev": {
         "score": 6,

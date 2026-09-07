@@ -1,10 +1,10 @@
 {
   "username": "brandonroberts",
-  "lastUpdated": "2026-09-05T08:58:02.749Z",
+  "lastUpdated": "2026-09-07T05:50:50.773Z",
   "aggregatedStats": {
-    "score": 33,
+    "score": 36,
     "mergedPrs": 5,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 5,
     "issuesLinked": 0,
     "reactions": 8
@@ -27,9 +27,9 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 6,
+      "score": 9,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
@@ -90,9 +90,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

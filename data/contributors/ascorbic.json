@@ -1,10 +1,10 @@
 {
   "username": "ascorbic",
-  "lastUpdated": "2026-09-07T01:05:58.019Z",
+  "lastUpdated": "2026-09-07T05:50:51.619Z",
   "aggregatedStats": {
-    "score": 5622,
+    "score": 5625,
     "mergedPrs": 634,
-    "reviews": 704,
+    "reviews": 705,
     "reviewsReceived": 131,
     "issuesLinked": 86,
     "reactions": 361
@@ -43,9 +43,9 @@
       "reactions": 18
     },
     "sveltejs": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 7
@@ -118,9 +118,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 7

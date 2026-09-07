@@ -1,19 +1,19 @@
 {
   "username": "7nik",
-  "lastUpdated": "2026-09-06T13:08:56.908Z",
+  "lastUpdated": "2026-09-07T05:51:02.098Z",
   "aggregatedStats": {
-    "score": 479,
+    "score": 485,
     "mergedPrs": 44,
-    "reviews": 47,
+    "reviews": 49,
     "reviewsReceived": 49,
     "issuesLinked": 32,
     "reactions": 50
   },
   "orgStats": {
     "sveltejs": {
-      "score": 479,
+      "score": 485,
       "mergedPrs": 44,
-      "reviews": 47,
+      "reviews": 49,
       "reviewsReceived": 49,
       "issuesLinked": 32,
       "reactions": 49
@@ -46,9 +46,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 369,
+        "score": 375,
         "mergedPrs": 40,
-        "reviews": 21,
+        "reviews": 23,
         "reviewsReceived": 45,
         "issuesLinked": 28,
         "reactions": 45

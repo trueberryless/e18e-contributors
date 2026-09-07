@@ -1,33 +1,33 @@
 {
   "username": "vsumner",
-  "lastUpdated": "2026-09-06T13:08:53.996Z",
+  "lastUpdated": "2026-09-07T05:50:59.671Z",
   "aggregatedStats": {
-    "score": 36,
-    "mergedPrs": 5,
-    "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 0,
-    "reactions": 10
+    "score": 117,
+    "mergedPrs": 16,
+    "reviews": 6,
+    "reviewsReceived": 16,
+    "issuesLinked": 1,
+    "reactions": 12
   },
   "orgStats": {
     "pnpm": {
-      "score": 36,
-      "mergedPrs": 5,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
-      "reactions": 10
+      "score": 117,
+      "mergedPrs": 16,
+      "reviews": 6,
+      "reviewsReceived": 16,
+      "issuesLinked": 1,
+      "reactions": 12
     }
   },
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 36,
-        "mergedPrs": 5,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
-        "reactions": 10
+        "score": 117,
+        "mergedPrs": 16,
+        "reviews": 6,
+        "reviewsReceived": 16,
+        "issuesLinked": 1,
+        "reactions": 12
       }
     }
   }

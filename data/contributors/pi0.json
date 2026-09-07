@@ -1,10 +1,10 @@
 {
   "username": "pi0",
-  "lastUpdated": "2026-09-07T01:06:04.753Z",
+  "lastUpdated": "2026-09-07T05:50:57.174Z",
   "aggregatedStats": {
-    "score": 8250,
+    "score": 8253,
     "mergedPrs": 446,
-    "reviews": 1703,
+    "reviews": 1704,
     "reviewsReceived": 145,
     "issuesLinked": 131,
     "reactions": 5031
@@ -43,9 +43,9 @@
       "reactions": 7
     },
     "vitejs": {
-      "score": 17,
+      "score": 20,
       "mergedPrs": 2,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 27
@@ -398,9 +398,9 @@
         "reactions": 0
       },
       "vite": {
-        "score": 3,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 27

@@ -1,12 +1,12 @@
 {
   "username": "mrginglymus",
-  "lastUpdated": "2026-09-06T16:29:03.050Z",
+  "lastUpdated": "2026-09-07T05:50:52.935Z",
   "aggregatedStats": {
-    "score": 57,
-    "mergedPrs": 7,
+    "score": 71,
+    "mergedPrs": 9,
     "reviews": 1,
-    "reviewsReceived": 9,
-    "issuesLinked": 5,
+    "reviewsReceived": 11,
+    "issuesLinked": 6,
     "reactions": 5
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 14,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 2
     },
     "vitest-dev": {
@@ -92,11 +92,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 14,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 2
       }
     },

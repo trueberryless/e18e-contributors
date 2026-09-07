@@ -1,11 +1,11 @@
 {
   "username": "Netail",
-  "lastUpdated": "2026-09-06T21:10:39.371Z",
+  "lastUpdated": "2026-09-07T05:50:50.967Z",
   "aggregatedStats": {
-    "score": 1432,
-    "mergedPrs": 148,
-    "reviews": 141,
-    "reviewsReceived": 177,
+    "score": 1455,
+    "mergedPrs": 151,
+    "reviews": 142,
+    "reviewsReceived": 182,
     "issuesLinked": 41,
     "reactions": 94
   },
@@ -43,10 +43,10 @@
       "reactions": 2
     },
     "pnpm": {
-      "score": 12,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
+      "score": 35,
+      "mergedPrs": 4,
+      "reviews": 2,
+      "reviewsReceived": 6,
       "issuesLinked": 1,
       "reactions": 6
     },
@@ -134,10 +134,10 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 12,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 35,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 6,
         "issuesLinked": 1,
         "reactions": 6
       }

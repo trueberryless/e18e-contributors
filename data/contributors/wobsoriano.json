@@ -1,13 +1,13 @@
 {
   "username": "wobsoriano",
-  "lastUpdated": "2026-09-06T09:35:31.701Z",
+  "lastUpdated": "2026-09-07T05:50:51.581Z",
   "aggregatedStats": {
-    "score": 115,
-    "mergedPrs": 16,
-    "reviews": 4,
-    "reviewsReceived": 12,
+    "score": 125,
+    "mergedPrs": 17,
+    "reviews": 5,
+    "reviewsReceived": 14,
     "issuesLinked": 2,
-    "reactions": 63
+    "reactions": 66
   },
   "orgStats": {
     "biomejs": {
@@ -59,12 +59,12 @@
       "reactions": 55
     },
     "vitejs": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 7
+      "reactions": 10
     },
     "vuejs": {
       "score": 29,
@@ -218,12 +218,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 11,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 7
+        "reactions": 10
       }
     },
     "vuejs": {

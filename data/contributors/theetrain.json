@@ -1,22 +1,22 @@
 {
   "username": "theetrain",
-  "lastUpdated": "2026-09-06T13:08:59.544Z",
+  "lastUpdated": "2026-09-07T05:51:04.227Z",
   "aggregatedStats": {
-    "score": 66,
-    "mergedPrs": 5,
-    "reviews": 5,
-    "reviewsReceived": 3,
+    "score": 79,
+    "mergedPrs": 6,
+    "reviews": 7,
+    "reviewsReceived": 4,
     "issuesLinked": 2,
-    "reactions": 196
+    "reactions": 200
   },
   "orgStats": {
     "sveltejs": {
-      "score": 66,
-      "mergedPrs": 5,
-      "reviews": 5,
-      "reviewsReceived": 3,
+      "score": 79,
+      "mergedPrs": 6,
+      "reviews": 7,
+      "reviewsReceived": 4,
       "issuesLinked": 2,
-      "reactions": 194
+      "reactions": 198
     },
     "withastro": {
       "score": 0,
@@ -46,12 +46,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 35,
-        "mergedPrs": 2,
-        "reviews": 2,
-        "reviewsReceived": 1,
+        "score": 44,
+        "mergedPrs": 3,
+        "reviews": 3,
+        "reviewsReceived": 2,
         "issuesLinked": 1,
-        "reactions": 157
+        "reactions": 161
       },
       "language-tools": {
         "score": 1,
@@ -78,9 +78,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 10

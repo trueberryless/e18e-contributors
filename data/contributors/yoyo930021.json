@@ -1,13 +1,13 @@
 {
   "username": "yoyo930021",
-  "lastUpdated": "2026-09-05T20:07:11.641Z",
+  "lastUpdated": "2026-09-07T05:51:04.402Z",
   "aggregatedStats": {
-    "score": 661,
-    "mergedPrs": 61,
+    "score": 670,
+    "mergedPrs": 62,
     "reviews": 56,
-    "reviewsReceived": 42,
-    "issuesLinked": 47,
-    "reactions": 520
+    "reviewsReceived": 43,
+    "issuesLinked": 48,
+    "reactions": 524
   },
   "orgStats": {
     "sveltejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 11,
-      "mergedPrs": 0,
+      "score": 20,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 114
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 118
     },
     "vuejs": {
       "score": 650,
@@ -48,12 +48,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 11,
-        "mergedPrs": 0,
+        "score": 20,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 114
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 118
       }
     },
     "vuejs": {

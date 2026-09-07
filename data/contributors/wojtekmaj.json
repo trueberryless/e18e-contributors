@@ -1,10 +1,10 @@
 {
   "username": "wojtekmaj",
-  "lastUpdated": "2026-09-06T13:08:43.210Z",
+  "lastUpdated": "2026-09-07T05:50:51.581Z",
   "aggregatedStats": {
-    "score": 452,
+    "score": 455,
     "mergedPrs": 53,
-    "reviews": 35,
+    "reviews": 36,
     "reviewsReceived": 57,
     "issuesLinked": 7,
     "reactions": 108
@@ -43,9 +43,9 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 23,
+      "score": 26,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 1,
       "reactions": 27
@@ -142,9 +142,9 @@
         "reactions": 0
       },
       "vite": {
-        "score": 3,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 26

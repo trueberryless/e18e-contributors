@@ -1,10 +1,10 @@
 {
   "username": "leonidaz",
-  "lastUpdated": "2026-09-06T13:08:53.611Z",
+  "lastUpdated": "2026-09-07T05:50:59.406Z",
   "aggregatedStats": {
-    "score": 54,
+    "score": 60,
     "mergedPrs": 7,
-    "reviews": 4,
+    "reviews": 6,
     "reviewsReceived": 6,
     "issuesLinked": 0,
     "reactions": 11
@@ -19,9 +19,9 @@
       "reactions": 3
     },
     "sveltejs": {
-      "score": 48,
+      "score": 54,
       "mergedPrs": 6,
-      "reviews": 4,
+      "reviews": 6,
       "reviewsReceived": 5,
       "issuesLinked": 0,
       "reactions": 8
@@ -55,6 +55,14 @@
         "issuesLinked": 0,
         "reactions": 0
       },
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "prettier-plugin-svelte": {
         "score": 0,
         "mergedPrs": 0,
@@ -64,9 +72,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 13,
+        "score": 16,
         "mergedPrs": 0,
-        "reviews": 4,
+        "reviews": 5,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 8

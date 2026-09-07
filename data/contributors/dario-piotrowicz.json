@@ -1,13 +1,13 @@
 {
   "username": "dario-piotrowicz",
-  "lastUpdated": "2026-09-06T16:29:07.121Z",
+  "lastUpdated": "2026-09-07T05:50:55.593Z",
   "aggregatedStats": {
-    "score": 58,
-    "mergedPrs": 7,
-    "reviews": 6,
-    "reviewsReceived": 4,
+    "score": 130,
+    "mergedPrs": 14,
+    "reviews": 14,
+    "reviewsReceived": 17,
     "issuesLinked": 0,
-    "reactions": 11
+    "reactions": 15
   },
   "orgStats": {
     "nuxt": {
@@ -19,9 +19,9 @@
       "reactions": 4
     },
     "sveltejs": {
-      "score": 3,
+      "score": 12,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -35,12 +35,12 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 20,
-      "mergedPrs": 2,
-      "reviews": 2,
-      "reviewsReceived": 3,
+      "score": 83,
+      "mergedPrs": 9,
+      "reviews": 7,
+      "reviewsReceived": 16,
       "issuesLinked": 0,
-      "reactions": 5
+      "reactions": 9
     },
     "withastro": {
       "score": 17,
@@ -64,9 +64,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 3,
+        "score": 12,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
@@ -100,12 +100,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 14,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 2,
+        "score": 77,
+        "mergedPrs": 8,
+        "reviews": 7,
+        "reviewsReceived": 15,
         "issuesLinked": 0,
-        "reactions": 5
+        "reactions": 9
       },
       "vite-ecosystem-ci": {
         "score": 6,

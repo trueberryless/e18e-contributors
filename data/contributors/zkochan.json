@@ -1,13 +1,13 @@
 {
   "username": "zkochan",
-  "lastUpdated": "2026-09-06T13:08:46.168Z",
+  "lastUpdated": "2026-09-07T05:50:53.014Z",
   "aggregatedStats": {
-    "score": 14994,
-    "mergedPrs": 1655,
-    "reviews": 1862,
-    "reviewsReceived": 46,
-    "issuesLinked": 373,
-    "reactions": 3403
+    "score": 17875,
+    "mergedPrs": 1947,
+    "reviews": 2273,
+    "reviewsReceived": 75,
+    "issuesLinked": 444,
+    "reactions": 3572
   },
   "orgStats": {
     "changesets": {
@@ -19,12 +19,12 @@
       "reactions": 36
     },
     "pnpm": {
-      "score": 14881,
-      "mergedPrs": 1643,
-      "reviews": 1854,
-      "reviewsReceived": 31,
-      "issuesLinked": 368,
-      "reactions": 3367
+      "score": 17762,
+      "mergedPrs": 1935,
+      "reviews": 2265,
+      "reviewsReceived": 60,
+      "issuesLinked": 439,
+      "reactions": 3536
     }
   },
   "repoStats": {
@@ -88,20 +88,20 @@
         "reactions": 2
       },
       "pnpm": {
-        "score": 11923,
-        "mergedPrs": 1376,
-        "reviews": 1350,
-        "reviewsReceived": 8,
-        "issuesLinked": 329,
-        "reactions": 3272
+        "score": 14796,
+        "mergedPrs": 1667,
+        "reviews": 1760,
+        "reviewsReceived": 37,
+        "issuesLinked": 400,
+        "reactions": 3439
       },
       "pnpm.io": {
-        "score": 1077,
-        "mergedPrs": 74,
-        "reviews": 231,
+        "score": 1085,
+        "mergedPrs": 75,
+        "reviews": 232,
         "reviewsReceived": 5,
         "issuesLinked": 1,
-        "reactions": 72
+        "reactions": 74
       },
       "setup": {
         "score": 94,

@@ -1,13 +1,13 @@
 {
   "username": "dominikg",
-  "lastUpdated": "2026-09-06T18:37:07.261Z",
+  "lastUpdated": "2026-09-07T05:50:52.847Z",
   "aggregatedStats": {
-    "score": 4558,
-    "mergedPrs": 470,
-    "reviews": 567,
-    "reviewsReceived": 333,
-    "issuesLinked": 56,
-    "reactions": 617
+    "score": 4706,
+    "mergedPrs": 482,
+    "reviews": 591,
+    "reviewsReceived": 347,
+    "issuesLinked": 57,
+    "reactions": 623
   },
   "orgStats": {
     "changesets": {
@@ -59,25 +59,25 @@
       "reactions": 8
     },
     "sveltejs": {
-      "score": 3594,
-      "mergedPrs": 366,
-      "reviews": 457,
-      "reviewsReceived": 253,
+      "score": 3689,
+      "mergedPrs": 373,
+      "reviews": 475,
+      "reviewsReceived": 259,
       "issuesLinked": 50,
       "reactions": 403
     },
     "vitejs": {
-      "score": 940,
-      "mergedPrs": 102,
-      "reviews": 108,
-      "reviewsReceived": 79,
-      "issuesLinked": 6,
-      "reactions": 148
+      "score": 990,
+      "mergedPrs": 107,
+      "reviews": 113,
+      "reviewsReceived": 87,
+      "issuesLinked": 7,
+      "reactions": 154
     },
     "vitest-dev": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 7
@@ -226,10 +226,10 @@
         "reactions": 0
       },
       "kit": {
-        "score": 157,
-        "mergedPrs": 10,
-        "reviews": 26,
-        "reviewsReceived": 10,
+        "score": 237,
+        "mergedPrs": 17,
+        "reviews": 39,
+        "reviewsReceived": 16,
         "issuesLinked": 1,
         "reactions": 165
       },
@@ -282,9 +282,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 59,
+        "score": 74,
         "mergedPrs": 6,
-        "reviews": 7,
+        "reviews": 12,
         "reviewsReceived": 7,
         "issuesLinked": 0,
         "reactions": 14
@@ -348,12 +348,12 @@
         "reactions": 2
       },
       "vite": {
-        "score": 32,
-        "mergedPrs": 1,
-        "reviews": 6,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 77
+        "score": 82,
+        "mergedPrs": 6,
+        "reviews": 11,
+        "reviewsReceived": 9,
+        "issuesLinked": 1,
+        "reactions": 83
       },
       "vite-ecosystem-ci": {
         "score": 881,
@@ -374,9 +374,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 7

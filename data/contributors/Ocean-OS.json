@@ -1,21 +1,21 @@
 {
   "username": "Ocean-OS",
-  "lastUpdated": "2026-09-06T13:08:57.397Z",
+  "lastUpdated": "2026-09-07T05:51:02.487Z",
   "aggregatedStats": {
-    "score": 1272,
-    "mergedPrs": 69,
+    "score": 1279,
+    "mergedPrs": 70,
     "reviews": 252,
     "reviewsReceived": 69,
-    "issuesLinked": 43,
+    "issuesLinked": 44,
     "reactions": 157
   },
   "orgStats": {
     "sveltejs": {
-      "score": 1272,
-      "mergedPrs": 69,
+      "score": 1279,
+      "mergedPrs": 70,
       "reviews": 252,
       "reviewsReceived": 69,
-      "issuesLinked": 43,
+      "issuesLinked": 44,
       "reactions": 157
     }
   },
@@ -46,11 +46,11 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 630,
-        "mergedPrs": 49,
+        "score": 637,
+        "mergedPrs": 50,
         "reviews": 85,
         "reviewsReceived": 49,
-        "issuesLinked": 35,
+        "issuesLinked": 36,
         "reactions": 109
       },
       "svelte.dev": {

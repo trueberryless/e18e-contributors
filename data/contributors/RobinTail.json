@@ -1,28 +1,28 @@
 {
   "username": "RobinTail",
-  "lastUpdated": "2026-09-05T05:01:09.597Z",
+  "lastUpdated": "2026-09-07T05:51:06.883Z",
   "aggregatedStats": {
-    "score": 19,
-    "mergedPrs": 2,
-    "reviews": 2,
-    "reviewsReceived": 3,
+    "score": 28,
+    "mergedPrs": 3,
+    "reviews": 3,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 2
   },
   "orgStats": {
     "vitejs": {
-      "score": 19,
+      "score": 22,
       "mergedPrs": 2,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -37,6 +37,14 @@
         "issuesLinked": 0,
         "reactions": 0
       },
+      "vite": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vite-plugin-react-swc": {
         "score": 9,
         "mergedPrs": 1,
@@ -48,10 +56,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

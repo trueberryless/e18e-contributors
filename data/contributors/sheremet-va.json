@@ -1,13 +1,13 @@
 {
   "username": "sheremet-va",
-  "lastUpdated": "2026-09-07T01:05:59.758Z",
+  "lastUpdated": "2026-09-07T05:50:53.062Z",
   "aggregatedStats": {
-    "score": 7863,
-    "mergedPrs": 729,
-    "reviews": 1117,
-    "reviewsReceived": 247,
-    "issuesLinked": 256,
-    "reactions": 1077
+    "score": 10619,
+    "mergedPrs": 1013,
+    "reviews": 1466,
+    "reviewsReceived": 304,
+    "issuesLinked": 368,
+    "reactions": 1154
   },
   "orgStats": {
     "e18e": {
@@ -59,20 +59,20 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 155,
-      "mergedPrs": 15,
-      "reviews": 15,
-      "reviewsReceived": 19,
+      "score": 292,
+      "mergedPrs": 29,
+      "reviews": 29,
+      "reviewsReceived": 42,
       "issuesLinked": 3,
-      "reactions": 103
+      "reactions": 115
     },
     "vitest-dev": {
-      "score": 7654,
-      "mergedPrs": 708,
-      "reviews": 1098,
-      "reviewsReceived": 222,
-      "issuesLinked": 252,
-      "reactions": 937
+      "score": 10273,
+      "mergedPrs": 978,
+      "reviews": 1433,
+      "reviewsReceived": 256,
+      "issuesLinked": 364,
+      "reactions": 1002
     },
     "vuejs": {
       "score": 31,
@@ -146,12 +146,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 142,
-        "mergedPrs": 13,
-        "reviews": 15,
-        "reviewsReceived": 16,
+        "score": 279,
+        "mergedPrs": 27,
+        "reviews": 29,
+        "reviewsReceived": 39,
         "issuesLinked": 3,
-        "reactions": 103
+        "reactions": 115
       },
       "vite-ecosystem-ci": {
         "score": 13,
@@ -172,17 +172,17 @@
         "reactions": 2
       },
       "vitest": {
-        "score": 6769,
-        "mergedPrs": 593,
-        "reviews": 1041,
-        "reviewsReceived": 220,
-        "issuesLinked": 188,
-        "reactions": 847
+        "score": 9385,
+        "mergedPrs": 863,
+        "reviews": 1375,
+        "reviewsReceived": 254,
+        "issuesLinked": 300,
+        "reactions": 912
       },
       "vscode": {
-        "score": 879,
+        "score": 882,
         "mergedPrs": 114,
-        "reviews": 57,
+        "reviews": 58,
         "reviewsReceived": 1,
         "issuesLinked": 64,
         "reactions": 88

@@ -1,13 +1,13 @@
 {
   "username": "paoloricciuti",
-  "lastUpdated": "2026-09-06T13:08:46.224Z",
+  "lastUpdated": "2026-09-07T05:50:53.058Z",
   "aggregatedStats": {
-    "score": 2852,
-    "mergedPrs": 277,
-    "reviews": 271,
-    "reviewsReceived": 239,
-    "issuesLinked": 157,
-    "reactions": 1010
+    "score": 3665,
+    "mergedPrs": 363,
+    "reviews": 327,
+    "reviewsReceived": 324,
+    "issuesLinked": 221,
+    "reactions": 1028
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 2670,
-      "mergedPrs": 255,
-      "reviews": 258,
-      "reviewsReceived": 219,
-      "issuesLinked": 151,
-      "reactions": 997
+      "score": 3483,
+      "mergedPrs": 341,
+      "reviews": 314,
+      "reviewsReceived": 304,
+      "issuesLinked": 215,
+      "reactions": 1015
     },
     "tanstack": {
       "score": 3,
@@ -130,12 +130,12 @@
         "reactions": 4
       },
       "kit": {
-        "score": 109,
-        "mergedPrs": 10,
-        "reviews": 10,
-        "reviewsReceived": 10,
-        "issuesLinked": 5,
-        "reactions": 93
+        "score": 181,
+        "mergedPrs": 19,
+        "reviews": 13,
+        "reviewsReceived": 19,
+        "issuesLinked": 9,
+        "reactions": 98
       },
       "language-tools": {
         "score": 94,
@@ -154,12 +154,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 1473,
-        "mergedPrs": 131,
-        "reviews": 121,
-        "reviewsReceived": 132,
-        "issuesLinked": 120,
-        "reactions": 832
+        "score": 2215,
+        "mergedPrs": 208,
+        "reviews": 174,
+        "reviewsReceived": 208,
+        "issuesLinked": 180,
+        "reactions": 845
       },
       "svelte.dev": {
         "score": 226,

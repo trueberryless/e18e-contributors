@@ -1,19 +1,19 @@
 {
   "username": "lovasoa",
-  "lastUpdated": "2026-09-05T00:34:33.091Z",
+  "lastUpdated": "2026-09-07T05:51:03.547Z",
   "aggregatedStats": {
-    "score": 5,
+    "score": 8,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 52
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 25
@@ -46,9 +46,9 @@
         "reactions": 0
       },
       "kit": {
-        "score": 2,
+        "score": 5,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 15

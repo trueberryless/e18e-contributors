@@ -1,11 +1,11 @@
 {
   "username": "pacexy",
-  "lastUpdated": "2026-09-06T05:02:12.810Z",
+  "lastUpdated": "2026-09-07T05:50:58.599Z",
   "aggregatedStats": {
-    "score": 5,
-    "mergedPrs": 1,
-    "reviews": 0,
-    "reviewsReceived": 0,
+    "score": 21,
+    "mergedPrs": 3,
+    "reviews": 1,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 0
   },
@@ -35,10 +35,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -100,10 +100,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       }
