@@ -1,20 +1,20 @@
 {
   "username": "Piterden",
-  "lastUpdated": "2026-09-06T16:29:29.436Z",
+  "lastUpdated": "2026-09-07T11:53:54.760Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
+    "score": 26,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 1,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 1
   },
   "orgStats": {
     "vuejs": {
-      "score": 14,
-      "mergedPrs": 2,
+      "score": 26,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 1
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vuejs": {
       "awesome-vue": {
-        "score": 14,
-        "mergedPrs": 2,
+        "score": 26,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       },

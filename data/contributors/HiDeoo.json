@@ -1,13 +1,13 @@
 {
   "username": "HiDeoo",
-  "lastUpdated": "2026-09-06T18:37:05.608Z",
+  "lastUpdated": "2026-09-07T11:53:27.463Z",
   "aggregatedStats": {
-    "score": 5727,
-    "mergedPrs": 394,
-    "reviews": 1056,
-    "reviewsReceived": 454,
-    "issuesLinked": 39,
-    "reactions": 569
+    "score": 6816,
+    "mergedPrs": 500,
+    "reviews": 1189,
+    "reviewsReceived": 590,
+    "issuesLinked": 49,
+    "reactions": 607
   },
   "orgStats": {
     "bruits": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 5673,
-      "mergedPrs": 387,
-      "reviews": 1053,
-      "reviewsReceived": 447,
-      "issuesLinked": 38,
-      "reactions": 558
+      "score": 6762,
+      "mergedPrs": 493,
+      "reviews": 1186,
+      "reviewsReceived": 583,
+      "issuesLinked": 48,
+      "reactions": 596
     }
   },
   "repoStats": {
@@ -92,12 +92,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 93,
-        "mergedPrs": 8,
-        "reviews": 13,
-        "reviewsReceived": 13,
+        "score": 108,
+        "mergedPrs": 9,
+        "reviews": 16,
+        "reviewsReceived": 14,
         "issuesLinked": 0,
-        "reactions": 9
+        "reactions": 11
       },
       "astro.build": {
         "score": 173,
@@ -124,12 +124,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 190,
-        "mergedPrs": 23,
-        "reviews": 16,
-        "reviewsReceived": 24,
-        "issuesLinked": 0,
-        "reactions": 34
+        "score": 261,
+        "mergedPrs": 30,
+        "reviews": 23,
+        "reviewsReceived": 36,
+        "issuesLinked": 1,
+        "reactions": 37
       },
       "language-tools": {
         "score": 6,
@@ -140,12 +140,12 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 5167,
-        "mergedPrs": 346,
-        "reviews": 972,
-        "reviewsReceived": 398,
-        "issuesLinked": 36,
-        "reactions": 513
+        "score": 6171,
+        "mergedPrs": 444,
+        "reviews": 1095,
+        "reviewsReceived": 521,
+        "issuesLinked": 45,
+        "reactions": 546
       }
     }
   }

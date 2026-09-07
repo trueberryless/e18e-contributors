@@ -1,13 +1,13 @@
 {
   "username": "trueberryless",
-  "lastUpdated": "2026-09-06T18:37:04.339Z",
+  "lastUpdated": "2026-09-07T11:53:26.213Z",
   "aggregatedStats": {
-    "score": 2821,
-    "mergedPrs": 318,
-    "reviews": 273,
-    "reviewsReceived": 362,
+    "score": 2909,
+    "mergedPrs": 329,
+    "reviews": 280,
+    "reviewsReceived": 374,
     "issuesLinked": 17,
-    "reactions": 160
+    "reactions": 162
   },
   "orgStats": {
     "all-contributors": {
@@ -147,12 +147,12 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 2179,
-      "mergedPrs": 249,
-      "reviews": 212,
-      "reviewsReceived": 285,
+      "score": 2267,
+      "mergedPrs": 260,
+      "reviews": 219,
+      "reviewsReceived": 297,
       "issuesLinked": 5,
-      "reactions": 31
+      "reactions": 33
     },
     "zen-browser": {
       "score": 6,
@@ -392,10 +392,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 69,
-        "mergedPrs": 5,
+        "score": 81,
+        "mergedPrs": 7,
         "reviews": 11,
-        "reviewsReceived": 7,
+        "reviewsReceived": 9,
         "issuesLinked": 2,
         "reactions": 4
       },
@@ -408,9 +408,9 @@
         "reactions": 2
       },
       "docs": {
-        "score": 394,
+        "score": 403,
         "mergedPrs": 39,
-        "reviews": 43,
+        "reviews": 46,
         "reviewsReceived": 66,
         "issuesLinked": 2,
         "reactions": 2
@@ -424,12 +424,12 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 1652,
-        "mergedPrs": 201,
-        "reviews": 145,
-        "reviewsReceived": 208,
+        "score": 1720,
+        "mergedPrs": 210,
+        "reviews": 149,
+        "reviewsReceived": 218,
         "issuesLinked": 1,
-        "reactions": 23
+        "reactions": 25
       }
     },
     "zen-browser": {

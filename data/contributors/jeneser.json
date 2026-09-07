@@ -1,20 +1,20 @@
 {
   "username": "jeneser",
-  "lastUpdated": "2026-09-05T05:01:16.678Z",
+  "lastUpdated": "2026-09-07T11:53:58.751Z",
   "aggregatedStats": {
-    "score": 106,
-    "mergedPrs": 14,
+    "score": 124,
+    "mergedPrs": 17,
     "reviews": 4,
-    "reviewsReceived": 14,
+    "reviewsReceived": 17,
     "issuesLinked": 4,
     "reactions": 19
   },
   "orgStats": {
     "vuejs": {
-      "score": 106,
-      "mergedPrs": 14,
+      "score": 124,
+      "mergedPrs": 17,
       "reviews": 4,
-      "reviewsReceived": 14,
+      "reviewsReceived": 17,
       "issuesLinked": 4,
       "reactions": 19
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vuejs": {
       "awesome-vue": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 18,
+        "mergedPrs": 3,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       },

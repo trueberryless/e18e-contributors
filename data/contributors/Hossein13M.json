@@ -1,19 +1,19 @@
 {
   "username": "Hossein13M",
-  "lastUpdated": "2026-09-05T20:07:15.662Z",
+  "lastUpdated": "2026-09-07T11:53:53.943Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 6,
     "mergedPrs": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "vuejs": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "docs": {
         "score": 3,
         "mergedPrs": 0,

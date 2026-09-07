@@ -1,13 +1,13 @@
 {
   "username": "Mini-ghost",
-  "lastUpdated": "2026-09-07T01:06:01.718Z",
+  "lastUpdated": "2026-09-07T11:53:31.790Z",
   "aggregatedStats": {
-    "score": 631,
-    "mergedPrs": 80,
-    "reviews": 24,
-    "reviewsReceived": 65,
+    "score": 641,
+    "mergedPrs": 81,
+    "reviews": 25,
+    "reviewsReceived": 67,
     "issuesLinked": 30,
-    "reactions": 344
+    "reactions": 346
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 37
     },
     "vuejs": {
-      "score": 73,
-      "mergedPrs": 10,
-      "reviews": 2,
-      "reviewsReceived": 7,
+      "score": 83,
+      "mergedPrs": 11,
+      "reviews": 3,
+      "reviewsReceived": 9,
       "issuesLinked": 3,
-      "reactions": 41
+      "reactions": 43
     }
   },
   "repoStats": {
@@ -180,12 +180,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 43,
-        "mergedPrs": 5,
-        "reviews": 2,
-        "reviewsReceived": 3,
+        "score": 54,
+        "mergedPrs": 6,
+        "reviews": 3,
+        "reviewsReceived": 5,
         "issuesLinked": 3,
-        "reactions": 34
+        "reactions": 36
       },
       "language-tools": {
         "score": 1,

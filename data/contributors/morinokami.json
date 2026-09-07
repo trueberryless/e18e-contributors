@@ -1,13 +1,13 @@
 {
   "username": "morinokami",
-  "lastUpdated": "2026-09-06T18:37:05.156Z",
+  "lastUpdated": "2026-09-07T11:53:27.002Z",
   "aggregatedStats": {
-    "score": 1154,
-    "mergedPrs": 149,
-    "reviews": 83,
-    "reviewsReceived": 153,
+    "score": 1680,
+    "mergedPrs": 235,
+    "reviews": 86,
+    "reviewsReceived": 240,
     "issuesLinked": 1,
-    "reactions": 46
+    "reactions": 47
   },
   "orgStats": {
     "biomejs": {
@@ -67,12 +67,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 1084,
-      "mergedPrs": 138,
-      "reviews": 82,
-      "reviewsReceived": 144,
+      "score": 1610,
+      "mergedPrs": 224,
+      "reviews": 85,
+      "reviewsReceived": 231,
       "issuesLinked": 0,
-      "reactions": 36
+      "reactions": 37
     }
   },
   "repoStats": {
@@ -212,20 +212,20 @@
         "reactions": 0
       },
       "docs": {
-        "score": 607,
+        "score": 610,
         "mergedPrs": 68,
-        "reviews": 64,
+        "reviews": 65,
         "reviewsReceived": 74,
         "issuesLinked": 0,
         "reactions": 7
       },
       "starlight": {
-        "score": 451,
-        "mergedPrs": 68,
-        "reviews": 14,
-        "reviewsReceived": 68,
+        "score": 974,
+        "mergedPrs": 154,
+        "reviews": 16,
+        "reviewsReceived": 155,
         "issuesLinked": 0,
-        "reactions": 7
+        "reactions": 8
       }
     }
   }

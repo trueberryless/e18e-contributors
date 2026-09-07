@@ -1,13 +1,13 @@
 {
   "username": "Adammatthiesen",
-  "lastUpdated": "2026-09-06T18:37:05.518Z",
+  "lastUpdated": "2026-09-07T11:53:27.370Z",
   "aggregatedStats": {
-    "score": 97,
-    "mergedPrs": 8,
-    "reviews": 15,
-    "reviewsReceived": 9,
-    "issuesLinked": 1,
-    "reactions": 10
+    "score": 198,
+    "mergedPrs": 16,
+    "reviews": 28,
+    "reviewsReceived": 27,
+    "issuesLinked": 3,
+    "reactions": 12
   },
   "orgStats": {
     "bombshell-dev": {
@@ -27,12 +27,12 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 79,
-      "mergedPrs": 6,
-      "reviews": 13,
-      "reviewsReceived": 7,
-      "issuesLinked": 1,
-      "reactions": 8
+      "score": 180,
+      "mergedPrs": 14,
+      "reviews": 26,
+      "reviewsReceived": 25,
+      "issuesLinked": 3,
+      "reactions": 10
     },
     "zizmorcore": {
       "score": 0,
@@ -66,12 +66,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 6,
-        "mergedPrs": 0,
-        "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2
+        "score": 85,
+        "mergedPrs": 7,
+        "reviews": 10,
+        "reviewsReceived": 16,
+        "issuesLinked": 2,
+        "reactions": 4
       },
       "astro.build": {
         "score": 34,
@@ -82,10 +82,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 20,
-        "mergedPrs": 1,
-        "reviews": 4,
-        "reviewsReceived": 3,
+        "score": 42,
+        "mergedPrs": 2,
+        "reviews": 9,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
         "reactions": 2
       },

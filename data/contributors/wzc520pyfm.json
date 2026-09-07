@@ -1,9 +1,9 @@
 {
   "username": "wzc520pyfm",
-  "lastUpdated": "2026-09-05T05:00:59.057Z",
+  "lastUpdated": "2026-09-07T11:53:36.635Z",
   "aggregatedStats": {
-    "score": 17,
-    "mergedPrs": 2,
+    "score": 27,
+    "mergedPrs": 4,
     "reviews": 1,
     "reviewsReceived": 3,
     "issuesLinked": 0,
@@ -27,8 +27,8 @@
       "reactions": 2
     },
     "vuejs": {
-      "score": 17,
-      "mergedPrs": 2,
+      "score": 27,
+      "mergedPrs": 4,
       "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 0,
@@ -58,8 +58,8 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

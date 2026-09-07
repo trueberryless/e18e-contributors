@@ -1,10 +1,10 @@
 {
   "username": "simond-dev",
-  "lastUpdated": "2026-09-05T05:01:10.860Z",
+  "lastUpdated": "2026-09-07T11:53:51.555Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 4
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 4
@@ -39,6 +39,14 @@
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "eslint-config-airbnb": {
         "score": 0,
         "mergedPrs": 0,

@@ -1,13 +1,13 @@
 {
   "username": "LinusBorg",
-  "lastUpdated": "2026-09-06T16:29:24.034Z",
+  "lastUpdated": "2026-09-07T11:53:49.791Z",
   "aggregatedStats": {
-    "score": 959,
-    "mergedPrs": 86,
-    "reviews": 113,
-    "reviewsReceived": 61,
-    "issuesLinked": 34,
-    "reactions": 614
+    "score": 1039,
+    "mergedPrs": 92,
+    "reviews": 123,
+    "reviewsReceived": 67,
+    "issuesLinked": 40,
+    "reactions": 629
   },
   "orgStats": {
     "vitejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 959,
-      "mergedPrs": 86,
-      "reviews": 113,
-      "reviewsReceived": 61,
-      "issuesLinked": 34,
-      "reactions": 614
+      "score": 1039,
+      "mergedPrs": 92,
+      "reviews": 123,
+      "reviewsReceived": 67,
+      "issuesLinked": 40,
+      "reactions": 629
     }
   },
   "repoStats": {
@@ -40,9 +40,9 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 30,
+        "score": 33,
         "mergedPrs": 0,
-        "reviews": 10,
+        "reviews": 11,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
@@ -56,12 +56,12 @@
         "reactions": 1
       },
       "core": {
-        "score": 17,
-        "mergedPrs": 0,
-        "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 107
+        "score": 93,
+        "mergedPrs": 6,
+        "reviews": 11,
+        "reviewsReceived": 6,
+        "issuesLinked": 6,
+        "reactions": 122
       },
       "devtools-v6": {
         "score": 5,

@@ -1,20 +1,20 @@
 {
   "username": "David-Desmaisons",
-  "lastUpdated": "2026-09-06T16:29:28.013Z",
+  "lastUpdated": "2026-09-07T11:53:53.567Z",
   "aggregatedStats": {
-    "score": 31,
-    "mergedPrs": 5,
+    "score": 49,
+    "mergedPrs": 8,
     "reviews": 0,
-    "reviewsReceived": 6,
+    "reviewsReceived": 9,
     "issuesLinked": 0,
     "reactions": 3
   },
   "orgStats": {
     "vuejs": {
-      "score": 31,
-      "mergedPrs": 5,
+      "score": 49,
+      "mergedPrs": 8,
       "reviews": 0,
-      "reviewsReceived": 6,
+      "reviewsReceived": 9,
       "issuesLinked": 0,
       "reactions": 3
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vuejs": {
       "awesome-vue": {
-        "score": 24,
-        "mergedPrs": 4,
+        "score": 42,
+        "mergedPrs": 7,
         "reviews": 0,
-        "reviewsReceived": 4,
+        "reviewsReceived": 7,
         "issuesLinked": 0,
         "reactions": 0
       },

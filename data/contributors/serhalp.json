@@ -1,10 +1,10 @@
 {
   "username": "serhalp",
-  "lastUpdated": "2026-09-06T18:37:07.584Z",
+  "lastUpdated": "2026-09-07T11:53:29.502Z",
   "aggregatedStats": {
-    "score": 1181,
+    "score": 1184,
     "mergedPrs": 89,
-    "reviews": 199,
+    "reviews": 200,
     "reviewsReceived": 92,
     "issuesLinked": 15,
     "reactions": 160
@@ -75,9 +75,9 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 15,
+      "score": 18,
       "mergedPrs": 2,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
@@ -214,9 +214,9 @@
     },
     "withastro": {
       "astro": {
-        "score": 9,
+        "score": 12,
         "mergedPrs": 1,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0

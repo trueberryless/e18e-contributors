@@ -1,12 +1,12 @@
 {
   "username": "jonathanyeong",
-  "lastUpdated": "2026-09-06T13:08:47.248Z",
+  "lastUpdated": "2026-09-07T11:53:30.801Z",
   "aggregatedStats": {
-    "score": 106,
-    "mergedPrs": 12,
-    "reviews": 10,
+    "score": 116,
+    "mergedPrs": 13,
+    "reviews": 11,
     "reviewsReceived": 14,
-    "issuesLinked": 1,
+    "issuesLinked": 2,
     "reactions": 2
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 0
     }
   },
@@ -40,11 +40,11 @@
     },
     "withastro": {
       "docs": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       }
     }

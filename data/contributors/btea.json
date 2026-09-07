@@ -1,13 +1,13 @@
 {
   "username": "btea",
-  "lastUpdated": "2026-09-07T05:50:51.624Z",
+  "lastUpdated": "2026-09-07T11:53:27.404Z",
   "aggregatedStats": {
-    "score": 3168,
-    "mergedPrs": 426,
-    "reviews": 154,
-    "reviewsReceived": 422,
-    "issuesLinked": 62,
-    "reactions": 294
+    "score": 3211,
+    "mergedPrs": 431,
+    "reviews": 158,
+    "reviewsReceived": 426,
+    "issuesLinked": 63,
+    "reactions": 300
   },
   "orgStats": {
     "bombshell-dev": {
@@ -107,12 +107,12 @@
       "reactions": 7
     },
     "vuejs": {
-      "score": 926,
-      "mergedPrs": 133,
-      "reviews": 43,
-      "reviewsReceived": 108,
-      "issuesLinked": 9,
-      "reactions": 55
+      "score": 969,
+      "mergedPrs": 138,
+      "reviews": 47,
+      "reviewsReceived": 112,
+      "issuesLinked": 10,
+      "reactions": 61
     },
     "withastro": {
       "score": 16,
@@ -334,17 +334,17 @@
     },
     "vuejs": {
       "core": {
-        "score": 85,
-        "mergedPrs": 14,
-        "reviews": 4,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 17
+        "score": 125,
+        "mergedPrs": 19,
+        "reviews": 7,
+        "reviewsReceived": 5,
+        "issuesLinked": 1,
+        "reactions": 23
       },
       "create-vue": {
-        "score": 526,
+        "score": 529,
         "mergedPrs": 69,
-        "reviews": 30,
+        "reviews": 31,
         "reviewsReceived": 75,
         "issuesLinked": 7,
         "reactions": 23

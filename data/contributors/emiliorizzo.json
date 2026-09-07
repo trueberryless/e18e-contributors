@@ -1,33 +1,33 @@
 {
   "username": "emiliorizzo",
-  "lastUpdated": "2026-09-05T20:07:17.465Z",
+  "lastUpdated": "2026-09-07T11:53:57.371Z",
   "aggregatedStats": {
-    "score": 5,
-    "mergedPrs": 1,
+    "score": 17,
+    "mergedPrs": 3,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "vuejs": {
-      "score": 5,
-      "mergedPrs": 1,
+      "score": 17,
+      "mergedPrs": 3,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
     "vuejs": {
       "awesome-vue": {
-        "score": 5,
-        "mergedPrs": 1,
+        "score": 17,
+        "mergedPrs": 3,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     }
   }

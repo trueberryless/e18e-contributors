@@ -1,21 +1,21 @@
 {
   "username": "linzhe141",
-  "lastUpdated": "2026-09-06T16:29:34.729Z",
+  "lastUpdated": "2026-09-07T11:53:59.748Z",
   "aggregatedStats": {
-    "score": 218,
-    "mergedPrs": 28,
+    "score": 238,
+    "mergedPrs": 30,
     "reviews": 5,
-    "reviewsReceived": 9,
-    "issuesLinked": 24,
+    "reviewsReceived": 15,
+    "issuesLinked": 26,
     "reactions": 56
   },
   "orgStats": {
     "vuejs": {
-      "score": 218,
-      "mergedPrs": 28,
+      "score": 238,
+      "mergedPrs": 30,
       "reviews": 5,
-      "reviewsReceived": 9,
-      "issuesLinked": 24,
+      "reviewsReceived": 15,
+      "issuesLinked": 26,
       "reactions": 56
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 212,
-        "mergedPrs": 27,
+        "score": 232,
+        "mergedPrs": 29,
         "reviews": 5,
-        "reviewsReceived": 8,
-        "issuesLinked": 24,
+        "reviewsReceived": 14,
+        "issuesLinked": 26,
         "reactions": 56
       },
       "docs": {

@@ -1,11 +1,11 @@
 {
   "username": "DannyFeliz",
-  "lastUpdated": "2026-09-06T16:29:23.815Z",
+  "lastUpdated": "2026-09-07T11:53:49.590Z",
   "aggregatedStats": {
-    "score": 62,
-    "mergedPrs": 9,
+    "score": 75,
+    "mergedPrs": 11,
     "reviews": 3,
-    "reviewsReceived": 6,
+    "reviewsReceived": 9,
     "issuesLinked": 0,
     "reactions": 16
   },
@@ -27,10 +27,10 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 62,
-      "mergedPrs": 9,
+      "score": 75,
+      "mergedPrs": 11,
       "reviews": 3,
-      "reviewsReceived": 6,
+      "reviewsReceived": 9,
       "issuesLinked": 0,
       "reactions": 16
     }
@@ -66,10 +66,10 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 32,
-        "mergedPrs": 5,
+        "score": 45,
+        "mergedPrs": 7,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
         "reactions": 6
       },

@@ -1,13 +1,13 @@
 {
   "username": "ematipico",
-  "lastUpdated": "2026-09-07T05:50:51.164Z",
+  "lastUpdated": "2026-09-07T11:53:26.707Z",
   "aggregatedStats": {
-    "score": 12041,
-    "mergedPrs": 834,
-    "reviews": 2193,
-    "reviewsReceived": 714,
-    "issuesLinked": 168,
-    "reactions": 2418
+    "score": 13422,
+    "mergedPrs": 929,
+    "reviews": 2450,
+    "reviewsReceived": 813,
+    "issuesLinked": 185,
+    "reactions": 2432
   },
   "orgStats": {
     "biomejs": {
@@ -107,12 +107,12 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 4964,
-      "mergedPrs": 303,
-      "reviews": 997,
-      "reviewsReceived": 349,
-      "issuesLinked": 38,
-      "reactions": 334
+      "score": 6345,
+      "mergedPrs": 398,
+      "reviews": 1254,
+      "reviewsReceived": 448,
+      "issuesLinked": 55,
+      "reactions": 348
     },
     "zed-industries": {
       "score": 0,
@@ -366,12 +366,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 3560,
-        "mergedPrs": 208,
-        "reviews": 729,
-        "reviewsReceived": 251,
-        "issuesLinked": 35,
-        "reactions": 122
+        "score": 4842,
+        "mergedPrs": 291,
+        "reviews": 978,
+        "reviewsReceived": 335,
+        "issuesLinked": 52,
+        "reactions": 136
       },
       "astro.build": {
         "score": 165,
@@ -398,10 +398,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 221,
-        "mergedPrs": 22,
-        "reviews": 26,
-        "reviewsReceived": 32,
+        "score": 305,
+        "mergedPrs": 33,
+        "reviews": 31,
+        "reviewsReceived": 46,
         "issuesLinked": 0,
         "reactions": 13
       },
@@ -438,10 +438,10 @@
         "reactions": 195
       },
       "starlight": {
-        "score": 76,
-        "mergedPrs": 6,
-        "reviews": 13,
-        "reviewsReceived": 7,
+        "score": 91,
+        "mergedPrs": 7,
+        "reviews": 16,
+        "reviewsReceived": 8,
         "issuesLinked": 0,
         "reactions": 4
       },

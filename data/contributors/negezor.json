@@ -1,13 +1,13 @@
 {
   "username": "negezor",
-  "lastUpdated": "2026-09-07T01:06:04.476Z",
+  "lastUpdated": "2026-09-07T11:53:35.248Z",
   "aggregatedStats": {
-    "score": 17,
-    "mergedPrs": 1,
-    "reviews": 1,
+    "score": 34,
+    "mergedPrs": 3,
+    "reviews": 2,
     "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 79
+    "reactions": 116
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 29
     },
     "vuejs": {
-      "score": 11,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 28,
+      "mergedPrs": 3,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 50
+      "reactions": 87
     }
   },
   "repoStats": {
@@ -72,12 +72,12 @@
         "reactions": 13
       },
       "core": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 20,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 37
+        "reactions": 74
       },
       "router": {
         "score": 6,

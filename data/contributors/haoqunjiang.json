@@ -1,12 +1,12 @@
 {
   "username": "haoqunjiang",
-  "lastUpdated": "2026-09-07T05:50:58.486Z",
+  "lastUpdated": "2026-09-07T11:53:37.181Z",
   "aggregatedStats": {
-    "score": 6233,
-    "mergedPrs": 523,
-    "reviews": 1004,
-    "reviewsReceived": 143,
-    "issuesLinked": 192,
+    "score": 6524,
+    "mergedPrs": 529,
+    "reviews": 1089,
+    "reviewsReceived": 145,
+    "issuesLinked": 194,
     "reactions": 795
   },
   "orgStats": {
@@ -51,11 +51,11 @@
       "reactions": 2
     },
     "vuejs": {
-      "score": 5935,
-      "mergedPrs": 511,
-      "reviews": 933,
-      "reviewsReceived": 132,
-      "issuesLinked": 188,
+      "score": 6226,
+      "mergedPrs": 517,
+      "reviews": 1018,
+      "reviewsReceived": 134,
+      "issuesLinked": 190,
       "reactions": 734
     }
   },
@@ -216,17 +216,17 @@
         "reactions": 0
       },
       "core": {
-        "score": 51,
-        "mergedPrs": 6,
-        "reviews": 4,
-        "reviewsReceived": 2,
-        "issuesLinked": 2,
+        "score": 333,
+        "mergedPrs": 12,
+        "reviews": 86,
+        "reviewsReceived": 4,
+        "issuesLinked": 4,
         "reactions": 26
       },
       "create-vue": {
-        "score": 1459,
+        "score": 1465,
         "mergedPrs": 54,
-        "reviews": 376,
+        "reviews": 378,
         "reviewsReceived": 34,
         "issuesLinked": 10,
         "reactions": 65
@@ -240,9 +240,9 @@
         "reactions": 8
       },
       "ecosystem-ci": {
-        "score": 15,
+        "score": 18,
         "mergedPrs": 0,
-        "reviews": 5,
+        "reviews": 6,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

@@ -1,13 +1,13 @@
 {
   "username": "posva",
-  "lastUpdated": "2026-09-07T01:05:58.061Z",
+  "lastUpdated": "2026-09-07T11:53:27.445Z",
   "aggregatedStats": {
-    "score": 6194,
-    "mergedPrs": 299,
-    "reviews": 1410,
-    "reviewsReceived": 82,
-    "issuesLinked": 69,
-    "reactions": 2494
+    "score": 6240,
+    "mergedPrs": 305,
+    "reviews": 1413,
+    "reviewsReceived": 86,
+    "issuesLinked": 70,
+    "reactions": 2498
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,12 +75,12 @@
       "reactions": 7
     },
     "vuejs": {
-      "score": 5970,
-      "mergedPrs": 274,
-      "reviews": 1390,
-      "reviewsReceived": 70,
-      "issuesLinked": 65,
-      "reactions": 2302
+      "score": 6016,
+      "mergedPrs": 280,
+      "reviews": 1393,
+      "reviewsReceived": 74,
+      "issuesLinked": 66,
+      "reactions": 2306
     }
   },
   "repoStats": {
@@ -278,11 +278,11 @@
         "reactions": 9
       },
       "core": {
-        "score": 39,
-        "mergedPrs": 2,
-        "reviews": 3,
-        "reviewsReceived": 3,
-        "issuesLinked": 0,
+        "score": 69,
+        "mergedPrs": 5,
+        "reviews": 6,
+        "reviewsReceived": 7,
+        "issuesLinked": 1,
         "reactions": 173
       },
       "devtools": {
@@ -379,7 +379,7 @@
         "reviews": 316,
         "reviewsReceived": 1,
         "issuesLinked": 13,
-        "reactions": 178
+        "reactions": 181
       },
       "test-utils": {
         "score": 23,
@@ -406,12 +406,12 @@
         "reactions": 22
       },
       "vue": {
-        "score": 793,
-        "mergedPrs": 39,
+        "score": 808,
+        "mergedPrs": 42,
         "reviews": 171,
         "reviewsReceived": 21,
         "issuesLinked": 21,
-        "reactions": 222
+        "reactions": 223
       },
       "vue-cli": {
         "score": 74,

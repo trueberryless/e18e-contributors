@@ -1,19 +1,19 @@
 {
   "username": "YasinAshorian",
-  "lastUpdated": "2026-09-05T05:01:13.938Z",
+  "lastUpdated": "2026-09-07T11:53:55.411Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 12,
     "mergedPrs": 0,
-    "reviews": 1,
+    "reviews": 4,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "vuejs": {
-      "score": 3,
+      "score": 12,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "vuejs": {
+      "core": {
+        "score": 9,
+        "mergedPrs": 0,
+        "reviews": 3,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vue": {
         "score": 3,
         "mergedPrs": 0,

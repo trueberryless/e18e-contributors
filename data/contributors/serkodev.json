@@ -1,12 +1,12 @@
 {
   "username": "serkodev",
-  "lastUpdated": "2026-09-06T13:08:47.275Z",
+  "lastUpdated": "2026-09-07T11:53:30.841Z",
   "aggregatedStats": {
-    "score": 469,
-    "mergedPrs": 64,
+    "score": 503,
+    "mergedPrs": 70,
     "reviews": 6,
     "reviewsReceived": 26,
-    "issuesLinked": 43,
+    "issuesLinked": 45,
     "reactions": 186
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 36
     },
     "vuejs": {
-      "score": 358,
-      "mergedPrs": 50,
+      "score": 392,
+      "mergedPrs": 56,
       "reviews": 4,
       "reviewsReceived": 19,
-      "issuesLinked": 33,
+      "issuesLinked": 35,
       "reactions": 107
     }
   },
@@ -134,11 +134,11 @@
     },
     "vuejs": {
       "core": {
-        "score": 24,
-        "mergedPrs": 2,
+        "score": 58,
+        "mergedPrs": 8,
         "reviews": 1,
         "reviewsReceived": 4,
-        "issuesLinked": 3,
+        "issuesLinked": 5,
         "reactions": 5
       },
       "docs": {

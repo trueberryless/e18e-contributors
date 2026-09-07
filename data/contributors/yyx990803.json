@@ -1,13 +1,13 @@
 {
   "username": "yyx990803",
-  "lastUpdated": "2026-09-07T05:50:58.219Z",
+  "lastUpdated": "2026-09-07T11:53:36.775Z",
   "aggregatedStats": {
-    "score": 3675,
-    "mergedPrs": 87,
-    "reviews": 254,
+    "score": 3883,
+    "mergedPrs": 100,
+    "reviews": 283,
     "reviewsReceived": 19,
-    "issuesLinked": 10,
-    "reactions": 24394
+    "issuesLinked": 12,
+    "reactions": 24911
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 21
     },
     "vuejs": {
-      "score": 3528,
-      "mergedPrs": 79,
-      "reviews": 241,
+      "score": 3736,
+      "mergedPrs": 92,
+      "reviews": 270,
       "reviewsReceived": 14,
-      "issuesLinked": 10,
-      "reactions": 23761
+      "issuesLinked": 12,
+      "reactions": 24278
     },
     "withastro": {
       "score": 1,
@@ -206,12 +206,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 298,
-        "mergedPrs": 8,
-        "reviews": 21,
+        "score": 501,
+        "mergedPrs": 20,
+        "reviews": 50,
         "reviewsReceived": 0,
-        "issuesLinked": 1,
-        "reactions": 1933
+        "issuesLinked": 3,
+        "reactions": 2450
       },
       "create-vue": {
         "score": 0,
@@ -366,8 +366,8 @@
         "reactions": 22
       },
       "vue": {
-        "score": 289,
-        "mergedPrs": 8,
+        "score": 294,
+        "mergedPrs": 9,
         "reviews": 43,
         "reviewsReceived": 0,
         "issuesLinked": 4,

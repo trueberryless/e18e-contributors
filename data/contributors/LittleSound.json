@@ -1,13 +1,13 @@
 {
   "username": "LittleSound",
-  "lastUpdated": "2026-09-06T16:29:05.495Z",
+  "lastUpdated": "2026-09-07T11:53:31.670Z",
   "aggregatedStats": {
     "score": 623,
     "mergedPrs": 63,
     "reviews": 58,
     "reviewsReceived": 66,
     "issuesLinked": 6,
-    "reactions": 559
+    "reactions": 561
   },
   "orgStats": {
     "nuxt": {
@@ -32,7 +32,7 @@
       "reviews": 56,
       "reviewsReceived": 63,
       "issuesLinked": 6,
-      "reactions": 558
+      "reactions": 560
     }
   },
   "repoStats": {
@@ -58,12 +58,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 124,
+        "score": 125,
         "mergedPrs": 3,
         "reviews": 25,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 343
+        "reactions": 345
       },
       "devtools": {
         "score": 19,

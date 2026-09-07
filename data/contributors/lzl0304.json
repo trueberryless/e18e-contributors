@@ -1,13 +1,13 @@
 {
   "username": "lzl0304",
-  "lastUpdated": "2026-09-06T16:29:26.995Z",
+  "lastUpdated": "2026-09-07T11:53:52.603Z",
   "aggregatedStats": {
-    "score": 30,
-    "mergedPrs": 3,
-    "reviews": 2,
+    "score": 54,
+    "mergedPrs": 6,
+    "reviews": 3,
     "reviewsReceived": 3,
-    "issuesLinked": 3,
-    "reactions": 1
+    "issuesLinked": 6,
+    "reactions": 2
   },
   "orgStats": {
     "vitest-dev": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 24,
+      "mergedPrs": 3,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "issuesLinked": 3,
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 24,
+        "mergedPrs": 3,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
+        "issuesLinked": 3,
+        "reactions": 2
       }
     }
   }

@@ -1,13 +1,13 @@
 {
   "username": "brc-dd",
-  "lastUpdated": "2026-09-07T05:50:51.622Z",
+  "lastUpdated": "2026-09-07T11:53:27.401Z",
   "aggregatedStats": {
-    "score": 3158,
-    "mergedPrs": 337,
-    "reviews": 302,
-    "reviewsReceived": 46,
+    "score": 3178,
+    "mergedPrs": 340,
+    "reviews": 303,
+    "reviewsReceived": 48,
     "issuesLinked": 243,
-    "reactions": 356
+    "reactions": 357
   },
   "orgStats": {
     "bombshell-dev": {
@@ -51,12 +51,12 @@
       "reactions": 10
     },
     "vuejs": {
-      "score": 3114,
-      "mergedPrs": 331,
-      "reviews": 301,
-      "reviewsReceived": 40,
+      "score": 3134,
+      "mergedPrs": 334,
+      "reviews": 302,
+      "reviewsReceived": 42,
       "issuesLinked": 241,
-      "reactions": 342
+      "reactions": 343
     },
     "withastro": {
       "score": 0,
@@ -136,12 +136,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 21,
+        "mergedPrs": 3,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 5
       },
       "devtools": {
         "score": 6,

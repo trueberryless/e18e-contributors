@@ -1,11 +1,11 @@
 {
   "username": "antfu",
-  "lastUpdated": "2026-09-07T05:50:53.798Z",
+  "lastUpdated": "2026-09-07T11:53:30.759Z",
   "aggregatedStats": {
-    "score": 6656,
-    "mergedPrs": 620,
-    "reviews": 865,
-    "reviewsReceived": 294,
+    "score": 6672,
+    "mergedPrs": 621,
+    "reviews": 868,
+    "reviewsReceived": 296,
     "issuesLinked": 134,
     "reactions": 3995
   },
@@ -67,10 +67,10 @@
       "reactions": 204
     },
     "vuejs": {
-      "score": 1082,
-      "mergedPrs": 114,
-      "reviews": 112,
-      "reviewsReceived": 59,
+      "score": 1098,
+      "mergedPrs": 115,
+      "reviews": 115,
+      "reviewsReceived": 61,
       "issuesLinked": 25,
       "reactions": 666
     },
@@ -500,10 +500,10 @@
         "reactions": 94
       },
       "core": {
-        "score": 33,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 49,
+        "mergedPrs": 2,
+        "reviews": 4,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 236
       },

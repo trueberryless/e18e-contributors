@@ -1,13 +1,13 @@
 {
   "username": "Fryuni",
-  "lastUpdated": "2026-09-06T18:37:07.123Z",
+  "lastUpdated": "2026-09-07T11:53:28.948Z",
   "aggregatedStats": {
-    "score": 328,
-    "mergedPrs": 28,
-    "reviews": 49,
-    "reviewsReceived": 28,
-    "issuesLinked": 3,
-    "reactions": 70
+    "score": 388,
+    "mergedPrs": 29,
+    "reviews": 66,
+    "reviewsReceived": 30,
+    "issuesLinked": 4,
+    "reactions": 73
   },
   "orgStats": {
     "changesets": {
@@ -27,12 +27,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 328,
-      "mergedPrs": 28,
-      "reviews": 49,
-      "reviewsReceived": 28,
-      "issuesLinked": 3,
-      "reactions": 66
+      "score": 388,
+      "mergedPrs": 29,
+      "reviews": 66,
+      "reviewsReceived": 30,
+      "issuesLinked": 4,
+      "reactions": 69
     }
   },
   "repoStats": {
@@ -74,12 +74,12 @@
         "reactions": 2
       },
       "astro": {
-        "score": 43,
-        "mergedPrs": 1,
-        "reviews": 10,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 35
+        "score": 97,
+        "mergedPrs": 2,
+        "reviews": 25,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
+        "reactions": 38
       },
       "astro.build": {
         "score": 36,
@@ -98,9 +98,9 @@
         "reactions": 0
       },
       "docs": {
-        "score": 30,
+        "score": 36,
         "mergedPrs": 2,
-        "reviews": 6,
+        "reviews": 8,
         "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 4

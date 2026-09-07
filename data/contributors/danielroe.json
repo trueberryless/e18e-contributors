@@ -1,13 +1,13 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-07T01:05:58.030Z",
+  "lastUpdated": "2026-09-07T11:53:27.409Z",
   "aggregatedStats": {
-    "score": 49128,
-    "mergedPrs": 2603,
+    "score": 49133,
+    "mergedPrs": 2604,
     "reviews": 10550,
     "reviewsReceived": 1020,
     "issuesLinked": 1069,
-    "reactions": 13036
+    "reactions": 13037
   },
   "orgStats": {
     "bombshell-dev": {
@@ -91,12 +91,12 @@
       "reactions": 9
     },
     "vuejs": {
-      "score": 482,
-      "mergedPrs": 54,
+      "score": 487,
+      "mergedPrs": 55,
       "reviews": 40,
       "reviewsReceived": 28,
       "issuesLinked": 15,
-      "reactions": 335
+      "reactions": 336
     }
   },
   "repoStats": {
@@ -562,12 +562,12 @@
         "reactions": 3
       },
       "core": {
-        "score": 124,
-        "mergedPrs": 16,
+        "score": 129,
+        "mergedPrs": 17,
         "reviews": 2,
         "reviewsReceived": 1,
         "issuesLinked": 6,
-        "reactions": 250
+        "reactions": 251
       },
       "devtools": {
         "score": 12,

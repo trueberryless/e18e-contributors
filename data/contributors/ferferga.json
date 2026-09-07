@@ -1,11 +1,11 @@
 {
   "username": "ferferga",
-  "lastUpdated": "2026-09-06T16:29:07.542Z",
+  "lastUpdated": "2026-09-07T11:53:33.582Z",
   "aggregatedStats": {
-    "score": 37,
-    "mergedPrs": 5,
-    "reviews": 2,
-    "reviewsReceived": 4,
+    "score": 57,
+    "mergedPrs": 8,
+    "reviews": 3,
+    "reviewsReceived": 6,
     "issuesLinked": 0,
     "reactions": 21
   },
@@ -27,10 +27,10 @@
       "reactions": 10
     },
     "vuejs": {
-      "score": 36,
-      "mergedPrs": 5,
-      "reviews": 2,
-      "reviewsReceived": 4,
+      "score": 56,
+      "mergedPrs": 8,
+      "reviews": 3,
+      "reviewsReceived": 6,
       "issuesLinked": 0,
       "reactions": 9
     },
@@ -66,10 +66,10 @@
     },
     "vuejs": {
       "core": {
-        "score": 7,
-        "mergedPrs": 0,
-        "reviews": 2,
-        "reviewsReceived": 0,
+        "score": 27,
+        "mergedPrs": 3,
+        "reviews": 3,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 8
       },

@@ -1,13 +1,13 @@
 {
   "username": "ascorbic",
-  "lastUpdated": "2026-09-07T05:50:51.619Z",
+  "lastUpdated": "2026-09-07T11:53:27.396Z",
   "aggregatedStats": {
-    "score": 5625,
-    "mergedPrs": 634,
-    "reviews": 705,
-    "reviewsReceived": 131,
-    "issuesLinked": 86,
-    "reactions": 361
+    "score": 6890,
+    "mergedPrs": 737,
+    "reviews": 888,
+    "reviewsReceived": 259,
+    "issuesLinked": 121,
+    "reactions": 390
   },
   "orgStats": {
     "bombshell-dev": {
@@ -59,12 +59,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 898,
-      "mergedPrs": 78,
-      "reviews": 114,
-      "reviewsReceived": 122,
-      "issuesLinked": 9,
-      "reactions": 257
+      "score": 2163,
+      "mergedPrs": 181,
+      "reviews": 297,
+      "reviewsReceived": 250,
+      "issuesLinked": 44,
+      "reactions": 286
     }
   },
   "repoStats": {
@@ -154,12 +154,12 @@
         "reactions": 14
       },
       "astro": {
-        "score": 292,
-        "mergedPrs": 22,
-        "reviews": 44,
-        "reviewsReceived": 41,
-        "issuesLinked": 0,
-        "reactions": 87
+        "score": 1432,
+        "mergedPrs": 113,
+        "reviews": 210,
+        "reviewsReceived": 155,
+        "issuesLinked": 35,
+        "reactions": 116
       },
       "astro.build": {
         "score": 226,
@@ -178,10 +178,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 119,
-        "mergedPrs": 10,
-        "reviews": 17,
-        "reviewsReceived": 18,
+        "score": 244,
+        "mergedPrs": 22,
+        "reviews": 34,
+        "reviewsReceived": 32,
         "issuesLinked": 0,
         "reactions": 2
       },

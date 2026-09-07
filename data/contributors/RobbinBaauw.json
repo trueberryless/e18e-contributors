@@ -1,13 +1,13 @@
 {
   "username": "RobbinBaauw",
-  "lastUpdated": "2026-09-05T05:01:09.596Z",
+  "lastUpdated": "2026-09-07T11:53:49.936Z",
   "aggregatedStats": {
-    "score": 17,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 28,
+    "mergedPrs": 3,
+    "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 1,
-    "reactions": 29
+    "reactions": 55
   },
   "orgStats": {
     "vitejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 17,
-      "mergedPrs": 2,
-      "reviews": 0,
+      "score": 28,
+      "mergedPrs": 3,
+      "reviews": 1,
       "reviewsReceived": 2,
       "issuesLinked": 1,
-      "reactions": 29
+      "reactions": 55
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 13,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 26
+        "reactions": 52
       },
       "devtools-v6": {
         "score": 0,

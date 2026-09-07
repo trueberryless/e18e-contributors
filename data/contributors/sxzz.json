@@ -1,13 +1,13 @@
 {
   "username": "sxzz",
-  "lastUpdated": "2026-09-07T01:05:59.760Z",
+  "lastUpdated": "2026-09-07T11:53:29.505Z",
   "aggregatedStats": {
-    "score": 1598,
-    "mergedPrs": 100,
-    "reviews": 305,
-    "reviewsReceived": 37,
-    "issuesLinked": 14,
-    "reactions": 1187
+    "score": 2062,
+    "mergedPrs": 126,
+    "reviews": 411,
+    "reviewsReceived": 42,
+    "issuesLinked": 16,
+    "reactions": 1258
   },
   "orgStats": {
     "e18e": {
@@ -83,12 +83,12 @@
       "reactions": 34
     },
     "vuejs": {
-      "score": 1151,
-      "mergedPrs": 52,
-      "reviews": 252,
-      "reviewsReceived": 10,
-      "issuesLinked": 11,
-      "reactions": 1027
+      "score": 1615,
+      "mergedPrs": 78,
+      "reviews": 358,
+      "reviewsReceived": 15,
+      "issuesLinked": 13,
+      "reactions": 1098
     },
     "withastro": {
       "score": 0,
@@ -352,12 +352,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 113,
-        "mergedPrs": 4,
-        "reviews": 19,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 348
+        "score": 577,
+        "mergedPrs": 30,
+        "reviews": 125,
+        "reviewsReceived": 6,
+        "issuesLinked": 2,
+        "reactions": 419
       },
       "docs": {
         "score": 11,

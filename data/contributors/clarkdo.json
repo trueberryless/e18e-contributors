@@ -1,11 +1,11 @@
 {
   "username": "clarkdo",
-  "lastUpdated": "2026-09-07T01:06:02.678Z",
+  "lastUpdated": "2026-09-07T11:53:33.048Z",
   "aggregatedStats": {
-    "score": 1426,
-    "mergedPrs": 120,
+    "score": 1438,
+    "mergedPrs": 122,
     "reviews": 212,
-    "reviewsReceived": 68,
+    "reviewsReceived": 70,
     "issuesLinked": 31,
     "reactions": 602
   },
@@ -43,10 +43,10 @@
       "reactions": 1
     },
     "vuejs": {
-      "score": 110,
-      "mergedPrs": 17,
+      "score": 122,
+      "mergedPrs": 19,
       "reviews": 1,
-      "reviewsReceived": 8,
+      "reviewsReceived": 10,
       "issuesLinked": 4,
       "reactions": 59
     }
@@ -198,10 +198,10 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       },

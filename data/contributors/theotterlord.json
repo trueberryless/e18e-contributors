@@ -1,13 +1,13 @@
 {
   "username": "theotterlord",
-  "lastUpdated": "2026-09-06T18:37:05.399Z",
+  "lastUpdated": "2026-09-07T11:53:27.239Z",
   "aggregatedStats": {
-    "score": 509,
-    "mergedPrs": 44,
-    "reviews": 75,
-    "reviewsReceived": 51,
-    "issuesLinked": 2,
-    "reactions": 87
+    "score": 680,
+    "mergedPrs": 59,
+    "reviews": 97,
+    "reviewsReceived": 70,
+    "issuesLinked": 7,
+    "reactions": 92
   },
   "orgStats": {
     "biomejs": {
@@ -51,12 +51,12 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 418,
-      "mergedPrs": 36,
-      "reviews": 60,
-      "reviewsReceived": 46,
-      "issuesLinked": 2,
-      "reactions": 81
+      "score": 589,
+      "mergedPrs": 51,
+      "reviews": 82,
+      "reviewsReceived": 65,
+      "issuesLinked": 7,
+      "reactions": 86
     },
     "zen-browser": {
       "score": 5,
@@ -136,11 +136,11 @@
         "reactions": 0
       },
       "astro": {
-        "score": 7,
-        "mergedPrs": 0,
-        "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 46,
+        "mergedPrs": 5,
+        "reviews": 4,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
         "reactions": 13
       },
       "astro.build": {
@@ -168,9 +168,9 @@
         "reactions": 0
       },
       "docs": {
-        "score": 27,
+        "score": 51,
         "mergedPrs": 3,
-        "reviews": 1,
+        "reviews": 9,
         "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 55
@@ -184,12 +184,12 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 37,
-        "mergedPrs": 2,
-        "reviews": 8,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
-        "reactions": 11
+        "score": 145,
+        "mergedPrs": 12,
+        "reviews": 20,
+        "reviewsReceived": 17,
+        "issuesLinked": 3,
+        "reactions": 16
       }
     },
     "zen-browser": {

@@ -1,13 +1,13 @@
 {
   "username": "jh-leong",
-  "lastUpdated": "2026-09-06T16:29:25.211Z",
+  "lastUpdated": "2026-09-07T11:53:50.839Z",
   "aggregatedStats": {
-    "score": 397,
-    "mergedPrs": 53,
-    "reviews": 13,
-    "reviewsReceived": 32,
-    "issuesLinked": 26,
-    "reactions": 82
+    "score": 520,
+    "mergedPrs": 71,
+    "reviews": 15,
+    "reviewsReceived": 39,
+    "issuesLinked": 36,
+    "reactions": 86
   },
   "orgStats": {
     "vitejs": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 361,
-      "mergedPrs": 47,
-      "reviews": 13,
-      "reviewsReceived": 29,
-      "issuesLinked": 25,
-      "reactions": 76
+      "score": 484,
+      "mergedPrs": 65,
+      "reviews": 15,
+      "reviewsReceived": 36,
+      "issuesLinked": 35,
+      "reactions": 80
     }
   },
   "repoStats": {
@@ -74,12 +74,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 316,
-        "mergedPrs": 41,
-        "reviews": 12,
-        "reviewsReceived": 22,
-        "issuesLinked": 23,
-        "reactions": 72
+        "score": 440,
+        "mergedPrs": 59,
+        "reviews": 14,
+        "reviewsReceived": 29,
+        "issuesLinked": 33,
+        "reactions": 76
       },
       "devtools": {
         "score": 6,

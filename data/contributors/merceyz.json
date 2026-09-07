@@ -1,10 +1,10 @@
 {
   "username": "merceyz",
-  "lastUpdated": "2026-09-05T20:07:02.723Z",
+  "lastUpdated": "2026-09-07T11:53:29.184Z",
   "aggregatedStats": {
-    "score": 102,
+    "score": 105,
     "mergedPrs": 13,
-    "reviews": 8,
+    "reviews": 9,
     "reviewsReceived": 7,
     "issuesLinked": 2,
     "reactions": 18
@@ -43,9 +43,9 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -190,9 +190,9 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

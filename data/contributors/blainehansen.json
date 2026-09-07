@@ -1,20 +1,20 @@
 {
   "username": "blainehansen",
-  "lastUpdated": "2026-09-05T05:01:14.614Z",
+  "lastUpdated": "2026-09-07T11:53:56.269Z",
   "aggregatedStats": {
-    "score": 21,
-    "mergedPrs": 1,
+    "score": 27,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 2,
     "reactions": 96
   },
   "orgStats": {
     "vuejs": {
-      "score": 21,
-      "mergedPrs": 1,
+      "score": 27,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 2,
       "reactions": 96
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vuejs": {
       "awesome-vue": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       },

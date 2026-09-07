@@ -1,13 +1,13 @@
 {
   "username": "jasikpark",
-  "lastUpdated": "2026-09-06T18:37:04.971Z",
+  "lastUpdated": "2026-09-07T11:53:26.831Z",
   "aggregatedStats": {
-    "score": 324,
-    "mergedPrs": 25,
-    "reviews": 55,
-    "reviewsReceived": 17,
-    "issuesLinked": 1,
-    "reactions": 156
+    "score": 356,
+    "mergedPrs": 30,
+    "reviews": 56,
+    "reviewsReceived": 19,
+    "issuesLinked": 2,
+    "reactions": 157
   },
   "orgStats": {
     "biomejs": {
@@ -51,12 +51,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 305,
-      "mergedPrs": 24,
-      "reviews": 53,
-      "reviewsReceived": 16,
-      "issuesLinked": 1,
-      "reactions": 81
+      "score": 337,
+      "mergedPrs": 29,
+      "reviews": 54,
+      "reviewsReceived": 18,
+      "issuesLinked": 2,
+      "reactions": 82
     },
     "zed-industries": {
       "score": 6,
@@ -128,12 +128,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 6,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 62
+        "score": 38,
+        "mergedPrs": 5,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
+        "reactions": 63
       },
       "astro.build": {
         "score": 32,

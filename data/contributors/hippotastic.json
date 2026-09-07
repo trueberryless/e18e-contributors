@@ -1,13 +1,13 @@
 {
   "username": "hippotastic",
-  "lastUpdated": "2026-09-06T18:37:07.835Z",
+  "lastUpdated": "2026-09-07T11:53:29.738Z",
   "aggregatedStats": {
-    "score": 832,
-    "mergedPrs": 123,
-    "reviews": 43,
-    "reviewsReceived": 11,
-    "issuesLinked": 32,
-    "reactions": 131
+    "score": 853,
+    "mergedPrs": 125,
+    "reviews": 45,
+    "reviewsReceived": 12,
+    "issuesLinked": 33,
+    "reactions": 153
   },
   "orgStats": {
     "expressive-code": {
@@ -27,12 +27,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 114,
-      "mergedPrs": 11,
-      "reviews": 12,
-      "reviewsReceived": 11,
-      "issuesLinked": 1,
-      "reactions": 98
+      "score": 135,
+      "mergedPrs": 13,
+      "reviews": 14,
+      "reviewsReceived": 12,
+      "issuesLinked": 2,
+      "reactions": 120
     }
   },
   "repoStats": {
@@ -82,12 +82,12 @@
         "reactions": 61
       },
       "starlight": {
-        "score": 104,
-        "mergedPrs": 11,
-        "reviews": 11,
-        "reviewsReceived": 11,
-        "issuesLinked": 1,
-        "reactions": 30
+        "score": 125,
+        "mergedPrs": 13,
+        "reviews": 13,
+        "reviewsReceived": 12,
+        "issuesLinked": 2,
+        "reactions": 52
       }
     }
   }

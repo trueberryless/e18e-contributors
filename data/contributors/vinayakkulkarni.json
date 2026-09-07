@@ -1,13 +1,13 @@
 {
   "username": "vinayakkulkarni",
-  "lastUpdated": "2026-09-07T05:50:58.026Z",
+  "lastUpdated": "2026-09-07T11:53:36.491Z",
   "aggregatedStats": {
-    "score": 233,
-    "mergedPrs": 30,
+    "score": 263,
+    "mergedPrs": 35,
     "reviews": 17,
-    "reviewsReceived": 26,
+    "reviewsReceived": 31,
     "issuesLinked": 1,
-    "reactions": 42
+    "reactions": 44
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 68,
-      "mergedPrs": 10,
+      "score": 98,
+      "mergedPrs": 15,
       "reviews": 4,
-      "reviewsReceived": 6,
+      "reviewsReceived": 11,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "zed-industries": {
       "score": 0,
@@ -174,12 +174,12 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 26,
-        "mergedPrs": 5,
+        "score": 56,
+        "mergedPrs": 10,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "core": {
         "score": 0,
@@ -187,7 +187,7 @@
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "docs": {
         "score": 0,

@@ -1,13 +1,13 @@
 {
   "username": "zhiyuanzmj",
-  "lastUpdated": "2026-09-06T16:29:11.655Z",
+  "lastUpdated": "2026-09-07T11:53:37.478Z",
   "aggregatedStats": {
-    "score": 617,
-    "mergedPrs": 96,
+    "score": 628,
+    "mergedPrs": 97,
     "reviews": 23,
-    "reviewsReceived": 33,
+    "reviewsReceived": 34,
     "issuesLinked": 5,
-    "reactions": 249
+    "reactions": 299
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 617,
-      "mergedPrs": 96,
+      "score": 628,
+      "mergedPrs": 97,
       "reviews": 23,
-      "reviewsReceived": 33,
+      "reviewsReceived": 34,
       "issuesLinked": 5,
-      "reactions": 249
+      "reactions": 299
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 337,
-        "mergedPrs": 52,
+        "score": 348,
+        "mergedPrs": 53,
         "reviews": 14,
-        "reviewsReceived": 16,
+        "reviewsReceived": 17,
         "issuesLinked": 1,
-        "reactions": 169
+        "reactions": 219
       },
       "language-tools": {
         "score": 186,

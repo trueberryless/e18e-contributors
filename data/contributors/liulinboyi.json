@@ -1,21 +1,21 @@
 {
   "username": "liulinboyi",
-  "lastUpdated": "2026-09-06T16:29:34.767Z",
+  "lastUpdated": "2026-09-07T11:53:59.778Z",
   "aggregatedStats": {
-    "score": 43,
-    "mergedPrs": 5,
+    "score": 50,
+    "mergedPrs": 6,
     "reviews": 1,
     "reviewsReceived": 5,
-    "issuesLinked": 3,
+    "issuesLinked": 4,
     "reactions": 40
   },
   "orgStats": {
     "vuejs": {
-      "score": 43,
-      "mergedPrs": 5,
+      "score": 50,
+      "mergedPrs": 6,
       "reviews": 1,
       "reviewsReceived": 5,
-      "issuesLinked": 3,
+      "issuesLinked": 4,
       "reactions": 40
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 22,
-        "mergedPrs": 2,
+        "score": 29,
+        "mergedPrs": 3,
         "reviews": 1,
         "reviewsReceived": 1,
-        "issuesLinked": 2,
+        "issuesLinked": 3,
         "reactions": 40
       },
       "docs": {

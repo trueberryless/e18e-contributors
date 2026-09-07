@@ -1,19 +1,19 @@
 {
   "username": "raymer",
-  "lastUpdated": "2026-09-05T05:01:18.657Z",
+  "lastUpdated": "2026-09-07T11:54:01.515Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 3
   },
   "orgStats": {
     "vuejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 3
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "language-tools": {
         "score": 0,
         "mergedPrs": 0,

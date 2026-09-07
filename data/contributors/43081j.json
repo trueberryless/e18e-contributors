@@ -1,21 +1,21 @@
 {
   "username": "43081j",
-  "lastUpdated": "2026-09-07T05:50:51.605Z",
+  "lastUpdated": "2026-09-07T11:53:27.369Z",
   "aggregatedStats": {
-    "score": 5051,
-    "mergedPrs": 459,
-    "reviews": 796,
-    "reviewsReceived": 214,
-    "issuesLinked": 53,
+    "score": 5062,
+    "mergedPrs": 460,
+    "reviews": 797,
+    "reviewsReceived": 215,
+    "issuesLinked": 54,
     "reactions": 489
   },
   "orgStats": {
     "bombshell-dev": {
-      "score": 850,
-      "mergedPrs": 100,
-      "reviews": 81,
-      "reviewsReceived": 62,
-      "issuesLinked": 20,
+      "score": 861,
+      "mergedPrs": 101,
+      "reviews": 82,
+      "reviewsReceived": 63,
+      "issuesLinked": 21,
       "reactions": 49
     },
     "changesets": {
@@ -118,11 +118,11 @@
   "repoStats": {
     "bombshell-dev": {
       "clack": {
-        "score": 788,
-        "mergedPrs": 90,
-        "reviews": 79,
-        "reviewsReceived": 56,
-        "issuesLinked": 20,
+        "score": 799,
+        "mergedPrs": 91,
+        "reviews": 80,
+        "reviewsReceived": 57,
+        "issuesLinked": 21,
         "reactions": 47
       },
       "tab": {

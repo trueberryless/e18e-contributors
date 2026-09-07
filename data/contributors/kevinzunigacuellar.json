@@ -1,13 +1,13 @@
 {
   "username": "kevinzunigacuellar",
-  "lastUpdated": "2026-09-06T18:37:07.840Z",
+  "lastUpdated": "2026-09-07T11:53:29.742Z",
   "aggregatedStats": {
-    "score": 281,
-    "mergedPrs": 16,
-    "reviews": 55,
-    "reviewsReceived": 18,
-    "issuesLinked": 6,
-    "reactions": 64
+    "score": 416,
+    "mergedPrs": 27,
+    "reviews": 74,
+    "reviewsReceived": 31,
+    "issuesLinked": 11,
+    "reactions": 65
   },
   "orgStats": {
     "expressive-code": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 274,
-      "mergedPrs": 15,
-      "reviews": 55,
-      "reviewsReceived": 18,
-      "issuesLinked": 5,
-      "reactions": 62
+      "score": 409,
+      "mergedPrs": 26,
+      "reviews": 74,
+      "reviewsReceived": 31,
+      "issuesLinked": 10,
+      "reactions": 63
     }
   },
   "repoStats": {
@@ -74,20 +74,20 @@
         "reactions": 1
       },
       "docs": {
-        "score": 13,
+        "score": 16,
         "mergedPrs": 0,
-        "reviews": 3,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 39
       },
       "starlight": {
-        "score": 231,
-        "mergedPrs": 10,
-        "reviews": 52,
-        "reviewsReceived": 15,
-        "issuesLinked": 4,
-        "reactions": 21
+        "score": 363,
+        "mergedPrs": 21,
+        "reviews": 70,
+        "reviewsReceived": 28,
+        "issuesLinked": 9,
+        "reactions": 22
       }
     }
   }

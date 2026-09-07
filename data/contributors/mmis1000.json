@@ -1,13 +1,13 @@
 {
   "username": "mmis1000",
-  "lastUpdated": "2026-09-05T05:00:57.802Z",
+  "lastUpdated": "2026-09-07T11:53:35.094Z",
   "aggregatedStats": {
-    "score": 19,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 39,
+    "mergedPrs": 3,
+    "reviews": 1,
     "reviewsReceived": 3,
-    "issuesLinked": 2,
-    "reactions": 67
+    "issuesLinked": 5,
+    "reactions": 74
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 5,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 25,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 49
+      "issuesLinked": 3,
+      "reactions": 56
     }
   },
   "repoStats": {
@@ -66,12 +66,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 5,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 25,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 48
+        "issuesLinked": 3,
+        "reactions": 55
       },
       "docs": {
         "score": 0,

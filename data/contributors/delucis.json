@@ -1,13 +1,13 @@
 {
   "username": "delucis",
-  "lastUpdated": "2026-09-06T21:10:39.656Z",
+  "lastUpdated": "2026-09-07T11:53:26.674Z",
   "aggregatedStats": {
-    "score": 10306,
-    "mergedPrs": 421,
-    "reviews": 2513,
-    "reviewsReceived": 469,
-    "issuesLinked": 67,
-    "reactions": 584
+    "score": 12878,
+    "mergedPrs": 550,
+    "reviews": 3107,
+    "reviewsReceived": 569,
+    "issuesLinked": 88,
+    "reactions": 615
   },
   "orgStats": {
     "biomejs": {
@@ -91,12 +91,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 10132,
-      "mergedPrs": 406,
-      "reviews": 2488,
-      "reviewsReceived": 454,
-      "issuesLinked": 64,
-      "reactions": 558
+      "score": 12704,
+      "mergedPrs": 535,
+      "reviews": 3082,
+      "reviewsReceived": 554,
+      "issuesLinked": 85,
+      "reactions": 589
     }
   },
   "repoStats": {
@@ -234,12 +234,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 502,
-        "mergedPrs": 26,
-        "reviews": 101,
-        "reviewsReceived": 30,
-        "issuesLinked": 4,
-        "reactions": 308
+        "score": 679,
+        "mergedPrs": 40,
+        "reviews": 129,
+        "reviewsReceived": 49,
+        "issuesLinked": 6,
+        "reactions": 310
       },
       "astro.build": {
         "score": 4522,
@@ -274,12 +274,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 619,
-        "mergedPrs": 28,
-        "reviews": 145,
-        "reviewsReceived": 35,
+        "score": 731,
+        "mergedPrs": 37,
+        "reviews": 162,
+        "reviewsReceived": 51,
         "issuesLinked": 0,
-        "reactions": 90
+        "reactions": 92
       },
       "houston-vscode": {
         "score": 32,
@@ -314,12 +314,12 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 4245,
-        "mergedPrs": 142,
-        "reviews": 1096,
-        "reviewsReceived": 162,
-        "issuesLinked": 36,
-        "reactions": 133
+        "score": 6528,
+        "mergedPrs": 248,
+        "reviews": 1645,
+        "reviewsReceived": 227,
+        "issuesLinked": 55,
+        "reactions": 160
       }
     }
   }
