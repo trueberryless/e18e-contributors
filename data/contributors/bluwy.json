@@ -1,12 +1,12 @@
 {
   "username": "bluwy",
-  "lastUpdated": "2026-09-07T11:53:27.401Z",
+  "lastUpdated": "2026-09-07T17:28:17.313Z",
   "aggregatedStats": {
-    "score": 7329,
-    "mergedPrs": 474,
-    "reviews": 1393,
-    "reviewsReceived": 477,
-    "issuesLinked": 110,
+    "score": 7349,
+    "mergedPrs": 475,
+    "reviews": 1397,
+    "reviewsReceived": 478,
+    "issuesLinked": 111,
     "reactions": 852
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 14
     },
     "changesets": {
-      "score": 1639,
-      "mergedPrs": 137,
-      "reviews": 247,
-      "reviewsReceived": 136,
-      "issuesLinked": 35,
+      "score": 1659,
+      "mergedPrs": 138,
+      "reviews": 251,
+      "reviewsReceived": 137,
+      "issuesLinked": 36,
       "reactions": 74
     },
     "e18e": {
@@ -128,11 +128,11 @@
     },
     "changesets": {
       "action": {
-        "score": 393,
-        "mergedPrs": 33,
-        "reviews": 54,
-        "reviewsReceived": 37,
-        "issuesLinked": 14,
+        "score": 407,
+        "mergedPrs": 34,
+        "reviews": 56,
+        "reviewsReceived": 38,
+        "issuesLinked": 15,
         "reactions": 9
       },
       "bot": {
@@ -144,9 +144,9 @@
         "reactions": 0
       },
       "changesets": {
-        "score": 1223,
+        "score": 1229,
         "mergedPrs": 100,
-        "reviews": 193,
+        "reviews": 195,
         "reviewsReceived": 95,
         "issuesLinked": 21,
         "reactions": 65

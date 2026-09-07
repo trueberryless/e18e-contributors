@@ -1,21 +1,21 @@
 {
   "username": "ToBinio",
-  "lastUpdated": "2026-09-06T21:10:39.438Z",
+  "lastUpdated": "2026-09-07T17:28:16.488Z",
   "aggregatedStats": {
-    "score": 31,
-    "mergedPrs": 5,
-    "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 0,
+    "score": 42,
+    "mergedPrs": 6,
+    "reviews": 2,
+    "reviewsReceived": 3,
+    "issuesLinked": 1,
     "reactions": 15
   },
   "orgStats": {
     "biomejs": {
-      "score": 15,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
+      "score": 26,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "nuxt": {
@@ -62,11 +62,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 9,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
+        "score": 20,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "biome-intellij": {

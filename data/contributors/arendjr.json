@@ -1,22 +1,22 @@
 {
   "username": "arendjr",
-  "lastUpdated": "2026-09-06T21:10:39.522Z",
+  "lastUpdated": "2026-09-07T17:28:16.563Z",
   "aggregatedStats": {
-    "score": 855,
-    "mergedPrs": 84,
-    "reviews": 102,
-    "reviewsReceived": 79,
-    "issuesLinked": 7,
-    "reactions": 366
+    "score": 1839,
+    "mergedPrs": 180,
+    "reviews": 233,
+    "reviewsReceived": 129,
+    "issuesLinked": 35,
+    "reactions": 407
   },
   "orgStats": {
     "biomejs": {
-      "score": 832,
-      "mergedPrs": 81,
-      "reviews": 100,
-      "reviewsReceived": 77,
-      "issuesLinked": 7,
-      "reactions": 364
+      "score": 1816,
+      "mergedPrs": 177,
+      "reviews": 231,
+      "reviewsReceived": 127,
+      "issuesLinked": 35,
+      "reactions": 405
     },
     "oxc-project": {
       "score": 23,
@@ -30,12 +30,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 171,
-        "mergedPrs": 7,
-        "reviews": 30,
-        "reviewsReceived": 3,
-        "issuesLinked": 4,
-        "reactions": 349
+        "score": 1040,
+        "mergedPrs": 91,
+        "reviews": 148,
+        "reviewsReceived": 39,
+        "issuesLinked": 32,
+        "reactions": 384
       },
       "biome-vscode": {
         "score": 107,
@@ -54,12 +54,12 @@
         "reactions": 4
       },
       "website": {
-        "score": 165,
-        "mergedPrs": 18,
-        "reviews": 21,
-        "reviewsReceived": 9,
+        "score": 278,
+        "mergedPrs": 30,
+        "reviews": 34,
+        "reviewsReceived": 23,
         "issuesLinked": 1,
-        "reactions": 7
+        "reactions": 13
       }
     },
     "oxc-project": {

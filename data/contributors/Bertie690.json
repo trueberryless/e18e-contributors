@@ -1,21 +1,21 @@
 {
   "username": "Bertie690",
-  "lastUpdated": "2026-09-06T21:10:39.227Z",
+  "lastUpdated": "2026-09-07T17:28:16.322Z",
   "aggregatedStats": {
-    "score": 137,
-    "mergedPrs": 16,
-    "reviews": 9,
-    "reviewsReceived": 19,
-    "issuesLinked": 5,
+    "score": 168,
+    "mergedPrs": 19,
+    "reviews": 11,
+    "reviewsReceived": 25,
+    "issuesLinked": 7,
     "reactions": 9
   },
   "orgStats": {
     "biomejs": {
-      "score": 118,
-      "mergedPrs": 13,
-      "reviews": 9,
-      "reviewsReceived": 17,
-      "issuesLinked": 4,
+      "score": 149,
+      "mergedPrs": 16,
+      "reviews": 11,
+      "reviewsReceived": 23,
+      "issuesLinked": 6,
       "reactions": 5
     },
     "vitejs": {
@@ -46,11 +46,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 111,
-        "mergedPrs": 12,
-        "reviews": 9,
-        "reviewsReceived": 16,
-        "issuesLinked": 4,
+        "score": 142,
+        "mergedPrs": 15,
+        "reviews": 11,
+        "reviewsReceived": 22,
+        "issuesLinked": 6,
         "reactions": 3
       },
       "gritql": {

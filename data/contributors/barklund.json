@@ -1,33 +1,33 @@
 {
   "username": "barklund",
-  "lastUpdated": "2026-09-05T12:34:16.856Z",
+  "lastUpdated": "2026-09-07T17:28:16.585Z",
   "aggregatedStats": {
-    "score": 5,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 47
+    "score": 16,
+    "mergedPrs": 1,
+    "reviews": 1,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
+    "reactions": 53
   },
   "orgStats": {
     "biomejs": {
-      "score": 5,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 47
+      "score": 16,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 53
     }
   },
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 5,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 47
+        "score": 16,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 53
       }
     }
   }

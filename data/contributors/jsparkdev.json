@@ -1,20 +1,20 @@
 {
   "username": "jsparkdev",
-  "lastUpdated": "2026-09-07T11:53:26.868Z",
+  "lastUpdated": "2026-09-07T17:28:16.842Z",
   "aggregatedStats": {
-    "score": 5281,
-    "mergedPrs": 836,
+    "score": 5287,
+    "mergedPrs": 837,
     "reviews": 73,
-    "reviewsReceived": 875,
+    "reviewsReceived": 876,
     "issuesLinked": 2,
     "reactions": 33
   },
   "orgStats": {
     "biomejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -94,10 +94,10 @@
         "reactions": 0
       },
       "website": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

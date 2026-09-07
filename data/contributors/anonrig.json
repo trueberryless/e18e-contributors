@@ -1,19 +1,19 @@
 {
   "username": "anonrig",
-  "lastUpdated": "2026-09-06T23:11:38.738Z",
+  "lastUpdated": "2026-09-07T17:28:16.554Z",
   "aggregatedStats": {
-    "score": 373,
+    "score": 376,
     "mergedPrs": 34,
-    "reviews": 60,
+    "reviews": 61,
     "reviewsReceived": 6,
     "issuesLinked": 3,
     "reactions": 106
   },
   "orgStats": {
     "biomejs": {
-      "score": 10,
+      "score": 13,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 35
@@ -70,9 +70,9 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 4,
+        "score": 7,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 35

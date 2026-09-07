@@ -1,21 +1,21 @@
 {
   "username": "lucasweng",
-  "lastUpdated": "2026-09-06T21:10:39.944Z",
+  "lastUpdated": "2026-09-07T17:28:16.899Z",
   "aggregatedStats": {
-    "score": 61,
-    "mergedPrs": 7,
-    "reviews": 5,
-    "reviewsReceived": 6,
-    "issuesLinked": 2,
+    "score": 98,
+    "mergedPrs": 10,
+    "reviews": 8,
+    "reviewsReceived": 11,
+    "issuesLinked": 6,
     "reactions": 8
   },
   "orgStats": {
     "biomejs": {
-      "score": 29,
-      "mergedPrs": 3,
-      "reviews": 3,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "score": 66,
+      "mergedPrs": 6,
+      "reviews": 6,
+      "reviewsReceived": 9,
+      "issuesLinked": 4,
       "reactions": 6
     },
     "tanstack": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 29,
-        "mergedPrs": 3,
-        "reviews": 3,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
+        "score": 66,
+        "mergedPrs": 6,
+        "reviews": 6,
+        "reviewsReceived": 9,
+        "issuesLinked": 4,
         "reactions": 6
       }
     },

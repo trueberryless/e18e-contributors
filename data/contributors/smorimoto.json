@@ -1,20 +1,20 @@
 {
   "username": "smorimoto",
-  "lastUpdated": "2026-09-05T12:34:17.339Z",
+  "lastUpdated": "2026-09-07T17:28:17.145Z",
   "aggregatedStats": {
-    "score": 5,
-    "mergedPrs": 1,
-    "reviews": 0,
-    "reviewsReceived": 0,
+    "score": 15,
+    "mergedPrs": 2,
+    "reviews": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 2
   },
   "orgStats": {
     "biomejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 2
     },
@@ -38,10 +38,10 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 2
       }

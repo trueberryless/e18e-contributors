@@ -1,22 +1,22 @@
 {
   "username": "Netail",
-  "lastUpdated": "2026-09-07T05:50:50.967Z",
+  "lastUpdated": "2026-09-07T17:28:16.425Z",
   "aggregatedStats": {
-    "score": 1455,
-    "mergedPrs": 151,
-    "reviews": 142,
-    "reviewsReceived": 182,
-    "issuesLinked": 41,
-    "reactions": 94
+    "score": 1598,
+    "mergedPrs": 168,
+    "reviews": 153,
+    "reviewsReceived": 201,
+    "issuesLinked": 44,
+    "reactions": 96
   },
   "orgStats": {
     "biomejs": {
-      "score": 1371,
-      "mergedPrs": 141,
-      "reviews": 136,
-      "reviewsReceived": 173,
-      "issuesLinked": 38,
-      "reactions": 86
+      "score": 1514,
+      "mergedPrs": 158,
+      "reviews": 147,
+      "reviewsReceived": 192,
+      "issuesLinked": 41,
+      "reactions": 88
     },
     "changesets": {
       "score": 39,
@@ -70,12 +70,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 1225,
-        "mergedPrs": 124,
-        "reviews": 125,
-        "reviewsReceived": 151,
-        "issuesLinked": 35,
-        "reactions": 85
+        "score": 1362,
+        "mergedPrs": 140,
+        "reviews": 136,
+        "reviewsReceived": 169,
+        "issuesLinked": 38,
+        "reactions": 87
       },
       "biome-vscode": {
         "score": 0,
@@ -94,10 +94,10 @@
         "reactions": 0
       },
       "website": {
-        "score": 137,
-        "mergedPrs": 16,
+        "score": 143,
+        "mergedPrs": 17,
         "reviews": 10,
-        "reviewsReceived": 21,
+        "reviewsReceived": 22,
         "issuesLinked": 3,
         "reactions": 1
       }

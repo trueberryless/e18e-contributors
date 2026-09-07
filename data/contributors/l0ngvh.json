@@ -1,33 +1,33 @@
 {
   "username": "l0ngvh",
-  "lastUpdated": "2026-09-06T21:10:39.917Z",
+  "lastUpdated": "2026-09-07T17:28:16.879Z",
   "aggregatedStats": {
-    "score": 43,
-    "mergedPrs": 4,
-    "reviews": 5,
-    "reviewsReceived": 4,
+    "score": 89,
+    "mergedPrs": 10,
+    "reviews": 7,
+    "reviewsReceived": 13,
     "issuesLinked": 0,
-    "reactions": 41
+    "reactions": 50
   },
   "orgStats": {
     "biomejs": {
-      "score": 43,
-      "mergedPrs": 4,
-      "reviews": 5,
-      "reviewsReceived": 4,
+      "score": 89,
+      "mergedPrs": 10,
+      "reviews": 7,
+      "reviewsReceived": 13,
       "issuesLinked": 0,
-      "reactions": 41
+      "reactions": 50
     }
   },
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 43,
-        "mergedPrs": 4,
-        "reviews": 5,
-        "reviewsReceived": 4,
+        "score": 89,
+        "mergedPrs": 10,
+        "reviews": 7,
+        "reviewsReceived": 13,
         "issuesLinked": 0,
-        "reactions": 41
+        "reactions": 50
       }
     }
   }

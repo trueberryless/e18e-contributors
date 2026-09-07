@@ -1,19 +1,19 @@
 {
   "username": "flying-sheep",
-  "lastUpdated": "2026-09-05T12:34:16.975Z",
+  "lastUpdated": "2026-09-07T17:28:16.721Z",
   "aggregatedStats": {
-    "score": 12,
+    "score": 15,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 1,
     "issuesLinked": 1,
     "reactions": 8
   },
   "orgStats": {
     "biomejs": {
-      "score": 9,
+      "score": 12,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 8
@@ -46,9 +46,9 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 2

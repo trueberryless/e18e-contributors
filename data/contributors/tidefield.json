@@ -1,21 +1,21 @@
 {
   "username": "tidefield",
-  "lastUpdated": "2026-09-06T21:10:40.261Z",
+  "lastUpdated": "2026-09-07T17:28:17.189Z",
   "aggregatedStats": {
-    "score": 171,
-    "mergedPrs": 19,
-    "reviews": 14,
-    "reviewsReceived": 23,
-    "issuesLinked": 4,
+    "score": 227,
+    "mergedPrs": 26,
+    "reviews": 16,
+    "reviewsReceived": 32,
+    "issuesLinked": 7,
     "reactions": 28
   },
   "orgStats": {
     "biomejs": {
-      "score": 164,
-      "mergedPrs": 18,
-      "reviews": 14,
-      "reviewsReceived": 22,
-      "issuesLinked": 4,
+      "score": 220,
+      "mergedPrs": 25,
+      "reviews": 16,
+      "reviewsReceived": 31,
+      "issuesLinked": 7,
       "reactions": 15
     },
     "zed-industries": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 127,
-        "mergedPrs": 14,
-        "reviews": 12,
-        "reviewsReceived": 16,
-        "issuesLinked": 2,
+        "score": 183,
+        "mergedPrs": 21,
+        "reviews": 14,
+        "reviewsReceived": 25,
+        "issuesLinked": 5,
         "reactions": 7
       },
       "biome-vscode": {
