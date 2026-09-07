@@ -1,32 +1,32 @@
 {
   "username": "robsassack",
-  "lastUpdated": "2026-09-05T12:34:19.993Z",
+  "lastUpdated": "2026-09-07T20:48:17.265Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 19,
+    "mergedPrs": 3,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 1
   },
   "orgStats": {
     "monkeytypegame": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 19,
+      "mergedPrs": 3,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 1
     }
   },
   "repoStats": {
     "monkeytypegame": {
       "monkeytype": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 19,
+        "mergedPrs": 3,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 1
       }
     }

@@ -1,22 +1,22 @@
 {
   "username": "hyfdev",
-  "lastUpdated": "2026-09-06T23:11:50.011Z",
+  "lastUpdated": "2026-09-07T20:48:22.649Z",
   "aggregatedStats": {
-    "score": 123,
-    "mergedPrs": 17,
+    "score": 193,
+    "mergedPrs": 29,
     "reviews": 2,
-    "reviewsReceived": 18,
+    "reviewsReceived": 28,
     "issuesLinked": 2,
-    "reactions": 97
+    "reactions": 99
   },
   "orgStats": {
     "oxc-project": {
-      "score": 87,
-      "mergedPrs": 13,
+      "score": 157,
+      "mergedPrs": 25,
       "reviews": 0,
-      "reviewsReceived": 14,
+      "reviewsReceived": 24,
       "issuesLinked": 0,
-      "reactions": 77
+      "reactions": 79
     },
     "vitejs": {
       "score": 12,
@@ -38,12 +38,12 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 80,
-        "mergedPrs": 12,
+        "score": 151,
+        "mergedPrs": 24,
         "reviews": 0,
-        "reviewsReceived": 13,
+        "reviewsReceived": 23,
         "issuesLinked": 0,
-        "reactions": 74
+        "reactions": 76
       },
       "oxc-node": {
         "score": 0,

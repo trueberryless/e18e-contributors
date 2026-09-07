@@ -1,32 +1,32 @@
 {
   "username": "Ferotiq",
-  "lastUpdated": "2026-09-05T12:34:19.513Z",
+  "lastUpdated": "2026-09-07T20:48:16.720Z",
   "aggregatedStats": {
-    "score": 83,
-    "mergedPrs": 8,
-    "reviews": 10,
-    "reviewsReceived": 8,
-    "issuesLinked": 2,
+    "score": 191,
+    "mergedPrs": 16,
+    "reviews": 30,
+    "reviewsReceived": 14,
+    "issuesLinked": 3,
     "reactions": 5
   },
   "orgStats": {
     "monkeytypegame": {
-      "score": 83,
-      "mergedPrs": 8,
-      "reviews": 10,
-      "reviewsReceived": 8,
-      "issuesLinked": 2,
+      "score": 191,
+      "mergedPrs": 16,
+      "reviews": 30,
+      "reviewsReceived": 14,
+      "issuesLinked": 3,
       "reactions": 5
     }
   },
   "repoStats": {
     "monkeytypegame": {
       "monkeytype": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 109,
+        "mergedPrs": 8,
+        "reviews": 20,
+        "reviewsReceived": 6,
+        "issuesLinked": 1,
         "reactions": 5
       },
       "monkeytype-bot": {

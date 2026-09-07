@@ -1,13 +1,13 @@
 {
   "username": "camc314",
-  "lastUpdated": "2026-09-06T23:11:41.978Z",
+  "lastUpdated": "2026-09-07T20:48:16.472Z",
   "aggregatedStats": {
-    "score": 6511,
-    "mergedPrs": 660,
-    "reviews": 891,
-    "reviewsReceived": 44,
-    "issuesLinked": 179,
-    "reactions": 1360
+    "score": 7933,
+    "mergedPrs": 813,
+    "reviews": 1083,
+    "reviewsReceived": 56,
+    "issuesLinked": 208,
+    "reactions": 1475
   },
   "orgStats": {
     "emdash-cms": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 6468,
-      "mergedPrs": 654,
-      "reviews": 889,
-      "reviewsReceived": 41,
-      "issuesLinked": 178,
-      "reactions": 1338
+      "score": 7890,
+      "mergedPrs": 807,
+      "reviews": 1081,
+      "reviewsReceived": 53,
+      "issuesLinked": 207,
+      "reactions": 1453
     },
     "tanstack": {
       "score": 9,
@@ -106,20 +106,20 @@
         "reactions": 0
       },
       "eslint-plugin-oxlint": {
-        "score": 121,
+        "score": 124,
         "mergedPrs": 2,
-        "reviews": 37,
+        "reviews": 38,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 2
       },
       "oxc": {
-        "score": 3732,
-        "mergedPrs": 376,
-        "reviews": 511,
-        "reviewsReceived": 22,
-        "issuesLinked": 89,
-        "reactions": 1194
+        "score": 5141,
+        "mergedPrs": 528,
+        "reviews": 700,
+        "reviewsReceived": 34,
+        "issuesLinked": 118,
+        "reactions": 1305
       },
       "oxc-resolver": {
         "score": 0,
@@ -146,20 +146,20 @@
         "reactions": 0
       },
       "oxlint-migrate": {
-        "score": 175,
+        "score": 178,
         "mergedPrs": 5,
-        "reviews": 49,
+        "reviews": 50,
         "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 3
       },
       "playground": {
-        "score": 56,
-        "mergedPrs": 4,
-        "reviews": 12,
+        "score": 65,
+        "mergedPrs": 5,
+        "reviews": 13,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 8
       },
       "tsgolint": {
         "score": 1925,

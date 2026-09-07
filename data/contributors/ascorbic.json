@@ -1,12 +1,12 @@
 {
   "username": "ascorbic",
-  "lastUpdated": "2026-09-07T11:53:27.396Z",
+  "lastUpdated": "2026-09-07T20:48:14.592Z",
   "aggregatedStats": {
-    "score": 6890,
-    "mergedPrs": 737,
-    "reviews": 888,
+    "score": 6976,
+    "mergedPrs": 745,
+    "reviews": 902,
     "reviewsReceived": 259,
-    "issuesLinked": 121,
+    "issuesLinked": 123,
     "reactions": 390
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "emdash-cms": {
-      "score": 4656,
-      "mergedPrs": 546,
-      "reviews": 589,
+      "score": 4742,
+      "mergedPrs": 554,
+      "reviews": 603,
       "reviewsReceived": 1,
-      "issuesLinked": 75,
+      "issuesLinked": 77,
       "reactions": 78
     },
     "npmx-dev": {
@@ -80,11 +80,11 @@
     },
     "emdash-cms": {
       "emdash": {
-        "score": 4656,
-        "mergedPrs": 546,
-        "reviews": 589,
+        "score": 4742,
+        "mergedPrs": 554,
+        "reviews": 603,
         "reviewsReceived": 1,
-        "issuesLinked": 75,
+        "issuesLinked": 77,
         "reactions": 78
       }
     },

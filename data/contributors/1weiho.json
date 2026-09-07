@@ -1,15 +1,23 @@
 {
   "username": "1weiho",
-  "lastUpdated": "2026-09-05T15:57:10.490Z",
+  "lastUpdated": "2026-09-07T20:48:16.628Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 2
   },
   "orgStats": {
+    "monkeytypegame": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "shadcn-ui": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "monkeytypegame": {
+      "monkeytype": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "shadcn-ui": {
       "ui": {
         "score": 0,

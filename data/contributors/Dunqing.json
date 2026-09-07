@@ -1,22 +1,22 @@
 {
   "username": "Dunqing",
-  "lastUpdated": "2026-09-07T05:50:58.309Z",
+  "lastUpdated": "2026-09-07T20:48:22.399Z",
   "aggregatedStats": {
-    "score": 1037,
-    "mergedPrs": 115,
-    "reviews": 119,
-    "reviewsReceived": 29,
-    "issuesLinked": 26,
-    "reactions": 237
+    "score": 1197,
+    "mergedPrs": 131,
+    "reviews": 142,
+    "reviewsReceived": 36,
+    "issuesLinked": 28,
+    "reactions": 245
   },
   "orgStats": {
     "oxc-project": {
-      "score": 982,
-      "mergedPrs": 109,
-      "reviews": 113,
-      "reviewsReceived": 27,
-      "issuesLinked": 26,
-      "reactions": 186
+      "score": 1142,
+      "mergedPrs": 125,
+      "reviews": 136,
+      "reviewsReceived": 34,
+      "issuesLinked": 28,
+      "reactions": 194
     },
     "vitejs": {
       "score": 39,
@@ -70,12 +70,12 @@
         "reactions": 0
       },
       "oxc": {
-        "score": 803,
-        "mergedPrs": 87,
-        "reviews": 93,
-        "reviewsReceived": 23,
-        "issuesLinked": 24,
-        "reactions": 178
+        "score": 964,
+        "mergedPrs": 103,
+        "reviews": 116,
+        "reviewsReceived": 30,
+        "issuesLinked": 26,
+        "reactions": 186
       },
       "oxc-resolver": {
         "score": 7,

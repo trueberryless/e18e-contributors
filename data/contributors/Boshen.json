@@ -1,22 +1,22 @@
 {
   "username": "Boshen",
-  "lastUpdated": "2026-09-06T23:11:49.686Z",
+  "lastUpdated": "2026-09-07T20:48:22.382Z",
   "aggregatedStats": {
-    "score": 7012,
-    "mergedPrs": 1174,
-    "reviews": 104,
-    "reviewsReceived": 130,
-    "issuesLinked": 108,
-    "reactions": 4835
+    "score": 7534,
+    "mergedPrs": 1263,
+    "reviews": 112,
+    "reviewsReceived": 137,
+    "issuesLinked": 115,
+    "reactions": 5162
   },
   "orgStats": {
     "oxc-project": {
-      "score": 6957,
-      "mergedPrs": 1171,
-      "reviews": 101,
-      "reviewsReceived": 127,
-      "issuesLinked": 108,
-      "reactions": 4556
+      "score": 7479,
+      "mergedPrs": 1260,
+      "reviews": 109,
+      "reviewsReceived": 134,
+      "issuesLinked": 115,
+      "reactions": 4883
     },
     "pnpm": {
       "score": 3,
@@ -94,12 +94,12 @@
         "reactions": 0
       },
       "oxc": {
-        "score": 1953,
-        "mergedPrs": 283,
-        "reviews": 29,
-        "reviewsReceived": 20,
-        "issuesLinked": 30,
-        "reactions": 3710
+        "score": 2476,
+        "mergedPrs": 372,
+        "reviews": 37,
+        "reviewsReceived": 27,
+        "issuesLinked": 37,
+        "reactions": 4037
       },
       "oxc-intellij-plugin": {
         "score": 58,
