@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T18:35:09.601Z",
+    "lastRunAt": "2026-09-07T17:24:51.930Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wOS0wMlQyMDo1NDozOVrOpl321A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1954,6 +1954,13 @@
       "number": 330,
       "user": {
         "login": "pjonsson",
+        "type": "User"
+      }
+    },
+    "331": {
+      "number": 331,
+      "user": {
+        "login": "goulvenclech",
         "type": "User"
       }
     }
@@ -7068,6 +7075,39 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "331": {
+      "number": 331,
+      "updatedAt": "2026-09-07T16:58:21Z",
+      "merged": false,
+      "author": {
+        "login": "goulvenclech",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "sampo-s-bot",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "pjonsson",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }

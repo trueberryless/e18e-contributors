@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T18:36:24.544Z",
+    "lastRunAt": "2026-09-07T17:26:00.277Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0xMC0wNFQxMTowNTowMFrOE1kPBQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17581,7 +17581,7 @@
     },
     "707": {
       "number": 707,
-      "updatedAt": "2026-08-04T10:22:36Z",
+      "updatedAt": "2026-09-07T07:50:53Z",
       "merged": false,
       "author": {
         "login": "Andarist",
@@ -18036,8 +18036,8 @@
     },
     "726": {
       "number": 726,
-      "updatedAt": "2026-09-04T18:10:16Z",
-      "merged": false,
+      "updatedAt": "2026-09-07T11:52:06Z",
+      "merged": true,
       "author": {
         "login": "changesets-org-version-bot",
         "__typename": "Bot"
@@ -18049,7 +18049,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "bluwy",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "727": {
@@ -18258,8 +18266,8 @@
     },
     "735": {
       "number": 735,
-      "updatedAt": "2026-09-04T20:34:00Z",
-      "merged": false,
+      "updatedAt": "2026-09-07T11:47:06Z",
+      "merged": true,
       "author": {
         "login": "bluwy",
         "__typename": "User"

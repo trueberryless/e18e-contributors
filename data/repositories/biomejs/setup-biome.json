@@ -1,6 +1,6 @@
 {
   "id": "biomejs/setup-biome",
-  "updatedAt": "2026-09-06T21:07:21.764Z",
+  "updatedAt": "2026-09-07T17:27:17.905Z",
   "stats": {
     "Anthony-Gaudino": {
       "score": 0,
@@ -47,6 +47,14 @@
       "mergedPrs": 1,
       "reviews": 1,
       "reviewsReceived": 1,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "begininvoke": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
     },

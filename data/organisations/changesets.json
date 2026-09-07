@@ -1,6 +1,6 @@
 {
   "id": "changesets",
-  "updatedAt": "2026-09-06T18:36:26.163Z",
+  "updatedAt": "2026-09-07T17:26:02.510Z",
   "stats": {
     "79997": {
       "score": 0,
@@ -59,9 +59,9 @@
       "reactions": 0
     },
     "43081j": {
-      "score": 18,
+      "score": 21,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 2
@@ -1099,10 +1099,10 @@
       "reactions": 0
     },
     "MaxFreedomPollard": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -2371,9 +2371,9 @@
       "reactions": 0
     },
     "beeequeue": {
-      "score": 756,
+      "score": 762,
       "mergedPrs": 52,
-      "reviews": 134,
+      "reviews": 136,
       "reviewsReceived": 63,
       "issuesLinked": 14,
       "reactions": 25
@@ -2555,11 +2555,11 @@
       "reactions": 0
     },
     "bluwy": {
-      "score": 1639,
-      "mergedPrs": 137,
-      "reviews": 247,
-      "reviewsReceived": 136,
-      "issuesLinked": 35,
+      "score": 1659,
+      "mergedPrs": 138,
+      "reviews": 251,
+      "reviewsReceived": 137,
+      "issuesLinked": 36,
       "reactions": 74
     },
     "bojanrajh": {
@@ -4777,6 +4777,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 6
+    },
+    "jjrauch32-lab": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "jmackay-io": {
       "score": 0,

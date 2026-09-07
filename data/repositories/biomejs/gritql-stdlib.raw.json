@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T21:07:21.764Z",
+    "lastRunAt": "2026-09-07T17:27:17.905Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMi0wOFQwNDoxMTowMlrOYXth3w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1822,6 +1822,13 @@
       "number": 260,
       "user": {
         "login": "caiuswang",
+        "type": "User"
+      }
+    },
+    "261": {
+      "number": 261,
+      "user": {
+        "login": "misscatrinah-arch",
         "type": "User"
       }
     }
