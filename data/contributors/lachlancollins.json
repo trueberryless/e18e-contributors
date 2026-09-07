@@ -1,13 +1,13 @@
 {
   "username": "lachlancollins",
-  "lastUpdated": "2026-09-07T05:50:52.912Z",
+  "lastUpdated": "2026-09-07T23:39:22.266Z",
   "aggregatedStats": {
-    "score": 3681,
-    "mergedPrs": 645,
-    "reviews": 121,
-    "reviewsReceived": 54,
-    "issuesLinked": 13,
-    "reactions": 139
+    "score": 4312,
+    "mergedPrs": 758,
+    "reviews": 135,
+    "reviewsReceived": 65,
+    "issuesLinked": 17,
+    "reactions": 187
   },
   "orgStats": {
     "changesets": {
@@ -35,12 +35,12 @@
       "reactions": 4
     },
     "tanstack": {
-      "score": 3649,
-      "mergedPrs": 639,
-      "reviews": 121,
-      "reviewsReceived": 54,
-      "issuesLinked": 12,
-      "reactions": 133
+      "score": 4280,
+      "mergedPrs": 752,
+      "reviews": 135,
+      "reviewsReceived": 65,
+      "issuesLinked": 16,
+      "reactions": 181
     }
   },
   "repoStats": {
@@ -172,12 +172,12 @@
         "reactions": 0
       },
       "query": {
-        "score": 1049,
-        "mergedPrs": 180,
-        "reviews": 41,
-        "reviewsReceived": 5,
-        "issuesLinked": 5,
-        "reactions": 106
+        "score": 1679,
+        "mergedPrs": 293,
+        "reviews": 55,
+        "reviewsReceived": 16,
+        "issuesLinked": 9,
+        "reactions": 154
       },
       "ranger": {
         "score": 35,

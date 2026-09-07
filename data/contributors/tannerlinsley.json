@@ -1,20 +1,20 @@
 {
   "username": "tannerlinsley",
-  "lastUpdated": "2026-09-07T01:06:16.605Z",
+  "lastUpdated": "2026-09-07T23:39:36.336Z",
   "aggregatedStats": {
-    "score": 2043,
-    "mergedPrs": 289,
-    "reviews": 136,
-    "reviewsReceived": 26,
+    "score": 2062,
+    "mergedPrs": 292,
+    "reviews": 137,
+    "reviewsReceived": 27,
     "issuesLinked": 33,
     "reactions": 982
   },
   "orgStats": {
     "tanstack": {
-      "score": 2043,
-      "mergedPrs": 289,
-      "reviews": 136,
-      "reviewsReceived": 26,
+      "score": 2062,
+      "mergedPrs": 292,
+      "reviews": 137,
+      "reviewsReceived": 27,
       "issuesLinked": 33,
       "reactions": 982
     },
@@ -30,8 +30,8 @@
   "repoStats": {
     "tanstack": {
       "ai": {
-        "score": 47,
-        "mergedPrs": 4,
+        "score": 52,
+        "mergedPrs": 5,
         "reviews": 8,
         "reviewsReceived": 3,
         "issuesLinked": 0,
@@ -102,9 +102,9 @@
         "reactions": 0
       },
       "query": {
-        "score": 112,
+        "score": 115,
         "mergedPrs": 7,
-        "reviews": 21,
+        "reviews": 22,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 136
@@ -126,8 +126,8 @@
         "reactions": 11
       },
       "redact": {
-        "score": 53,
-        "mergedPrs": 10,
+        "score": 58,
+        "mergedPrs": 11,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
@@ -158,10 +158,10 @@
         "reactions": 103
       },
       "tanstack.com": {
-        "score": 759,
-        "mergedPrs": 131,
+        "score": 765,
+        "mergedPrs": 132,
         "reviews": 23,
-        "reviewsReceived": 5,
+        "reviewsReceived": 6,
         "issuesLinked": 12,
         "reactions": 56
       },

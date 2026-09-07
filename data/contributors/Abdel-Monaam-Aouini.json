@@ -1,10 +1,10 @@
 {
   "username": "Abdel-Monaam-Aouini",
-  "lastUpdated": "2026-09-05T15:57:01.519Z",
+  "lastUpdated": "2026-09-07T23:39:20.117Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 4,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 6
@@ -25,6 +25,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 6
+    },
+    "tanstack": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "vitejs": {
       "score": 0,
@@ -54,6 +62,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 6
+      }
+    },
+    "tanstack": {
+      "query": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "vitejs": {

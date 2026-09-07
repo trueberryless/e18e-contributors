@@ -1,20 +1,20 @@
 {
   "username": "ebertn",
-  "lastUpdated": "2026-09-07T01:06:31.856Z",
+  "lastUpdated": "2026-09-07T23:39:50.713Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 7,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 6
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 6
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 6
       }

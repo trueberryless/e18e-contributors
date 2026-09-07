@@ -1,22 +1,22 @@
 {
   "username": "pheralb",
-  "lastUpdated": "2026-09-06T23:11:54.264Z",
+  "lastUpdated": "2026-09-07T23:39:31.043Z",
   "aggregatedStats": {
-    "score": 6,
-    "mergedPrs": 1,
+    "score": 12,
+    "mergedPrs": 2,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 11
+    "reactions": 19
   },
   "orgStats": {
     "shadcn-ui": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 12,
+      "mergedPrs": 2,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 8
+      "reactions": 16
     },
     "withastro": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "shadcn-ui": {
       "ui": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 8
+        "reactions": 16
       }
     },
     "withastro": {

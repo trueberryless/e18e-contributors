@@ -1,13 +1,13 @@
 {
   "username": "ChristopherBiscardi",
-  "lastUpdated": "2026-09-07T01:05:59.359Z",
+  "lastUpdated": "2026-09-07T23:39:22.098Z",
   "aggregatedStats": {
-    "score": 465,
-    "mergedPrs": 7,
-    "reviews": 138,
-    "reviewsReceived": 7,
+    "score": 560,
+    "mergedPrs": 9,
+    "reviews": 165,
+    "reviewsReceived": 10,
     "issuesLinked": 3,
-    "reactions": 32
+    "reactions": 36
   },
   "orgStats": {
     "changesets": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 459,
-      "mergedPrs": 6,
-      "reviews": 138,
-      "reviewsReceived": 6,
+      "score": 554,
+      "mergedPrs": 8,
+      "reviews": 165,
+      "reviewsReceived": 9,
       "issuesLinked": 3,
-      "reactions": 32
+      "reactions": 36
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 459,
-        "mergedPrs": 6,
-        "reviews": 138,
-        "reviewsReceived": 6,
+        "score": 554,
+        "mergedPrs": 8,
+        "reviews": 165,
+        "reviewsReceived": 9,
         "issuesLinked": 3,
-        "reactions": 32
+        "reactions": 36
       }
     }
   }

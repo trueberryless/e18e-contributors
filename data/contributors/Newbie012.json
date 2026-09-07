@@ -1,13 +1,13 @@
 {
   "username": "Newbie012",
-  "lastUpdated": "2026-09-07T01:05:59.400Z",
+  "lastUpdated": "2026-09-07T23:39:22.132Z",
   "aggregatedStats": {
-    "score": 223,
-    "mergedPrs": 27,
-    "reviews": 10,
-    "reviewsReceived": 19,
-    "issuesLinked": 17,
-    "reactions": 50
+    "score": 392,
+    "mergedPrs": 49,
+    "reviews": 15,
+    "reviewsReceived": 30,
+    "issuesLinked": 33,
+    "reactions": 53
   },
   "orgStats": {
     "changesets": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 209,
-      "mergedPrs": 26,
-      "reviews": 9,
-      "reviewsReceived": 16,
-      "issuesLinked": 16,
-      "reactions": 44
+      "score": 378,
+      "mergedPrs": 48,
+      "reviews": 14,
+      "reviewsReceived": 27,
+      "issuesLinked": 32,
+      "reactions": 47
     },
     "vitejs": {
       "score": 13,
@@ -82,12 +82,12 @@
     },
     "tanstack": {
       "query": {
-        "score": 208,
-        "mergedPrs": 26,
-        "reviews": 9,
-        "reviewsReceived": 16,
-        "issuesLinked": 16,
-        "reactions": 31
+        "score": 376,
+        "mergedPrs": 48,
+        "reviews": 14,
+        "reviewsReceived": 27,
+        "issuesLinked": 32,
+        "reactions": 34
       },
       "react-charts": {
         "score": 1,

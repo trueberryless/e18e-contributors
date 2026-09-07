@@ -1,10 +1,10 @@
 {
   "username": "atilafassina",
-  "lastUpdated": "2026-09-07T05:50:53.195Z",
+  "lastUpdated": "2026-09-07T23:39:22.591Z",
   "aggregatedStats": {
-    "score": 14,
+    "score": 17,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 8
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 7,
+      "score": 10,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 6
@@ -62,6 +62,14 @@
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 6
+      },
+      "query": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "vitejs": {

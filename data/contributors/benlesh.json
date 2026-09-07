@@ -1,10 +1,10 @@
 {
   "username": "benlesh",
-  "lastUpdated": "2026-09-05T00:34:32.184Z",
+  "lastUpdated": "2026-09-07T23:39:32.429Z",
   "aggregatedStats": {
-    "score": 6,
+    "score": 9,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 14
@@ -17,6 +17,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 10
+    },
+    "tanstack": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "vitejs": {
       "score": 0,
@@ -44,6 +52,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 10
+      }
+    },
+    "tanstack": {
+      "query": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "vitejs": {

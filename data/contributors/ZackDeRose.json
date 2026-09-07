@@ -1,22 +1,22 @@
 {
   "username": "ZackDeRose",
-  "lastUpdated": "2026-09-07T01:06:14.760Z",
+  "lastUpdated": "2026-09-07T23:39:34.725Z",
   "aggregatedStats": {
-    "score": 54,
-    "mergedPrs": 9,
-    "reviews": 1,
-    "reviewsReceived": 5,
+    "score": 170,
+    "mergedPrs": 26,
+    "reviews": 7,
+    "reviewsReceived": 17,
     "issuesLinked": 0,
-    "reactions": 10
+    "reactions": 16
   },
   "orgStats": {
     "tanstack": {
-      "score": 54,
-      "mergedPrs": 9,
-      "reviews": 1,
-      "reviewsReceived": 5,
+      "score": 170,
+      "mergedPrs": 26,
+      "reviews": 7,
+      "reviewsReceived": 17,
       "issuesLinked": 0,
-      "reactions": 10
+      "reactions": 16
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "query": {
-        "score": 21,
-        "mergedPrs": 3,
-        "reviews": 1,
-        "reviewsReceived": 2,
+        "score": 136,
+        "mergedPrs": 20,
+        "reviews": 7,
+        "reviewsReceived": 14,
         "issuesLinked": 0,
-        "reactions": 8
+        "reactions": 14
       },
       "router": {
         "score": 0,

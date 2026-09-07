@@ -1,22 +1,22 @@
 {
   "username": "ardeora",
-  "lastUpdated": "2026-09-07T01:06:14.923Z",
+  "lastUpdated": "2026-09-07T23:39:34.871Z",
   "aggregatedStats": {
-    "score": 287,
-    "mergedPrs": 41,
-    "reviews": 11,
-    "reviewsReceived": 7,
-    "issuesLinked": 17,
-    "reactions": 80
+    "score": 485,
+    "mergedPrs": 69,
+    "reviews": 26,
+    "reviewsReceived": 14,
+    "issuesLinked": 19,
+    "reactions": 97
   },
   "orgStats": {
     "tanstack": {
-      "score": 287,
-      "mergedPrs": 41,
-      "reviews": 11,
-      "reviewsReceived": 7,
-      "issuesLinked": 17,
-      "reactions": 80
+      "score": 485,
+      "mergedPrs": 69,
+      "reviews": 26,
+      "reviewsReceived": 14,
+      "issuesLinked": 19,
+      "reactions": 97
     },
     "withastro": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "tanstack": {
       "query": {
-        "score": 260,
-        "mergedPrs": 37,
-        "reviews": 10,
-        "reviewsReceived": 5,
-        "issuesLinked": 17,
-        "reactions": 63
+        "score": 458,
+        "mergedPrs": 65,
+        "reviews": 25,
+        "reviewsReceived": 12,
+        "issuesLinked": 19,
+        "reactions": 80
       },
       "router": {
         "score": 0,

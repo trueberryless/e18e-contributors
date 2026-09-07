@@ -1,13 +1,13 @@
 {
   "username": "drwpow",
-  "lastUpdated": "2026-09-07T17:28:16.682Z",
+  "lastUpdated": "2026-09-07T23:39:20.446Z",
   "aggregatedStats": {
-    "score": 611,
-    "mergedPrs": 50,
+    "score": 617,
+    "mergedPrs": 51,
     "reviews": 104,
-    "reviewsReceived": 23,
+    "reviewsReceived": 24,
     "issuesLinked": 8,
-    "reactions": 97
+    "reactions": 98
   },
   "orgStats": {
     "biomejs": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "vitejs": {
       "score": 0,
@@ -124,12 +124,12 @@
     },
     "tanstack": {
       "query": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vitejs": {

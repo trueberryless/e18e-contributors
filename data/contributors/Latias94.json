@@ -1,33 +1,33 @@
 {
   "username": "Latias94",
-  "lastUpdated": "2026-09-04T23:17:40.513Z",
+  "lastUpdated": "2026-09-07T23:39:49.615Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 7,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 7
+    "reactions": 14
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 7
+      "reactions": 14
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 7
+        "reactions": 14
       }
     }
   }

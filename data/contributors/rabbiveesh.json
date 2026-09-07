@@ -1,22 +1,22 @@
 {
   "username": "rabbiveesh",
-  "lastUpdated": "2026-09-05T17:42:00.430Z",
+  "lastUpdated": "2026-09-07T23:39:51.949Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
+    "score": 20,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 8
+    "reviewsReceived": 2,
+    "issuesLinked": 2,
+    "reactions": 9
   },
   "orgStats": {
     "zed-industries": {
-      "score": 12,
-      "mergedPrs": 1,
+      "score": 20,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 8
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 9
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 3
       },
       "zed": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 20,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 5
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
+        "reactions": 6
       }
     }
   }

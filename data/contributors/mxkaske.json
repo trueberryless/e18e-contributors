@@ -1,33 +1,33 @@
 {
   "username": "mxkaske",
-  "lastUpdated": "2026-09-06T23:11:54.148Z",
+  "lastUpdated": "2026-09-07T23:39:30.971Z",
   "aggregatedStats": {
-    "score": 6,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 14,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 9
+    "reactions": 14
   },
   "orgStats": {
     "shadcn-ui": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 14,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 9
+      "reactions": 14
     }
   },
   "repoStats": {
     "shadcn-ui": {
       "ui": {
-        "score": 6,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 14,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 9
+        "reactions": 14
       }
     }
   }

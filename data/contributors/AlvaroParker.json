@@ -1,22 +1,22 @@
 {
   "username": "AlvaroParker",
-  "lastUpdated": "2026-09-07T01:06:30.136Z",
+  "lastUpdated": "2026-09-07T23:39:49.090Z",
   "aggregatedStats": {
-    "score": 76,
-    "mergedPrs": 5,
+    "score": 89,
+    "mergedPrs": 7,
     "reviews": 1,
-    "reviewsReceived": 4,
+    "reviewsReceived": 6,
     "issuesLinked": 2,
-    "reactions": 399
+    "reactions": 405
   },
   "orgStats": {
     "zed-industries": {
-      "score": 76,
-      "mergedPrs": 5,
+      "score": 89,
+      "mergedPrs": 7,
       "reviews": 1,
-      "reviewsReceived": 4,
+      "reviewsReceived": 6,
       "issuesLinked": 2,
-      "reactions": 399
+      "reactions": 405
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 1
       },
       "zed": {
-        "score": 76,
-        "mergedPrs": 5,
+        "score": 88,
+        "mergedPrs": 7,
         "reviews": 1,
-        "reviewsReceived": 4,
+        "reviewsReceived": 6,
         "issuesLinked": 2,
-        "reactions": 398
+        "reactions": 404
       }
     }
   }

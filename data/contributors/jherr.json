@@ -1,13 +1,13 @@
 {
   "username": "jherr",
-  "lastUpdated": "2026-09-06T16:29:15.229Z",
+  "lastUpdated": "2026-09-07T23:39:30.755Z",
   "aggregatedStats": {
-    "score": 707,
-    "mergedPrs": 79,
+    "score": 713,
+    "mergedPrs": 80,
     "reviews": 85,
     "reviewsReceived": 45,
     "issuesLinked": 3,
-    "reactions": 58
+    "reactions": 60
   },
   "orgStats": {
     "shadcn-ui": {
@@ -19,12 +19,12 @@
       "reactions": 5
     },
     "tanstack": {
-      "score": 699,
-      "mergedPrs": 78,
+      "score": 705,
+      "mergedPrs": 79,
       "reviews": 85,
       "reviewsReceived": 43,
       "issuesLinked": 3,
-      "reactions": 53
+      "reactions": 55
     },
     "vitejs": {
       "score": 7,
@@ -80,12 +80,12 @@
         "reactions": 9
       },
       "tanstack.com": {
-        "score": 41,
-        "mergedPrs": 4,
+        "score": 46,
+        "mergedPrs": 5,
         "reviews": 6,
         "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "vitejs": {

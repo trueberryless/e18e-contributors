@@ -1,13 +1,13 @@
 {
   "username": "mezotv",
-  "lastUpdated": "2026-09-07T17:28:16.938Z",
+  "lastUpdated": "2026-09-07T23:39:20.669Z",
   "aggregatedStats": {
-    "score": 32,
-    "mergedPrs": 5,
-    "reviews": 1,
-    "reviewsReceived": 4,
+    "score": 49,
+    "mergedPrs": 7,
+    "reviews": 2,
+    "reviewsReceived": 8,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 4
   },
   "orgStats": {
     "biomejs": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "shadcn-ui": {
-      "score": 20,
-      "mergedPrs": 3,
-      "reviews": 1,
-      "reviewsReceived": 2,
+      "score": 37,
+      "mergedPrs": 5,
+      "reviews": 2,
+      "reviewsReceived": 6,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     }
   },
   "repoStats": {
@@ -58,12 +58,12 @@
     },
     "shadcn-ui": {
       "ui": {
-        "score": 20,
-        "mergedPrs": 3,
-        "reviews": 1,
-        "reviewsReceived": 2,
+        "score": 37,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       }
     }
   }

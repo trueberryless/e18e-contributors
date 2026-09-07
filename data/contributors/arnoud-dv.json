@@ -1,22 +1,22 @@
 {
   "username": "arnoud-dv",
-  "lastUpdated": "2026-09-07T01:06:14.934Z",
+  "lastUpdated": "2026-09-07T23:39:34.880Z",
   "aggregatedStats": {
-    "score": 652,
-    "mergedPrs": 115,
+    "score": 714,
+    "mergedPrs": 127,
     "reviews": 12,
     "reviewsReceived": 5,
-    "issuesLinked": 8,
-    "reactions": 198
+    "issuesLinked": 9,
+    "reactions": 201
   },
   "orgStats": {
     "tanstack": {
-      "score": 652,
-      "mergedPrs": 115,
+      "score": 714,
+      "mergedPrs": 127,
       "reviews": 12,
       "reviewsReceived": 5,
-      "issuesLinked": 8,
-      "reactions": 198
+      "issuesLinked": 9,
+      "reactions": 201
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "query": {
-        "score": 612,
-        "mergedPrs": 108,
+        "score": 675,
+        "mergedPrs": 120,
         "reviews": 12,
         "reviewsReceived": 1,
-        "issuesLinked": 8,
-        "reactions": 194
+        "issuesLinked": 9,
+        "reactions": 197
       },
       "table": {
         "score": 6,

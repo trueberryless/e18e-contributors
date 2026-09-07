@@ -1,33 +1,33 @@
 {
   "username": "incepter",
-  "lastUpdated": "2026-09-07T01:06:15.565Z",
+  "lastUpdated": "2026-09-07T23:39:35.415Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 1,
-    "reviews": 2,
-    "reviewsReceived": 0,
-    "issuesLinked": 1,
-    "reactions": 6
+    "score": 53,
+    "mergedPrs": 5,
+    "reviews": 5,
+    "reviewsReceived": 4,
+    "issuesLinked": 4,
+    "reactions": 12
   },
   "orgStats": {
     "tanstack": {
-      "score": 14,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 0,
-      "issuesLinked": 1,
-      "reactions": 6
+      "score": 53,
+      "mergedPrs": 5,
+      "reviews": 5,
+      "reviewsReceived": 4,
+      "issuesLinked": 4,
+      "reactions": 12
     }
   },
   "repoStats": {
     "tanstack": {
       "query": {
-        "score": 14,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 1,
-        "reactions": 6
+        "score": 53,
+        "mergedPrs": 5,
+        "reviews": 5,
+        "reviewsReceived": 4,
+        "issuesLinked": 4,
+        "reactions": 12
       }
     }
   }

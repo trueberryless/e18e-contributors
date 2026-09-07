@@ -1,13 +1,13 @@
 {
   "username": "Andarist",
-  "lastUpdated": "2026-09-07T05:50:51.606Z",
+  "lastUpdated": "2026-09-07T23:39:20.953Z",
   "aggregatedStats": {
-    "score": 2870,
-    "mergedPrs": 252,
-    "reviews": 414,
-    "reviewsReceived": 242,
-    "issuesLinked": 47,
-    "reactions": 334
+    "score": 2898,
+    "mergedPrs": 256,
+    "reviews": 415,
+    "reviewsReceived": 245,
+    "issuesLinked": 48,
+    "reactions": 336
   },
   "orgStats": {
     "bombshell-dev": {
@@ -51,12 +51,12 @@
       "reactions": 4
     },
     "tanstack": {
-      "score": 9,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 2
+      "score": 37,
+      "mergedPrs": 5,
+      "reviews": 2,
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
+      "reactions": 4
     },
     "vitejs": {
       "score": 37,
@@ -192,12 +192,12 @@
         "reactions": 0
       },
       "query": {
-        "score": 9,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 2
+        "score": 37,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
+        "reactions": 4
       }
     },
     "vitejs": {

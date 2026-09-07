@@ -1,10 +1,10 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-07T11:53:27.409Z",
+  "lastUpdated": "2026-09-07T23:39:20.982Z",
   "aggregatedStats": {
-    "score": 49133,
-    "mergedPrs": 2604,
-    "reviews": 10550,
+    "score": 49141,
+    "mergedPrs": 2605,
+    "reviews": 10551,
     "reviewsReceived": 1020,
     "issuesLinked": 1069,
     "reactions": 13037
@@ -67,9 +67,9 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 11,
-      "mergedPrs": 1,
-      "reviews": 2,
+      "score": 19,
+      "mergedPrs": 2,
+      "reviews": 3,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -500,9 +500,9 @@
     },
     "tanstack": {
       "query": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 2,
+        "score": 19,
+        "mergedPrs": 2,
+        "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

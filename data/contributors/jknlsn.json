@@ -1,13 +1,13 @@
 {
   "username": "jknlsn",
-  "lastUpdated": "2026-09-05T17:41:16.280Z",
+  "lastUpdated": "2026-09-07T23:39:21.663Z",
   "aggregatedStats": {
-    "score": 26,
-    "mergedPrs": 3,
+    "score": 32,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 1,
-    "reactions": 47
+    "reactions": 48
   },
   "orgStats": {
     "catppuccin": {
@@ -19,12 +19,12 @@
       "reactions": 16
     },
     "zed-industries": {
-      "score": 19,
-      "mergedPrs": 2,
+      "score": 25,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 1,
-      "reactions": 31
+      "reactions": 32
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 19,
-        "mergedPrs": 2,
+        "score": 25,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 1,
-        "reactions": 31
+        "reactions": 32
       }
     }
   }

@@ -1,22 +1,22 @@
 {
   "username": "rtfeldman",
-  "lastUpdated": "2026-09-07T01:06:33.449Z",
+  "lastUpdated": "2026-09-07T23:39:52.051Z",
   "aggregatedStats": {
-    "score": 297,
-    "mergedPrs": 40,
-    "reviews": 12,
-    "reviewsReceived": 32,
+    "score": 519,
+    "mergedPrs": 72,
+    "reviews": 24,
+    "reviewsReceived": 56,
     "issuesLinked": 1,
-    "reactions": 272
+    "reactions": 287
   },
   "orgStats": {
     "zed-industries": {
-      "score": 297,
-      "mergedPrs": 40,
-      "reviews": 12,
-      "reviewsReceived": 32,
+      "score": 519,
+      "mergedPrs": 72,
+      "reviews": 24,
+      "reviewsReceived": 56,
       "issuesLinked": 1,
-      "reactions": 272
+      "reactions": 287
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 261,
-        "mergedPrs": 33,
-        "reviews": 12,
-        "reviewsReceived": 31,
+        "score": 483,
+        "mergedPrs": 65,
+        "reviews": 24,
+        "reviewsReceived": 55,
         "issuesLinked": 1,
-        "reactions": 272
+        "reactions": 287
       }
     }
   }

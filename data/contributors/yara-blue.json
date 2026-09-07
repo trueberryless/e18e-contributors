@@ -1,33 +1,33 @@
 {
   "username": "yara-blue",
-  "lastUpdated": "2026-09-07T01:06:34.137Z",
+  "lastUpdated": "2026-09-07T23:39:52.680Z",
   "aggregatedStats": {
-    "score": 245,
-    "mergedPrs": 19,
-    "reviews": 40,
-    "reviewsReceived": 6,
-    "issuesLinked": 4,
-    "reactions": 163
+    "score": 299,
+    "mergedPrs": 23,
+    "reviews": 49,
+    "reviewsReceived": 9,
+    "issuesLinked": 6,
+    "reactions": 164
   },
   "orgStats": {
     "zed-industries": {
-      "score": 245,
-      "mergedPrs": 19,
-      "reviews": 40,
-      "reviewsReceived": 6,
-      "issuesLinked": 4,
-      "reactions": 163
+      "score": 299,
+      "mergedPrs": 23,
+      "reviews": 49,
+      "reviewsReceived": 9,
+      "issuesLinked": 6,
+      "reactions": 164
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 245,
-        "mergedPrs": 19,
-        "reviews": 40,
-        "reviewsReceived": 6,
-        "issuesLinked": 4,
-        "reactions": 163
+        "score": 299,
+        "mergedPrs": 23,
+        "reviews": 49,
+        "reviewsReceived": 9,
+        "issuesLinked": 6,
+        "reactions": 164
       }
     }
   }

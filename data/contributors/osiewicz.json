@@ -1,13 +1,13 @@
 {
   "username": "osiewicz",
-  "lastUpdated": "2026-09-07T01:05:57.740Z",
+  "lastUpdated": "2026-09-07T23:39:20.735Z",
   "aggregatedStats": {
-    "score": 314,
-    "mergedPrs": 12,
-    "reviews": 34,
+    "score": 377,
+    "mergedPrs": 13,
+    "reviews": 53,
     "reviewsReceived": 3,
     "issuesLinked": 1,
-    "reactions": 1472
+    "reactions": 1474
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 19
     },
     "zed-industries": {
-      "score": 312,
-      "mergedPrs": 12,
-      "reviews": 34,
+      "score": 375,
+      "mergedPrs": 13,
+      "reviews": 53,
       "reviewsReceived": 3,
       "issuesLinked": 1,
-      "reactions": 1453
+      "reactions": 1455
     }
   },
   "repoStats": {
@@ -64,12 +64,12 @@
         "reactions": 3
       },
       "zed": {
-        "score": 307,
-        "mergedPrs": 11,
-        "reviews": 34,
+        "score": 369,
+        "mergedPrs": 12,
+        "reviews": 53,
         "reviewsReceived": 3,
         "issuesLinked": 1,
-        "reactions": 1450
+        "reactions": 1452
       }
     }
   }

@@ -1,33 +1,33 @@
 {
   "username": "lingyaochu",
-  "lastUpdated": "2026-09-07T01:06:32.720Z",
+  "lastUpdated": "2026-09-07T23:39:51.424Z",
   "aggregatedStats": {
-    "score": 220,
-    "mergedPrs": 26,
+    "score": 256,
+    "mergedPrs": 31,
     "reviews": 7,
-    "reviewsReceived": 27,
-    "issuesLinked": 15,
-    "reactions": 117
+    "reviewsReceived": 34,
+    "issuesLinked": 17,
+    "reactions": 121
   },
   "orgStats": {
     "zed-industries": {
-      "score": 220,
-      "mergedPrs": 26,
+      "score": 256,
+      "mergedPrs": 31,
       "reviews": 7,
-      "reviewsReceived": 27,
-      "issuesLinked": 15,
-      "reactions": 117
+      "reviewsReceived": 34,
+      "issuesLinked": 17,
+      "reactions": 121
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 220,
-        "mergedPrs": 26,
+        "score": 256,
+        "mergedPrs": 31,
         "reviews": 7,
-        "reviewsReceived": 27,
-        "issuesLinked": 15,
-        "reactions": 117
+        "reviewsReceived": 34,
+        "issuesLinked": 17,
+        "reactions": 121
       }
     }
   }

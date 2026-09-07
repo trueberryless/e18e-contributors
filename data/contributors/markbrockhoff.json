@@ -1,12 +1,12 @@
 {
   "username": "markbrockhoff",
-  "lastUpdated": "2026-09-04T23:17:07.952Z",
+  "lastUpdated": "2026-09-07T23:39:26.359Z",
   "aggregatedStats": {
-    "score": 7,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 17,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 1,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 10
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 6
     },
     "tanstack": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vitejs": {
@@ -88,11 +88,11 @@
     },
     "tanstack": {
       "query": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

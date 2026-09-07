@@ -1,15 +1,23 @@
 {
   "username": "ayush987goyal",
-  "lastUpdated": "2026-09-05T05:01:09.804Z",
+  "lastUpdated": "2026-09-07T23:39:34.909Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 4,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 10
   },
   "orgStats": {
+    "tanstack": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vitejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -28,6 +36,16 @@
     }
   },
   "repoStats": {
+    "tanstack": {
+      "query": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vitejs": {
       "vite": {
         "score": 0,

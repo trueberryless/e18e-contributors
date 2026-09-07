@@ -1,33 +1,33 @@
 {
   "username": "Jacksonmills",
-  "lastUpdated": "2026-09-05T15:57:10.640Z",
+  "lastUpdated": "2026-09-07T23:39:30.099Z",
   "aggregatedStats": {
-    "score": 4,
+    "score": 10,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 41
+    "reactions": 44
   },
   "orgStats": {
     "shadcn-ui": {
-      "score": 4,
+      "score": 10,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 41
+      "reactions": 44
     }
   },
   "repoStats": {
     "shadcn-ui": {
       "ui": {
-        "score": 4,
+        "score": 10,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 41
+        "reactions": 44
       }
     }
   }
