@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T16:26:56.343Z",
+    "lastRunAt": "2026-09-07T11:48:44.387Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNi0yOFQxMTozMDoyMlrOc-FkXw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -548,6 +548,13 @@
       "number": 68,
       "user": {
         "login": "FlameWolf",
+        "type": "User"
+      }
+    },
+    "69": {
+      "number": 69,
+      "user": {
+        "login": "lwleen",
         "type": "User"
       }
     }

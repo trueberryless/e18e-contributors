@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T16:27:38.772Z",
+    "lastRunAt": "2026-09-07T11:49:23.994Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wOC0yMlQwMTozMzo1MFrOeRATbA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17008,6 +17008,13 @@
       "number": 2367,
       "user": {
         "login": "martinpitt",
+        "type": "User"
+      }
+    },
+    "2368": {
+      "number": 2368,
+      "user": {
+        "login": "MrShark",
         "type": "User"
       }
     }

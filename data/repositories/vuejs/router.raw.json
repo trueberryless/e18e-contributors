@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T16:26:40.882Z",
+    "lastRunAt": "2026-09-07T11:48:30.814Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0wNy0xN1QwOTo1OToyNVrOEckWMQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -15415,7 +15415,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 3
+        "total_count": 5
       }
     },
     "2404": {
@@ -17572,6 +17572,9 @@
       "user": {
         "login": "posva",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     }
   },
@@ -44816,7 +44819,7 @@
     },
     "2509": {
       "number": 2509,
-      "updatedAt": "2026-09-01T10:48:47Z",
+      "updatedAt": "2026-09-07T11:47:27Z",
       "merged": false,
       "author": {
         "login": "zhiyuanzmj",

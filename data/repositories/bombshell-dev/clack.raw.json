@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T16:28:15.439Z",
+    "lastRunAt": "2026-09-07T11:50:08.479Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0wOFQyMzo0NDo0M1rOSZHnmg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -16113,7 +16113,7 @@
     },
     "589": {
       "number": 589,
-      "updatedAt": "2026-09-05T00:48:28Z",
+      "updatedAt": "2026-09-06T19:35:39Z",
       "merged": false,
       "author": {
         "login": "bombshell-bot",
@@ -16326,8 +16326,8 @@
     },
     "599": {
       "number": 599,
-      "updatedAt": "2026-09-06T12:41:30Z",
-      "merged": false,
+      "updatedAt": "2026-09-06T19:34:32Z",
+      "merged": true,
       "author": {
         "login": "43081j",
         "__typename": "User"
@@ -16344,6 +16344,13 @@
             "state": "COMMENTED",
             "author": {
               "login": "43081j",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "dreyfus92",
               "__typename": "User"
             }
           }

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T18:33:06.586Z",
+    "lastRunAt": "2026-09-07T11:51:02.796Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMi0wMVQwNToyMDo1MVrOMd0V2w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5272,7 +5272,7 @@
     },
     "277": {
       "number": 277,
-      "updatedAt": "2026-09-05T00:13:57Z",
+      "updatedAt": "2026-09-07T08:37:35Z",
       "merged": false,
       "author": {
         "login": "Barrow099",
@@ -5290,6 +5290,13 @@
             "state": "COMMENTED",
             "author": {
               "login": "FlamemasterNXF",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "Barrow099",
               "__typename": "User"
             }
           }
