@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T13:07:35.271Z",
+    "lastRunAt": "2026-09-07T05:47:41.251Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOC0wMy0xMFQyMzo0NjoyN1rOCmH-jw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1443,6 +1443,13 @@
       "number": 187,
       "user": {
         "login": "elliott-with-the-longest-name-on-github",
+        "type": "User"
+      }
+    },
+    "189": {
+      "number": 189,
+      "user": {
+        "login": "NotAFlightRisk",
         "type": "User"
       }
     }
@@ -4410,6 +4417,24 @@
             }
           }
         ]
+      }
+    },
+    "189": {
+      "number": 189,
+      "updatedAt": "2026-09-07T00:42:41Z",
+      "merged": false,
+      "author": {
+        "login": "NotAFlightRisk",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

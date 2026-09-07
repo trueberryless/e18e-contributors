@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T16:25:18.844Z",
+    "lastRunAt": "2026-09-07T05:49:37.421Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMy0yNFQwMjowMjoyNVrONOuB9w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -7274,6 +7274,60 @@
     },
     "1022": {
       "number": 1022,
+      "user": {
+        "login": "NoiseFan",
+        "type": "User"
+      }
+    },
+    "1023": {
+      "number": 1023,
+      "user": {
+        "login": "NoiseFan",
+        "type": "User"
+      }
+    },
+    "1024": {
+      "number": 1024,
+      "user": {
+        "login": "NoiseFan",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "1025": {
+      "number": 1025,
+      "user": {
+        "login": "NoiseFan",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "1026": {
+      "number": 1026,
+      "user": {
+        "login": "NoiseFan",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "1027": {
+      "number": 1027,
+      "user": {
+        "login": "NoiseFan",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "1028": {
+      "number": 1028,
       "user": {
         "login": "NoiseFan",
         "type": "User"
@@ -29170,6 +29224,130 @@
     "1022": {
       "number": 1022,
       "updatedAt": "2026-09-06T16:17:23Z",
+      "merged": true,
+      "author": {
+        "login": "NoiseFan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "chatgpt-codex-connector",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "1023": {
+      "number": 1023,
+      "updatedAt": "2026-09-06T16:28:41Z",
+      "merged": true,
+      "author": {
+        "login": "NoiseFan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "chatgpt-codex-connector",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "1024": {
+      "number": 1024,
+      "updatedAt": "2026-09-07T01:15:50Z",
+      "merged": true,
+      "author": {
+        "login": "NoiseFan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1025": {
+      "number": 1025,
+      "updatedAt": "2026-09-07T02:18:41Z",
+      "merged": true,
+      "author": {
+        "login": "NoiseFan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1026": {
+      "number": 1026,
+      "updatedAt": "2026-09-07T02:57:22Z",
+      "merged": true,
+      "author": {
+        "login": "NoiseFan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1027": {
+      "number": 1027,
+      "updatedAt": "2026-09-07T03:42:03Z",
+      "merged": true,
+      "author": {
+        "login": "NoiseFan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1028": {
+      "number": 1028,
+      "updatedAt": "2026-09-07T03:40:49Z",
       "merged": true,
       "author": {
         "login": "NoiseFan",

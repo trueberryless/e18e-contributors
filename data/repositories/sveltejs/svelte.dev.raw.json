@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T13:07:45.337Z",
+    "lastRunAt": "2026-09-07T05:47:51.551Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNi0xMFQxODowNzozNlrOcf8RgA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -48837,7 +48837,7 @@
     },
     "1877": {
       "number": 1877,
-      "updatedAt": "2026-08-18T00:40:05Z",
+      "updatedAt": "2026-09-06T19:28:53Z",
       "merged": false,
       "author": {
         "login": "aymericzip",

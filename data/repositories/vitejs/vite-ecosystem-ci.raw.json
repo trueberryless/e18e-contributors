@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T16:24:26.758Z",
+    "lastRunAt": "2026-09-07T05:48:46.879Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMS0wNlQxOToyNDoxNFrOMJ66AQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3807,6 +3807,20 @@
       "user": {
         "login": "serhalp",
         "type": "User"
+      }
+    },
+    "522": {
+      "number": 522,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "523": {
+      "number": 523,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -16148,7 +16162,7 @@
     },
     "492": {
       "number": 492,
-      "updatedAt": "2026-09-03T23:01:26Z",
+      "updatedAt": "2026-09-07T04:28:09Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -16727,11 +16741,47 @@
     },
     "521": {
       "number": 521,
-      "updatedAt": "2026-09-05T19:49:56Z",
+      "updatedAt": "2026-09-07T04:26:53Z",
       "merged": false,
       "author": {
         "login": "serhalp",
         "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "522": {
+      "number": 522,
+      "updatedAt": "2026-09-07T04:27:16Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "523": {
+      "number": 523,
+      "updatedAt": "2026-09-07T04:48:17Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
       },
       "closingIssuesReferences": {
         "totalCount": 0

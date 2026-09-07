@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T16:25:18.844Z",
+    "lastRunAt": "2026-09-07T05:49:37.421Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wNC0xOVQwNDo0Mjo0NVrONl6pkw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5790,6 +5790,13 @@
     },
     "815": {
       "number": 815,
+      "user": {
+        "login": "hi-ogawa",
+        "type": "User"
+      }
+    },
+    "817": {
+      "number": 817,
       "user": {
         "login": "hi-ogawa",
         "type": "User"
@@ -12340,7 +12347,7 @@
     },
     "811": {
       "number": 811,
-      "updatedAt": "2026-09-04T09:45:07Z",
+      "updatedAt": "2026-09-07T04:22:43Z",
       "merged": false,
       "author": {
         "login": "hi-ogawa",
@@ -12394,8 +12401,8 @@
     },
     "815": {
       "number": 815,
-      "updatedAt": "2026-09-04T09:42:46Z",
-      "merged": false,
+      "updatedAt": "2026-09-06T20:04:41Z",
+      "merged": true,
       "author": {
         "login": "hi-ogawa",
         "__typename": "User"
@@ -12421,8 +12428,33 @@
               "login": "hi-ogawa",
               "__typename": "User"
             }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "sheremet-va",
+              "__typename": "User"
+            }
           }
         ]
+      }
+    },
+    "817": {
+      "number": 817,
+      "updatedAt": "2026-09-07T04:38:55Z",
+      "merged": false,
+      "author": {
+        "login": "hi-ogawa",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }
