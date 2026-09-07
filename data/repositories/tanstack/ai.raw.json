@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T00:53:02.287Z",
+    "lastRunAt": "2026-09-07T23:29:23.220Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0xMC0xN1QxNToxNTowMlrOrlQ5pQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -9090,6 +9090,13 @@
       "number": 1338,
       "user": {
         "login": "tombeckenham",
+        "type": "User"
+      }
+    },
+    "1340": {
+      "number": 1340,
+      "user": {
+        "login": "tannerlinsley",
         "type": "User"
       }
     }
@@ -39405,7 +39412,7 @@
     },
     "1127": {
       "number": 1127,
-      "updatedAt": "2026-09-01T00:39:08Z",
+      "updatedAt": "2026-09-07T15:24:57Z",
       "merged": false,
       "author": {
         "login": "mikemikimike",
@@ -45209,7 +45216,7 @@
     },
     "1332": {
       "number": 1332,
-      "updatedAt": "2026-09-05T04:32:27Z",
+      "updatedAt": "2026-09-07T20:39:16Z",
       "merged": false,
       "author": {
         "login": "jherr",
@@ -45227,7 +45234,7 @@
     },
     "1333": {
       "number": 1333,
-      "updatedAt": "2026-09-06T01:22:08Z",
+      "updatedAt": "2026-09-07T21:38:40Z",
       "merged": false,
       "author": {
         "login": "github-actions",
@@ -45263,7 +45270,7 @@
     },
     "1336": {
       "number": 1336,
-      "updatedAt": "2026-09-06T09:46:54Z",
+      "updatedAt": "2026-09-07T16:43:44Z",
       "merged": false,
       "author": {
         "login": "github-actions",
@@ -45276,12 +45283,20 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "LadyBluenotes",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "1338": {
       "number": 1338,
-      "updatedAt": "2026-09-07T00:47:08Z",
+      "updatedAt": "2026-09-07T19:11:33Z",
       "merged": false,
       "author": {
         "login": "tombeckenham",
@@ -45289,6 +45304,24 @@
       },
       "closingIssuesReferences": {
         "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1340": {
+      "number": 1340,
+      "updatedAt": "2026-09-07T21:32:50Z",
+      "merged": true,
+      "author": {
+        "login": "tannerlinsley",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
       },
       "reactions": {
         "totalCount": 0

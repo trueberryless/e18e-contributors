@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T23:03:48.733Z",
+    "lastRunAt": "2026-09-07T23:21:32.486Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wOS0wNFQxOTo0NjoyMVrPAAAAAQj4Who=",
     "prBackfillComplete": false,
     "issuesBackfillComplete": true
@@ -80776,9 +80776,49 @@
         "login": "RaceConditionWinner",
         "type": "User"
       }
+    },
+    "10057": {
+      "number": 10057,
+      "user": {
+        "login": "RaceConditionWinner",
+        "type": "User"
+      }
+    },
+    "10058": {
+      "number": 10058,
+      "user": {
+        "login": "wakqasahmed",
+        "type": "User"
+      }
     }
   },
   "prs": {
+    "10039": {
+      "number": 10039,
+      "updatedAt": "2026-09-07T10:18:33Z",
+      "merged": false,
+      "author": {
+        "login": "britsync07-prog",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
     "10042": {
       "number": 10042,
       "updatedAt": "2026-09-04T19:46:21Z",
@@ -80807,7 +80847,7 @@
     },
     "10045": {
       "number": 10045,
-      "updatedAt": "2026-09-05T23:45:39Z",
+      "updatedAt": "2026-09-07T10:17:49Z",
       "merged": false,
       "author": {
         "login": "moraesc",
@@ -80832,6 +80872,13 @@
             "state": "COMMENTED",
             "author": {
               "login": "moraesc",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
               "__typename": "User"
             }
           }
@@ -80873,7 +80920,7 @@
     },
     "10047": {
       "number": 10047,
-      "updatedAt": "2026-09-05T12:26:12Z",
+      "updatedAt": "2026-09-07T19:21:50Z",
       "merged": false,
       "author": {
         "login": "patrickelectric",
@@ -80967,6 +81014,24 @@
       "merged": false,
       "author": {
         "login": "fregante",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "10058": {
+      "number": 10058,
+      "updatedAt": "2026-09-07T06:10:37Z",
+      "merged": false,
+      "author": {
+        "login": "wakqasahmed",
         "__typename": "User"
       },
       "closingIssuesReferences": {

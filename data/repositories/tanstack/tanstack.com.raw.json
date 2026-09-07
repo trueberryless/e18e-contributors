@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T00:52:57.637Z",
+    "lastRunAt": "2026-09-07T23:29:18.889Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMi0wM1QwMzoyNDo0OFrOIJWaww==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8827,6 +8827,9 @@
       "user": {
         "login": "jherr",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "1222": {
@@ -8862,6 +8865,34 @@
       "user": {
         "login": "sentry[bot]",
         "type": "Bot"
+      }
+    },
+    "1227": {
+      "number": 1227,
+      "user": {
+        "login": "LadyBluenotes",
+        "type": "User"
+      }
+    },
+    "1228": {
+      "number": 1228,
+      "user": {
+        "login": "tannerlinsley",
+        "type": "User"
+      }
+    },
+    "1229": {
+      "number": 1229,
+      "user": {
+        "login": "LadyBluenotes",
+        "type": "User"
+      }
+    },
+    "1230": {
+      "number": 1230,
+      "user": {
+        "login": "LadyBluenotes",
+        "type": "User"
       }
     }
   },
@@ -32169,7 +32200,7 @@
     },
     "1210": {
       "number": 1210,
-      "updatedAt": "2026-09-02T15:18:47Z",
+      "updatedAt": "2026-09-07T20:36:53Z",
       "merged": false,
       "author": {
         "login": "Abeuty",
@@ -32191,7 +32222,7 @@
             }
           },
           {
-            "state": "APPROVED",
+            "state": "DISMISSED",
             "author": {
               "login": "tannerlinsley",
               "__typename": "User"
@@ -32333,8 +32364,8 @@
     },
     "1220": {
       "number": 1220,
-      "updatedAt": "2026-09-05T15:06:50Z",
-      "merged": false,
+      "updatedAt": "2026-09-07T21:02:37Z",
+      "merged": true,
       "author": {
         "login": "jherr",
         "__typename": "User"
@@ -32343,10 +32374,17 @@
         "totalCount": 0
       },
       "reactions": {
-        "totalCount": 0
+        "totalCount": 1
       },
       "reviews": {
         "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
           {
             "state": "COMMENTED",
             "author": {
@@ -32439,7 +32477,7 @@
     },
     "1226": {
       "number": 1226,
-      "updatedAt": "2026-09-06T23:08:40Z",
+      "updatedAt": "2026-09-07T16:12:22Z",
       "merged": false,
       "author": {
         "login": "sentry",
@@ -32453,6 +32491,109 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "1227": {
+      "number": 1227,
+      "updatedAt": "2026-09-07T20:30:22Z",
+      "merged": true,
+      "author": {
+        "login": "LadyBluenotes",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "schiller-manuel",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "1228": {
+      "number": 1228,
+      "updatedAt": "2026-09-07T21:00:02Z",
+      "merged": true,
+      "author": {
+        "login": "tannerlinsley",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "LadyBluenotes",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "1229": {
+      "number": 1229,
+      "updatedAt": "2026-09-07T22:23:06Z",
+      "merged": false,
+      "author": {
+        "login": "LadyBluenotes",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1230": {
+      "number": 1230,
+      "updatedAt": "2026-09-07T23:14:54Z",
+      "merged": false,
+      "author": {
+        "login": "LadyBluenotes",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     }
   }
