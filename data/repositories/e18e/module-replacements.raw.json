@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-06T21:09:02.453Z",
+    "lastRunAt": "2026-09-07T20:44:59.287Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMy0xMFQxNDozMDoxMVrOaSua6w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8488,6 +8488,44 @@
       "number": 1099,
       "user": {
         "login": "joaopedrodcf",
+        "type": "User"
+      }
+    },
+    "1100": {
+      "number": 1100,
+      "user": {
+        "login": "joaopedrodcf",
+        "type": "User"
+      }
+    },
+    "1101": {
+      "number": 1101,
+      "user": {
+        "login": "gameroman",
+        "type": "User"
+      }
+    },
+    "1102": {
+      "number": 1102,
+      "user": {
+        "login": "anilloutombam",
+        "type": "User"
+      }
+    },
+    "1103": {
+      "number": 1103,
+      "user": {
+        "login": "anilloutombam",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "1104": {
+      "number": 1104,
+      "user": {
+        "login": "anilloutombam",
         "type": "User"
       }
     }
