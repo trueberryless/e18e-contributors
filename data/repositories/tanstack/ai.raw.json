@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T23:29:23.220Z",
+    "lastRunAt": "2026-09-08T22:33:47.012Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0xMC0xN1QxNToxNTowMlrOrlQ5pQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -9097,6 +9097,51 @@
       "number": 1340,
       "user": {
         "login": "tannerlinsley",
+        "type": "User"
+      }
+    },
+    "1341": {
+      "number": 1341,
+      "user": {
+        "login": "tombeckenham",
+        "type": "User"
+      }
+    },
+    "1342": {
+      "number": 1342,
+      "user": {
+        "login": "urjitc",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 3
+      }
+    },
+    "1343": {
+      "number": 1343,
+      "user": {
+        "login": "max-sudolabs",
+        "type": "User"
+      }
+    },
+    "1344": {
+      "number": 1344,
+      "user": {
+        "login": "oztune",
+        "type": "User"
+      }
+    },
+    "1345": {
+      "number": 1345,
+      "user": {
+        "login": "oztune",
+        "type": "User"
+      }
+    },
+    "1346": {
+      "number": 1346,
+      "user": {
+        "login": "AlexDemzz",
         "type": "User"
       }
     }
@@ -32549,7 +32594,7 @@
     },
     "915": {
       "number": 915,
-      "updatedAt": "2026-09-04T04:43:11Z",
+      "updatedAt": "2026-09-08T11:22:27Z",
       "merged": false,
       "author": {
         "login": "tombeckenham",
@@ -37164,8 +37209,8 @@
     },
     "1065": {
       "number": 1065,
-      "updatedAt": "2026-09-04T11:17:22Z",
-      "merged": false,
+      "updatedAt": "2026-09-08T05:27:02Z",
+      "merged": true,
       "author": {
         "login": "SystemSculpt",
         "__typename": "User"
@@ -42424,7 +42469,7 @@
     },
     "1232": {
       "number": 1232,
-      "updatedAt": "2026-09-04T11:21:20Z",
+      "updatedAt": "2026-09-08T11:22:23Z",
       "merged": false,
       "author": {
         "login": "AlemTuzlak",
@@ -44945,7 +44990,7 @@
     },
     "1319": {
       "number": 1319,
-      "updatedAt": "2026-09-05T06:38:35Z",
+      "updatedAt": "2026-09-08T11:22:19Z",
       "merged": false,
       "author": {
         "login": "tombeckenham",
@@ -44978,8 +45023,8 @@
     },
     "1321": {
       "number": 1321,
-      "updatedAt": "2026-09-04T23:04:58Z",
-      "merged": false,
+      "updatedAt": "2026-09-08T06:24:02Z",
+      "merged": true,
       "author": {
         "login": "tombeckenham",
         "__typename": "User"
@@ -45091,8 +45136,8 @@
     },
     "1324": {
       "number": 1324,
-      "updatedAt": "2026-09-04T16:23:50Z",
-      "merged": false,
+      "updatedAt": "2026-09-07T23:48:26Z",
+      "merged": true,
       "author": {
         "login": "tombeckenham",
         "__typename": "User"
@@ -45157,7 +45202,7 @@
     },
     "1327": {
       "number": 1327,
-      "updatedAt": "2026-09-04T10:23:39Z",
+      "updatedAt": "2026-09-08T11:22:16Z",
       "merged": false,
       "author": {
         "login": "tombeckenham",
@@ -45183,7 +45228,7 @@
     },
     "1330": {
       "number": 1330,
-      "updatedAt": "2026-09-06T04:42:07Z",
+      "updatedAt": "2026-09-08T20:02:17Z",
       "merged": false,
       "author": {
         "login": "8times4",
@@ -45216,8 +45261,8 @@
     },
     "1332": {
       "number": 1332,
-      "updatedAt": "2026-09-07T20:39:16Z",
-      "merged": false,
+      "updatedAt": "2026-09-08T00:54:57Z",
+      "merged": true,
       "author": {
         "login": "jherr",
         "__typename": "User"
@@ -45229,12 +45274,20 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     },
     "1333": {
       "number": 1333,
-      "updatedAt": "2026-09-07T21:38:40Z",
+      "updatedAt": "2026-09-08T06:41:21Z",
       "merged": false,
       "author": {
         "login": "github-actions",
@@ -45252,7 +45305,7 @@
     },
     "1334": {
       "number": 1334,
-      "updatedAt": "2026-09-07T00:35:17Z",
+      "updatedAt": "2026-09-08T04:39:18Z",
       "merged": false,
       "author": {
         "login": "LadyBluenotes",
@@ -45270,7 +45323,7 @@
     },
     "1336": {
       "number": 1336,
-      "updatedAt": "2026-09-07T16:43:44Z",
+      "updatedAt": "2026-09-08T10:10:38Z",
       "merged": false,
       "author": {
         "login": "github-actions",
@@ -45296,7 +45349,7 @@
     },
     "1338": {
       "number": 1338,
-      "updatedAt": "2026-09-07T19:11:33Z",
+      "updatedAt": "2026-09-08T07:00:29Z",
       "merged": false,
       "author": {
         "login": "tombeckenham",
@@ -45309,7 +45362,29 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "tannerlinsley",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     },
     "1340": {
@@ -45318,6 +45393,68 @@
       "merged": true,
       "author": {
         "login": "tannerlinsley",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1341": {
+      "number": 1341,
+      "updatedAt": "2026-09-08T10:28:29Z",
+      "merged": false,
+      "author": {
+        "login": "tombeckenham",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1343": {
+      "number": 1343,
+      "updatedAt": "2026-09-08T16:40:26Z",
+      "merged": false,
+      "author": {
+        "login": "max-sudolabs",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "1346": {
+      "number": 1346,
+      "updatedAt": "2026-09-08T21:23:10Z",
+      "merged": false,
+      "author": {
+        "login": "AlexDemzz",
         "__typename": "User"
       },
       "closingIssuesReferences": {

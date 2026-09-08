@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T23:29:16.947Z",
+    "lastRunAt": "2026-09-08T22:33:40.300Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNi0xMi0xOVQwMTo1NjoxMFrOBd7kfg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -14999,6 +14999,20 @@
     },
     "2373": {
       "number": 2373,
+      "user": {
+        "login": "ousamabenyounes",
+        "type": "User"
+      }
+    },
+    "2374": {
+      "number": 2374,
+      "user": {
+        "login": "ousamabenyounes",
+        "type": "User"
+      }
+    },
+    "2375": {
+      "number": 2375,
       "user": {
         "login": "ousamabenyounes",
         "type": "User"
@@ -43882,7 +43896,7 @@
     },
     "2350": {
       "number": 2350,
-      "updatedAt": "2026-08-19T18:00:34Z",
+      "updatedAt": "2026-09-08T13:33:00Z",
       "merged": false,
       "author": {
         "login": "official-burak",
@@ -44251,6 +44265,50 @@
     "2373": {
       "number": 2373,
       "updatedAt": "2026-09-05T16:36:13Z",
+      "merged": false,
+      "author": {
+        "login": "ousamabenyounes",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2374": {
+      "number": 2374,
+      "updatedAt": "2026-09-08T02:05:44Z",
+      "merged": false,
+      "author": {
+        "login": "ousamabenyounes",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "2375": {
+      "number": 2375,
+      "updatedAt": "2026-09-08T19:02:52Z",
       "merged": false,
       "author": {
         "login": "ousamabenyounes",

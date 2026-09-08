@@ -1,6 +1,6 @@
 {
   "id": "zed-industries",
-  "updatedAt": "2026-09-07T23:38:38.410Z",
+  "updatedAt": "2026-09-08T22:43:10.237Z",
   "stats": {
     "191086": {
       "score": 0,
@@ -435,11 +435,11 @@
       "reactions": 11
     },
     "0x5ea000000": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 5
     },
     "0x62": {
@@ -544,7 +544,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 0
+      "reactions": 2
     },
     "0xORB": {
       "score": 0,
@@ -1043,12 +1043,12 @@
       "reactions": 0
     },
     "39ali": {
-      "score": 43,
-      "mergedPrs": 6,
+      "score": 57,
+      "mergedPrs": 8,
       "reviews": 1,
-      "reviewsReceived": 7,
-      "issuesLinked": 0,
-      "reactions": 27
+      "reviewsReceived": 9,
+      "issuesLinked": 1,
+      "reactions": 29
     },
     "3ddyBoi": {
       "score": 6,
@@ -1315,12 +1315,12 @@
       "reactions": 32
     },
     "5herlocked": {
-      "score": 20,
+      "score": 23,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 141
+      "reactions": 142
     },
     "5tefan": {
       "score": 1,
@@ -1507,10 +1507,10 @@
       "reactions": 0
     },
     "9to6": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -1672,7 +1672,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 10
+      "reactions": 12
     },
     "AKarbas": {
       "score": 0,
@@ -2651,12 +2651,12 @@
       "reactions": 0
     },
     "Albab-Hasan": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 8
+      "issuesLinked": 1,
+      "reactions": 14
     },
     "Albert-IV": {
       "score": 0,
@@ -3563,12 +3563,12 @@
       "reactions": 0
     },
     "Anthony-Eid": {
-      "score": 771,
-      "mergedPrs": 53,
-      "reviews": 117,
-      "reviewsReceived": 55,
-      "issuesLinked": 3,
-      "reactions": 935
+      "score": 863,
+      "mergedPrs": 60,
+      "reviews": 132,
+      "reviewsReceived": 62,
+      "issuesLinked": 4,
+      "reactions": 970
     },
     "AntoineG92": {
       "score": 0,
@@ -3610,6 +3610,14 @@
       "issuesLinked": 0,
       "reactions": 0
     },
+    "Antphar": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "AnuramAmarthya10": {
       "score": 0,
       "mergedPrs": 0,
@@ -3635,12 +3643,12 @@
       "reactions": 0
     },
     "ApplY3D": {
-      "score": 6,
+      "score": 7,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 62
+      "reactions": 70
     },
     "AprDeci": {
       "score": 0,
@@ -3843,12 +3851,12 @@
       "reactions": 67
     },
     "ArjunBhalodia98": {
-      "score": 2,
+      "score": 4,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 20
+      "reactions": 41
     },
     "ArjunKhunti": {
       "score": 0,
@@ -6336,7 +6344,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 0
+      "reactions": 2
     },
     "CherryWorm": {
       "score": 1,
@@ -6523,9 +6531,9 @@
       "reactions": 0
     },
     "ChristopherBiscardi": {
-      "score": 554,
+      "score": 602,
       "mergedPrs": 8,
-      "reviews": 165,
+      "reviews": 181,
       "reviewsReceived": 9,
       "issuesLinked": 3,
       "reactions": 36
@@ -6963,12 +6971,12 @@
       "reactions": 7
     },
     "ConradIrwin": {
-      "score": 308,
-      "mergedPrs": 31,
-      "reviews": 16,
-      "reviewsReceived": 17,
-      "issuesLinked": 3,
-      "reactions": 820
+      "score": 415,
+      "mergedPrs": 40,
+      "reviews": 31,
+      "reviewsReceived": 26,
+      "issuesLinked": 4,
+      "reactions": 883
     },
     "ConsoleTVs": {
       "score": 0,
@@ -7483,8 +7491,8 @@
       "reactions": 3
     },
     "DaZhi-the-Revelator": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -7947,20 +7955,20 @@
       "reactions": 0
     },
     "David-Stephenson": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
     "David3u": {
-      "score": 16,
-      "mergedPrs": 2,
+      "score": 22,
+      "mergedPrs": 3,
       "reviews": 0,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 2,
-      "reactions": 3
+      "reactions": 4
     },
     "DavidBK": {
       "score": 0,
@@ -9115,10 +9123,10 @@
       "reactions": 1
     },
     "Earlopain": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -9147,12 +9155,12 @@
       "reactions": 4
     },
     "Echsecutor": {
-      "score": 0,
+      "score": 1,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 4
+      "reactions": 8
     },
     "EdAyers": {
       "score": 21,
@@ -10352,7 +10360,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 21
+      "reactions": 22
     },
     "FlorentCollin": {
       "score": 3,
@@ -11267,10 +11275,10 @@
       "reactions": 0
     },
     "GitGlimpse895": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -11395,12 +11403,12 @@
       "reactions": 2
     },
     "GoldStrikeArch": {
-      "score": 119,
-      "mergedPrs": 11,
-      "reviews": 3,
-      "reviewsReceived": 6,
-      "issuesLinked": 4,
-      "reactions": 409
+      "score": 211,
+      "mergedPrs": 22,
+      "reviews": 6,
+      "reviewsReceived": 17,
+      "issuesLinked": 6,
+      "reactions": 535
     },
     "GoldenCreeperJ": {
       "score": 0,
@@ -11779,12 +11787,12 @@
       "reactions": 0
     },
     "Hadley99": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "Hai123xz": {
       "score": 0,
@@ -12123,10 +12131,10 @@
       "reactions": 1
     },
     "Helmutt03": {
-      "score": 15,
-      "mergedPrs": 2,
+      "score": 21,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 2
     },
@@ -12144,7 +12152,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 27
+      "reactions": 30
     },
     "Hennzau": {
       "score": 0,
@@ -12459,11 +12467,11 @@
       "reactions": 4
     },
     "HuaGu-Dragon": {
-      "score": 25,
-      "mergedPrs": 3,
+      "score": 39,
+      "mergedPrs": 5,
       "reviews": 0,
-      "reviewsReceived": 3,
-      "issuesLinked": 3,
+      "reviewsReceived": 5,
+      "issuesLinked": 4,
       "reactions": 10
     },
     "Huayra-hjy": {
@@ -12979,6 +12987,14 @@
       "reactions": 0
     },
     "InuzDev": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "InvalidJoker": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -14371,12 +14387,12 @@
       "reactions": 0
     },
     "JosephTLyons": {
-      "score": 1188,
-      "mergedPrs": 59,
-      "reviews": 26,
-      "reviewsReceived": 15,
+      "score": 1266,
+      "mergedPrs": 67,
+      "reviews": 36,
+      "reviewsReceived": 23,
       "issuesLinked": 3,
-      "reactions": 7938
+      "reactions": 7943
     },
     "Josh-AS": {
       "score": 0,
@@ -15163,12 +15179,12 @@
       "reactions": 0
     },
     "KazariEX": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 2
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 4
     },
     "KeKs0r": {
       "score": 1,
@@ -15611,10 +15627,10 @@
       "reactions": 0
     },
     "KlausUllrich": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -15811,10 +15827,10 @@
       "reactions": 0
     },
     "KuSh": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     },
@@ -15883,12 +15899,12 @@
       "reactions": 0
     },
     "KurodaKayn": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 2
     },
     "Kurt1968": {
       "score": 0,
@@ -16539,12 +16555,12 @@
       "reactions": 0
     },
     "Liberxue": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 2
     },
     "Liesy": {
       "score": 0,
@@ -17379,12 +17395,12 @@
       "reactions": 0
     },
     "MX48Live": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 2
     },
     "MXK7": {
       "score": 0,
@@ -17859,12 +17875,12 @@
       "reactions": 0
     },
     "MartinYe1234": {
-      "score": 479,
-      "mergedPrs": 41,
-      "reviews": 73,
-      "reviewsReceived": 37,
+      "score": 583,
+      "mergedPrs": 51,
+      "reviews": 88,
+      "reviewsReceived": 46,
       "issuesLinked": 8,
-      "reactions": 20
+      "reactions": 24
     },
     "Martinoxo": {
       "score": 0,
@@ -18675,12 +18691,12 @@
       "reactions": 1
     },
     "Mnigos": {
-      "score": 1,
+      "score": 3,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 14
+      "reactions": 28
     },
     "MoNaEcho": {
       "score": 0,
@@ -18931,11 +18947,11 @@
       "reactions": 0
     },
     "MostlyKIGuess": {
-      "score": 23,
-      "mergedPrs": 0,
+      "score": 31,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 234
     },
     "MotionMAIN": {
@@ -19099,12 +19115,12 @@
       "reactions": 0
     },
     "MrSubidubi": {
-      "score": 1263,
-      "mergedPrs": 53,
-      "reviews": 305,
-      "reviewsReceived": 47,
+      "score": 1433,
+      "mergedPrs": 66,
+      "reviews": 335,
+      "reviewsReceived": 61,
       "issuesLinked": 2,
-      "reactions": 323
+      "reactions": 326
     },
     "MrUnknownji": {
       "score": 0,
@@ -19547,12 +19563,12 @@
       "reactions": 0
     },
     "NaritaHARUKI": {
-      "score": 2,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 21
+      "reactions": 42
     },
     "Nas01010101": {
       "score": 0,
@@ -19659,12 +19675,12 @@
       "reactions": 0
     },
     "NeelChotai": {
-      "score": 128,
-      "mergedPrs": 15,
-      "reviews": 12,
-      "reviewsReceived": 13,
+      "score": 182,
+      "mergedPrs": 22,
+      "reviews": 17,
+      "reviewsReceived": 17,
       "issuesLinked": 1,
-      "reactions": 19
+      "reactions": 23
     },
     "Neelagiri65": {
       "score": 0,
@@ -20298,6 +20314,14 @@
       "issuesLinked": 0,
       "reactions": 1
     },
+    "NorthCityChen": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "NotAMojangDev": {
       "score": 1,
       "mergedPrs": 0,
@@ -20587,12 +20611,12 @@
       "reactions": 0
     },
     "OmChillure": {
-      "score": 22,
+      "score": 23,
       "mergedPrs": 2,
       "reviews": 0,
       "reviewsReceived": 3,
       "issuesLinked": 2,
-      "reactions": 51
+      "reactions": 55
     },
     "Omaizer21": {
       "score": 0,
@@ -21355,10 +21379,10 @@
       "reactions": 0
     },
     "PiasekDev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -21707,11 +21731,11 @@
       "reactions": 15
     },
     "Prohect": {
-      "score": 7,
-      "mergedPrs": 1,
+      "score": 15,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 14
     },
     "Promoter678": {
@@ -22691,11 +22715,11 @@
       "reactions": 0
     },
     "Rfluid": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "Rhelvetican": {
@@ -24048,7 +24072,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "Seasle": {
       "score": 0,
@@ -24635,10 +24659,10 @@
       "reactions": 0
     },
     "Sikriet": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -25171,12 +25195,12 @@
       "reactions": 1
     },
     "SomeoneToIgnore": {
-      "score": 1368,
-      "mergedPrs": 91,
-      "reviews": 207,
-      "reviewsReceived": 90,
-      "issuesLinked": 38,
-      "reactions": 1259
+      "score": 1524,
+      "mergedPrs": 102,
+      "reviews": 232,
+      "reviewsReceived": 102,
+      "issuesLinked": 42,
+      "reactions": 1317
     },
     "SomeoneWithOptions": {
       "score": 0,
@@ -25688,7 +25712,7 @@
       "reviews": 0,
       "reviewsReceived": 2,
       "issuesLinked": 1,
-      "reactions": 2
+      "reactions": 4
     },
     "SuhasSrinivasan": {
       "score": 0,
@@ -27384,7 +27408,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 121
+      "reactions": 124
     },
     "Torxed": {
       "score": 0,
@@ -28195,12 +28219,12 @@
       "reactions": 0
     },
     "Veykril": {
-      "score": 915,
-      "mergedPrs": 70,
-      "reviews": 143,
-      "reviewsReceived": 70,
-      "issuesLinked": 3,
-      "reactions": 600
+      "score": 1014,
+      "mergedPrs": 77,
+      "reviews": 161,
+      "reviewsReceived": 78,
+      "issuesLinked": 4,
+      "reactions": 601
     },
     "Vib1240n": {
       "score": 0,
@@ -28411,12 +28435,12 @@
       "reactions": 0
     },
     "Vlaaaaaaad": {
-      "score": 60,
-      "mergedPrs": 7,
-      "reviews": 3,
-      "reviewsReceived": 8,
-      "issuesLinked": 1,
-      "reactions": 57
+      "score": 104,
+      "mergedPrs": 13,
+      "reviews": 4,
+      "reviewsReceived": 14,
+      "issuesLinked": 3,
+      "reactions": 73
     },
     "Vlad-Shcherbina": {
       "score": 1,
@@ -29491,10 +29515,10 @@
       "reactions": 0
     },
     "YangChengxxyy": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -29579,6 +29603,14 @@
       "reactions": 4
     },
     "YazanAmmar": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "YeabsiraBezabih": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -30795,12 +30827,12 @@
       "reactions": 54
     },
     "aaronang": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 3
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 4
     },
     "aaronbuckner": {
       "score": 0,
@@ -31864,7 +31896,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "admorgan": {
       "score": 0,
@@ -32211,11 +32243,11 @@
       "reactions": 24
     },
     "afgomez": {
-      "score": 2,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 17
     },
     "afiskon": {
@@ -32355,12 +32387,12 @@
       "reactions": 0
     },
     "agu-z": {
-      "score": 113,
-      "mergedPrs": 10,
-      "reviews": 10,
-      "reviewsReceived": 13,
-      "issuesLinked": 0,
-      "reactions": 202
+      "score": 181,
+      "mergedPrs": 17,
+      "reviews": 17,
+      "reviewsReceived": 20,
+      "issuesLinked": 2,
+      "reactions": 208
     },
     "agupta01": {
       "score": 1,
@@ -33931,12 +33963,12 @@
       "reactions": 0
     },
     "alexispurslane": {
-      "score": 6,
+      "score": 11,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 56
+      "reactions": 110
     },
     "alexisvarjo": {
       "score": 0,
@@ -34363,11 +34395,11 @@
       "reactions": 0
     },
     "alkinun": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 22,
+      "mergedPrs": 3,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
       "reactions": 0
     },
     "all-iver": {
@@ -34419,6 +34451,14 @@
       "reactions": 0
     },
     "allisoneer": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "allquixotic": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -34587,12 +34627,12 @@
       "reactions": 350
     },
     "alumpe": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 6
     },
     "alvajose": {
       "score": 0,
@@ -34899,6 +34939,14 @@
       "reactions": 7
     },
     "amiralibg": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "amirhasanzadehpy": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -36579,12 +36627,12 @@
       "reactions": 2
     },
     "apleynes": {
-      "score": 0,
+      "score": 1,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 4
+      "reactions": 5
     },
     "apoorva-01": {
       "score": 98,
@@ -38331,12 +38379,12 @@
       "reactions": 51
     },
     "auwi-nordic": {
-      "score": 10,
+      "score": 12,
       "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 1,
-      "reactions": 24
+      "reactions": 42
     },
     "avatarnguyen": {
       "score": 2,
@@ -38923,12 +38971,12 @@
       "reactions": 0
     },
     "b5l": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 14,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 11
+      "reviewsReceived": 1,
+      "issuesLinked": 3,
+      "reactions": 22
     },
     "b6k-dev": {
       "score": 0,
@@ -39915,12 +39963,12 @@
       "reactions": 0
     },
     "benbrandt": {
-      "score": 803,
-      "mergedPrs": 109,
-      "reviews": 58,
-      "reviewsReceived": 39,
-      "issuesLinked": 11,
-      "reactions": 230
+      "score": 1327,
+      "mergedPrs": 165,
+      "reviews": 116,
+      "reviewsReceived": 95,
+      "issuesLinked": 15,
+      "reactions": 290
     },
     "bencres": {
       "score": 0,
@@ -40059,12 +40107,12 @@
       "reactions": 16
     },
     "bennetbo": {
-      "score": 808,
-      "mergedPrs": 80,
-      "reviews": 92,
-      "reviewsReceived": 55,
-      "issuesLinked": 14,
-      "reactions": 486
+      "score": 1129,
+      "mergedPrs": 102,
+      "reviews": 149,
+      "reviewsReceived": 77,
+      "issuesLinked": 22,
+      "reactions": 506
     },
     "bennypowers": {
       "score": 0,
@@ -40883,10 +40931,10 @@
       "reactions": 2
     },
     "bitscoper": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -42355,10 +42403,10 @@
       "reactions": 0
     },
     "brunorodmoreira": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 1
     },
@@ -43139,10 +43187,10 @@
       "reactions": 0
     },
     "caiopiccirillo": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 5
     },
@@ -43331,12 +43379,12 @@
       "reactions": 1
     },
     "cameron1024": {
-      "score": 421,
-      "mergedPrs": 47,
-      "reviews": 44,
-      "reviewsReceived": 37,
+      "score": 489,
+      "mergedPrs": 56,
+      "reviews": 49,
+      "reviewsReceived": 45,
       "issuesLinked": 0,
-      "reactions": 172
+      "reactions": 174
     },
     "cameroncooper": {
       "score": 0,
@@ -45344,7 +45392,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 8
     },
     "chrs-b": {
       "score": 1,
@@ -45840,7 +45888,7 @@
       "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 744
+      "reactions": 742
     },
     "clojj": {
       "score": 0,
@@ -46363,12 +46411,12 @@
       "reactions": 1
     },
     "cole-miller": {
-      "score": 434,
-      "mergedPrs": 29,
-      "reviews": 71,
-      "reviewsReceived": 21,
-      "issuesLinked": 1,
-      "reactions": 534
+      "score": 517,
+      "mergedPrs": 35,
+      "reviews": 86,
+      "reviewsReceived": 26,
+      "issuesLinked": 2,
+      "reactions": 540
     },
     "coleleavitt": {
       "score": 0,
@@ -46379,11 +46427,11 @@
       "reactions": 0
     },
     "colemcanelly": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 13,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 5
     },
     "colepeters": {
@@ -46947,12 +46995,12 @@
       "reactions": 0
     },
     "cppcoffee": {
-      "score": 132,
-      "mergedPrs": 19,
+      "score": 162,
+      "mergedPrs": 24,
       "reviews": 1,
-      "reviewsReceived": 16,
+      "reviewsReceived": 20,
       "issuesLinked": 4,
-      "reactions": 104
+      "reactions": 108
     },
     "cpreston321": {
       "score": 0,
@@ -47915,10 +47963,10 @@
       "reactions": 59
     },
     "cyyynthia": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -48442,6 +48490,14 @@
       "issuesLinked": 0,
       "reactions": 33
     },
+    "dan-marra-ebrs": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "dan-oak": {
       "score": 0,
       "mergedPrs": 0,
@@ -48867,12 +48923,12 @@
       "reactions": 0
     },
     "danilo-leal": {
-      "score": 838,
-      "mergedPrs": 88,
-      "reviews": 79,
-      "reviewsReceived": 89,
-      "issuesLinked": 3,
-      "reactions": 657
+      "score": 1088,
+      "mergedPrs": 117,
+      "reviews": 104,
+      "reviewsReceived": 113,
+      "issuesLinked": 4,
+      "reactions": 701
     },
     "danilomcampos": {
       "score": 0,
@@ -49067,10 +49123,10 @@
       "reactions": 0
     },
     "dargor": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 18,
+      "mergedPrs": 3,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 2
     },
@@ -49291,12 +49347,12 @@
       "reactions": 0
     },
     "dastrobu": {
-      "score": 13,
-      "mergedPrs": 1,
+      "score": 23,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 69
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 74
     },
     "data-diego": {
       "score": 0,
@@ -49467,10 +49523,10 @@
       "reactions": 0
     },
     "davidalecrim1": {
-      "score": 34,
-      "mergedPrs": 4,
+      "score": 41,
+      "mergedPrs": 5,
       "reviews": 0,
-      "reviewsReceived": 4,
+      "reviewsReceived": 6,
       "issuesLinked": 3,
       "reactions": 40
     },
@@ -49539,12 +49595,12 @@
       "reactions": 0
     },
     "davidescaccia": {
-      "score": 2,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 19
+      "reactions": 34
     },
     "davidfers": {
       "score": 0,
@@ -49568,7 +49624,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 7
     },
     "davidhao3300": {
       "score": 0,
@@ -51435,12 +51491,12 @@
       "reactions": 0
     },
     "dinocosta": {
-      "score": 425,
-      "mergedPrs": 29,
-      "reviews": 76,
-      "reviewsReceived": 30,
+      "score": 434,
+      "mergedPrs": 30,
+      "reviews": 77,
+      "reviewsReceived": 31,
       "issuesLinked": 7,
-      "reactions": 77
+      "reactions": 78
     },
     "dinudsi": {
       "score": 0,
@@ -53032,7 +53088,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 52
+      "reactions": 54
     },
     "dsully": {
       "score": 3,
@@ -53171,10 +53227,10 @@
       "reactions": 3
     },
     "dunkmann00": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 5
     },
@@ -53560,7 +53616,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 7
     },
     "dylansantwani": {
       "score": 0,
@@ -54114,6 +54170,14 @@
       "issuesLinked": 0,
       "reactions": 0
     },
+    "edwbaeza96": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "edwinkortman": {
       "score": 0,
       "mergedPrs": 0,
@@ -54291,9 +54355,9 @@
       "reactions": 17
     },
     "eholk": {
-      "score": 139,
+      "score": 145,
       "mergedPrs": 12,
-      "reviews": 20,
+      "reviews": 22,
       "reviewsReceived": 11,
       "issuesLinked": 3,
       "reactions": 18
@@ -55059,6 +55123,14 @@
       "reactions": 0
     },
     "emptyfridge0900": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "empyrealm": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -58619,9 +58691,9 @@
       "reactions": 0
     },
     "franciskafyi": {
-      "score": 64,
+      "score": 67,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 638
@@ -59331,9 +59403,9 @@
       "reactions": 0
     },
     "gaauwe": {
-      "score": 87,
+      "score": 105,
       "mergedPrs": 7,
-      "reviews": 9,
+      "reviews": 15,
       "reviewsReceived": 8,
       "issuesLinked": 0,
       "reactions": 171
@@ -59435,6 +59507,14 @@
       "reactions": 0
     },
     "gabriellafran22": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "gabrielrcosta1": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -59795,12 +59875,12 @@
       "reactions": 0
     },
     "gb-jos": {
-      "score": 34,
-      "mergedPrs": 4,
+      "score": 50,
+      "mergedPrs": 6,
       "reviews": 0,
-      "reviewsReceived": 6,
-      "issuesLinked": 2,
-      "reactions": 36
+      "reviewsReceived": 8,
+      "issuesLinked": 4,
+      "reactions": 40
     },
     "gbo-dev": {
       "score": 0,
@@ -60128,7 +60208,7 @@
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 1,
-      "reactions": 1
+      "reactions": 2
     },
     "geraint0923": {
       "score": 0,
@@ -60888,7 +60968,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 7
+      "reactions": 10
     },
     "glensc": {
       "score": 0,
@@ -61499,11 +61579,11 @@
       "reactions": 1
     },
     "grgwuk990": {
-      "score": 8,
-      "mergedPrs": 1,
+      "score": 22,
+      "mergedPrs": 3,
       "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
       "reactions": 2
     },
     "grian32": {
@@ -61907,11 +61987,11 @@
       "reactions": 0
     },
     "gustafj": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "gustavodetoni": {
@@ -62643,12 +62723,12 @@
       "reactions": 58
     },
     "hans-d": {
-      "score": 0,
+      "score": 1,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 5
     },
     "hanskokx": {
       "score": 0,
@@ -63123,12 +63203,12 @@
       "reactions": 0
     },
     "hayatosc": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 2
     },
     "hayderhassan": {
       "score": 0,
@@ -63664,7 +63744,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 16
+      "reactions": 18
     },
     "hexqnt": {
       "score": 0,
@@ -63843,12 +63923,12 @@
       "reactions": 15
     },
     "higorprado": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 15,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 4
+      "reviewsReceived": 1,
+      "issuesLinked": 4,
+      "reactions": 8
     },
     "hilaolu": {
       "score": 0,
@@ -64267,11 +64347,11 @@
       "reactions": 0
     },
     "hollmmax": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "holly-hacker": {
@@ -64571,8 +64651,8 @@
       "reactions": 0
     },
     "hron": {
-      "score": 25,
-      "mergedPrs": 3,
+      "score": 30,
+      "mergedPrs": 4,
       "reviews": 0,
       "reviewsReceived": 3,
       "issuesLinked": 0,
@@ -64680,7 +64760,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 5
+      "reactions": 8
     },
     "huacnlee": {
       "score": 35,
@@ -65539,12 +65619,12 @@
       "reactions": 0
     },
     "ian-h-chamberlain": {
-      "score": 4,
-      "mergedPrs": 0,
+      "score": 11,
+      "mergedPrs": 1,
       "reviews": 1,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 14
+      "reactions": 15
     },
     "ian-kelling": {
       "score": 1,
@@ -67539,12 +67619,12 @@
       "reactions": 89
     },
     "itsfuad": {
-      "score": 31,
+      "score": 32,
       "mergedPrs": 3,
       "reviews": 1,
       "reviewsReceived": 4,
       "issuesLinked": 2,
-      "reactions": 51
+      "reactions": 55
     },
     "itsjunetime": {
       "score": 0,
@@ -67987,12 +68067,12 @@
       "reactions": 1
     },
     "jabdinghoff": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     },
     "jabr": {
       "score": 0,
@@ -68424,14 +68504,14 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 25
+      "reactions": 26
     },
     "jakenorris1124": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "jakitliang": {
@@ -68441,6 +68521,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
+    },
+    "jaklyk2103": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "jakob-lilliemarck": {
       "score": 0,
@@ -69211,10 +69299,10 @@
       "reactions": 1
     },
     "javier-solis": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -71107,11 +71195,11 @@
       "reactions": 0
     },
     "jnns": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 4
     },
     "jnsprnw": {
@@ -72499,12 +72587,12 @@
       "reactions": 10
     },
     "jrobsonchase": {
-      "score": 5,
-      "mergedPrs": 0,
+      "score": 13,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 48
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 49
     },
     "jrom99": {
       "score": 1,
@@ -73728,7 +73816,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "kaedinhanohano": {
       "score": 7,
@@ -73859,11 +73947,11 @@
       "reactions": 0
     },
     "kakiuwang-ui": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "kakoc": {
@@ -74168,7 +74256,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 8
+      "reactions": 9
     },
     "karinfam": {
       "score": 0,
@@ -74235,10 +74323,10 @@
       "reactions": 0
     },
     "karol-broda": {
-      "score": 8,
-      "mergedPrs": 1,
+      "score": 14,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 1,
       "reactions": 4
     },
@@ -74403,12 +74491,12 @@
       "reactions": 3
     },
     "katie-z-geer": {
-      "score": 24,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 1,
+      "score": 38,
+      "mergedPrs": 3,
+      "reviews": 3,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 118
+      "reactions": 119
     },
     "katopz": {
       "score": 0,
@@ -74595,10 +74683,10 @@
       "reactions": 0
     },
     "kdevo": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -75232,7 +75320,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 10
+      "reactions": 11
     },
     "khalidibnwalid": {
       "score": 0,
@@ -76051,10 +76139,10 @@
       "reactions": 2
     },
     "kocolosk": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 9,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -76171,6 +76259,14 @@
       "reactions": 0
     },
     "kokoro-aya": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "kola-web": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -76307,12 +76403,12 @@
       "reactions": 0
     },
     "korbindeman": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 5
     },
     "korewaChino": {
       "score": 0,
@@ -76435,12 +76531,12 @@
       "reactions": 0
     },
     "koxya": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "koyasi777": {
       "score": 0,
@@ -76907,11 +77003,11 @@
       "reactions": 0
     },
     "kubkon": {
-      "score": 238,
-      "mergedPrs": 26,
-      "reviews": 24,
-      "reviewsReceived": 23,
-      "issuesLinked": 2,
+      "score": 252,
+      "mergedPrs": 27,
+      "reviews": 26,
+      "reviewsReceived": 24,
+      "issuesLinked": 3,
       "reactions": 90
     },
     "kucho": {
@@ -78363,12 +78459,12 @@
       "reactions": 0
     },
     "lennartkloock": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 3
+      "issuesLinked": 1,
+      "reactions": 5
     },
     "lennoxlotl": {
       "score": 0,
@@ -78944,7 +79040,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 0
+      "reactions": 2
     },
     "libondev": {
       "score": 0,
@@ -79243,12 +79339,12 @@
       "reactions": 1
     },
     "lingyaochu": {
-      "score": 256,
-      "mergedPrs": 31,
+      "score": 279,
+      "mergedPrs": 34,
       "reviews": 7,
-      "reviewsReceived": 34,
-      "issuesLinked": 17,
-      "reactions": 121
+      "reviewsReceived": 37,
+      "issuesLinked": 19,
+      "reactions": 131
     },
     "link271": {
       "score": 0,
@@ -79555,12 +79651,12 @@
       "reactions": 0
     },
     "ljt019": {
-      "score": 0,
+      "score": 1,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 4
+      "reactions": 9
     },
     "ljwljwljwljw": {
       "score": 0,
@@ -79728,7 +79824,7 @@
       "reviews": 0,
       "reviewsReceived": 3,
       "issuesLinked": 3,
-      "reactions": 17
+      "reactions": 18
     },
     "localcc": {
       "score": 7,
@@ -80995,10 +81091,10 @@
       "reactions": 0
     },
     "lwze": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 15,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -81435,12 +81531,12 @@
       "reactions": 147
     },
     "macraig": {
-      "score": 111,
-      "mergedPrs": 5,
-      "reviews": 5,
-      "reviewsReceived": 5,
+      "score": 179,
+      "mergedPrs": 14,
+      "reviews": 10,
+      "reviewsReceived": 12,
       "issuesLinked": 0,
-      "reactions": 663
+      "reactions": 666
     },
     "macthecadillac": {
       "score": 0,
@@ -81544,7 +81640,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "maekilae": {
       "score": 0,
@@ -82162,6 +82258,14 @@
       "issuesLinked": 0,
       "reactions": 0
     },
+    "maoyouaa": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "maphew": {
       "score": 0,
       "mergedPrs": 0,
@@ -82307,12 +82411,12 @@
       "reactions": 0
     },
     "marcocondrache": {
-      "score": 86,
+      "score": 88,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 857
+      "reactions": 875
     },
     "marcogroot": {
       "score": 11,
@@ -82507,11 +82611,11 @@
       "reactions": 0
     },
     "marius851000": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 14,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 2
     },
     "mariuso": {
@@ -82995,12 +83099,12 @@
       "reactions": 3
     },
     "matanshavit": {
-      "score": 1,
+      "score": 3,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 13
+      "reactions": 26
     },
     "matcldr": {
       "score": 0,
@@ -83011,11 +83115,11 @@
       "reactions": 0
     },
     "mateioprea": {
-      "score": 49,
-      "mergedPrs": 7,
+      "score": 57,
+      "mergedPrs": 8,
       "reviews": 1,
-      "reviewsReceived": 7,
-      "issuesLinked": 2,
+      "reviewsReceived": 8,
+      "issuesLinked": 3,
       "reactions": 4
     },
     "matejc": {
@@ -83707,9 +83811,9 @@
       "reactions": 0
     },
     "maxbrunsfeld": {
-      "score": 142,
+      "score": 157,
       "mergedPrs": 5,
-      "reviews": 12,
+      "reviews": 17,
       "reviewsReceived": 4,
       "issuesLinked": 1,
       "reactions": 754
@@ -83739,12 +83843,12 @@
       "reactions": 7
     },
     "maxdeviant": {
-      "score": 290,
-      "mergedPrs": 25,
-      "reviews": 25,
-      "reviewsReceived": 20,
+      "score": 443,
+      "mergedPrs": 40,
+      "reviews": 46,
+      "reviewsReceived": 35,
       "issuesLinked": 1,
-      "reactions": 676
+      "reactions": 677
     },
     "maxekman": {
       "score": 0,
@@ -84808,7 +84912,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 29
+      "reactions": 32
     },
     "mfeyg": {
       "score": 6,
@@ -85555,9 +85659,9 @@
       "reactions": 0
     },
     "miguelraz": {
-      "score": 127,
+      "score": 130,
       "mergedPrs": 18,
-      "reviews": 3,
+      "reviews": 4,
       "reviewsReceived": 19,
       "issuesLinked": 3,
       "reactions": 28
@@ -85635,12 +85739,12 @@
       "reactions": 0
     },
     "mikayla-maki": {
-      "score": 493,
-      "mergedPrs": 17,
-      "reviews": 26,
+      "score": 513,
+      "mergedPrs": 19,
+      "reviews": 29,
       "reviewsReceived": 12,
       "issuesLinked": 0,
-      "reactions": 3176
+      "reactions": 3188
     },
     "mike-engel": {
       "score": 0,
@@ -87179,12 +87283,12 @@
       "reactions": 2
     },
     "morgankrey": {
-      "score": 117,
-      "mergedPrs": 13,
-      "reviews": 13,
-      "reviewsReceived": 9,
+      "score": 146,
+      "mergedPrs": 17,
+      "reviews": 14,
+      "reviewsReceived": 13,
       "issuesLinked": 1,
-      "reactions": 21
+      "reactions": 40
     },
     "morgenthum": {
       "score": 0,
@@ -87539,10 +87643,10 @@
       "reactions": 2
     },
     "mre": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -88688,7 +88792,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 7
+      "reactions": 14
     },
     "n-bes": {
       "score": 0,
@@ -89243,12 +89347,12 @@
       "reactions": 6
     },
     "nathansobo": {
-      "score": 63,
-      "mergedPrs": 5,
+      "score": 77,
+      "mergedPrs": 7,
       "reviews": 5,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 206
+      "reviewsReceived": 3,
+      "issuesLinked": 1,
+      "reactions": 222
     },
     "nathany": {
       "score": 0,
@@ -90059,12 +90163,12 @@
       "reactions": 0
     },
     "nguyenphutrong": {
-      "score": 10,
+      "score": 12,
       "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 42
+      "reactions": 63
     },
     "nguyenthanhan201": {
       "score": 0,
@@ -90723,12 +90827,12 @@
       "reactions": 14
     },
     "niklod": {
-      "score": 1,
+      "score": 2,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 8
+      "reactions": 16
     },
     "nikolaevx": {
       "score": 0,
@@ -91779,12 +91883,12 @@
       "reactions": 0
     },
     "notpeter": {
-      "score": 263,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 271,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 2572
+      "reactions": 2573
     },
     "notrudyyy": {
       "score": 0,
@@ -92643,11 +92747,11 @@
       "reactions": 2
     },
     "ogtega": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "ohathaway": {
@@ -92947,12 +93051,12 @@
       "reactions": 1
     },
     "oliverbarnes": {
-      "score": 37,
-      "mergedPrs": 0,
+      "score": 42,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 368
+      "reactions": 374
     },
     "olivercederborg": {
       "score": 0,
@@ -93560,7 +93664,7 @@
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 8
+      "reactions": 9
     },
     "oryanm": {
       "score": 0,
@@ -93593,6 +93697,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
+    },
+    "osbyrne": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "oscar345": {
       "score": 0,
@@ -93651,12 +93763,12 @@
       "reactions": 1
     },
     "osiewicz": {
-      "score": 375,
-      "mergedPrs": 13,
-      "reviews": 53,
-      "reviewsReceived": 3,
+      "score": 430,
+      "mergedPrs": 17,
+      "reviews": 63,
+      "reviewsReceived": 8,
       "issuesLinked": 1,
-      "reactions": 1455
+      "reactions": 1457
     },
     "osimarr": {
       "score": 0,
@@ -93715,11 +93827,11 @@
       "reactions": 0
     },
     "osyvokon": {
-      "score": 180,
-      "mergedPrs": 21,
-      "reviews": 16,
-      "reviewsReceived": 12,
-      "issuesLinked": 3,
+      "score": 240,
+      "mergedPrs": 30,
+      "reviews": 19,
+      "reviewsReceived": 16,
+      "issuesLinked": 4,
       "reactions": 93
     },
     "ota-svimbersky": {
@@ -93960,7 +94072,7 @@
       "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 856
+      "reactions": 859
     },
     "ozanozbeker": {
       "score": 0,
@@ -95680,7 +95792,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 3
     },
     "perfecto25": {
       "score": 0,
@@ -96251,12 +96363,12 @@
       "reactions": 1
     },
     "pigletfly": {
-      "score": 20,
-      "mergedPrs": 3,
+      "score": 26,
+      "mergedPrs": 4,
       "reviews": 0,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 1,
-      "reactions": 5
+      "reactions": 6
     },
     "pimeys": {
       "score": 0,
@@ -96939,12 +97051,12 @@
       "reactions": 144
     },
     "portseif": {
-      "score": 1,
+      "score": 2,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 13
+      "reactions": 23
     },
     "poshmarkedbudu": {
       "score": 0,
@@ -97251,12 +97363,12 @@
       "reactions": 0
     },
     "prayanshchh": {
-      "score": 12,
-      "mergedPrs": 1,
+      "score": 20,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 6
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 7
     },
     "prcastro": {
       "score": 1,
@@ -97427,12 +97539,12 @@
       "reactions": 0
     },
     "probably-neb": {
-      "score": 511,
-      "mergedPrs": 58,
-      "reviews": 49,
-      "reviewsReceived": 43,
-      "issuesLinked": 1,
-      "reactions": 286
+      "score": 730,
+      "mergedPrs": 85,
+      "reviews": 65,
+      "reviewsReceived": 65,
+      "issuesLinked": 8,
+      "reactions": 289
     },
     "probablykabari": {
       "score": 0,
@@ -97443,11 +97555,11 @@
       "reactions": 1
     },
     "procr1337": {
-      "score": 21,
-      "mergedPrs": 3,
+      "score": 29,
+      "mergedPrs": 4,
       "reviews": 0,
-      "reviewsReceived": 3,
-      "issuesLinked": 1,
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
       "reactions": 5
     },
     "profispojka": {
@@ -97755,11 +97867,11 @@
       "reactions": 6
     },
     "pupeno": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 5
     },
     "pupli": {
@@ -98155,10 +98267,10 @@
       "reactions": 0
     },
     "qtqgyt": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 12,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 1
     },
@@ -98251,9 +98363,9 @@
       "reactions": 24
     },
     "quinncomendant": {
-      "score": 6,
+      "score": 9,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 64
@@ -99208,7 +99320,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 40
+      "reactions": 41
     },
     "raphamorim": {
       "score": 0,
@@ -99907,12 +100019,12 @@
       "reactions": 0
     },
     "reflectronic": {
-      "score": 126,
-      "mergedPrs": 11,
-      "reviews": 10,
-      "reviewsReceived": 8,
+      "score": 158,
+      "mergedPrs": 13,
+      "reviews": 15,
+      "reviewsReceived": 10,
       "issuesLinked": 3,
-      "reactions": 270
+      "reactions": 318
     },
     "regedarek": {
       "score": 0,
@@ -100275,12 +100387,12 @@
       "reactions": 0
     },
     "rgbkrk": {
-      "score": 60,
+      "score": 62,
       "mergedPrs": 2,
       "reviews": 0,
       "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 483
+      "reactions": 501
     },
     "rgeraldporter": {
       "score": 1,
@@ -100579,10 +100691,10 @@
       "reactions": 0
     },
     "rioriost": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     },
@@ -101075,12 +101187,12 @@
       "reactions": 0
     },
     "rochacbruno": {
-      "score": 1,
+      "score": 2,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 10
+      "reactions": 20
     },
     "rockas-d": {
       "score": 0,
@@ -101123,12 +101235,12 @@
       "reactions": 0
     },
     "rodrigoFfreire": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "rodrigotx21": {
       "score": 0,
@@ -101200,7 +101312,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 8
+      "reactions": 10
     },
     "rohaquinlop": {
       "score": 0,
@@ -101947,12 +102059,12 @@
       "reactions": 0
     },
     "rtfeldman": {
-      "score": 519,
-      "mergedPrs": 72,
-      "reviews": 24,
-      "reviewsReceived": 56,
+      "score": 671,
+      "mergedPrs": 92,
+      "reviews": 36,
+      "reviewsReceived": 71,
       "issuesLinked": 1,
-      "reactions": 287
+      "reactions": 295
     },
     "rtificr": {
       "score": 0,
@@ -102691,12 +102803,12 @@
       "reactions": 0
     },
     "saberoueslati": {
-      "score": 176,
+      "score": 181,
       "mergedPrs": 20,
       "reviews": 4,
       "reviewsReceived": 18,
       "issuesLinked": 19,
-      "reactions": 84
+      "reactions": 127
     },
     "sabinu": {
       "score": 0,
@@ -107219,12 +107331,12 @@
       "reactions": 0
     },
     "smitbarmase": {
-      "score": 735,
-      "mergedPrs": 51,
-      "reviews": 107,
-      "reviewsReceived": 53,
-      "issuesLinked": 17,
-      "reactions": 717
+      "score": 818,
+      "mergedPrs": 56,
+      "reviews": 124,
+      "reviewsReceived": 58,
+      "issuesLinked": 18,
+      "reactions": 720
     },
     "smitchaudhary": {
       "score": 0,
@@ -107915,10 +108027,10 @@
       "reactions": 0
     },
     "soundslocke": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -108696,7 +108808,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "starkovskypro-code": {
       "score": 0,
@@ -109411,12 +109523,12 @@
       "reactions": 0
     },
     "subtleGradient": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 9,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 3
     },
     "suchyj-btlnet": {
       "score": 0,
@@ -109707,10 +109819,10 @@
       "reactions": 1
     },
     "sunshowers": {
-      "score": 9,
-      "mergedPrs": 1,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -110051,9 +110163,9 @@
       "reactions": 0
     },
     "swannysec": {
-      "score": 27,
+      "score": 33,
       "mergedPrs": 3,
-      "reviews": 3,
+      "reviews": 5,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
@@ -110763,11 +110875,11 @@
       "reactions": 0
     },
     "tanaxer01": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "tanaybhomia": {
@@ -111328,7 +111440,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "tdegrunt": {
       "score": 1,
@@ -111755,11 +111867,11 @@
       "reactions": 4
     },
     "terror": {
-      "score": 82,
-      "mergedPrs": 10,
+      "score": 123,
+      "mergedPrs": 15,
       "reviews": 0,
-      "reviewsReceived": 11,
-      "issuesLinked": 10,
+      "reviewsReceived": 17,
+      "issuesLinked": 15,
       "reactions": 14
     },
     "terrywh": {
@@ -113179,10 +113291,10 @@
       "reactions": 0
     },
     "timvermeulen": {
-      "score": 59,
-      "mergedPrs": 6,
+      "score": 71,
+      "mergedPrs": 8,
       "reviews": 0,
-      "reviewsReceived": 7,
+      "reviewsReceived": 9,
       "issuesLinked": 4,
       "reactions": 138
     },
@@ -113304,7 +113416,7 @@
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 12
     },
     "tinycrops": {
       "score": 0,
@@ -113515,10 +113627,10 @@
       "reactions": 104
     },
     "tkilaker": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -113795,11 +113907,11 @@
       "reactions": 20
     },
     "toddlerer": {
-      "score": 8,
-      "mergedPrs": 1,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
       "reactions": 0
     },
     "todor-a": {
@@ -114027,12 +114139,12 @@
       "reactions": 16
     },
     "tomhoule": {
-      "score": 302,
-      "mergedPrs": 18,
-      "reviews": 63,
-      "reviewsReceived": 17,
-      "issuesLinked": 1,
-      "reactions": 38
+      "score": 416,
+      "mergedPrs": 28,
+      "reviews": 79,
+      "reviewsReceived": 28,
+      "issuesLinked": 3,
+      "reactions": 52
     },
     "tomires": {
       "score": 0,
@@ -114891,12 +115003,12 @@
       "reactions": 0
     },
     "tsoernes": {
-      "score": 2,
+      "score": 3,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 22
+      "reactions": 30
     },
     "tsoj": {
       "score": 0,
@@ -115371,10 +115483,10 @@
       "reactions": 0
     },
     "tzabbi": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 29
     },
@@ -116339,12 +116451,12 @@
       "reactions": 40
     },
     "van-sprundel": {
-      "score": 7,
-      "mergedPrs": 1,
+      "score": 15,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 1,
-      "reactions": 2
+      "reviewsReceived": 1,
+      "issuesLinked": 2,
+      "reactions": 3
     },
     "vancez": {
       "score": 6,
@@ -117339,12 +117451,12 @@
       "reactions": 0
     },
     "vitallium": {
-      "score": 52,
-      "mergedPrs": 5,
-      "reviews": 2,
-      "reviewsReceived": 4,
+      "score": 61,
+      "mergedPrs": 6,
+      "reviews": 3,
+      "reviewsReceived": 5,
       "issuesLinked": 2,
-      "reactions": 127
+      "reactions": 129
     },
     "vitaly-andr": {
       "score": 29,
@@ -117811,11 +117923,11 @@
       "reactions": 0
     },
     "vonEdfa": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vorbei": {
@@ -119691,12 +119803,12 @@
       "reactions": 8
     },
     "wln": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 3
     },
     "wm2015email": {
       "score": 0,
@@ -120451,12 +120563,12 @@
       "reactions": 0
     },
     "xcb3d": {
-      "score": 9,
-      "mergedPrs": 1,
+      "score": 17,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 13
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 14
     },
     "xcrap": {
       "score": 2,
@@ -120699,12 +120811,12 @@
       "reactions": 5
     },
     "xipeng-jin": {
-      "score": 31,
+      "score": 39,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 307
+      "reactions": 393
     },
     "xirreal": {
       "score": 0,
@@ -121371,9 +121483,9 @@
       "reactions": 2
     },
     "yara-blue": {
-      "score": 299,
+      "score": 302,
       "mergedPrs": 23,
-      "reviews": 49,
+      "reviews": 50,
       "reviewsReceived": 9,
       "issuesLinked": 6,
       "reactions": 164
@@ -121611,12 +121723,12 @@
       "reactions": 0
     },
     "yeskunall": {
-      "score": 163,
-      "mergedPrs": 17,
+      "score": 185,
+      "mergedPrs": 20,
       "reviews": 10,
-      "reviewsReceived": 19,
-      "issuesLinked": 13,
-      "reactions": 30
+      "reviewsReceived": 22,
+      "issuesLinked": 15,
+      "reactions": 34
     },
     "yeswecan": {
       "score": 0,
@@ -122123,12 +122235,12 @@
       "reactions": 5
     },
     "ysalitrynskyi": {
-      "score": 6,
+      "score": 7,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 61
+      "reactions": 66
     },
     "yseymour": {
       "score": 0,
@@ -122704,7 +122816,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 39
+      "reactions": 40
     },
     "zamonary1": {
       "score": 0,
@@ -123067,9 +123179,9 @@
       "reactions": 0
     },
     "zelenenka": {
-      "score": 209,
-      "mergedPrs": 35,
-      "reviews": 7,
+      "score": 232,
+      "mergedPrs": 39,
+      "reviews": 8,
       "reviewsReceived": 11,
       "issuesLinked": 0,
       "reactions": 23
@@ -123307,12 +123419,12 @@
       "reactions": 0
     },
     "zh-xl-kang": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "zhang0098": {
       "score": 0,
@@ -123723,6 +123835,14 @@
       "reactions": 2
     },
     "zjin123": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "zkillua00": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,

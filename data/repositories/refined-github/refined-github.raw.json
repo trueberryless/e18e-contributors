@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T23:21:32.486Z",
+    "lastRunAt": "2026-09-08T22:26:13.780Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wOS0wNFQxOTo0NjoyMVrPAAAAAQj4Who=",
     "prBackfillComplete": false,
     "issuesBackfillComplete": true
@@ -80708,7 +80708,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 2
+        "total_count": 3
       }
     },
     "10048": {
@@ -80790,12 +80790,26 @@
         "login": "wakqasahmed",
         "type": "User"
       }
+    },
+    "10059": {
+      "number": 10059,
+      "user": {
+        "login": "Vae555",
+        "type": "User"
+      }
+    },
+    "10061": {
+      "number": 10061,
+      "user": {
+        "login": "britsync07-prog",
+        "type": "User"
+      }
     }
   },
   "prs": {
     "10039": {
       "number": 10039,
-      "updatedAt": "2026-09-07T10:18:33Z",
+      "updatedAt": "2026-09-08T15:15:43Z",
       "merged": false,
       "author": {
         "login": "britsync07-prog",
@@ -80847,7 +80861,7 @@
     },
     "10045": {
       "number": 10045,
-      "updatedAt": "2026-09-07T10:17:49Z",
+      "updatedAt": "2026-09-08T15:30:34Z",
       "merged": false,
       "author": {
         "login": "moraesc",
@@ -80877,6 +80891,20 @@
           },
           {
             "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "moraesc",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
             "author": {
               "login": "fregante",
               "__typename": "User"
@@ -80920,7 +80948,7 @@
     },
     "10047": {
       "number": 10047,
-      "updatedAt": "2026-09-07T19:21:50Z",
+      "updatedAt": "2026-09-08T20:08:26Z",
       "merged": false,
       "author": {
         "login": "patrickelectric",
@@ -80930,10 +80958,18 @@
         "totalCount": 1
       },
       "reactions": {
-        "totalCount": 2
+        "totalCount": 3
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "10049": {
@@ -81032,6 +81068,24 @@
       "merged": false,
       "author": {
         "login": "wakqasahmed",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "10061": {
+      "number": 10061,
+      "updatedAt": "2026-09-08T17:36:37Z",
+      "merged": false,
+      "author": {
+        "login": "britsync07-prog",
         "__typename": "User"
       },
       "closingIssuesReferences": {

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T23:34:17.067Z",
+    "lastRunAt": "2026-09-08T22:38:47.425Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMi0wMVQyMDoyNjo0N1rOZb_Whg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -700,6 +700,13 @@
       "number": 94,
       "user": {
         "login": "PeatBoy",
+        "type": "User"
+      }
+    },
+    "95": {
+      "number": 95,
+      "user": {
+        "login": "zkillua00",
         "type": "User"
       }
     }
@@ -2303,6 +2310,24 @@
       "merged": false,
       "author": {
         "login": "PeatBoy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "95": {
+      "number": 95,
+      "updatedAt": "2026-09-08T06:57:23Z",
+      "merged": false,
+      "author": {
+        "login": "zkillua00",
         "__typename": "User"
       },
       "closingIssuesReferences": {
