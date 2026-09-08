@@ -1,13 +1,13 @@
 {
   "username": "AhmedBaset",
-  "lastUpdated": "2026-09-08T01:23:57.456Z",
+  "lastUpdated": "2026-09-08T19:36:20.855Z",
   "aggregatedStats": {
-    "score": 54,
+    "score": 60,
     "mergedPrs": 7,
-    "reviews": 3,
+    "reviews": 4,
     "reviewsReceived": 6,
     "issuesLinked": 0,
-    "reactions": 41
+    "reactions": 72
   },
   "orgStats": {
     "biomejs": {
@@ -27,12 +27,12 @@
       "reactions": 2
     },
     "shadcn-ui": {
-      "score": 4,
+      "score": 10,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 37
+      "reactions": 68
     },
     "tanstack": {
       "score": 38,
@@ -74,12 +74,12 @@
     },
     "shadcn-ui": {
       "ui": {
-        "score": 4,
+        "score": 10,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 37
+        "reactions": 68
       }
     },
     "tanstack": {

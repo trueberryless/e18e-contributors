@@ -1,20 +1,20 @@
 {
   "username": "Brooooooklyn",
-  "lastUpdated": "2026-09-06T05:02:12.497Z",
+  "lastUpdated": "2026-09-08T19:36:28.940Z",
   "aggregatedStats": {
-    "score": 561,
-    "mergedPrs": 93,
-    "reviews": 24,
-    "reviewsReceived": 7,
+    "score": 570,
+    "mergedPrs": 94,
+    "reviews": 25,
+    "reviewsReceived": 8,
     "issuesLinked": 7,
     "reactions": 30
   },
   "orgStats": {
     "oxc-project": {
-      "score": 545,
-      "mergedPrs": 91,
-      "reviews": 23,
-      "reviewsReceived": 5,
+      "score": 554,
+      "mergedPrs": 92,
+      "reviews": 24,
+      "reviewsReceived": 6,
       "issuesLinked": 7,
       "reactions": 15
     },
@@ -54,10 +54,10 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 0,
+        "score": 20,
+        "mergedPrs": 2,
+        "reviews": 3,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 2
       },

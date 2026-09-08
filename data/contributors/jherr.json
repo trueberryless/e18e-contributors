@@ -1,22 +1,22 @@
 {
   "username": "jherr",
-  "lastUpdated": "2026-09-07T23:39:30.755Z",
+  "lastUpdated": "2026-09-08T19:36:32.004Z",
   "aggregatedStats": {
-    "score": 713,
-    "mergedPrs": 80,
-    "reviews": 85,
-    "reviewsReceived": 45,
+    "score": 723,
+    "mergedPrs": 81,
+    "reviews": 86,
+    "reviewsReceived": 47,
     "issuesLinked": 3,
-    "reactions": 60
+    "reactions": 62
   },
   "orgStats": {
     "shadcn-ui": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 11,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 5
+      "reactions": 7
     },
     "tanstack": {
       "score": 705,
@@ -38,12 +38,12 @@
   "repoStats": {
     "shadcn-ui": {
       "ui": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 11,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 5
+        "reactions": 7
       }
     },
     "tanstack": {

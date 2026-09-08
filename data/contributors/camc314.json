@@ -1,20 +1,20 @@
 {
   "username": "camc314",
-  "lastUpdated": "2026-09-07T20:48:16.472Z",
+  "lastUpdated": "2026-09-08T19:36:23.368Z",
   "aggregatedStats": {
-    "score": 7933,
-    "mergedPrs": 813,
-    "reviews": 1083,
-    "reviewsReceived": 56,
-    "issuesLinked": 208,
-    "reactions": 1475
+    "score": 9751,
+    "mergedPrs": 1006,
+    "reviews": 1327,
+    "reviewsReceived": 89,
+    "issuesLinked": 250,
+    "reactions": 1511
   },
   "orgStats": {
     "emdash-cms": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 12,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 7890,
-      "mergedPrs": 807,
-      "reviews": 1081,
-      "reviewsReceived": 53,
-      "issuesLinked": 207,
-      "reactions": 1453
+      "score": 9702,
+      "mergedPrs": 999,
+      "reviews": 1325,
+      "reviewsReceived": 85,
+      "issuesLinked": 249,
+      "reactions": 1489
     },
     "tanstack": {
       "score": 9,
@@ -78,10 +78,10 @@
   "repoStats": {
     "emdash-cms": {
       "emdash": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }
@@ -114,12 +114,12 @@
         "reactions": 2
       },
       "oxc": {
-        "score": 5141,
-        "mergedPrs": 528,
-        "reviews": 700,
-        "reviewsReceived": 34,
-        "issuesLinked": 118,
-        "reactions": 1305
+        "score": 6952,
+        "mergedPrs": 720,
+        "reviews": 944,
+        "reviewsReceived": 66,
+        "issuesLinked": 160,
+        "reactions": 1341
       },
       "oxc-resolver": {
         "score": 0,

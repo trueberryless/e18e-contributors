@@ -1,13 +1,13 @@
 {
   "username": "Boshen",
-  "lastUpdated": "2026-09-08T16:14:45.381Z",
+  "lastUpdated": "2026-09-08T19:36:20.874Z",
   "aggregatedStats": {
-    "score": 7537,
-    "mergedPrs": 1263,
-    "reviews": 113,
-    "reviewsReceived": 137,
-    "issuesLinked": 115,
-    "reactions": 5162
+    "score": 7667,
+    "mergedPrs": 1284,
+    "reviews": 118,
+    "reviewsReceived": 142,
+    "issuesLinked": 116,
+    "reactions": 5188
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 7479,
-      "mergedPrs": 1260,
-      "reviews": 109,
-      "reviewsReceived": 134,
-      "issuesLinked": 115,
-      "reactions": 4883
+      "score": 7609,
+      "mergedPrs": 1281,
+      "reviews": 114,
+      "reviewsReceived": 139,
+      "issuesLinked": 116,
+      "reactions": 4909
     },
     "pnpm": {
       "score": 3,
@@ -112,12 +112,12 @@
         "reactions": 0
       },
       "oxc": {
-        "score": 2476,
-        "mergedPrs": 372,
-        "reviews": 37,
-        "reviewsReceived": 27,
-        "issuesLinked": 37,
-        "reactions": 4037
+        "score": 2605,
+        "mergedPrs": 393,
+        "reviews": 42,
+        "reviewsReceived": 32,
+        "issuesLinked": 38,
+        "reactions": 4063
       },
       "oxc-intellij-plugin": {
         "score": 58,

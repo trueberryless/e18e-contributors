@@ -1,33 +1,33 @@
 {
   "username": "gthb",
-  "lastUpdated": "2026-09-07T20:48:22.635Z",
+  "lastUpdated": "2026-09-08T19:36:29.129Z",
   "aggregatedStats": {
-    "score": 13,
-    "mergedPrs": 1,
+    "score": 19,
+    "mergedPrs": 2,
     "reviews": 2,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 11
+    "reactions": 12
   },
   "orgStats": {
     "oxc-project": {
-      "score": 13,
-      "mergedPrs": 1,
+      "score": 19,
+      "mergedPrs": 2,
       "reviews": 2,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 11
+      "reactions": 12
     }
   },
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 13,
-        "mergedPrs": 1,
+        "score": 19,
+        "mergedPrs": 2,
         "reviews": 2,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 11
+        "reactions": 12
       }
     }
   }

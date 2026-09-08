@@ -1,12 +1,12 @@
 {
   "username": "mvanhorn",
-  "lastUpdated": "2026-09-07T23:39:20.695Z",
+  "lastUpdated": "2026-09-08T19:36:21.434Z",
   "aggregatedStats": {
-    "score": 288,
-    "mergedPrs": 34,
+    "score": 304,
+    "mergedPrs": 36,
     "reviews": 4,
-    "reviewsReceived": 36,
-    "issuesLinked": 33,
+    "reviewsReceived": 38,
+    "issuesLinked": 35,
     "reactions": 40
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "emdash-cms": {
-      "score": 159,
-      "mergedPrs": 19,
+      "score": 175,
+      "mergedPrs": 21,
       "reviews": 2,
-      "reviewsReceived": 20,
-      "issuesLinked": 19,
+      "reviewsReceived": 22,
+      "issuesLinked": 21,
       "reactions": 2
     },
     "npmx-dev": {
@@ -112,11 +112,11 @@
     },
     "emdash-cms": {
       "emdash": {
-        "score": 159,
-        "mergedPrs": 19,
+        "score": 175,
+        "mergedPrs": 21,
         "reviews": 2,
-        "reviewsReceived": 20,
-        "issuesLinked": 19,
+        "reviewsReceived": 22,
+        "issuesLinked": 21,
         "reactions": 2
       }
     },

@@ -1,22 +1,22 @@
 {
   "username": "mertcanaltin",
-  "lastUpdated": "2026-09-05T15:57:08.733Z",
+  "lastUpdated": "2026-09-08T19:36:29.214Z",
   "aggregatedStats": {
-    "score": 15,
+    "score": 17,
     "mergedPrs": 1,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 98
+    "reactions": 121
   },
   "orgStats": {
     "oxc-project": {
-      "score": 6,
+      "score": 8,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 59
+      "reactions": 82
     },
     "pnpm": {
       "score": 5,
@@ -46,12 +46,12 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 6,
+        "score": 8,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 59
+        "reactions": 82
       }
     },
     "pnpm": {

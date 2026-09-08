@@ -1,13 +1,13 @@
 {
   "username": "IWANABETHATGUY",
-  "lastUpdated": "2026-09-06T23:11:43.893Z",
+  "lastUpdated": "2026-09-08T19:36:24.910Z",
   "aggregatedStats": {
     "score": 232,
     "mergedPrs": 32,
     "reviews": 15,
     "reviewsReceived": 10,
     "issuesLinked": 6,
-    "reactions": 47
+    "reactions": 48
   },
   "orgStats": {
     "nuxt": {
@@ -24,7 +24,7 @@
       "reviews": 11,
       "reviewsReceived": 1,
       "issuesLinked": 1,
-      "reactions": 21
+      "reactions": 22
     },
     "pnpm": {
       "score": 6,
@@ -77,7 +77,7 @@
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 15
+        "reactions": 16
       },
       "oxc-intellij-plugin": {
         "score": 26,

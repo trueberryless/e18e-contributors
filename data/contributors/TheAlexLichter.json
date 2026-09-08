@@ -1,13 +1,13 @@
 {
   "username": "TheAlexLichter",
-  "lastUpdated": "2026-09-08T01:23:57.636Z",
+  "lastUpdated": "2026-09-08T19:36:21.012Z",
   "aggregatedStats": {
-    "score": 2887,
-    "mergedPrs": 262,
-    "reviews": 394,
-    "reviewsReceived": 158,
-    "issuesLinked": 34,
-    "reactions": 1701
+    "score": 2906,
+    "mergedPrs": 264,
+    "reviews": 395,
+    "reviewsReceived": 160,
+    "issuesLinked": 36,
+    "reactions": 1704
   },
   "orgStats": {
     "biomejs": {
@@ -43,12 +43,12 @@
       "reactions": 1329
     },
     "oxc-project": {
-      "score": 134,
-      "mergedPrs": 15,
-      "reviews": 13,
-      "reviewsReceived": 4,
-      "issuesLinked": 1,
-      "reactions": 141
+      "score": 153,
+      "mergedPrs": 17,
+      "reviews": 14,
+      "reviewsReceived": 6,
+      "issuesLinked": 3,
+      "reactions": 144
     },
     "shadcn-ui": {
       "score": 0,
@@ -398,12 +398,12 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 18,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 94
+        "score": 38,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
+        "reactions": 97
       },
       "oxc-intellij-plugin": {
         "score": 9,

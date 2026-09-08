@@ -1,13 +1,13 @@
 {
   "username": "mehm8128",
-  "lastUpdated": "2026-09-08T16:14:45.883Z",
+  "lastUpdated": "2026-09-08T19:36:21.406Z",
   "aggregatedStats": {
-    "score": 127,
-    "mergedPrs": 13,
-    "reviews": 10,
-    "reviewsReceived": 21,
-    "issuesLinked": 4,
-    "reactions": 22
+    "score": 209,
+    "mergedPrs": 22,
+    "reviews": 16,
+    "reviewsReceived": 30,
+    "issuesLinked": 9,
+    "reactions": 23
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 17
     },
     "oxc-project": {
-      "score": 4,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 5
+      "score": 86,
+      "mergedPrs": 9,
+      "reviews": 7,
+      "reviewsReceived": 9,
+      "issuesLinked": 5,
+      "reactions": 6
     },
     "vuejs": {
       "score": 6,
@@ -56,12 +56,12 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 5
+        "score": 86,
+        "mergedPrs": 9,
+        "reviews": 7,
+        "reviewsReceived": 9,
+        "issuesLinked": 5,
+        "reactions": 6
       }
     },
     "vuejs": {

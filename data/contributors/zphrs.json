@@ -1,20 +1,20 @@
 {
   "username": "zphrs",
-  "lastUpdated": "2026-09-06T09:35:34.947Z",
+  "lastUpdated": "2026-09-08T19:36:24.286Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 1,
+    "score": 16,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 1,
     "reactions": 0
   },
   "orgStats": {
     "monkeytypegame": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "monkeytypegame": {
       "monkeytype": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }
