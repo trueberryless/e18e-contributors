@@ -1,10 +1,10 @@
 {
   "username": "ghiscoding",
-  "lastUpdated": "2026-09-07T05:50:51.196Z",
+  "lastUpdated": "2026-09-08T06:25:03.421Z",
   "aggregatedStats": {
-    "score": 45,
-    "mergedPrs": 5,
-    "reviews": 4,
+    "score": 70,
+    "mergedPrs": 7,
+    "reviews": 9,
     "reviewsReceived": 4,
     "issuesLinked": 1,
     "reactions": 14
@@ -43,17 +43,17 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 14,
+      "score": 17,
       "mergedPrs": 1,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 23,
+      "mergedPrs": 2,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 6
@@ -118,9 +118,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 14,
+        "score": 17,
         "mergedPrs": 1,
-        "reviews": 2,
+        "reviews": 3,
         "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 0
@@ -128,9 +128,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 23,
+        "mergedPrs": 2,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 6

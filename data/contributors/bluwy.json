@@ -1,13 +1,13 @@
 {
   "username": "bluwy",
-  "lastUpdated": "2026-09-07T17:28:17.313Z",
+  "lastUpdated": "2026-09-08T06:25:04.002Z",
   "aggregatedStats": {
-    "score": 7349,
-    "mergedPrs": 475,
-    "reviews": 1397,
-    "reviewsReceived": 478,
-    "issuesLinked": 111,
-    "reactions": 852
+    "score": 8756,
+    "mergedPrs": 548,
+    "reviews": 1701,
+    "reviewsReceived": 559,
+    "issuesLinked": 133,
+    "reactions": 896
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,26 +75,26 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 1653,
-      "mergedPrs": 92,
-      "reviews": 345,
-      "reviewsReceived": 92,
-      "issuesLinked": 28,
-      "reactions": 104
+      "score": 1717,
+      "mergedPrs": 98,
+      "reviews": 353,
+      "reviewsReceived": 99,
+      "issuesLinked": 29,
+      "reactions": 108
     },
     "vitejs": {
-      "score": 3015,
-      "mergedPrs": 141,
-      "reviews": 684,
-      "reviewsReceived": 159,
-      "issuesLinked": 25,
-      "reactions": 494
+      "score": 4341,
+      "mergedPrs": 205,
+      "reviews": 980,
+      "reviewsReceived": 231,
+      "issuesLinked": 46,
+      "reactions": 534
     },
     "vitest-dev": {
-      "score": 36,
-      "mergedPrs": 6,
+      "score": 53,
+      "mergedPrs": 9,
       "reviews": 0,
-      "reviewsReceived": 6,
+      "reviewsReceived": 8,
       "issuesLinked": 0,
       "reactions": 1
     },
@@ -254,12 +254,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 14,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 22
+        "score": 78,
+        "mergedPrs": 7,
+        "reviews": 10,
+        "reviewsReceived": 8,
+        "issuesLinked": 1,
+        "reactions": 26
       },
       "language-tools": {
         "score": 13,
@@ -360,12 +360,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 2700,
-        "mergedPrs": 110,
-        "reviews": 642,
-        "reviewsReceived": 130,
-        "issuesLinked": 23,
-        "reactions": 480
+        "score": 4026,
+        "mergedPrs": 174,
+        "reviews": 938,
+        "reviewsReceived": 202,
+        "issuesLinked": 44,
+        "reactions": 520
       },
       "vite-benchmark": {
         "score": 15,
@@ -426,10 +426,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 36,
-        "mergedPrs": 6,
+        "score": 53,
+        "mergedPrs": 9,
         "reviews": 0,
-        "reviewsReceived": 6,
+        "reviewsReceived": 8,
         "issuesLinked": 0,
         "reactions": 1
       }

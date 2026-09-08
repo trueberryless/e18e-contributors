@@ -1,10 +1,10 @@
 {
   "username": "sacrosanctic",
-  "lastUpdated": "2026-09-07T05:50:53.844Z",
+  "lastUpdated": "2026-09-08T06:25:06.922Z",
   "aggregatedStats": {
-    "score": 743,
+    "score": 746,
     "mergedPrs": 94,
-    "reviews": 40,
+    "reviews": 41,
     "reviewsReceived": 85,
     "issuesLinked": 30,
     "reactions": 76
@@ -27,9 +27,9 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 697,
+      "score": 700,
       "mergedPrs": 88,
-      "reviews": 38,
+      "reviews": 39,
       "reviewsReceived": 78,
       "issuesLinked": 29,
       "reactions": 68
@@ -130,9 +130,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 65,
+        "score": 68,
         "mergedPrs": 9,
-        "reviews": 3,
+        "reviews": 4,
         "reviewsReceived": 8,
         "issuesLinked": 1,
         "reactions": 5

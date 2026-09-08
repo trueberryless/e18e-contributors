@@ -1,11 +1,11 @@
 {
   "username": "Princesseuh",
-  "lastUpdated": "2026-09-07T17:28:16.438Z",
+  "lastUpdated": "2026-09-08T06:25:03.117Z",
   "aggregatedStats": {
-    "score": 5982,
-    "mergedPrs": 595,
+    "score": 5989,
+    "mergedPrs": 596,
     "reviews": 654,
-    "reviewsReceived": 461,
+    "reviewsReceived": 463,
     "issuesLinked": 252,
     "reactions": 801
   },
@@ -51,10 +51,10 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -136,10 +136,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

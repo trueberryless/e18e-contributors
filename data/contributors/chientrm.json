@@ -1,20 +1,20 @@
 {
   "username": "chientrm",
-  "lastUpdated": "2026-09-07T05:51:02.917Z",
+  "lastUpdated": "2026-09-08T06:25:17.597Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
-    "reviews": 1,
-    "reviewsReceived": 1,
+    "score": 22,
+    "mergedPrs": 2,
+    "reviews": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 32
   },
   "orgStats": {
     "sveltejs": {
-      "score": 12,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
+      "score": 22,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 32
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 12,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 22,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 32
       },

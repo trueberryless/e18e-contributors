@@ -1,33 +1,33 @@
 {
   "username": "lettucebowler",
-  "lastUpdated": "2026-09-06T13:08:58.709Z",
+  "lastUpdated": "2026-09-08T06:25:18.446Z",
   "aggregatedStats": {
-    "score": 8,
-    "mergedPrs": 1,
-    "reviews": 0,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 3
+    "score": 20,
+    "mergedPrs": 2,
+    "reviews": 1,
+    "reviewsReceived": 2,
+    "issuesLinked": 2,
+    "reactions": 6
   },
   "orgStats": {
     "sveltejs": {
-      "score": 8,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 3
+      "score": 20,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 6
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 8,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 3
+        "score": 20,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
+        "reactions": 6
       }
     }
   }

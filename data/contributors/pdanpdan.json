@@ -1,10 +1,10 @@
 {
   "username": "pdanpdan",
-  "lastUpdated": "2026-09-06T16:29:27.099Z",
+  "lastUpdated": "2026-09-08T06:25:25.921Z",
   "aggregatedStats": {
-    "score": 61,
+    "score": 64,
     "mergedPrs": 8,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 5,
     "issuesLinked": 1,
     "reactions": 110
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 61,
+      "score": 64,
       "mergedPrs": 8,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 5,
       "issuesLinked": 1,
       "reactions": 110
@@ -48,9 +48,9 @@
         "reactions": 0
       },
       "core": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

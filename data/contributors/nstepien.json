@@ -1,11 +1,11 @@
 {
   "username": "nstepien",
-  "lastUpdated": "2026-09-05T12:34:17.240Z",
+  "lastUpdated": "2026-09-08T06:25:03.702Z",
   "aggregatedStats": {
-    "score": 28,
-    "mergedPrs": 3,
+    "score": 34,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 3,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 70
   },
@@ -51,10 +51,10 @@
       "reactions": 3
     },
     "vitest-dev": {
-      "score": 19,
-      "mergedPrs": 2,
+      "score": 25,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 3,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
       "reactions": 34
     }
@@ -128,10 +128,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 19,
-        "mergedPrs": 2,
+        "score": 25,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 34
       },

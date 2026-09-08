@@ -1,10 +1,10 @@
 {
   "username": "reslear",
-  "lastUpdated": "2026-09-07T01:06:04.916Z",
+  "lastUpdated": "2026-09-08T06:25:11.129Z",
   "aggregatedStats": {
-    "score": 102,
+    "score": 105,
     "mergedPrs": 15,
-    "reviews": 4,
+    "reviews": 5,
     "reviewsReceived": 12,
     "issuesLinked": 0,
     "reactions": 21
@@ -35,9 +35,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 27,
+      "score": 30,
       "mergedPrs": 4,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 6,
       "issuesLinked": 0,
       "reactions": 6
@@ -139,6 +139,14 @@
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "devtools": {
         "score": 21,
         "mergedPrs": 3,

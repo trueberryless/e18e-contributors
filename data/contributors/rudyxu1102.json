@@ -1,21 +1,21 @@
 {
   "username": "rudyxu1102",
-  "lastUpdated": "2026-09-07T11:54:01.748Z",
+  "lastUpdated": "2026-09-08T06:25:33.787Z",
   "aggregatedStats": {
-    "score": 67,
-    "mergedPrs": 6,
-    "reviews": 2,
-    "reviewsReceived": 5,
-    "issuesLinked": 6,
+    "score": 96,
+    "mergedPrs": 9,
+    "reviews": 3,
+    "reviewsReceived": 8,
+    "issuesLinked": 10,
     "reactions": 142
   },
   "orgStats": {
     "vuejs": {
-      "score": 67,
-      "mergedPrs": 6,
-      "reviews": 2,
-      "reviewsReceived": 5,
-      "issuesLinked": 6,
+      "score": 96,
+      "mergedPrs": 9,
+      "reviews": 3,
+      "reviewsReceived": 8,
+      "issuesLinked": 10,
       "reactions": 142
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 45,
-        "mergedPrs": 4,
-        "reviews": 1,
-        "reviewsReceived": 3,
-        "issuesLinked": 5,
+        "score": 74,
+        "mergedPrs": 7,
+        "reviews": 2,
+        "reviewsReceived": 6,
+        "issuesLinked": 9,
         "reactions": 86
       },
       "devtools-v6": {

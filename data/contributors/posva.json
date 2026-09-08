@@ -1,13 +1,13 @@
 {
   "username": "posva",
-  "lastUpdated": "2026-09-07T23:39:21.009Z",
+  "lastUpdated": "2026-09-08T06:25:04.041Z",
   "aggregatedStats": {
-    "score": 6243,
-    "mergedPrs": 305,
-    "reviews": 1414,
-    "reviewsReceived": 86,
+    "score": 6325,
+    "mergedPrs": 310,
+    "reviews": 1431,
+    "reviewsReceived": 91,
     "issuesLinked": 70,
-    "reactions": 2498
+    "reactions": 2520
   },
   "orgStats": {
     "bombshell-dev": {
@@ -67,20 +67,20 @@
       "reactions": 6
     },
     "vitest-dev": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 12,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 7
+      "reactions": 13
     },
     "vuejs": {
-      "score": 6016,
-      "mergedPrs": 280,
-      "reviews": 1393,
-      "reviewsReceived": 74,
+      "score": 6087,
+      "mergedPrs": 283,
+      "reviews": 1410,
+      "reviewsReceived": 78,
       "issuesLinked": 66,
-      "reactions": 2306
+      "reactions": 2322
     }
   },
   "repoStats": {
@@ -260,15 +260,23 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 7
+        "reactions": 13
       }
     },
     "vuejs": {
+      "awesome-vue": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "composition-api": {
         "score": 79,
         "mergedPrs": 7,
@@ -278,12 +286,12 @@
         "reactions": 9
       },
       "core": {
-        "score": 69,
-        "mergedPrs": 5,
-        "reviews": 6,
-        "reviewsReceived": 7,
+        "score": 138,
+        "mergedPrs": 8,
+        "reviews": 22,
+        "reviewsReceived": 11,
         "issuesLinked": 1,
-        "reactions": 173
+        "reactions": 189
       },
       "devtools": {
         "score": 17,

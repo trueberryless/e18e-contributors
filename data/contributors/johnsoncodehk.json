@@ -1,13 +1,13 @@
 {
   "username": "johnsoncodehk",
-  "lastUpdated": "2026-09-07T11:53:34.245Z",
+  "lastUpdated": "2026-09-08T06:25:09.887Z",
   "aggregatedStats": {
-    "score": 2301,
-    "mergedPrs": 290,
+    "score": 2332,
+    "mergedPrs": 293,
     "reviews": 76,
-    "reviewsReceived": 24,
-    "issuesLinked": 125,
-    "reactions": 3498
+    "reviewsReceived": 29,
+    "issuesLinked": 127,
+    "reactions": 3567
   },
   "orgStats": {
     "nuxt": {
@@ -51,12 +51,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 2201,
-      "mergedPrs": 276,
+      "score": 2232,
+      "mergedPrs": 279,
       "reviews": 73,
-      "reviewsReceived": 18,
-      "issuesLinked": 122,
-      "reactions": 3404
+      "reviewsReceived": 23,
+      "issuesLinked": 124,
+      "reactions": 3473
     },
     "withastro": {
       "score": 74,
@@ -144,12 +144,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 351,
-        "mergedPrs": 22,
+        "score": 382,
+        "mergedPrs": 25,
         "reviews": 14,
-        "reviewsReceived": 3,
-        "issuesLinked": 12,
-        "reactions": 1717
+        "reviewsReceived": 8,
+        "issuesLinked": 14,
+        "reactions": 1786
       },
       "language-tools": {
         "score": 1785,

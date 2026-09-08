@@ -1,13 +1,13 @@
 {
   "username": "kazupon",
-  "lastUpdated": "2026-09-07T11:53:27.429Z",
+  "lastUpdated": "2026-09-08T06:25:04.027Z",
   "aggregatedStats": {
-    "score": 10554,
-    "mergedPrs": 359,
-    "reviews": 2855,
+    "score": 11817,
+    "mergedPrs": 366,
+    "reviews": 3264,
     "reviewsReceived": 131,
     "issuesLinked": 22,
-    "reactions": 184
+    "reactions": 194
   },
   "orgStats": {
     "bombshell-dev": {
@@ -59,12 +59,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 10210,
-      "mergedPrs": 309,
-      "reviews": 2834,
+      "score": 11473,
+      "mergedPrs": 316,
+      "reviews": 3243,
       "reviewsReceived": 108,
       "issuesLinked": 21,
-      "reactions": 127
+      "reactions": 137
     }
   },
   "repoStats": {
@@ -226,12 +226,12 @@
         "reactions": 0
       },
       "awesome-vue": {
-        "score": 4898,
-        "mergedPrs": 4,
-        "reviews": 1625,
+        "score": 6161,
+        "mergedPrs": 11,
+        "reviews": 2034,
         "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 14
+        "reactions": 24
       },
       "component-compiler-utils": {
         "score": 9,

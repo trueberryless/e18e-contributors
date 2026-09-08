@@ -1,13 +1,13 @@
 {
   "username": "PuruVJ",
-  "lastUpdated": "2026-09-07T05:50:53.029Z",
+  "lastUpdated": "2026-09-08T06:25:05.692Z",
   "aggregatedStats": {
-    "score": 606,
-    "mergedPrs": 99,
-    "reviews": 26,
-    "reviewsReceived": 19,
-    "issuesLinked": 3,
-    "reactions": 88
+    "score": 695,
+    "mergedPrs": 111,
+    "reviews": 32,
+    "reviewsReceived": 27,
+    "issuesLinked": 4,
+    "reactions": 93
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 567,
-      "mergedPrs": 93,
-      "reviews": 25,
-      "reviewsReceived": 17,
-      "issuesLinked": 2,
-      "reactions": 64
+      "score": 656,
+      "mergedPrs": 105,
+      "reviews": 31,
+      "reviewsReceived": 25,
+      "issuesLinked": 3,
+      "reactions": 69
     },
     "vitejs": {
       "score": 21,
@@ -98,12 +98,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 6,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 26
+        "score": 82,
+        "mergedPrs": 11,
+        "reviews": 5,
+        "reviewsReceived": 7,
+        "issuesLinked": 1,
+        "reactions": 31
       },
       "language-tools": {
         "score": 0,
@@ -138,10 +138,10 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 13,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 25,
+        "mergedPrs": 2,
+        "reviews": 3,
+        "reviewsReceived": 2,
         "issuesLinked": 1,
         "reactions": 24
       },

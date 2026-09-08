@@ -1,13 +1,13 @@
 {
   "username": "blake-newman",
-  "lastUpdated": "2026-09-07T11:53:37.064Z",
+  "lastUpdated": "2026-09-08T06:25:12.336Z",
   "aggregatedStats": {
-    "score": 301,
-    "mergedPrs": 38,
+    "score": 312,
+    "mergedPrs": 39,
     "reviews": 20,
-    "reviewsReceived": 18,
-    "issuesLinked": 9,
-    "reactions": 144
+    "reviewsReceived": 20,
+    "issuesLinked": 11,
+    "reactions": 145
   },
   "orgStats": {
     "oxc-project": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 21,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 2
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
+      "reactions": 3
     },
     "vuejs": {
       "score": 290,
@@ -84,12 +84,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 21,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
-        "reactions": 2
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
+        "reactions": 3
       }
     },
     "vuejs": {

@@ -1,11 +1,11 @@
 {
   "username": "dammy001",
-  "lastUpdated": "2026-09-07T05:50:55.571Z",
+  "lastUpdated": "2026-09-08T06:25:08.918Z",
   "aggregatedStats": {
-    "score": 108,
-    "mergedPrs": 7,
-    "reviews": 22,
-    "reviewsReceived": 7,
+    "score": 277,
+    "mergedPrs": 8,
+    "reviews": 76,
+    "reviewsReceived": 9,
     "issuesLinked": 0,
     "reactions": 2
   },
@@ -35,17 +35,17 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 51,
-      "mergedPrs": 3,
-      "reviews": 11,
-      "reviewsReceived": 3,
+      "score": 217,
+      "mergedPrs": 4,
+      "reviews": 64,
+      "reviewsReceived": 5,
       "issuesLinked": 0,
       "reactions": 2
     },
     "vuejs": {
-      "score": 36,
+      "score": 39,
       "mergedPrs": 3,
-      "reviews": 6,
+      "reviews": 7,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
@@ -100,15 +100,23 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 30,
-        "mergedPrs": 0,
-        "reviews": 10,
-        "reviewsReceived": 0,
+        "score": 196,
+        "mergedPrs": 1,
+        "reviews": 63,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 2
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "docs": {
         "score": 36,
         "mergedPrs": 3,

@@ -1,12 +1,12 @@
 {
   "username": "adriencaccia",
-  "lastUpdated": "2026-09-05T20:07:04.513Z",
+  "lastUpdated": "2026-09-08T06:25:08.315Z",
   "aggregatedStats": {
-    "score": 4,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 32,
+    "mergedPrs": 3,
+    "reviews": 1,
+    "reviewsReceived": 4,
+    "issuesLinked": 3,
     "reactions": 43
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 3
     },
     "vitest-dev": {
-      "score": 4,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 32,
+      "mergedPrs": 3,
+      "reviews": 1,
+      "reviewsReceived": 4,
+      "issuesLinked": 3,
       "reactions": 40
     }
   },
@@ -40,11 +40,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 31,
+        "mergedPrs": 3,
+        "reviews": 1,
+        "reviewsReceived": 4,
+        "issuesLinked": 3,
         "reactions": 34
       },
       "vscode": {

@@ -1,13 +1,13 @@
 {
   "username": "nozomuikuta",
-  "lastUpdated": "2026-09-07T05:50:57.058Z",
+  "lastUpdated": "2026-09-08T06:25:10.770Z",
   "aggregatedStats": {
     "score": 505,
     "mergedPrs": 57,
     "reviews": 42,
     "reviewsReceived": 40,
     "issuesLinked": 22,
-    "reactions": 101
+    "reactions": 104
   },
   "orgStats": {
     "nuxt": {
@@ -32,7 +32,7 @@
       "reviews": 2,
       "reviewsReceived": 6,
       "issuesLinked": 1,
-      "reactions": 11
+      "reactions": 14
     },
     "vitest-dev": {
       "score": 17,
@@ -159,7 +159,7 @@
         "reviews": 1,
         "reviewsReceived": 4,
         "issuesLinked": 1,
-        "reactions": 5
+        "reactions": 8
       }
     },
     "vitest-dev": {

@@ -1,20 +1,20 @@
 {
   "username": "jasonlyu123",
-  "lastUpdated": "2026-09-05T20:07:10.817Z",
+  "lastUpdated": "2026-09-08T06:25:18.215Z",
   "aggregatedStats": {
-    "score": 2473,
-    "mergedPrs": 361,
-    "reviews": 134,
-    "reviewsReceived": 191,
+    "score": 2482,
+    "mergedPrs": 362,
+    "reviews": 135,
+    "reviewsReceived": 192,
     "issuesLinked": 24,
     "reactions": 269
   },
   "orgStats": {
     "sveltejs": {
-      "score": 2433,
-      "mergedPrs": 357,
-      "reviews": 131,
-      "reviewsReceived": 187,
+      "score": 2442,
+      "mergedPrs": 358,
+      "reviews": 132,
+      "reviewsReceived": 188,
       "issuesLinked": 21,
       "reactions": 263
     },
@@ -38,9 +38,9 @@
         "reactions": 0
       },
       "kit": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 5
@@ -54,10 +54,10 @@
         "reactions": 258
       },
       "svelte": {
-        "score": 8,
-        "mergedPrs": 1,
+        "score": 14,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 1,
         "reactions": 0
       },

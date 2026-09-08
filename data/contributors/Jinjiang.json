@@ -1,11 +1,11 @@
 {
   "username": "Jinjiang",
-  "lastUpdated": "2026-09-07T11:53:31.551Z",
+  "lastUpdated": "2026-09-08T06:25:07.611Z",
   "aggregatedStats": {
-    "score": 4303,
-    "mergedPrs": 438,
-    "reviews": 590,
-    "reviewsReceived": 293,
+    "score": 4325,
+    "mergedPrs": 440,
+    "reviews": 593,
+    "reviewsReceived": 296,
     "issuesLinked": 15,
     "reactions": 192
   },
@@ -27,10 +27,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 33,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 3,
+      "score": 52,
+      "mergedPrs": 6,
+      "reviews": 4,
+      "reviewsReceived": 6,
       "issuesLinked": 1,
       "reactions": 16
     },
@@ -43,9 +43,9 @@
       "reactions": 11
     },
     "vuejs": {
-      "score": 4264,
+      "score": 4267,
       "mergedPrs": 433,
-      "reviews": 588,
+      "reviews": 589,
       "reviewsReceived": 290,
       "issuesLinked": 14,
       "reactions": 165
@@ -90,10 +90,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 10,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 29,
+        "mergedPrs": 3,
+        "reviews": 3,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 9
       },
@@ -150,9 +150,9 @@
         "reactions": 0
       },
       "core": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1

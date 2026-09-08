@@ -1,13 +1,13 @@
 {
   "username": "matthewp",
-  "lastUpdated": "2026-09-07T11:53:29.746Z",
+  "lastUpdated": "2026-09-08T06:25:05.921Z",
   "aggregatedStats": {
-    "score": 7959,
+    "score": 7960,
     "mergedPrs": 675,
     "reviews": 1192,
     "reviewsReceived": 629,
     "issuesLinked": 139,
-    "reactions": 1012
+    "reactions": 1022
   },
   "orgStats": {
     "expressive-code": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 2,
+      "score": 3,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 19
+      "reactions": 29
     },
     "vitest-dev": {
       "score": 0,
@@ -110,12 +110,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 2,
+        "score": 3,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 19
+        "reactions": 29
       }
     },
     "vitest-dev": {

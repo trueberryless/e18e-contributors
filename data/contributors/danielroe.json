@@ -1,13 +1,13 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-08T01:23:58.304Z",
+  "lastUpdated": "2026-09-08T06:25:04.009Z",
   "aggregatedStats": {
-    "score": 51686,
-    "mergedPrs": 2703,
-    "reviews": 11197,
-    "reviewsReceived": 1037,
-    "issuesLinked": 1112,
-    "reactions": 13176
+    "score": 51756,
+    "mergedPrs": 2710,
+    "reviews": 11203,
+    "reviewsReceived": 1049,
+    "issuesLinked": 1114,
+    "reactions": 13190
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,28 +75,28 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 58,
-      "mergedPrs": 7,
-      "reviews": 3,
-      "reviewsReceived": 7,
-      "issuesLinked": 1,
-      "reactions": 52
+      "score": 85,
+      "mergedPrs": 10,
+      "reviews": 4,
+      "reviewsReceived": 11,
+      "issuesLinked": 3,
+      "reactions": 57
     },
     "vitest-dev": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 14,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 9
+      "reactions": 11
     },
     "vuejs": {
-      "score": 487,
-      "mergedPrs": 55,
-      "reviews": 40,
-      "reviewsReceived": 28,
+      "score": 517,
+      "mergedPrs": 57,
+      "reviews": 45,
+      "reviewsReceived": 33,
       "issuesLinked": 15,
-      "reactions": 336
+      "reactions": 343
     }
   },
   "repoStats": {
@@ -518,12 +518,12 @@
         "reactions": 4
       },
       "vite": {
-        "score": 13,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 38
+        "score": 39,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 5,
+        "issuesLinked": 2,
+        "reactions": 43
       },
       "vite-ecosystem-ci": {
         "score": 35,
@@ -544,12 +544,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 14,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 9
+        "reactions": 11
       }
     },
     "vuejs": {
@@ -562,12 +562,12 @@
         "reactions": 3
       },
       "core": {
-        "score": 129,
-        "mergedPrs": 17,
-        "reviews": 2,
-        "reviewsReceived": 1,
+        "score": 160,
+        "mergedPrs": 19,
+        "reviews": 7,
+        "reviewsReceived": 6,
         "issuesLinked": 6,
-        "reactions": 251
+        "reactions": 258
       },
       "devtools": {
         "score": 12,

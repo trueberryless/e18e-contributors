@@ -1,32 +1,32 @@
 {
   "username": "tigranmk",
-  "lastUpdated": "2026-09-05T05:01:11.874Z",
+  "lastUpdated": "2026-09-08T06:25:26.037Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 22,
+    "mergedPrs": 2,
+    "reviews": 2,
+    "reviewsReceived": 4,
+    "issuesLinked": 1,
     "reactions": 0
   },
   "orgStats": {
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 22,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
       "reactions": 0
     }
   },
   "repoStats": {
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 22,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
         "reactions": 0
       }
     }

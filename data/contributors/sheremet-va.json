@@ -1,13 +1,13 @@
 {
   "username": "sheremet-va",
-  "lastUpdated": "2026-09-08T01:24:03.127Z",
+  "lastUpdated": "2026-09-08T06:25:05.732Z",
   "aggregatedStats": {
-    "score": 10619,
-    "mergedPrs": 1013,
-    "reviews": 1466,
-    "reviewsReceived": 304,
-    "issuesLinked": 368,
-    "reactions": 1156
+    "score": 13205,
+    "mergedPrs": 1247,
+    "reviews": 1831,
+    "reviewsReceived": 382,
+    "issuesLinked": 483,
+    "reactions": 1283
   },
   "orgStats": {
     "e18e": {
@@ -50,6 +50,14 @@
       "issuesLinked": 0,
       "reactions": 6
     },
+    "sveltejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "tanstack": {
       "score": 3,
       "mergedPrs": 0,
@@ -59,20 +67,20 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 292,
-      "mergedPrs": 29,
-      "reviews": 29,
-      "reviewsReceived": 42,
-      "issuesLinked": 3,
-      "reactions": 115
+      "score": 516,
+      "mergedPrs": 51,
+      "reviews": 56,
+      "reviewsReceived": 67,
+      "issuesLinked": 5,
+      "reactions": 157
     },
     "vitest-dev": {
-      "score": 10273,
-      "mergedPrs": 978,
-      "reviews": 1433,
-      "reviewsReceived": 256,
-      "issuesLinked": 364,
-      "reactions": 1002
+      "score": 12632,
+      "mergedPrs": 1190,
+      "reviews": 1770,
+      "reviewsReceived": 309,
+      "issuesLinked": 477,
+      "reactions": 1087
     },
     "vuejs": {
       "score": 31,
@@ -134,6 +142,16 @@
         "reactions": 6
       }
     },
+    "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "tanstack": {
       "query": {
         "score": 3,
@@ -146,12 +164,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 279,
-        "mergedPrs": 27,
-        "reviews": 29,
-        "reviewsReceived": 39,
-        "issuesLinked": 3,
-        "reactions": 115
+        "score": 503,
+        "mergedPrs": 49,
+        "reviews": 56,
+        "reviewsReceived": 64,
+        "issuesLinked": 5,
+        "reactions": 157
       },
       "vite-ecosystem-ci": {
         "score": 13,
@@ -172,17 +190,17 @@
         "reactions": 2
       },
       "vitest": {
-        "score": 9385,
-        "mergedPrs": 863,
-        "reviews": 1375,
-        "reviewsReceived": 254,
-        "issuesLinked": 300,
-        "reactions": 912
+        "score": 11741,
+        "mergedPrs": 1075,
+        "reviews": 1711,
+        "reviewsReceived": 307,
+        "issuesLinked": 413,
+        "reactions": 997
       },
       "vscode": {
-        "score": 882,
+        "score": 885,
         "mergedPrs": 114,
-        "reviews": 58,
+        "reviews": 59,
         "reviewsReceived": 1,
         "issuesLinked": 64,
         "reactions": 88

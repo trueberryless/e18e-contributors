@@ -1,15 +1,23 @@
 {
   "username": "bmeurer",
-  "lastUpdated": "2026-09-05T00:34:39.705Z",
+  "lastUpdated": "2026-09-08T06:25:17.499Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 3
   },
   "orgStats": {
+    "sveltejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vitejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -28,6 +36,16 @@
     }
   },
   "repoStats": {
+    "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vitejs": {
       "vite": {
         "score": 0,

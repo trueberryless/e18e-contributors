@@ -1,11 +1,11 @@
 {
   "username": "Justineo",
-  "lastUpdated": "2026-09-07T11:53:31.590Z",
+  "lastUpdated": "2026-09-08T06:25:07.638Z",
   "aggregatedStats": {
-    "score": 1693,
-    "mergedPrs": 75,
-    "reviews": 412,
-    "reviewsReceived": 50,
+    "score": 1715,
+    "mergedPrs": 76,
+    "reviews": 417,
+    "reviewsReceived": 52,
     "issuesLinked": 5,
     "reactions": 221
   },
@@ -27,10 +27,10 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 1679,
-      "mergedPrs": 73,
-      "reviews": 412,
-      "reviewsReceived": 47,
+      "score": 1701,
+      "mergedPrs": 74,
+      "reviews": 417,
+      "reviewsReceived": 49,
       "issuesLinked": 5,
       "reactions": 214
     }
@@ -82,10 +82,10 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 13,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       },
@@ -98,9 +98,9 @@
         "reactions": 0
       },
       "core": {
-        "score": 24,
+        "score": 39,
         "mergedPrs": 1,
-        "reviews": 3,
+        "reviews": 8,
         "reviewsReceived": 3,
         "issuesLinked": 3,
         "reactions": 5

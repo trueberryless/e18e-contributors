@@ -1,11 +1,11 @@
 {
   "username": "danez",
-  "lastUpdated": "2026-09-05T05:00:51.797Z",
+  "lastUpdated": "2026-09-08T06:25:05.450Z",
   "aggregatedStats": {
-    "score": 5,
-    "mergedPrs": 0,
+    "score": 11,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 54
   },
@@ -35,10 +35,10 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     }
@@ -76,10 +76,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 2
       }

@@ -1,19 +1,19 @@
 {
   "username": "ArjunSharda",
-  "lastUpdated": "2026-09-05T05:01:12.152Z",
+  "lastUpdated": "2026-09-08T06:25:26.362Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "vuejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vue": {
         "score": 0,
         "mergedPrs": 0,

@@ -1,11 +1,11 @@
 {
   "username": "atinux",
-  "lastUpdated": "2026-09-08T01:24:04.232Z",
+  "lastUpdated": "2026-09-08T06:25:06.855Z",
   "aggregatedStats": {
-    "score": 5260,
-    "mergedPrs": 292,
+    "score": 5272,
+    "mergedPrs": 294,
     "reviews": 1128,
-    "reviewsReceived": 129,
+    "reviewsReceived": 131,
     "issuesLinked": 27,
     "reactions": 2338
   },
@@ -43,10 +43,10 @@
       "reactions": 4
     },
     "vuejs": {
-      "score": 73,
-      "mergedPrs": 11,
+      "score": 85,
+      "mergedPrs": 13,
       "reviews": 5,
-      "reviewsReceived": 2,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
       "reactions": 7
     }
@@ -398,10 +398,10 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       },

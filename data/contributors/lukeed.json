@@ -1,10 +1,10 @@
 {
   "username": "lukeed",
-  "lastUpdated": "2026-09-07T05:50:53.053Z",
+  "lastUpdated": "2026-09-08T06:25:05.722Z",
   "aggregatedStats": {
-    "score": 358,
+    "score": 361,
     "mergedPrs": 37,
-    "reviews": 42,
+    "reviews": 43,
     "reviewsReceived": 18,
     "issuesLinked": 6,
     "reactions": 170
@@ -35,9 +35,9 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 333,
+      "score": 336,
       "mergedPrs": 35,
-      "reviews": 42,
+      "reviews": 43,
       "reviewsReceived": 15,
       "issuesLinked": 5,
       "reactions": 65
@@ -92,9 +92,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 4

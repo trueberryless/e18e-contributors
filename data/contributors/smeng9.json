@@ -1,22 +1,22 @@
 {
   "username": "smeng9",
-  "lastUpdated": "2026-09-07T05:51:08.150Z",
+  "lastUpdated": "2026-09-08T06:25:24.964Z",
   "aggregatedStats": {
-    "score": 51,
-    "mergedPrs": 5,
-    "reviews": 3,
-    "reviewsReceived": 10,
-    "issuesLinked": 3,
-    "reactions": 10
+    "score": 92,
+    "mergedPrs": 9,
+    "reviews": 4,
+    "reviewsReceived": 18,
+    "issuesLinked": 8,
+    "reactions": 11
   },
   "orgStats": {
     "vitejs": {
-      "score": 44,
-      "mergedPrs": 4,
-      "reviews": 3,
-      "reviewsReceived": 8,
-      "issuesLinked": 3,
-      "reactions": 9
+      "score": 85,
+      "mergedPrs": 8,
+      "reviews": 4,
+      "reviewsReceived": 16,
+      "issuesLinked": 8,
+      "reactions": 10
     },
     "vitest-dev": {
       "score": 7,
@@ -30,12 +30,12 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 34,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 6,
-        "issuesLinked": 3,
-        "reactions": 9
+        "score": 75,
+        "mergedPrs": 7,
+        "reviews": 3,
+        "reviewsReceived": 14,
+        "issuesLinked": 8,
+        "reactions": 10
       },
       "vite-plugin-react": {
         "score": 10,

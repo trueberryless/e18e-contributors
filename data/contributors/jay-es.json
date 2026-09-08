@@ -1,12 +1,12 @@
 {
   "username": "jay-es",
-  "lastUpdated": "2026-09-07T05:50:56.201Z",
+  "lastUpdated": "2026-09-08T06:25:09.787Z",
   "aggregatedStats": {
-    "score": 7870,
-    "mergedPrs": 940,
+    "score": 7896,
+    "mergedPrs": 944,
     "reviews": 424,
-    "reviewsReceived": 113,
-    "issuesLinked": 890,
+    "reviewsReceived": 115,
+    "issuesLinked": 892,
     "reactions": 58
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 7636,
-      "mergedPrs": 903,
+      "score": 7662,
+      "mergedPrs": 907,
       "reviews": 420,
-      "reviewsReceived": 85,
-      "issuesLinked": 886,
+      "reviewsReceived": 87,
+      "issuesLinked": 888,
       "reactions": 43
     },
     "vuejs": {
@@ -48,18 +48,18 @@
     },
     "vitejs": {
       "docs-ja": {
-        "score": 7623,
-        "mergedPrs": 901,
+        "score": 7637,
+        "mergedPrs": 903,
         "reviews": 420,
         "reviewsReceived": 82,
-        "issuesLinked": 886,
+        "issuesLinked": 888,
         "reactions": 40
       },
       "vite": {
-        "score": 13,
-        "mergedPrs": 2,
+        "score": 25,
+        "mergedPrs": 4,
         "reviews": 0,
-        "reviewsReceived": 3,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
         "reactions": 3
       }

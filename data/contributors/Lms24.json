@@ -1,13 +1,13 @@
 {
   "username": "Lms24",
-  "lastUpdated": "2026-09-06T13:08:43.249Z",
+  "lastUpdated": "2026-09-08T06:25:03.985Z",
   "aggregatedStats": {
-    "score": 26,
-    "mergedPrs": 1,
-    "reviews": 2,
-    "reviewsReceived": 1,
+    "score": 46,
+    "mergedPrs": 3,
+    "reviews": 4,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 146
+    "reactions": 154
   },
   "orgStats": {
     "bombshell-dev": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 26,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 1,
+      "score": 46,
+      "mergedPrs": 3,
+      "reviews": 4,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
-      "reactions": 141
+      "reactions": 149
     },
     "withastro": {
       "score": 0,
@@ -84,12 +84,12 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 26,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 1,
+        "score": 46,
+        "mergedPrs": 3,
+        "reviews": 4,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 140
+        "reactions": 148
       },
       "vite-plugin-svelte": {
         "score": 0,

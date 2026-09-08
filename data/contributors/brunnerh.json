@@ -1,19 +1,19 @@
 {
   "username": "brunnerh",
-  "lastUpdated": "2026-09-07T05:51:02.870Z",
+  "lastUpdated": "2026-09-08T06:25:17.534Z",
   "aggregatedStats": {
-    "score": 144,
+    "score": 150,
     "mergedPrs": 14,
-    "reviews": 9,
+    "reviews": 11,
     "reviewsReceived": 11,
     "issuesLinked": 1,
     "reactions": 338
   },
   "orgStats": {
     "sveltejs": {
-      "score": 141,
+      "score": 147,
       "mergedPrs": 14,
-      "reviews": 8,
+      "reviews": 10,
       "reviewsReceived": 11,
       "issuesLinked": 1,
       "reactions": 338
@@ -86,9 +86,9 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 98,
+        "score": 104,
         "mergedPrs": 10,
-        "reviews": 4,
+        "reviews": 6,
         "reviewsReceived": 8,
         "issuesLinked": 1,
         "reactions": 263

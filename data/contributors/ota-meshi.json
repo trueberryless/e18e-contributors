@@ -1,19 +1,19 @@
 {
   "username": "ota-meshi",
-  "lastUpdated": "2026-09-06T16:29:19.221Z",
+  "lastUpdated": "2026-09-08T06:25:18.805Z",
   "aggregatedStats": {
-    "score": 7908,
+    "score": 7911,
     "mergedPrs": 987,
-    "reviews": 676,
+    "reviews": 677,
     "reviewsReceived": 309,
     "issuesLinked": 289,
     "reactions": 585
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3302,
+      "score": 3305,
       "mergedPrs": 435,
-      "reviews": 261,
+      "reviews": 262,
       "reviewsReceived": 128,
       "issuesLinked": 103,
       "reactions": 104
@@ -62,9 +62,9 @@
         "reactions": 2
       },
       "kit": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

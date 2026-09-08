@@ -1,19 +1,19 @@
 {
   "username": "nosovk",
-  "lastUpdated": "2026-09-07T05:51:03.763Z",
+  "lastUpdated": "2026-09-08T06:25:18.764Z",
   "aggregatedStats": {
-    "score": 22,
+    "score": 25,
     "mergedPrs": 2,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 2,
     "issuesLinked": 1,
     "reactions": 52
   },
   "orgStats": {
     "sveltejs": {
-      "score": 16,
+      "score": 19,
       "mergedPrs": 1,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 50
@@ -38,9 +38,9 @@
         "reactions": 1
       },
       "kit": {
-        "score": 13,
+        "score": 16,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 45

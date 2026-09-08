@@ -1,10 +1,10 @@
 {
   "username": "HarryAllen1",
-  "lastUpdated": "2026-09-07T05:50:54.222Z",
+  "lastUpdated": "2026-09-08T06:25:07.516Z",
   "aggregatedStats": {
-    "score": 23,
+    "score": 26,
     "mergedPrs": 4,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 1
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 17,
+      "score": 20,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
@@ -48,9 +48,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 6,
+        "score": 9,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0

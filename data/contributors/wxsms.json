@@ -1,13 +1,13 @@
 {
   "username": "wxsms",
-  "lastUpdated": "2026-09-07T11:53:51.869Z",
+  "lastUpdated": "2026-09-08T06:25:25.175Z",
   "aggregatedStats": {
-    "score": 1233,
-    "mergedPrs": 168,
+    "score": 1239,
+    "mergedPrs": 169,
     "reviews": 76,
-    "reviewsReceived": 145,
+    "reviewsReceived": 146,
     "issuesLinked": 7,
-    "reactions": 59
+    "reactions": 60
   },
   "orgStats": {
     "vitejs": {
@@ -19,12 +19,12 @@
       "reactions": 12
     },
     "vuejs": {
-      "score": 1232,
-      "mergedPrs": 168,
+      "score": 1238,
+      "mergedPrs": 169,
       "reviews": 76,
-      "reviewsReceived": 145,
+      "reviewsReceived": 146,
       "issuesLinked": 7,
-      "reactions": 47
+      "reactions": 48
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 12,
-        "mergedPrs": 2,
+        "score": 18,
+        "mergedPrs": 3,
         "reviews": 0,
-        "reviewsReceived": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "core": {
         "score": 0,

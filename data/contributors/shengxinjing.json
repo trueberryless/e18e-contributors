@@ -1,13 +1,13 @@
 {
   "username": "shengxinjing",
-  "lastUpdated": "2026-09-07T11:53:51.537Z",
+  "lastUpdated": "2026-09-08T06:25:24.942Z",
   "aggregatedStats": {
-    "score": 19,
-    "mergedPrs": 2,
+    "score": 54,
+    "mergedPrs": 7,
     "reviews": 0,
-    "reviewsReceived": 3,
-    "issuesLinked": 1,
-    "reactions": 39
+    "reviewsReceived": 7,
+    "issuesLinked": 4,
+    "reactions": 43
   },
   "orgStats": {
     "vitejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 19,
-      "mergedPrs": 2,
+      "score": 54,
+      "mergedPrs": 7,
       "reviews": 0,
-      "reviewsReceived": 3,
-      "issuesLinked": 1,
-      "reactions": 39
+      "reviewsReceived": 7,
+      "issuesLinked": 4,
+      "reactions": 43
     },
     "withastro": {
       "score": 0,
@@ -48,12 +48,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 19,
-        "mergedPrs": 2,
+        "score": 54,
+        "mergedPrs": 7,
         "reviews": 0,
-        "reviewsReceived": 3,
-        "issuesLinked": 1,
-        "reactions": 39
+        "reviewsReceived": 7,
+        "issuesLinked": 4,
+        "reactions": 43
       },
       "vitepress": {
         "score": 0,

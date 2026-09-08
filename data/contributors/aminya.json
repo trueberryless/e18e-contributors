@@ -1,10 +1,10 @@
 {
   "username": "aminya",
-  "lastUpdated": "2026-09-05T00:34:16.414Z",
+  "lastUpdated": "2026-09-08T06:25:03.213Z",
   "aggregatedStats": {
-    "score": 17,
+    "score": 20,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 85
@@ -35,9 +35,9 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 6
@@ -132,9 +132,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 6

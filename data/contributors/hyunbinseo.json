@@ -1,13 +1,13 @@
 {
   "username": "hyunbinseo",
-  "lastUpdated": "2026-09-08T01:24:08.826Z",
+  "lastUpdated": "2026-09-08T06:25:12.460Z",
   "aggregatedStats": {
-    "score": 376,
-    "mergedPrs": 53,
-    "reviews": 11,
-    "reviewsReceived": 50,
-    "issuesLinked": 6,
-    "reactions": 165
+    "score": 420,
+    "mergedPrs": 59,
+    "reviews": 12,
+    "reviewsReceived": 56,
+    "issuesLinked": 8,
+    "reactions": 170
   },
   "orgStats": {
     "oxc-project": {
@@ -27,20 +27,20 @@
       "reactions": 41
     },
     "sveltejs": {
-      "score": 359,
-      "mergedPrs": 51,
-      "reviews": 11,
-      "reviewsReceived": 48,
-      "issuesLinked": 6,
-      "reactions": 113
+      "score": 395,
+      "mergedPrs": 56,
+      "reviews": 12,
+      "reviewsReceived": 53,
+      "issuesLinked": 7,
+      "reactions": 117
     },
     "vitejs": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 7
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 8
     },
     "zed-industries": {
       "score": 0,
@@ -122,12 +122,12 @@
         "reactions": 3
       },
       "kit": {
-        "score": 208,
-        "mergedPrs": 28,
-        "reviews": 8,
-        "reviewsReceived": 25,
-        "issuesLinked": 6,
-        "reactions": 67
+        "score": 243,
+        "mergedPrs": 33,
+        "reviews": 9,
+        "reviewsReceived": 30,
+        "issuesLinked": 7,
+        "reactions": 71
       },
       "language-tools": {
         "score": 1,
@@ -180,12 +180,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 8
       },
       "vite-plugin-basic-ssl": {
         "score": 0,

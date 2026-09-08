@@ -1,12 +1,12 @@
 {
   "username": "kidonng",
-  "lastUpdated": "2026-09-06T18:37:05.033Z",
+  "lastUpdated": "2026-09-08T06:25:03.558Z",
   "aggregatedStats": {
-    "score": 359,
-    "mergedPrs": 46,
-    "reviews": 8,
-    "reviewsReceived": 38,
-    "issuesLinked": 1,
+    "score": 377,
+    "mergedPrs": 48,
+    "reviews": 9,
+    "reviewsReceived": 41,
+    "issuesLinked": 2,
     "reactions": 649
   },
   "orgStats": {
@@ -83,11 +83,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 118,
-      "mergedPrs": 18,
-      "reviews": 4,
-      "reviewsReceived": 16,
-      "issuesLinked": 0,
+      "score": 136,
+      "mergedPrs": 20,
+      "reviews": 5,
+      "reviewsReceived": 19,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "withastro": {
@@ -232,11 +232,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 18,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "docs": {

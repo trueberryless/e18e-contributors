@@ -1,10 +1,10 @@
 {
   "username": "rtsao",
-  "lastUpdated": "2026-09-05T00:34:27.245Z",
+  "lastUpdated": "2026-09-08T06:25:12.627Z",
   "aggregatedStats": {
-    "score": 7,
+    "score": 10,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 70
@@ -27,9 +27,9 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 6,
+      "score": 9,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 64
@@ -66,9 +66,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 6,
+        "score": 9,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 64

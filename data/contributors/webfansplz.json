@@ -1,13 +1,13 @@
 {
   "username": "webfansplz",
-  "lastUpdated": "2026-09-07T11:53:36.558Z",
+  "lastUpdated": "2026-09-08T06:25:11.850Z",
   "aggregatedStats": {
-    "score": 2377,
-    "mergedPrs": 245,
-    "reviews": 304,
-    "reviewsReceived": 57,
-    "issuesLinked": 83,
-    "reactions": 162
+    "score": 2449,
+    "mergedPrs": 255,
+    "reviews": 305,
+    "reviewsReceived": 66,
+    "issuesLinked": 88,
+    "reactions": 166
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 1535,
-      "mergedPrs": 122,
-      "reviews": 264,
-      "reviewsReceived": 11,
-      "issuesLinked": 58,
-      "reactions": 56
+      "score": 1607,
+      "mergedPrs": 132,
+      "reviews": 265,
+      "reviewsReceived": 20,
+      "issuesLinked": 63,
+      "reactions": 60
     }
   },
   "repoStats": {
@@ -124,12 +124,12 @@
         "reactions": 4
       },
       "core": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 9
+        "score": 76,
+        "mergedPrs": 10,
+        "reviews": 2,
+        "reviewsReceived": 9,
+        "issuesLinked": 5,
+        "reactions": 13
       },
       "devtools": {
         "score": 1285,

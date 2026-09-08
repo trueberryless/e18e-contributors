@@ -1,10 +1,10 @@
 {
   "username": "luixo",
-  "lastUpdated": "2026-09-05T05:01:08.179Z",
+  "lastUpdated": "2026-09-08T06:25:21.350Z",
   "aggregatedStats": {
-    "score": 2,
+    "score": 5,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 22
@@ -19,9 +19,9 @@
       "reactions": 21
     },
     "vitest-dev": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
@@ -56,9 +56,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

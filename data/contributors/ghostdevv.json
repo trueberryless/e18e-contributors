@@ -1,13 +1,13 @@
 {
   "username": "ghostdevv",
-  "lastUpdated": "2026-09-07T05:50:51.631Z",
+  "lastUpdated": "2026-09-08T06:25:04.016Z",
   "aggregatedStats": {
-    "score": 1836,
-    "mergedPrs": 67,
-    "reviews": 470,
-    "reviewsReceived": 70,
-    "issuesLinked": 6,
-    "reactions": 96
+    "score": 2017,
+    "mergedPrs": 75,
+    "reviews": 511,
+    "reviewsReceived": 78,
+    "issuesLinked": 11,
+    "reactions": 98
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,12 +75,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 169,
-      "mergedPrs": 11,
-      "reviews": 31,
-      "reviewsReceived": 7,
-      "issuesLinked": 4,
-      "reactions": 58
+      "score": 350,
+      "mergedPrs": 19,
+      "reviews": 72,
+      "reviewsReceived": 15,
+      "issuesLinked": 9,
+      "reactions": 60
     },
     "vitejs": {
       "score": 0,
@@ -254,12 +254,12 @@
         "reactions": 4
       },
       "kit": {
-        "score": 85,
-        "mergedPrs": 2,
-        "reviews": 22,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 50
+        "score": 260,
+        "mergedPrs": 9,
+        "reviews": 63,
+        "reviewsReceived": 9,
+        "issuesLinked": 6,
+        "reactions": 52
       },
       "language-tools": {
         "score": 23,
@@ -286,10 +286,10 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 4
       },

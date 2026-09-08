@@ -1,20 +1,20 @@
 {
   "username": "lsdsjy",
-  "lastUpdated": "2026-09-05T20:07:14.240Z",
+  "lastUpdated": "2026-09-08T06:25:24.517Z",
   "aggregatedStats": {
-    "score": 70,
-    "mergedPrs": 8,
+    "score": 77,
+    "mergedPrs": 9,
     "reviews": 3,
-    "reviewsReceived": 8,
+    "reviewsReceived": 10,
     "issuesLinked": 5,
     "reactions": 28
   },
   "orgStats": {
     "vitejs": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 28
     },
@@ -38,10 +38,10 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 28
       }

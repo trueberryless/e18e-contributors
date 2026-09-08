@@ -1,11 +1,11 @@
 {
   "username": "alidcast",
-  "lastUpdated": "2026-09-07T11:53:32.502Z",
+  "lastUpdated": "2026-09-08T06:25:08.410Z",
   "aggregatedStats": {
-    "score": 20,
-    "mergedPrs": 3,
+    "score": 26,
+    "mergedPrs": 4,
     "reviews": 0,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 37
   },
@@ -19,10 +19,10 @@
       "reactions": 7
     },
     "vuejs": {
-      "score": 9,
-      "mergedPrs": 1,
+      "score": 15,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 30
     }
@@ -64,10 +64,10 @@
         "reactions": 23
       },
       "awesome-vue": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       },

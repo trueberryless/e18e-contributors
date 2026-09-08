@@ -1,19 +1,19 @@
 {
   "username": "mquandalle",
-  "lastUpdated": "2026-09-07T05:51:03.693Z",
+  "lastUpdated": "2026-09-08T06:25:18.674Z",
   "aggregatedStats": {
-    "score": 31,
+    "score": 37,
     "mergedPrs": 2,
-    "reviews": 2,
+    "reviews": 4,
     "reviewsReceived": 2,
     "issuesLinked": 1,
     "reactions": 111
   },
   "orgStats": {
     "sveltejs": {
-      "score": 31,
+      "score": 37,
       "mergedPrs": 2,
-      "reviews": 2,
+      "reviews": 4,
       "reviewsReceived": 2,
       "issuesLinked": 1,
       "reactions": 109
@@ -54,9 +54,9 @@
         "reactions": 0
       },
       "kit": {
-        "score": 14,
+        "score": 17,
         "mergedPrs": 0,
-        "reviews": 2,
+        "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 79
@@ -70,9 +70,9 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 3,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 26

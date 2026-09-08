@@ -1,13 +1,13 @@
 {
   "username": "gtm-nayan",
-  "lastUpdated": "2026-09-07T05:50:59.189Z",
+  "lastUpdated": "2026-09-08T06:25:13.201Z",
   "aggregatedStats": {
-    "score": 221,
-    "mergedPrs": 28,
-    "reviews": 17,
-    "reviewsReceived": 16,
-    "issuesLinked": 4,
-    "reactions": 58
+    "score": 730,
+    "mergedPrs": 82,
+    "reviews": 59,
+    "reviewsReceived": 72,
+    "issuesLinked": 32,
+    "reactions": 69
   },
   "orgStats": {
     "pnpm": {
@@ -19,27 +19,27 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 221,
-      "mergedPrs": 28,
-      "reviews": 17,
-      "reviewsReceived": 16,
-      "issuesLinked": 4,
-      "reactions": 55
+      "score": 691,
+      "mergedPrs": 78,
+      "reviews": 56,
+      "reviewsReceived": 66,
+      "issuesLinked": 30,
+      "reactions": 66
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 19,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 20,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 1
     }
   },
@@ -72,12 +72,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 44,
-        "mergedPrs": 3,
-        "reviews": 7,
-        "reviewsReceived": 3,
-        "issuesLinked": 1,
-        "reactions": 33
+        "score": 503,
+        "mergedPrs": 52,
+        "reviews": 45,
+        "reviewsReceived": 52,
+        "issuesLinked": 26,
+        "reactions": 44
       },
       "language-tools": {
         "score": 35,
@@ -120,31 +120,31 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 5,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 16,
+        "mergedPrs": 1,
+        "reviews": 2,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 17
       }
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 19,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
         "reactions": 2
       }
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 20,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 1
       }
     }

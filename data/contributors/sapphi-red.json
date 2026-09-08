@@ -1,13 +1,13 @@
 {
   "username": "sapphi-red",
-  "lastUpdated": "2026-09-08T01:23:58.326Z",
+  "lastUpdated": "2026-09-08T06:25:04.045Z",
   "aggregatedStats": {
-    "score": 11816,
-    "mergedPrs": 1257,
-    "reviews": 1324,
-    "reviewsReceived": 854,
-    "issuesLinked": 281,
-    "reactions": 1426
+    "score": 12998,
+    "mergedPrs": 1356,
+    "reviews": 1483,
+    "reviewsReceived": 967,
+    "issuesLinked": 325,
+    "reactions": 1515
   },
   "orgStats": {
     "bombshell-dev": {
@@ -67,27 +67,27 @@
       "reactions": 9
     },
     "vitejs": {
-      "score": 10856,
-      "mergedPrs": 1128,
-      "reviews": 1255,
-      "reviewsReceived": 795,
-      "issuesLinked": 269,
-      "reactions": 1181
+      "score": 12028,
+      "mergedPrs": 1226,
+      "reviews": 1413,
+      "reviewsReceived": 908,
+      "issuesLinked": 312,
+      "reactions": 1270
     },
     "vitest-dev": {
-      "score": 89,
+      "score": 92,
       "mergedPrs": 13,
-      "reviews": 4,
+      "reviews": 5,
       "reviewsReceived": 12,
       "issuesLinked": 0,
       "reactions": 1
     },
     "vuejs": {
-      "score": 202,
-      "mergedPrs": 30,
+      "score": 209,
+      "mergedPrs": 31,
       "reviews": 7,
       "reviewsReceived": 16,
-      "issuesLinked": 5,
+      "issuesLinked": 6,
       "reactions": 47
     },
     "withastro": {
@@ -268,12 +268,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 8275,
-        "mergedPrs": 794,
-        "reviews": 1083,
-        "reviewsReceived": 590,
-        "issuesLinked": 177,
-        "reactions": 1116
+        "score": 9447,
+        "mergedPrs": 892,
+        "reviews": 1241,
+        "reviewsReceived": 703,
+        "issuesLinked": 220,
+        "reactions": 1205
       },
       "vite-ecosystem-ci": {
         "score": 545,
@@ -342,9 +342,9 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 77,
+        "score": 80,
         "mergedPrs": 11,
-        "reviews": 4,
+        "reviews": 5,
         "reviewsReceived": 10,
         "issuesLinked": 0,
         "reactions": 1
@@ -368,11 +368,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 28
       },
       "create-vue": {

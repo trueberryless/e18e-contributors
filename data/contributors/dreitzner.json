@@ -1,12 +1,12 @@
 {
   "username": "dreitzner",
-  "lastUpdated": "2026-09-08T01:24:05.999Z",
+  "lastUpdated": "2026-09-08T06:25:09.079Z",
   "aggregatedStats": {
-    "score": 210,
-    "mergedPrs": 15,
-    "reviews": 33,
-    "reviewsReceived": 8,
-    "issuesLinked": 10,
+    "score": 221,
+    "mergedPrs": 16,
+    "reviews": 34,
+    "reviewsReceived": 9,
+    "issuesLinked": 11,
     "reactions": 82
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 31
     },
     "sveltejs": {
-      "score": 166,
-      "mergedPrs": 11,
-      "reviews": 31,
-      "reviewsReceived": 3,
-      "issuesLinked": 5,
+      "score": 177,
+      "mergedPrs": 12,
+      "reviews": 32,
+      "reviewsReceived": 4,
+      "issuesLinked": 6,
       "reactions": 51
     }
   },
@@ -64,11 +64,11 @@
         "reactions": 10
       },
       "kit": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 15,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 37
       },
       "language-tools": {

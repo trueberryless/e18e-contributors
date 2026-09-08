@@ -1,10 +1,10 @@
 {
   "username": "silverwind",
-  "lastUpdated": "2026-09-05T05:01:00.579Z",
+  "lastUpdated": "2026-09-08T06:25:13.581Z",
   "aggregatedStats": {
-    "score": 25,
+    "score": 31,
     "mergedPrs": 3,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 63
@@ -35,9 +35,9 @@
       "reactions": 35
     },
     "vitest-dev": {
-      "score": 6,
+      "score": 12,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
@@ -116,9 +116,9 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 0,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

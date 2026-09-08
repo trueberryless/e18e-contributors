@@ -1,13 +1,13 @@
 {
   "username": "segevfiner",
-  "lastUpdated": "2026-09-08T01:24:07.811Z",
+  "lastUpdated": "2026-09-08T06:25:11.330Z",
   "aggregatedStats": {
-    "score": 57,
-    "mergedPrs": 6,
+    "score": 65,
+    "mergedPrs": 7,
     "reviews": 0,
-    "reviewsReceived": 4,
-    "issuesLinked": 2,
-    "reactions": 188
+    "reviewsReceived": 5,
+    "issuesLinked": 3,
+    "reactions": 191
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 72
     },
     "vitest-dev": {
-      "score": 2,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 17
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 20
     },
     "vuejs": {
       "score": 29,
@@ -118,12 +118,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 2,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 15
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 18
       },
       "vscode": {
         "score": 0,

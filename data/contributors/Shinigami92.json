@@ -1,13 +1,13 @@
 {
   "username": "Shinigami92",
-  "lastUpdated": "2026-09-07T20:48:18.489Z",
+  "lastUpdated": "2026-09-08T06:25:08.038Z",
   "aggregatedStats": {
-    "score": 112,
-    "mergedPrs": 9,
-    "reviews": 14,
-    "reviewsReceived": 7,
-    "issuesLinked": 3,
-    "reactions": 125
+    "score": 154,
+    "mergedPrs": 11,
+    "reviews": 23,
+    "reviewsReceived": 9,
+    "issuesLinked": 4,
+    "reactions": 135
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 35,
-      "mergedPrs": 1,
-      "reviews": 9,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 34
+      "score": 74,
+      "mergedPrs": 3,
+      "reviews": 17,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
+      "reactions": 44
     },
     "vitest-dev": {
       "score": 10,
@@ -59,9 +59,9 @@
       "reactions": 23
     },
     "vuejs": {
-      "score": 65,
+      "score": 68,
       "mergedPrs": 7,
-      "reviews": 5,
+      "reviews": 6,
       "reviewsReceived": 6,
       "issuesLinked": 2,
       "reactions": 52
@@ -126,12 +126,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 30,
-        "mergedPrs": 0,
-        "reviews": 9,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 34
+        "score": 69,
+        "mergedPrs": 2,
+        "reviews": 17,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
+        "reactions": 44
       },
       "vite-plugin-vue": {
         "score": 0,
@@ -178,9 +178,9 @@
         "reactions": 1
       },
       "core": {
-        "score": 7,
+        "score": 10,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 8

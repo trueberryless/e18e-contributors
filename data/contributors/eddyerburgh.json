@@ -1,20 +1,20 @@
 {
   "username": "eddyerburgh",
-  "lastUpdated": "2026-09-07T11:53:57.305Z",
+  "lastUpdated": "2026-09-08T06:25:30.357Z",
   "aggregatedStats": {
-    "score": 2153,
-    "mergedPrs": 157,
+    "score": 2159,
+    "mergedPrs": 158,
     "reviews": 422,
-    "reviewsReceived": 4,
+    "reviewsReceived": 5,
     "issuesLinked": 29,
     "reactions": 396
   },
   "orgStats": {
     "vuejs": {
-      "score": 2153,
-      "mergedPrs": 157,
+      "score": 2159,
+      "mergedPrs": 158,
       "reviews": 422,
-      "reviewsReceived": 4,
+      "reviewsReceived": 5,
       "issuesLinked": 29,
       "reactions": 396
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vuejs": {
       "awesome-vue": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 18,
+        "mergedPrs": 2,
         "reviews": 2,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       },

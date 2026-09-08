@@ -1,13 +1,13 @@
 {
   "username": "btea",
-  "lastUpdated": "2026-09-08T01:23:58.301Z",
+  "lastUpdated": "2026-09-08T06:25:04.004Z",
   "aggregatedStats": {
-    "score": 3738,
-    "mergedPrs": 499,
-    "reviews": 182,
-    "reviewsReceived": 497,
-    "issuesLinked": 84,
-    "reactions": 316
+    "score": 4176,
+    "mergedPrs": 551,
+    "reviews": 208,
+    "reviewsReceived": 570,
+    "issuesLinked": 97,
+    "reactions": 328
   },
   "orgStats": {
     "bombshell-dev": {
@@ -91,28 +91,28 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 885,
-      "mergedPrs": 109,
-      "reviews": 58,
-      "reviewsReceived": 122,
-      "issuesLinked": 17,
-      "reactions": 97
+      "score": 1224,
+      "mergedPrs": 149,
+      "reviews": 78,
+      "reviewsReceived": 184,
+      "issuesLinked": 25,
+      "reactions": 105
     },
     "vitest-dev": {
-      "score": 186,
-      "mergedPrs": 27,
-      "reviews": 7,
-      "reviewsReceived": 27,
-      "issuesLinked": 1,
-      "reactions": 7
+      "score": 268,
+      "mergedPrs": 38,
+      "reviews": 11,
+      "reviewsReceived": 34,
+      "issuesLinked": 5,
+      "reactions": 8
     },
     "vuejs": {
-      "score": 969,
-      "mergedPrs": 138,
-      "reviews": 47,
-      "reviewsReceived": 112,
-      "issuesLinked": 10,
-      "reactions": 61
+      "score": 986,
+      "mergedPrs": 139,
+      "reviews": 49,
+      "reviewsReceived": 116,
+      "issuesLinked": 11,
+      "reactions": 64
     },
     "withastro": {
       "score": 16,
@@ -282,12 +282,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 792,
-        "mergedPrs": 94,
-        "reviews": 55,
-        "reviewsReceived": 114,
-        "issuesLinked": 17,
-        "reactions": 91
+        "score": 1131,
+        "mergedPrs": 134,
+        "reviews": 75,
+        "reviewsReceived": 176,
+        "issuesLinked": 25,
+        "reactions": 99
       },
       "vite-ecosystem-ci": {
         "score": 23,
@@ -316,12 +316,12 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 156,
-        "mergedPrs": 22,
-        "reviews": 7,
-        "reviewsReceived": 22,
-        "issuesLinked": 1,
-        "reactions": 7
+        "score": 238,
+        "mergedPrs": 33,
+        "reviews": 11,
+        "reviewsReceived": 29,
+        "issuesLinked": 5,
+        "reactions": 8
       },
       "vscode": {
         "score": 24,
@@ -334,12 +334,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 125,
-        "mergedPrs": 19,
-        "reviews": 7,
-        "reviewsReceived": 5,
-        "issuesLinked": 1,
-        "reactions": 23
+        "score": 143,
+        "mergedPrs": 20,
+        "reviews": 9,
+        "reviewsReceived": 9,
+        "issuesLinked": 2,
+        "reactions": 26
       },
       "create-vue": {
         "score": 529,

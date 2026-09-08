@@ -1,10 +1,10 @@
 {
   "username": "Bonniemarie216",
-  "lastUpdated": "2026-09-08T01:24:04.473Z",
+  "lastUpdated": "2026-09-08T06:25:07.180Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 12,
     "mergedPrs": 0,
-    "reviews": 1,
+    "reviews": 4,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
@@ -17,6 +17,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
+    },
+    "vitejs": {
+      "score": 9,
+      "mergedPrs": 0,
+      "reviews": 3,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     }
   },
   "repoStats": {
@@ -25,6 +33,16 @@
         "score": 3,
         "mergedPrs": 0,
         "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "vitejs": {
+      "vite": {
+        "score": 9,
+        "mergedPrs": 0,
+        "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

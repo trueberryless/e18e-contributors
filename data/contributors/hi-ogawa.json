@@ -1,13 +1,13 @@
 {
   "username": "hi-ogawa",
-  "lastUpdated": "2026-09-08T01:24:08.815Z",
+  "lastUpdated": "2026-09-08T06:25:12.449Z",
   "aggregatedStats": {
-    "score": 8280,
-    "mergedPrs": 910,
-    "reviews": 785,
-    "reviewsReceived": 646,
-    "issuesLinked": 339,
-    "reactions": 515
+    "score": 9255,
+    "mergedPrs": 1015,
+    "reviews": 854,
+    "reviewsReceived": 767,
+    "issuesLinked": 398,
+    "reactions": 556
   },
   "orgStats": {
     "oxc-project": {
@@ -35,20 +35,20 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 3234,
-      "mergedPrs": 414,
-      "reviews": 264,
-      "reviewsReceived": 148,
-      "issuesLinked": 99,
-      "reactions": 259
+      "score": 3519,
+      "mergedPrs": 445,
+      "reviews": 284,
+      "reviewsReceived": 191,
+      "issuesLinked": 111,
+      "reactions": 288
     },
     "vitest-dev": {
-      "score": 5000,
-      "mergedPrs": 488,
-      "reviews": 521,
-      "reviewsReceived": 496,
-      "issuesLinked": 238,
-      "reactions": 248
+      "score": 5690,
+      "mergedPrs": 562,
+      "reviews": 570,
+      "reviewsReceived": 574,
+      "issuesLinked": 285,
+      "reactions": 260
     },
     "withastro": {
       "score": 0,
@@ -108,12 +108,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 1066,
-        "mergedPrs": 82,
-        "reviews": 145,
-        "reviewsReceived": 114,
-        "issuesLinked": 45,
-        "reactions": 170
+        "score": 1351,
+        "mergedPrs": 113,
+        "reviews": 165,
+        "reviewsReceived": 157,
+        "issuesLinked": 57,
+        "reactions": 199
       },
       "vite-ecosystem-ci": {
         "score": 72,
@@ -150,18 +150,18 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 4904,
-        "mergedPrs": 477,
-        "reviews": 512,
-        "reviewsReceived": 488,
-        "issuesLinked": 235,
-        "reactions": 246
+        "score": 5588,
+        "mergedPrs": 550,
+        "reviews": 561,
+        "reviewsReceived": 565,
+        "issuesLinked": 282,
+        "reactions": 258
       },
       "vscode": {
-        "score": 96,
-        "mergedPrs": 11,
+        "score": 102,
+        "mergedPrs": 12,
         "reviews": 9,
-        "reviewsReceived": 8,
+        "reviewsReceived": 9,
         "issuesLinked": 3,
         "reactions": 2
       }

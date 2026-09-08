@@ -1,33 +1,33 @@
 {
   "username": "godxiaoji",
-  "lastUpdated": "2026-09-07T11:53:57.927Z",
+  "lastUpdated": "2026-09-08T06:25:30.864Z",
   "aggregatedStats": {
-    "score": 17,
-    "mergedPrs": 2,
+    "score": 52,
+    "mergedPrs": 7,
     "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 7
+    "reviewsReceived": 3,
+    "issuesLinked": 5,
+    "reactions": 9
   },
   "orgStats": {
     "vuejs": {
-      "score": 17,
-      "mergedPrs": 2,
+      "score": 52,
+      "mergedPrs": 7,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 7
+      "reviewsReceived": 3,
+      "issuesLinked": 5,
+      "reactions": 9
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 17,
-        "mergedPrs": 2,
+        "score": 52,
+        "mergedPrs": 7,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 7
+        "reviewsReceived": 3,
+        "issuesLinked": 5,
+        "reactions": 9
       },
       "docs": {
         "score": 0,

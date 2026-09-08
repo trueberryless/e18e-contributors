@@ -1,13 +1,13 @@
 {
   "username": "baiwusanyu-c",
-  "lastUpdated": "2026-09-07T11:53:32.744Z",
+  "lastUpdated": "2026-09-08T06:25:08.596Z",
   "aggregatedStats": {
-    "score": 331,
-    "mergedPrs": 27,
-    "reviews": 38,
-    "reviewsReceived": 25,
-    "issuesLinked": 19,
-    "reactions": 192
+    "score": 512,
+    "mergedPrs": 46,
+    "reviews": 48,
+    "reviewsReceived": 45,
+    "issuesLinked": 36,
+    "reactions": 207
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 322,
-      "mergedPrs": 26,
-      "reviews": 37,
-      "reviewsReceived": 24,
-      "issuesLinked": 19,
-      "reactions": 190
+      "score": 503,
+      "mergedPrs": 45,
+      "reviews": 47,
+      "reviewsReceived": 44,
+      "issuesLinked": 36,
+      "reactions": 205
     }
   },
   "repoStats": {
@@ -110,12 +110,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 219,
-        "mergedPrs": 15,
-        "reviews": 29,
-        "reviewsReceived": 10,
-        "issuesLinked": 14,
-        "reactions": 188
+        "score": 399,
+        "mergedPrs": 34,
+        "reviews": 39,
+        "reviewsReceived": 30,
+        "issuesLinked": 31,
+        "reactions": 203
       },
       "devtools": {
         "score": 6,

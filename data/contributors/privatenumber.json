@@ -1,13 +1,13 @@
 {
   "username": "privatenumber",
-  "lastUpdated": "2026-09-07T05:50:51.645Z",
+  "lastUpdated": "2026-09-08T06:25:04.041Z",
   "aggregatedStats": {
-    "score": 217,
-    "mergedPrs": 24,
-    "reviews": 9,
-    "reviewsReceived": 25,
-    "issuesLinked": 3,
-    "reactions": 380
+    "score": 228,
+    "mergedPrs": 25,
+    "reviews": 10,
+    "reviewsReceived": 26,
+    "issuesLinked": 4,
+    "reactions": 381
   },
   "orgStats": {
     "bombshell-dev": {
@@ -67,12 +67,12 @@
       "reactions": 8
     },
     "vuejs": {
-      "score": 149,
-      "mergedPrs": 17,
-      "reviews": 7,
-      "reviewsReceived": 18,
-      "issuesLinked": 1,
-      "reactions": 227
+      "score": 160,
+      "mergedPrs": 18,
+      "reviews": 8,
+      "reviewsReceived": 19,
+      "issuesLinked": 2,
+      "reactions": 228
     }
   },
   "repoStats": {
@@ -188,12 +188,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 5
+        "score": 12,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 6
       },
       "devtools-v6": {
         "score": 0,

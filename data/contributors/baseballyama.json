@@ -1,13 +1,13 @@
 {
   "username": "baseballyama",
-  "lastUpdated": "2026-09-07T20:48:22.547Z",
+  "lastUpdated": "2026-09-08T06:25:12.328Z",
   "aggregatedStats": {
-    "score": 1839,
-    "mergedPrs": 201,
-    "reviews": 178,
-    "reviewsReceived": 132,
-    "issuesLinked": 70,
-    "reactions": 283
+    "score": 1882,
+    "mergedPrs": 206,
+    "reviews": 180,
+    "reviewsReceived": 137,
+    "issuesLinked": 73,
+    "reactions": 288
   },
   "orgStats": {
     "oxc-project": {
@@ -19,18 +19,18 @@
       "reactions": 32
     },
     "sveltejs": {
-      "score": 1809,
-      "mergedPrs": 198,
-      "reviews": 177,
-      "reviewsReceived": 130,
-      "issuesLinked": 68,
-      "reactions": 223
+      "score": 1846,
+      "mergedPrs": 202,
+      "reviews": 179,
+      "reviewsReceived": 134,
+      "issuesLinked": 71,
+      "reactions": 228
     },
     "vitejs": {
-      "score": 5,
-      "mergedPrs": 1,
+      "score": 11,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     },
@@ -96,12 +96,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "score": 21,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
+        "reactions": 12
       },
       "language-tools": {
         "score": 12,
@@ -144,11 +144,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 66,
-        "mergedPrs": 6,
-        "reviews": 4,
-        "reviewsReceived": 6,
-        "issuesLinked": 5,
+        "score": 82,
+        "mergedPrs": 8,
+        "reviews": 5,
+        "reviewsReceived": 7,
+        "issuesLinked": 6,
         "reactions": 83
       },
       "svelte-eslint-parser": {
@@ -202,10 +202,10 @@
         "reactions": 0
       },
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       },

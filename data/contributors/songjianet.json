@@ -1,10 +1,10 @@
 {
   "username": "songjianet",
-  "lastUpdated": "2026-09-08T01:24:07.931Z",
+  "lastUpdated": "2026-09-08T06:25:11.448Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 6,
     "mergedPrs": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
@@ -27,9 +27,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -57,6 +57,14 @@
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "docs-next-zh-cn": {
         "score": 0,
         "mergedPrs": 0,

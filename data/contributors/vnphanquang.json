@@ -1,10 +1,10 @@
 {
   "username": "vnphanquang",
-  "lastUpdated": "2026-09-07T05:50:53.743Z",
+  "lastUpdated": "2026-09-08T06:25:06.784Z",
   "aggregatedStats": {
-    "score": 40,
+    "score": 43,
     "mergedPrs": 4,
-    "reviews": 3,
+    "reviews": 4,
     "reviewsReceived": 4,
     "issuesLinked": 2,
     "reactions": 32
@@ -27,9 +27,9 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 31,
+      "score": 34,
       "mergedPrs": 3,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 3,
       "issuesLinked": 2,
       "reactions": 30
@@ -82,9 +82,9 @@
         "reactions": 26
       },
       "svelte": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 2

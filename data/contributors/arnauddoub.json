@@ -1,10 +1,10 @@
 {
   "username": "arnauddoub",
-  "lastUpdated": "2026-09-05T05:00:55.910Z",
+  "lastUpdated": "2026-09-08T06:25:08.525Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 6,
     "mergedPrs": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 2
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 2
@@ -40,6 +40,14 @@
     },
     "vuejs": {
       "blog": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
+      "core": {
         "score": 3,
         "mergedPrs": 0,
         "reviews": 1,

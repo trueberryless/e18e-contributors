@@ -1,13 +1,13 @@
 {
   "username": "serialine",
-  "lastUpdated": "2026-09-05T05:00:58.518Z",
+  "lastUpdated": "2026-09-08T06:25:11.342Z",
   "aggregatedStats": {
-    "score": 13,
+    "score": 14,
     "mergedPrs": 2,
     "reviews": 0,
     "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 9
+    "reactions": 12
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 6
     },
     "vuejs": {
-      "score": 6,
+      "score": 7,
       "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 6
     }
   },
   "repoStats": {
@@ -56,12 +56,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
+        "score": 1,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 6
       },
       "language-tools": {
         "score": 0,

@@ -1,12 +1,12 @@
 {
   "username": "wojtekmaj",
-  "lastUpdated": "2026-09-07T17:28:17.250Z",
+  "lastUpdated": "2026-09-08T06:25:03.942Z",
   "aggregatedStats": {
-    "score": 479,
-    "mergedPrs": 56,
-    "reviews": 36,
-    "reviewsReceived": 62,
-    "issuesLinked": 9,
+    "score": 522,
+    "mergedPrs": 60,
+    "reviews": 40,
+    "reviewsReceived": 65,
+    "issuesLinked": 13,
     "reactions": 108
   },
   "orgStats": {
@@ -51,11 +51,11 @@
       "reactions": 27
     },
     "vitest-dev": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
+      "score": 49,
+      "mergedPrs": 5,
+      "reviews": 4,
+      "reviewsReceived": 4,
+      "issuesLinked": 4,
       "reactions": 4
     },
     "withastro": {
@@ -168,11 +168,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 6,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
+        "score": 49,
+        "mergedPrs": 5,
+        "reviews": 4,
+        "reviewsReceived": 4,
+        "issuesLinked": 4,
         "reactions": 4
       }
     },

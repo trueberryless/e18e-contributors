@@ -1,22 +1,22 @@
 {
   "username": "DreaminDani",
-  "lastUpdated": "2026-09-07T05:51:02.285Z",
+  "lastUpdated": "2026-09-08T06:25:16.680Z",
   "aggregatedStats": {
-    "score": 264,
-    "mergedPrs": 34,
+    "score": 282,
+    "mergedPrs": 37,
     "reviews": 19,
-    "reviewsReceived": 33,
+    "reviewsReceived": 36,
     "issuesLinked": 0,
-    "reactions": 40
+    "reactions": 41
   },
   "orgStats": {
     "sveltejs": {
-      "score": 264,
-      "mergedPrs": 34,
+      "score": 282,
+      "mergedPrs": 37,
       "reviews": 19,
-      "reviewsReceived": 33,
+      "reviewsReceived": 36,
       "issuesLinked": 0,
-      "reactions": 39
+      "reactions": 40
     },
     "zed-industries": {
       "score": 0,
@@ -54,12 +54,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 21,
-        "mergedPrs": 3,
+        "score": 39,
+        "mergedPrs": 6,
         "reviews": 0,
-        "reviewsReceived": 3,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
-        "reactions": 29
+        "reactions": 30
       },
       "svelte.dev": {
         "score": 189,

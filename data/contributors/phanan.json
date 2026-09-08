@@ -1,13 +1,13 @@
 {
   "username": "phanan",
-  "lastUpdated": "2026-09-07T11:53:39.437Z",
+  "lastUpdated": "2026-09-08T06:25:14.215Z",
   "aggregatedStats": {
-    "score": 1034,
-    "mergedPrs": 111,
+    "score": 1059,
+    "mergedPrs": 116,
     "reviews": 128,
     "reviewsReceived": 68,
     "issuesLinked": 10,
-    "reactions": 71
+    "reactions": 72
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 1034,
-      "mergedPrs": 111,
+      "score": 1059,
+      "mergedPrs": 116,
       "reviews": 128,
       "reviewsReceived": 68,
       "issuesLinked": 10,
-      "reactions": 71
+      "reactions": 72
     }
   },
   "repoStats": {
@@ -40,20 +40,20 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 15,
+        "mergedPrs": 3,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       },
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "docs": {
         "score": 326,

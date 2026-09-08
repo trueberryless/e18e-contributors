@@ -1,13 +1,13 @@
 {
   "username": "znck",
-  "lastUpdated": "2026-09-07T11:53:38.809Z",
+  "lastUpdated": "2026-09-08T06:25:13.746Z",
   "aggregatedStats": {
-    "score": 1028,
-    "mergedPrs": 103,
-    "reviews": 148,
-    "reviewsReceived": 28,
+    "score": 1106,
+    "mergedPrs": 104,
+    "reviews": 172,
+    "reviewsReceived": 29,
     "issuesLinked": 14,
-    "reactions": 128
+    "reactions": 132
   },
   "orgStats": {
     "pnpm": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 1023,
-      "mergedPrs": 102,
-      "reviews": 148,
-      "reviewsReceived": 28,
+      "score": 1101,
+      "mergedPrs": 103,
+      "reviews": 172,
+      "reviewsReceived": 29,
       "issuesLinked": 14,
-      "reactions": 128
+      "reactions": 132
     }
   },
   "repoStats": {
@@ -66,10 +66,10 @@
     },
     "vuejs": {
       "awesome-vue": {
-        "score": 12,
-        "mergedPrs": 0,
-        "reviews": 4,
-        "reviewsReceived": 0,
+        "score": 72,
+        "mergedPrs": 1,
+        "reviews": 22,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       },
@@ -90,12 +90,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 27,
+        "score": 45,
         "mergedPrs": 2,
-        "reviews": 5,
+        "reviews": 11,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 10
+        "reactions": 14
       },
       "devtools-v6": {
         "score": 21,

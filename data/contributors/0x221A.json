@@ -1,10 +1,10 @@
 {
   "username": "0x221A",
-  "lastUpdated": "2026-09-07T05:50:53.872Z",
+  "lastUpdated": "2026-09-08T06:25:06.961Z",
   "aggregatedStats": {
-    "score": 14,
+    "score": 17,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 1,
     "reactions": 1
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 8,
+      "score": 11,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 1
@@ -48,9 +48,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 8,
+        "score": 11,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 1

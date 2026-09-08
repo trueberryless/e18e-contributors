@@ -1,13 +1,13 @@
 {
   "username": "skirtles-code",
-  "lastUpdated": "2026-09-07T11:53:37.405Z",
+  "lastUpdated": "2026-09-08T06:25:12.648Z",
   "aggregatedStats": {
-    "score": 3056,
-    "mergedPrs": 316,
-    "reviews": 354,
-    "reviewsReceived": 250,
-    "issuesLinked": 61,
-    "reactions": 423
+    "score": 3099,
+    "mergedPrs": 321,
+    "reviews": 358,
+    "reviewsReceived": 253,
+    "issuesLinked": 62,
+    "reactions": 427
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "vuejs": {
-      "score": 3056,
-      "mergedPrs": 316,
-      "reviews": 354,
-      "reviewsReceived": 250,
-      "issuesLinked": 61,
-      "reactions": 421
+      "score": 3099,
+      "mergedPrs": 321,
+      "reviews": 358,
+      "reviewsReceived": 253,
+      "issuesLinked": 62,
+      "reactions": 425
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 370,
-        "mergedPrs": 37,
-        "reviews": 47,
-        "reviewsReceived": 4,
-        "issuesLinked": 8,
-        "reactions": 238
+        "score": 412,
+        "mergedPrs": 42,
+        "reviews": 51,
+        "reviewsReceived": 7,
+        "issuesLinked": 9,
+        "reactions": 242
       },
       "create-vue": {
         "score": 9,

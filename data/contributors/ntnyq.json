@@ -1,9 +1,9 @@
 {
   "username": "ntnyq",
-  "lastUpdated": "2026-09-07T05:50:57.061Z",
+  "lastUpdated": "2026-09-08T06:25:10.774Z",
   "aggregatedStats": {
-    "score": 153,
-    "mergedPrs": 23,
+    "score": 158,
+    "mergedPrs": 24,
     "reviews": 1,
     "reviewsReceived": 26,
     "issuesLinked": 4,
@@ -59,8 +59,8 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 129,
-      "mergedPrs": 19,
+      "score": 134,
+      "mergedPrs": 20,
       "reviews": 1,
       "reviewsReceived": 22,
       "issuesLinked": 4,
@@ -138,8 +138,8 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

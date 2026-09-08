@@ -1,12 +1,12 @@
 {
   "username": "moushicheng",
-  "lastUpdated": "2026-09-07T11:53:51.200Z",
+  "lastUpdated": "2026-09-08T06:25:24.633Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
+    "score": 10,
+    "mergedPrs": 1,
     "reviews": 0,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 28
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 28
     }
   },
@@ -40,11 +40,11 @@
     },
     "vuejs": {
       "core": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 28
       },
       "vue-vapor": {

@@ -1,11 +1,11 @@
 {
   "username": "janosh",
-  "lastUpdated": "2026-09-07T05:50:52.891Z",
+  "lastUpdated": "2026-09-08T06:25:05.511Z",
   "aggregatedStats": {
-    "score": 58,
-    "mergedPrs": 8,
+    "score": 64,
+    "mergedPrs": 9,
     "reviews": 1,
-    "reviewsReceived": 4,
+    "reviewsReceived": 5,
     "issuesLinked": 2,
     "reactions": 73
   },
@@ -35,10 +35,10 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 46,
-      "mergedPrs": 6,
+      "score": 52,
+      "mergedPrs": 7,
       "reviews": 1,
-      "reviewsReceived": 4,
+      "reviewsReceived": 5,
       "issuesLinked": 1,
       "reactions": 71
     },
@@ -116,10 +116,10 @@
         "reactions": 1
       },
       "kit": {
-        "score": 5,
-        "mergedPrs": 0,
+        "score": 11,
+        "mergedPrs": 1,
         "reviews": 1,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 23
       },

@@ -1,10 +1,10 @@
 {
   "username": "IanVS",
-  "lastUpdated": "2026-09-07T01:06:05.981Z",
+  "lastUpdated": "2026-09-08T06:25:12.199Z",
   "aggregatedStats": {
-    "score": 38,
+    "score": 41,
     "mergedPrs": 4,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 3,
     "issuesLinked": 1,
     "reactions": 134
@@ -59,9 +59,9 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 22,
+      "score": 25,
       "mergedPrs": 2,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 108
@@ -186,9 +186,9 @@
         "reactions": 7
       },
       "vite": {
-        "score": 10,
+        "score": 13,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 98

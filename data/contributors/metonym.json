@@ -1,9 +1,9 @@
 {
   "username": "metonym",
-  "lastUpdated": "2026-09-07T05:50:51.347Z",
+  "lastUpdated": "2026-09-08T06:25:03.635Z",
   "aggregatedStats": {
-    "score": 31,
-    "mergedPrs": 4,
+    "score": 36,
+    "mergedPrs": 5,
     "reviews": 2,
     "reviewsReceived": 3,
     "issuesLinked": 0,
@@ -27,8 +27,8 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 26,
-      "mergedPrs": 3,
+      "score": 31,
+      "mergedPrs": 4,
       "reviews": 2,
       "reviewsReceived": 3,
       "issuesLinked": 0,
@@ -90,8 +90,8 @@
         "reactions": 0
       },
       "kit": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,

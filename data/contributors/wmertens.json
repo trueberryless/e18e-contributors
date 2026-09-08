@@ -1,11 +1,11 @@
 {
   "username": "wmertens",
-  "lastUpdated": "2026-09-07T17:28:17.249Z",
+  "lastUpdated": "2026-09-08T06:25:03.941Z",
   "aggregatedStats": {
-    "score": 23,
-    "mergedPrs": 3,
+    "score": 30,
+    "mergedPrs": 4,
     "reviews": 2,
-    "reviewsReceived": 1,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 19
   },
@@ -51,10 +51,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -136,10 +136,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

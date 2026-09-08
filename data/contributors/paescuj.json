@@ -1,11 +1,11 @@
 {
   "username": "paescuj",
-  "lastUpdated": "2026-09-07T05:50:52.947Z",
+  "lastUpdated": "2026-09-08T06:25:05.590Z",
   "aggregatedStats": {
-    "score": 159,
-    "mergedPrs": 21,
-    "reviews": 3,
-    "reviewsReceived": 15,
+    "score": 168,
+    "mergedPrs": 22,
+    "reviews": 4,
+    "reviewsReceived": 16,
     "issuesLinked": 15,
     "reactions": 7
   },
@@ -35,10 +35,10 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 139,
-      "mergedPrs": 18,
-      "reviews": 2,
-      "reviewsReceived": 13,
+      "score": 148,
+      "mergedPrs": 19,
+      "reviews": 3,
+      "reviewsReceived": 14,
       "issuesLinked": 15,
       "reactions": 2
     }
@@ -100,10 +100,10 @@
         "reactions": 2
       },
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 9,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

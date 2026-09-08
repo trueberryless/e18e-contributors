@@ -1,13 +1,13 @@
 {
   "username": "haoqunjiang",
-  "lastUpdated": "2026-09-08T01:24:08.812Z",
+  "lastUpdated": "2026-09-08T06:25:12.445Z",
   "aggregatedStats": {
-    "score": 6530,
-    "mergedPrs": 529,
-    "reviews": 1091,
-    "reviewsReceived": 145,
-    "issuesLinked": 194,
-    "reactions": 795
+    "score": 6662,
+    "mergedPrs": 544,
+    "reviews": 1107,
+    "reviewsReceived": 151,
+    "issuesLinked": 195,
+    "reactions": 804
   },
   "orgStats": {
     "oxc-project": {
@@ -35,28 +35,28 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 280,
+      "score": 283,
       "mergedPrs": 10,
-      "reviews": 70,
+      "reviews": 71,
       "reviewsReceived": 10,
       "issuesLinked": 3,
       "reactions": 41
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     },
     "vuejs": {
-      "score": 6226,
-      "mergedPrs": 517,
-      "reviews": 1018,
-      "reviewsReceived": 134,
-      "issuesLinked": 190,
-      "reactions": 734
+      "score": 6349,
+      "mergedPrs": 531,
+      "reviews": 1033,
+      "reviewsReceived": 139,
+      "issuesLinked": 191,
+      "reactions": 743
     }
   },
   "repoStats": {
@@ -132,9 +132,9 @@
         "reactions": 0
       },
       "vite": {
-        "score": 17,
+        "score": 20,
         "mergedPrs": 2,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 39
@@ -174,10 +174,10 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 2
       }
@@ -216,12 +216,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 333,
-        "mergedPrs": 12,
-        "reviews": 86,
-        "reviewsReceived": 4,
-        "issuesLinked": 4,
-        "reactions": 26
+        "score": 456,
+        "mergedPrs": 26,
+        "reviews": 101,
+        "reviewsReceived": 9,
+        "issuesLinked": 5,
+        "reactions": 35
       },
       "create-vue": {
         "score": 1465,

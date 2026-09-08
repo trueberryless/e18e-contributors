@@ -1,13 +1,13 @@
 {
   "username": "shuuji3",
-  "lastUpdated": "2026-09-07T05:50:53.846Z",
+  "lastUpdated": "2026-09-08T06:25:06.925Z",
   "aggregatedStats": {
-    "score": 2101,
-    "mergedPrs": 247,
+    "score": 2125,
+    "mergedPrs": 251,
     "reviews": 61,
-    "reviewsReceived": 252,
+    "reviewsReceived": 256,
     "issuesLinked": 213,
-    "reactions": 48
+    "reactions": 50
   },
   "orgStats": {
     "npmx-dev": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 1675,
-      "mergedPrs": 201,
+      "score": 1699,
+      "mergedPrs": 205,
       "reviews": 20,
-      "reviewsReceived": 203,
+      "reviewsReceived": 207,
       "issuesLinked": 203,
-      "reactions": 6
+      "reactions": 8
     },
     "vuejs": {
       "score": 6,
@@ -100,12 +100,12 @@
         "reactions": 4
       },
       "vite": {
-        "score": 16,
-        "mergedPrs": 2,
+        "score": 40,
+        "mergedPrs": 6,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 7,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "vuejs": {
