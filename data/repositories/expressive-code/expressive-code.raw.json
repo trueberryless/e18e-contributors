@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T17:26:38.032Z",
+    "lastRunAt": "2026-09-08T16:11:21.820Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wOS0yNlQxMDoyNzo1MVrOP5f5ZQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2679,7 +2679,7 @@
     "348": {
       "number": 348,
       "user": {
-        "login": "ruslanpashkov",
+        "login": "ghost",
         "type": "User"
       }
     },
@@ -7289,12 +7289,9 @@
     },
     "348": {
       "number": 348,
-      "updatedAt": "2026-04-16T21:17:02Z",
+      "updatedAt": "2026-09-08T02:26:59Z",
       "merged": false,
-      "author": {
-        "login": "ruslanpashkov",
-        "__typename": "User"
-      },
+      "author": null,
       "closingIssuesReferences": {
         "totalCount": 0
       },

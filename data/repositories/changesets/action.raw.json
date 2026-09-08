@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T17:26:00.277Z",
+    "lastRunAt": "2026-09-08T16:10:34.816Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0xMC0wNFQxMTowNTowMFrOE1kPBQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -18062,7 +18062,7 @@
     },
     "727": {
       "number": 727,
-      "updatedAt": "2026-09-01T17:08:43Z",
+      "updatedAt": "2026-09-07T21:32:19Z",
       "merged": false,
       "author": {
         "login": "furcan",
