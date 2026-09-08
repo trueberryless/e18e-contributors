@@ -1,13 +1,13 @@
 {
   "username": "alexanderniebuhr",
-  "lastUpdated": "2026-09-07T11:53:26.527Z",
+  "lastUpdated": "2026-09-08T11:41:50.170Z",
   "aggregatedStats": {
-    "score": 992,
+    "score": 993,
     "mergedPrs": 95,
     "reviews": 113,
     "reviewsReceived": 97,
     "issuesLinked": 38,
-    "reactions": 54
+    "reactions": 58
   },
   "orgStats": {
     "biomejs": {
@@ -51,12 +51,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 980,
+      "score": 981,
       "mergedPrs": 93,
       "reviews": 113,
       "reviewsReceived": 95,
       "issuesLinked": 38,
-      "reactions": 52
+      "reactions": 56
     }
   },
   "repoStats": {
@@ -141,7 +141,7 @@
         "reviews": 22,
         "reviewsReceived": 18,
         "issuesLinked": 7,
-        "reactions": 35
+        "reactions": 39
       },
       "astro.build": {
         "score": 9,

@@ -1,13 +1,13 @@
 {
   "username": "eveeifyeve",
-  "lastUpdated": "2026-09-06T18:37:04.861Z",
+  "lastUpdated": "2026-09-08T11:41:50.297Z",
   "aggregatedStats": {
-    "score": 45,
+    "score": 48,
     "mergedPrs": 4,
-    "reviews": 7,
+    "reviews": 8,
     "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 4
   },
   "orgStats": {
     "biomejs": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 32,
+      "score": 35,
       "mergedPrs": 2,
-      "reviews": 6,
+      "reviews": 7,
       "reviewsReceived": 4,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "zen-browser": {
       "score": 10,
@@ -82,12 +82,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 9,
+        "score": 12,
         "mergedPrs": 0,
-        "reviews": 3,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "astro.build": {
         "score": 7,

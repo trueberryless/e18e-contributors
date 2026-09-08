@@ -1,19 +1,19 @@
 {
   "username": "zhoushengdao",
-  "lastUpdated": "2026-09-05T22:15:27.576Z",
+  "lastUpdated": "2026-09-08T11:42:24.894Z",
   "aggregatedStats": {
-    "score": 12,
+    "score": 18,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "withastro": {
-      "score": 12,
+      "score": 18,
       "mergedPrs": 2,
-      "reviews": 0,
+      "reviews": 2,
       "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "withastro": {
+      "docs": {
+        "score": 6,
+        "mergedPrs": 0,
+        "reviews": 2,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "starlight": {
         "score": 12,
         "mergedPrs": 2,

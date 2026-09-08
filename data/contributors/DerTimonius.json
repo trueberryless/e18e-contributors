@@ -1,12 +1,12 @@
 {
   "username": "DerTimonius",
-  "lastUpdated": "2026-09-06T18:37:04.433Z",
+  "lastUpdated": "2026-09-08T11:41:50.006Z",
   "aggregatedStats": {
-    "score": 24,
-    "mergedPrs": 3,
+    "score": 32,
+    "mergedPrs": 4,
     "reviews": 2,
-    "reviewsReceived": 3,
-    "issuesLinked": 0,
+    "reviewsReceived": 4,
+    "issuesLinked": 1,
     "reactions": 6
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 11,
+      "mergedPrs": 1,
       "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 2
     }
   },
@@ -94,11 +94,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 1
       },
       "docs": {

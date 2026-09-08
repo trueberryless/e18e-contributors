@@ -1,10 +1,10 @@
 {
   "username": "jonathantneal",
-  "lastUpdated": "2026-09-06T18:37:31.231Z",
+  "lastUpdated": "2026-09-08T11:42:13.333Z",
   "aggregatedStats": {
-    "score": 330,
+    "score": 333,
     "mergedPrs": 23,
-    "reviews": 59,
+    "reviews": 60,
     "reviewsReceived": 16,
     "issuesLinked": 8,
     "reactions": 57
@@ -19,9 +19,9 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 330,
+      "score": 333,
       "mergedPrs": 23,
-      "reviews": 59,
+      "reviews": 60,
       "reviewsReceived": 16,
       "issuesLinked": 8,
       "reactions": 55
@@ -40,9 +40,9 @@
     },
     "withastro": {
       "astro": {
-        "score": 4,
+        "score": 7,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 38

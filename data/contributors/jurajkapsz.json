@@ -1,21 +1,21 @@
 {
   "username": "jurajkapsz",
-  "lastUpdated": "2026-09-07T11:54:05.075Z",
+  "lastUpdated": "2026-09-08T11:42:24.225Z",
   "aggregatedStats": {
-    "score": 8,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 18,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 1,
-    "issuesLinked": 1,
+    "issuesLinked": 2,
     "reactions": 3
   },
   "orgStats": {
     "withastro": {
-      "score": 8,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 18,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 1,
-      "issuesLinked": 1,
+      "issuesLinked": 2,
       "reactions": 3
     },
     "zen-browser": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 3
       },
       "compiler-rs": {

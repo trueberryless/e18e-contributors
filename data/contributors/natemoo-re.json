@@ -1,13 +1,13 @@
 {
   "username": "natemoo-re",
-  "lastUpdated": "2026-09-07T11:53:27.440Z",
+  "lastUpdated": "2026-09-08T11:41:50.935Z",
   "aggregatedStats": {
-    "score": 3768,
-    "mergedPrs": 361,
-    "reviews": 436,
+    "score": 3787,
+    "mergedPrs": 362,
+    "reviews": 440,
     "reviewsReceived": 277,
     "issuesLinked": 139,
-    "reactions": 997
+    "reactions": 1011
   },
   "orgStats": {
     "bombshell-dev": {
@@ -43,12 +43,12 @@
       "reactions": 11
     },
     "withastro": {
-      "score": 3366,
-      "mergedPrs": 329,
-      "reviews": 369,
+      "score": 3385,
+      "mergedPrs": 330,
+      "reviews": 373,
       "reviewsReceived": 267,
       "issuesLinked": 128,
-      "reactions": 911
+      "reactions": 925
     }
   },
   "repoStats": {
@@ -126,12 +126,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 171,
-        "mergedPrs": 12,
-        "reviews": 21,
+        "score": 189,
+        "mergedPrs": 13,
+        "reviews": 25,
         "reviewsReceived": 11,
         "issuesLinked": 4,
-        "reactions": 286
+        "reactions": 300
       },
       "astro.build": {
         "score": 456,

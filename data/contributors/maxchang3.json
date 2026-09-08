@@ -1,12 +1,12 @@
 {
   "username": "maxchang3",
-  "lastUpdated": "2026-09-07T11:53:26.966Z",
+  "lastUpdated": "2026-09-08T11:41:50.477Z",
   "aggregatedStats": {
-    "score": 124,
-    "mergedPrs": 15,
+    "score": 209,
+    "mergedPrs": 28,
     "reviews": 5,
-    "reviewsReceived": 23,
-    "issuesLinked": 5,
+    "reviewsReceived": 41,
+    "issuesLinked": 6,
     "reactions": 10
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 4
     },
     "withastro": {
-      "score": 78,
-      "mergedPrs": 9,
+      "score": 163,
+      "mergedPrs": 22,
       "reviews": 4,
-      "reviewsReceived": 18,
-      "issuesLinked": 1,
+      "reviewsReceived": 36,
+      "issuesLinked": 2,
       "reactions": 6
     }
   },
@@ -58,11 +58,11 @@
     },
     "withastro": {
       "docs": {
-        "score": 65,
-        "mergedPrs": 8,
+        "score": 150,
+        "mergedPrs": 21,
         "reviews": 4,
-        "reviewsReceived": 13,
-        "issuesLinked": 0,
+        "reviewsReceived": 31,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "starlight": {

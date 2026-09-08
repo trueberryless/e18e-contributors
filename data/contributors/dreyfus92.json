@@ -1,12 +1,12 @@
 {
   "username": "dreyfus92",
-  "lastUpdated": "2026-09-07T11:53:26.693Z",
+  "lastUpdated": "2026-09-08T11:41:50.280Z",
   "aggregatedStats": {
-    "score": 3363,
-    "mergedPrs": 267,
-    "reviews": 512,
-    "reviewsReceived": 297,
-    "issuesLinked": 92,
+    "score": 3494,
+    "mergedPrs": 268,
+    "reviews": 553,
+    "reviewsReceived": 298,
+    "issuesLinked": 93,
     "reactions": 110
   },
   "orgStats": {
@@ -19,9 +19,9 @@
       "reactions": 8
     },
     "bombshell-dev": {
-      "score": 492,
+      "score": 495,
       "mergedPrs": 27,
-      "reviews": 96,
+      "reviews": 97,
       "reviewsReceived": 34,
       "issuesLinked": 15,
       "reactions": 53
@@ -51,11 +51,11 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 1831,
-      "mergedPrs": 149,
-      "reviews": 300,
-      "reviewsReceived": 180,
-      "issuesLinked": 2,
+      "score": 1959,
+      "mergedPrs": 150,
+      "reviews": 340,
+      "reviewsReceived": 181,
+      "issuesLinked": 3,
       "reactions": 17
     }
   },
@@ -80,9 +80,9 @@
         "reactions": 0
       },
       "clack": {
-        "score": 427,
+        "score": 430,
         "mergedPrs": 22,
-        "reviews": 86,
+        "reviews": 87,
         "reviewsReceived": 30,
         "issuesLinked": 12,
         "reactions": 53
@@ -160,11 +160,11 @@
         "reactions": 0
       },
       "astro": {
-        "score": 17,
-        "mergedPrs": 1,
+        "score": 25,
+        "mergedPrs": 2,
         "reviews": 3,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 4
       },
       "astro.build": {
@@ -184,9 +184,9 @@
         "reactions": 0
       },
       "docs": {
-        "score": 460,
+        "score": 574,
         "mergedPrs": 0,
-        "reviews": 153,
+        "reviews": 191,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 8
@@ -208,9 +208,9 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 1321,
+        "score": 1327,
         "mergedPrs": 146,
-        "reviews": 137,
+        "reviews": 139,
         "reviewsReceived": 177,
         "issuesLinked": 1,
         "reactions": 5

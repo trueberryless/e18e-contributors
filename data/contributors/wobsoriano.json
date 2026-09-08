@@ -1,11 +1,11 @@
 {
   "username": "wobsoriano",
-  "lastUpdated": "2026-09-07T11:53:27.325Z",
+  "lastUpdated": "2026-09-08T11:41:50.736Z",
   "aggregatedStats": {
-    "score": 130,
-    "mergedPrs": 18,
+    "score": 136,
+    "mergedPrs": 19,
     "reviews": 5,
-    "reviewsReceived": 14,
+    "reviewsReceived": 15,
     "issuesLinked": 2,
     "reactions": 66
   },
@@ -75,10 +75,10 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 5,
-      "mergedPrs": 1,
+      "score": 11,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -262,10 +262,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

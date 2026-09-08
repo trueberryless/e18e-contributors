@@ -1,13 +1,13 @@
 {
   "username": "louisescher",
-  "lastUpdated": "2026-09-07T11:53:27.476Z",
+  "lastUpdated": "2026-09-08T11:41:50.964Z",
   "aggregatedStats": {
-    "score": 791,
-    "mergedPrs": 90,
-    "reviews": 75,
-    "reviewsReceived": 47,
-    "issuesLinked": 34,
-    "reactions": 14
+    "score": 854,
+    "mergedPrs": 95,
+    "reviews": 82,
+    "reviewsReceived": 60,
+    "issuesLinked": 36,
+    "reactions": 15
   },
   "orgStats": {
     "bruits": {
@@ -43,12 +43,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 328,
-      "mergedPrs": 17,
-      "reviews": 67,
-      "reviewsReceived": 37,
-      "issuesLinked": 2,
-      "reactions": 13
+      "score": 391,
+      "mergedPrs": 22,
+      "reviews": 74,
+      "reviewsReceived": 50,
+      "issuesLinked": 4,
+      "reactions": 14
     }
   },
   "repoStats": {
@@ -102,12 +102,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 126,
-        "mergedPrs": 9,
-        "reviews": 20,
-        "reviewsReceived": 19,
-        "issuesLinked": 1,
-        "reactions": 3
+        "score": 166,
+        "mergedPrs": 13,
+        "reviews": 22,
+        "reviewsReceived": 31,
+        "issuesLinked": 2,
+        "reactions": 4
       },
       "astro.build": {
         "score": 22,
@@ -126,11 +126,11 @@
         "reactions": 0
       },
       "docs": {
-        "score": 146,
-        "mergedPrs": 6,
-        "reviews": 33,
-        "reviewsReceived": 16,
-        "issuesLinked": 0,
+        "score": 169,
+        "mergedPrs": 7,
+        "reviews": 38,
+        "reviewsReceived": 17,
+        "issuesLinked": 1,
         "reactions": 10
       },
       "rosie": {

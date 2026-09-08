@@ -1,12 +1,12 @@
 {
   "username": "tony-sull",
-  "lastUpdated": "2026-09-07T11:53:45.254Z",
+  "lastUpdated": "2026-09-08T11:42:05.438Z",
   "aggregatedStats": {
-    "score": 2115,
-    "mergedPrs": 241,
+    "score": 2131,
+    "mergedPrs": 243,
     "reviews": 169,
-    "reviewsReceived": 46,
-    "issuesLinked": 173,
+    "reviewsReceived": 48,
+    "issuesLinked": 175,
     "reactions": 111
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 12
     },
     "withastro": {
-      "score": 2109,
-      "mergedPrs": 240,
+      "score": 2125,
+      "mergedPrs": 242,
       "reviews": 169,
-      "reviewsReceived": 46,
-      "issuesLinked": 173,
+      "reviewsReceived": 48,
+      "issuesLinked": 175,
       "reactions": 99
     }
   },
@@ -56,11 +56,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 20,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 40
       },
       "astro.build": {

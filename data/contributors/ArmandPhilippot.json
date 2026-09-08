@@ -1,13 +1,13 @@
 {
   "username": "ArmandPhilippot",
-  "lastUpdated": "2026-09-07T11:53:27.462Z",
+  "lastUpdated": "2026-09-08T11:41:50.952Z",
   "aggregatedStats": {
-    "score": 7447,
-    "mergedPrs": 849,
-    "reviews": 759,
-    "reviewsReceived": 892,
-    "issuesLinked": 12,
-    "reactions": 95
+    "score": 8626,
+    "mergedPrs": 980,
+    "reviews": 879,
+    "reviewsReceived": 1041,
+    "issuesLinked": 19,
+    "reactions": 106
   },
   "orgStats": {
     "bruits": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 7373,
-      "mergedPrs": 839,
-      "reviews": 754,
-      "reviewsReceived": 883,
-      "issuesLinked": 12,
-      "reactions": 93
+      "score": 8552,
+      "mergedPrs": 970,
+      "reviews": 874,
+      "reviewsReceived": 1032,
+      "issuesLinked": 19,
+      "reactions": 104
     }
   },
   "repoStats": {
@@ -76,12 +76,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 411,
-        "mergedPrs": 22,
-        "reviews": 89,
-        "reviewsReceived": 31,
+        "score": 464,
+        "mergedPrs": 28,
+        "reviews": 94,
+        "reviewsReceived": 39,
         "issuesLinked": 1,
-        "reactions": 8
+        "reactions": 10
       },
       "astro.build": {
         "score": 150,
@@ -108,12 +108,12 @@
         "reactions": 1
       },
       "docs": {
-        "score": 6062,
-        "mergedPrs": 727,
-        "reviews": 546,
-        "reviewsReceived": 759,
-        "issuesLinked": 11,
-        "reactions": 76
+        "score": 7188,
+        "mergedPrs": 852,
+        "reviews": 661,
+        "reviewsReceived": 900,
+        "issuesLinked": 18,
+        "reactions": 85
       },
       "prettier-plugin-astro": {
         "score": 6,

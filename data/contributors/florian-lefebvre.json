@@ -1,13 +1,13 @@
 {
   "username": "florian-lefebvre",
-  "lastUpdated": "2026-09-07T11:53:27.415Z",
+  "lastUpdated": "2026-09-08T11:41:50.799Z",
   "aggregatedStats": {
-    "score": 4541,
-    "mergedPrs": 384,
-    "reviews": 661,
-    "reviewsReceived": 519,
-    "issuesLinked": 44,
-    "reactions": 306
+    "score": 5176,
+    "mergedPrs": 428,
+    "reviews": 772,
+    "reviewsReceived": 577,
+    "issuesLinked": 55,
+    "reactions": 322
   },
   "orgStats": {
     "bombshell-dev": {
@@ -83,12 +83,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 4447,
-      "mergedPrs": 375,
-      "reviews": 652,
-      "reviewsReceived": 506,
-      "issuesLinked": 42,
-      "reactions": 259
+      "score": 5082,
+      "mergedPrs": 419,
+      "reviews": 763,
+      "reviewsReceived": 564,
+      "issuesLinked": 53,
+      "reactions": 275
     }
   },
   "repoStats": {
@@ -272,12 +272,12 @@
         "reactions": 1
       },
       "astro": {
-        "score": 3377,
-        "mergedPrs": 280,
-        "reviews": 505,
-        "reviewsReceived": 362,
-        "issuesLinked": 41,
-        "reactions": 184
+        "score": 3989,
+        "mergedPrs": 322,
+        "reviews": 613,
+        "reviewsReceived": 416,
+        "issuesLinked": 52,
+        "reactions": 200
       },
       "astro.build": {
         "score": 101,
@@ -296,10 +296,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 737,
-        "mergedPrs": 74,
-        "reviews": 81,
-        "reviewsReceived": 120,
+        "score": 760,
+        "mergedPrs": 76,
+        "reviews": 84,
+        "reviewsReceived": 124,
         "issuesLinked": 1,
         "reactions": 21
       },

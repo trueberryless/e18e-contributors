@@ -1,21 +1,21 @@
 {
   "username": "adampatterson",
-  "lastUpdated": "2026-09-05T17:41:15.803Z",
+  "lastUpdated": "2026-09-08T11:41:51.325Z",
   "aggregatedStats": {
-    "score": 8,
-    "mergedPrs": 1,
+    "score": 15,
+    "mergedPrs": 2,
     "reviews": 0,
     "reviewsReceived": 1,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 15
   },
   "orgStats": {
     "catppuccin": {
-      "score": 2,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 15
     },
     "nuxt": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "catppuccin": {
       "zed": {
-        "score": 2,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 15
       }
     },

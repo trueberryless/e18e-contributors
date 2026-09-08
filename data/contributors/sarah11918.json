@@ -1,13 +1,13 @@
 {
   "username": "sarah11918",
-  "lastUpdated": "2026-09-07T11:53:27.151Z",
+  "lastUpdated": "2026-09-08T11:41:50.618Z",
   "aggregatedStats": {
-    "score": 4022,
-    "mergedPrs": 174,
-    "reviews": 966,
-    "reviewsReceived": 215,
-    "issuesLinked": 11,
-    "reactions": 172
+    "score": 4684,
+    "mergedPrs": 203,
+    "reviews": 1125,
+    "reviewsReceived": 246,
+    "issuesLinked": 15,
+    "reactions": 180
   },
   "orgStats": {
     "biomejs": {
@@ -35,12 +35,12 @@
       "reactions": 4
     },
     "withastro": {
-      "score": 3995,
-      "mergedPrs": 173,
-      "reviews": 959,
-      "reviewsReceived": 214,
-      "issuesLinked": 11,
-      "reactions": 168
+      "score": 4657,
+      "mergedPrs": 202,
+      "reviews": 1118,
+      "reviewsReceived": 245,
+      "issuesLinked": 15,
+      "reactions": 176
     }
   },
   "repoStats": {
@@ -92,10 +92,10 @@
         "reactions": 0
       },
       "astro": {
-        "score": 710,
-        "mergedPrs": 18,
-        "reviews": 198,
-        "reviewsReceived": 26,
+        "score": 962,
+        "mergedPrs": 29,
+        "reviews": 259,
+        "reviewsReceived": 40,
         "issuesLinked": 0,
         "reactions": 4
       },
@@ -124,12 +124,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 1632,
-        "mergedPrs": 65,
-        "reviews": 398,
-        "reviewsReceived": 79,
-        "issuesLinked": 10,
-        "reactions": 141
+        "score": 2030,
+        "mergedPrs": 82,
+        "reviews": 494,
+        "reviewsReceived": 95,
+        "issuesLinked": 14,
+        "reactions": 149
       },
       "houston-vscode": {
         "score": 0,
@@ -172,10 +172,10 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 287,
-        "mergedPrs": 14,
-        "reviews": 65,
-        "reviewsReceived": 21,
+        "score": 299,
+        "mergedPrs": 15,
+        "reviews": 67,
+        "reviewsReceived": 22,
         "issuesLinked": 0,
         "reactions": 6
       }

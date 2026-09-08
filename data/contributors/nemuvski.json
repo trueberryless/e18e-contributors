@@ -1,13 +1,13 @@
 {
   "username": "nemuvski",
-  "lastUpdated": "2026-09-07T17:28:16.982Z",
+  "lastUpdated": "2026-09-08T11:41:50.520Z",
   "aggregatedStats": {
-    "score": 15,
-    "mergedPrs": 2,
-    "reviews": 1,
-    "reviewsReceived": 2,
+    "score": 28,
+    "mergedPrs": 3,
+    "reviews": 2,
+    "reviewsReceived": 7,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 4
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 13,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 5,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "withastro": {
       "docs": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 13,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     }
   }

@@ -1,13 +1,13 @@
 {
   "username": "jsparkdev",
-  "lastUpdated": "2026-09-07T17:28:16.842Z",
+  "lastUpdated": "2026-09-08T11:41:50.408Z",
   "aggregatedStats": {
-    "score": 5287,
-    "mergedPrs": 837,
-    "reviews": 73,
-    "reviewsReceived": 876,
+    "score": 6312,
+    "mergedPrs": 998,
+    "reviews": 87,
+    "reviewsReceived": 1054,
     "issuesLinked": 2,
-    "reactions": 33
+    "reactions": 34
   },
   "orgStats": {
     "biomejs": {
@@ -67,12 +67,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 5250,
-      "mergedPrs": 832,
-      "reviews": 72,
-      "reviewsReceived": 868,
+      "score": 6275,
+      "mergedPrs": 993,
+      "reviews": 86,
+      "reviewsReceived": 1046,
       "issuesLinked": 2,
-      "reactions": 19
+      "reactions": 20
     },
     "zed-industries": {
       "score": 1,
@@ -172,10 +172,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 64,
-        "mergedPrs": 10,
-        "reviews": 1,
-        "reviewsReceived": 9,
+        "score": 77,
+        "mergedPrs": 11,
+        "reviews": 3,
+        "reviewsReceived": 11,
         "issuesLinked": 1,
         "reactions": 2
       },
@@ -188,18 +188,18 @@
         "reactions": 0
       },
       "docs": {
-        "score": 3086,
-        "mergedPrs": 500,
-        "reviews": 23,
-        "reviewsReceived": 514,
+        "score": 4092,
+        "mergedPrs": 659,
+        "reviews": 35,
+        "reviewsReceived": 689,
         "issuesLinked": 1,
-        "reactions": 9
+        "reactions": 10
       },
       "starlight": {
-        "score": 2089,
-        "mergedPrs": 321,
+        "score": 2095,
+        "mergedPrs": 322,
         "reviews": 47,
-        "reviewsReceived": 342,
+        "reviewsReceived": 343,
         "issuesLinked": 0,
         "reactions": 8
       },

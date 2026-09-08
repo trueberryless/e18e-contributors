@@ -1,10 +1,10 @@
 {
   "username": "rschristian",
-  "lastUpdated": "2026-09-08T06:25:04.044Z",
+  "lastUpdated": "2026-09-08T11:41:50.941Z",
   "aggregatedStats": {
-    "score": 42,
+    "score": 45,
     "mergedPrs": 4,
-    "reviews": 4,
+    "reviews": 5,
     "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 70
@@ -67,9 +67,9 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
@@ -164,9 +164,9 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1
