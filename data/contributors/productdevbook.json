@@ -1,13 +1,13 @@
 {
   "username": "productdevbook",
-  "lastUpdated": "2026-09-07T11:53:27.446Z",
+  "lastUpdated": "2026-09-08T01:23:58.324Z",
   "aggregatedStats": {
-    "score": 193,
-    "mergedPrs": 24,
-    "reviews": 11,
-    "reviewsReceived": 19,
+    "score": 202,
+    "mergedPrs": 25,
+    "reviews": 12,
+    "reviewsReceived": 20,
     "issuesLinked": 4,
-    "reactions": 130
+    "reactions": 133
   },
   "orgStats": {
     "bombshell-dev": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 173,
-      "mergedPrs": 22,
-      "reviews": 9,
-      "reviewsReceived": 18,
+      "score": 182,
+      "mergedPrs": 23,
+      "reviews": 10,
+      "reviewsReceived": 19,
       "issuesLinked": 4,
-      "reactions": 98
+      "reactions": 101
     },
     "vitejs": {
       "score": 0,
@@ -144,12 +144,12 @@
         "reactions": 12
       },
       "nuxt": {
-        "score": 25,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 2,
+        "score": 34,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 3,
-        "reactions": 39
+        "reactions": 42
       },
       "nuxt.com": {
         "score": 6,

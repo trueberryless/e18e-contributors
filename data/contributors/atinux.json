@@ -1,13 +1,13 @@
 {
   "username": "atinux",
-  "lastUpdated": "2026-09-07T01:06:00.867Z",
+  "lastUpdated": "2026-09-08T01:24:04.232Z",
   "aggregatedStats": {
-    "score": 5219,
-    "mergedPrs": 287,
-    "reviews": 1124,
-    "reviewsReceived": 127,
-    "issuesLinked": 26,
-    "reactions": 2335
+    "score": 5260,
+    "mergedPrs": 292,
+    "reviews": 1128,
+    "reviewsReceived": 129,
+    "issuesLinked": 27,
+    "reactions": 2338
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 4
     },
     "nuxt": {
-      "score": 5121,
-      "mergedPrs": 272,
-      "reviews": 1119,
-      "reviewsReceived": 121,
-      "issuesLinked": 26,
-      "reactions": 2306
+      "score": 5162,
+      "mergedPrs": 277,
+      "reviews": 1123,
+      "reviewsReceived": 123,
+      "issuesLinked": 27,
+      "reactions": 2309
     },
     "pnpm": {
       "score": 7,
@@ -248,20 +248,20 @@
         "reactions": 28
       },
       "movies": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 23,
+        "mergedPrs": 3,
         "reviews": 2,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "nuxt": {
-        "score": 287,
-        "mergedPrs": 12,
-        "reviews": 27,
-        "reviewsReceived": 13,
+        "score": 317,
+        "mergedPrs": 15,
+        "reviews": 31,
+        "reviewsReceived": 15,
         "issuesLinked": 1,
-        "reactions": 1312
+        "reactions": 1315
       },
       "nuxt.com": {
         "score": 791,

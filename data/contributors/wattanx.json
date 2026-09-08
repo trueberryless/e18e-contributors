@@ -1,22 +1,22 @@
 {
   "username": "wattanx",
-  "lastUpdated": "2026-09-07T01:06:05.672Z",
+  "lastUpdated": "2026-09-08T01:24:08.264Z",
   "aggregatedStats": {
-    "score": 1332,
-    "mergedPrs": 140,
-    "reviews": 123,
-    "reviewsReceived": 111,
-    "issuesLinked": 67,
-    "reactions": 175
+    "score": 1359,
+    "mergedPrs": 143,
+    "reviews": 124,
+    "reviewsReceived": 114,
+    "issuesLinked": 70,
+    "reactions": 179
   },
   "orgStats": {
     "nuxt": {
-      "score": 1332,
-      "mergedPrs": 140,
-      "reviews": 123,
-      "reviewsReceived": 111,
-      "issuesLinked": 67,
-      "reactions": 175
+      "score": 1359,
+      "mergedPrs": 143,
+      "reviews": 124,
+      "reviewsReceived": 114,
+      "issuesLinked": 70,
+      "reactions": 179
     },
     "vuejs": {
       "score": 0,
@@ -46,12 +46,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 52,
-        "mergedPrs": 7,
-        "reviews": 1,
-        "reviewsReceived": 7,
-        "issuesLinked": 2,
-        "reactions": 32
+        "score": 80,
+        "mergedPrs": 10,
+        "reviews": 2,
+        "reviewsReceived": 10,
+        "issuesLinked": 5,
+        "reactions": 36
       },
       "starter": {
         "score": 17,

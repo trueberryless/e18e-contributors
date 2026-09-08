@@ -1,10 +1,10 @@
 {
   "username": "shellscape",
-  "lastUpdated": "2026-09-05T15:57:03.087Z",
+  "lastUpdated": "2026-09-08T01:24:02.684Z",
   "aggregatedStats": {
-    "score": 11,
+    "score": 17,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 115
@@ -27,9 +27,9 @@
       "reactions": 2
     },
     "pnpm": {
-      "score": 9,
+      "score": 15,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 89
@@ -106,9 +106,9 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 9,
+        "score": 15,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 89

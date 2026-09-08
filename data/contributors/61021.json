@@ -1,21 +1,21 @@
 {
   "username": "61021",
-  "lastUpdated": "2026-09-05T00:34:20.135Z",
+  "lastUpdated": "2026-09-08T01:24:04.295Z",
   "aggregatedStats": {
-    "score": 45,
-    "mergedPrs": 5,
+    "score": 53,
+    "mergedPrs": 6,
     "reviews": 2,
-    "reviewsReceived": 5,
-    "issuesLinked": 4,
+    "reviewsReceived": 6,
+    "issuesLinked": 5,
     "reactions": 6
   },
   "orgStats": {
     "nuxt": {
-      "score": 29,
-      "mergedPrs": 3,
+      "score": 37,
+      "mergedPrs": 4,
       "reviews": 2,
-      "reviewsReceived": 3,
-      "issuesLinked": 2,
+      "reviewsReceived": 4,
+      "issuesLinked": 3,
       "reactions": 6
     },
     "sveltejs": {
@@ -38,11 +38,11 @@
         "reactions": 5
       },
       "ui": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 19,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 1
       }
     },

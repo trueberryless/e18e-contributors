@@ -1,22 +1,22 @@
 {
   "username": "chengcyber",
-  "lastUpdated": "2026-09-05T20:07:07.516Z",
+  "lastUpdated": "2026-09-08T01:24:09.374Z",
   "aggregatedStats": {
-    "score": 46,
-    "mergedPrs": 4,
-    "reviews": 4,
+    "score": 55,
+    "mergedPrs": 5,
+    "reviews": 5,
     "reviewsReceived": 6,
     "issuesLinked": 3,
-    "reactions": 17
+    "reactions": 29
   },
   "orgStats": {
     "pnpm": {
-      "score": 39,
-      "mergedPrs": 3,
-      "reviews": 4,
+      "score": 48,
+      "mergedPrs": 4,
+      "reviews": 5,
       "reviewsReceived": 6,
       "issuesLinked": 2,
-      "reactions": 17
+      "reactions": 29
     },
     "vuejs": {
       "score": 7,
@@ -46,12 +46,12 @@
         "reactions": 2
       },
       "pnpm": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 11,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 14
+        "reactions": 26
       },
       "pnpm.io": {
         "score": 5,

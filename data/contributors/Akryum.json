@@ -1,10 +1,10 @@
 {
   "username": "Akryum",
-  "lastUpdated": "2026-09-07T11:53:30.714Z",
+  "lastUpdated": "2026-09-08T01:24:04.199Z",
   "aggregatedStats": {
-    "score": 1236,
+    "score": 1239,
     "mergedPrs": 134,
-    "reviews": 122,
+    "reviews": 123,
     "reviewsReceived": 53,
     "issuesLinked": 9,
     "reactions": 1294
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 62,
+      "score": 65,
       "mergedPrs": 10,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 7,
       "issuesLinked": 0,
       "reactions": 48
@@ -88,9 +88,9 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 21,
+        "score": 24,
         "mergedPrs": 3,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 31

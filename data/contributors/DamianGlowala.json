@@ -1,13 +1,13 @@
 {
   "username": "DamianGlowala",
-  "lastUpdated": "2026-09-07T11:53:30.721Z",
+  "lastUpdated": "2026-09-08T01:24:04.204Z",
   "aggregatedStats": {
-    "score": 928,
-    "mergedPrs": 102,
+    "score": 944,
+    "mergedPrs": 104,
     "reviews": 73,
-    "reviewsReceived": 87,
-    "issuesLinked": 37,
-    "reactions": 385
+    "reviewsReceived": 90,
+    "issuesLinked": 38,
+    "reactions": 390
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 911,
-      "mergedPrs": 100,
+      "score": 927,
+      "mergedPrs": 102,
       "reviews": 72,
-      "reviewsReceived": 86,
-      "issuesLinked": 37,
-      "reactions": 350
+      "reviewsReceived": 89,
+      "issuesLinked": 38,
+      "reactions": 355
     },
     "oxc-project": {
       "score": 0,
@@ -144,12 +144,12 @@
         "reactions": 4
       },
       "nuxt": {
-        "score": 279,
-        "mergedPrs": 31,
+        "score": 295,
+        "mergedPrs": 33,
         "reviews": 13,
-        "reviewsReceived": 29,
-        "issuesLinked": 17,
-        "reactions": 220
+        "reviewsReceived": 32,
+        "issuesLinked": 18,
+        "reactions": 225
       },
       "nuxt.com": {
         "score": 12,

@@ -1,12 +1,12 @@
 {
   "username": "segevfiner",
-  "lastUpdated": "2026-09-07T05:50:57.443Z",
+  "lastUpdated": "2026-09-08T01:24:07.811Z",
   "aggregatedStats": {
-    "score": 48,
-    "mergedPrs": 5,
+    "score": 57,
+    "mergedPrs": 6,
     "reviews": 0,
-    "reviewsReceived": 2,
-    "issuesLinked": 1,
+    "reviewsReceived": 4,
+    "issuesLinked": 2,
     "reactions": 188
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 1
     },
     "pnpm": {
-      "score": 4,
-      "mergedPrs": 0,
+      "score": 13,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 38
     },
     "vitejs": {
@@ -82,11 +82,11 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 13,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 36
       },
       "pnpm.io": {

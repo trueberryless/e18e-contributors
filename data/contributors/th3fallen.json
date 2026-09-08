@@ -1,32 +1,32 @@
 {
   "username": "th3fallen",
-  "lastUpdated": "2026-09-05T00:34:28.189Z",
+  "lastUpdated": "2026-09-08T01:24:09.913Z",
   "aggregatedStats": {
-    "score": 6,
-    "mergedPrs": 1,
+    "score": 13,
+    "mergedPrs": 2,
     "reviews": 0,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 10
   },
   "orgStats": {
     "pnpm": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 10
     }
   },
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 10
       },
       "pnpm.io": {

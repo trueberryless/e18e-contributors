@@ -1,12 +1,12 @@
 {
   "username": "NullVoxPopuli",
-  "lastUpdated": "2026-09-07T05:50:52.784Z",
+  "lastUpdated": "2026-09-08T01:24:02.850Z",
   "aggregatedStats": {
-    "score": 40,
-    "mergedPrs": 4,
+    "score": 48,
+    "mergedPrs": 5,
     "reviews": 4,
-    "reviewsReceived": 4,
-    "issuesLinked": 0,
+    "reviewsReceived": 5,
+    "issuesLinked": 1,
     "reactions": 45
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 0
     },
     "pnpm": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 11,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 25
     },
     "sveltejs": {
@@ -124,11 +124,11 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 11,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 25
       }
     },

@@ -1,13 +1,13 @@
 {
   "username": "iiio2",
-  "lastUpdated": "2026-09-07T05:50:53.046Z",
+  "lastUpdated": "2026-09-08T01:24:03.112Z",
   "aggregatedStats": {
-    "score": 1051,
-    "mergedPrs": 169,
-    "reviews": 5,
-    "reviewsReceived": 165,
+    "score": 1090,
+    "mergedPrs": 175,
+    "reviews": 6,
+    "reviewsReceived": 170,
     "issuesLinked": 11,
-    "reactions": 46
+    "reactions": 50
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 15
     },
     "nuxt": {
-      "score": 347,
-      "mergedPrs": 56,
-      "reviews": 2,
-      "reviewsReceived": 59,
+      "score": 386,
+      "mergedPrs": 62,
+      "reviews": 3,
+      "reviewsReceived": 64,
       "issuesLinked": 0,
-      "reactions": 23
+      "reactions": 27
     },
     "slidevjs": {
       "score": 31,
@@ -114,12 +114,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 284,
-        "mergedPrs": 45,
-        "reviews": 2,
-        "reviewsReceived": 51,
+        "score": 323,
+        "mergedPrs": 51,
+        "reviews": 3,
+        "reviewsReceived": 56,
         "issuesLinked": 0,
-        "reactions": 21
+        "reactions": 25
       },
       "nuxt.com": {
         "score": 17,

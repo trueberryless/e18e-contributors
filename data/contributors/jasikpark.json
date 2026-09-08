@@ -1,13 +1,13 @@
 {
   "username": "jasikpark",
-  "lastUpdated": "2026-09-07T23:39:20.550Z",
+  "lastUpdated": "2026-09-08T01:23:57.903Z",
   "aggregatedStats": {
-    "score": 359,
-    "mergedPrs": 30,
+    "score": 366,
+    "mergedPrs": 31,
     "reviews": 57,
-    "reviewsReceived": 19,
+    "reviewsReceived": 21,
     "issuesLinked": 2,
-    "reactions": 157
+    "reactions": 159
   },
   "orgStats": {
     "biomejs": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "tanstack": {
       "score": 3,
@@ -100,12 +100,12 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "tanstack": {

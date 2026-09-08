@@ -1,13 +1,13 @@
 {
   "username": "userquin",
-  "lastUpdated": "2026-09-07T05:50:53.854Z",
+  "lastUpdated": "2026-09-08T01:24:04.290Z",
   "aggregatedStats": {
-    "score": 1520,
+    "score": 1523,
     "mergedPrs": 196,
-    "reviews": 94,
+    "reviews": 95,
     "reviewsReceived": 169,
     "issuesLinked": 31,
-    "reactions": 261
+    "reactions": 263
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 47
     },
     "nuxt": {
-      "score": 144,
+      "score": 147,
       "mergedPrs": 21,
-      "reviews": 6,
+      "reviews": 7,
       "reviewsReceived": 10,
       "issuesLinked": 1,
-      "reactions": 88
+      "reactions": 90
     },
     "pnpm": {
       "score": 1,
@@ -144,12 +144,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 34,
+        "score": 37,
         "mergedPrs": 4,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 69
+        "reactions": 71
       },
       "nuxt.com": {
         "score": 11,

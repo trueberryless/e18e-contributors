@@ -1,10 +1,10 @@
 {
   "username": "Bbjj88h",
-  "lastUpdated": "2026-09-05T00:34:18.859Z",
+  "lastUpdated": "2026-09-08T01:24:02.821Z",
   "aggregatedStats": {
-    "score": 6,
+    "score": 9,
     "mergedPrs": 0,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "pnpm": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -39,6 +39,14 @@
       }
     },
     "pnpm": {
+      "pnpm": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "symlink-dir": {
         "score": 3,
         "mergedPrs": 0,

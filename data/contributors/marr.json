@@ -1,22 +1,22 @@
 {
   "username": "marr",
-  "lastUpdated": "2026-09-07T23:39:26.364Z",
+  "lastUpdated": "2026-09-08T01:24:07.101Z",
   "aggregatedStats": {
-    "score": 15,
-    "mergedPrs": 2,
+    "score": 21,
+    "mergedPrs": 3,
     "reviews": 0,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
-    "reactions": 30
+    "reactions": 31
   },
   "orgStats": {
     "nuxt": {
-      "score": 7,
-      "mergedPrs": 1,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 12
+      "reactions": 13
     },
     "shadcn-ui": {
       "score": 0,
@@ -86,12 +86,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 5
+        "reactions": 6
       },
       "starter": {
         "score": 6,

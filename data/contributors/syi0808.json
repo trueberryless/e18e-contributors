@@ -1,22 +1,22 @@
 {
   "username": "syi0808",
-  "lastUpdated": "2026-09-07T05:50:59.625Z",
+  "lastUpdated": "2026-09-08T01:24:09.904Z",
   "aggregatedStats": {
-    "score": 30,
-    "mergedPrs": 3,
+    "score": 38,
+    "mergedPrs": 4,
     "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 2,
-    "reactions": 11
+    "reviewsReceived": 5,
+    "issuesLinked": 3,
+    "reactions": 12
   },
   "orgStats": {
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 2
     },
     "vitest-dev": {
       "score": 30,
@@ -38,12 +38,12 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 2
       }
     },
     "vitest-dev": {

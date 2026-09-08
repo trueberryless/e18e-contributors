@@ -1,10 +1,10 @@
 {
   "username": "Jack-Works",
-  "lastUpdated": "2026-09-05T15:57:01.599Z",
+  "lastUpdated": "2026-09-08T01:23:57.523Z",
   "aggregatedStats": {
-    "score": 36,
+    "score": 39,
     "mergedPrs": 4,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsReceived": 3,
     "issuesLinked": 1,
     "reactions": 45
@@ -27,9 +27,9 @@
       "reactions": 6
     },
     "pnpm": {
-      "score": 26,
+      "score": 29,
       "mergedPrs": 3,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 3,
       "issuesLinked": 1,
       "reactions": 26
@@ -98,9 +98,9 @@
         "reactions": 2
       },
       "pnpm": {
-        "score": 2,
+        "score": 5,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 24

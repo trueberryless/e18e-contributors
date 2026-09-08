@@ -1,32 +1,32 @@
 {
   "username": "martinkors",
-  "lastUpdated": "2026-09-07T05:50:59.440Z",
+  "lastUpdated": "2026-09-08T01:24:09.681Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
+    "score": 20,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
+    "reviewsReceived": 2,
+    "issuesLinked": 2,
     "reactions": 9
   },
   "orgStats": {
     "pnpm": {
-      "score": 12,
-      "mergedPrs": 1,
+      "score": 20,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
       "reactions": 9
     }
   },
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 20,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 9
       }
     }

@@ -1,13 +1,13 @@
 {
   "username": "btea",
-  "lastUpdated": "2026-09-07T11:53:27.404Z",
+  "lastUpdated": "2026-09-08T01:23:58.301Z",
   "aggregatedStats": {
-    "score": 3211,
-    "mergedPrs": 431,
-    "reviews": 158,
-    "reviewsReceived": 426,
-    "issuesLinked": 63,
-    "reactions": 300
+    "score": 3738,
+    "mergedPrs": 499,
+    "reviews": 182,
+    "reviewsReceived": 497,
+    "issuesLinked": 84,
+    "reactions": 316
   },
   "orgStats": {
     "bombshell-dev": {
@@ -59,12 +59,12 @@
       "reactions": 0
     },
     "pnpm": {
-      "score": 737,
-      "mergedPrs": 94,
-      "reviews": 33,
-      "reviewsReceived": 95,
-      "issuesLinked": 31,
-      "reactions": 109
+      "score": 1264,
+      "mergedPrs": 162,
+      "reviews": 57,
+      "reviewsReceived": 166,
+      "issuesLinked": 52,
+      "reactions": 125
     },
     "refined-github": {
       "score": 0,
@@ -194,12 +194,12 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 664,
-        "mergedPrs": 82,
-        "reviews": 33,
-        "reviewsReceived": 88,
-        "issuesLinked": 28,
-        "reactions": 107
+        "score": 1190,
+        "mergedPrs": 150,
+        "reviews": 57,
+        "reviewsReceived": 159,
+        "issuesLinked": 49,
+        "reactions": 123
       },
       "pnpm.io": {
         "score": 73,

@@ -1,20 +1,20 @@
 {
   "username": "spacey-sooty",
-  "lastUpdated": "2026-09-05T00:34:28.163Z",
+  "lastUpdated": "2026-09-08T01:24:09.870Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 7,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 8
   },
   "orgStats": {
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

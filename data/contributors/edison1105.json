@@ -1,10 +1,10 @@
 {
   "username": "edison1105",
-  "lastUpdated": "2026-09-07T11:53:30.779Z",
+  "lastUpdated": "2026-09-08T01:24:04.241Z",
   "aggregatedStats": {
-    "score": 5459,
+    "score": 5462,
     "mergedPrs": 759,
-    "reviews": 303,
+    "reviews": 304,
     "reviewsReceived": 92,
     "issuesLinked": 273,
     "reactions": 1163
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 19,
+      "score": 22,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 8
@@ -64,9 +64,9 @@
     },
     "nuxt": {
       "nuxt": {
-        "score": 19,
+        "score": 22,
         "mergedPrs": 3,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 8

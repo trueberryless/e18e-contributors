@@ -1,22 +1,22 @@
 {
   "username": "schirrel",
-  "lastUpdated": "2026-09-05T00:34:25.513Z",
+  "lastUpdated": "2026-09-08T01:24:07.791Z",
   "aggregatedStats": {
-    "score": 23,
-    "mergedPrs": 2,
+    "score": 29,
+    "mergedPrs": 3,
     "reviews": 2,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 2,
-    "reactions": 14
+    "reactions": 15
   },
   "orgStats": {
     "nuxt": {
-      "score": 23,
-      "mergedPrs": 2,
+      "score": 29,
+      "mergedPrs": 3,
       "reviews": 2,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 2,
-      "reactions": 13
+      "reactions": 14
     },
     "vitest-dev": {
       "score": 0,
@@ -46,12 +46,12 @@
         "reactions": 12
       },
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vitest-dev": {

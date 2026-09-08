@@ -1,13 +1,13 @@
 {
   "username": "harlan-zw",
-  "lastUpdated": "2026-09-07T01:06:00.891Z",
+  "lastUpdated": "2026-09-08T01:24:04.249Z",
   "aggregatedStats": {
-    "score": 1885,
+    "score": 1891,
     "mergedPrs": 255,
-    "reviews": 92,
+    "reviews": 94,
     "reviewsReceived": 86,
     "issuesLinked": 72,
-    "reactions": 1040
+    "reactions": 1042
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 14
     },
     "nuxt": {
-      "score": 1849,
+      "score": 1855,
       "mergedPrs": 250,
-      "reviews": 90,
+      "reviews": 92,
       "reviewsReceived": 82,
       "issuesLinked": 72,
-      "reactions": 1026
+      "reactions": 1028
     },
     "oxc-project": {
       "score": 5,
@@ -160,9 +160,9 @@
         "reactions": 14
       },
       "nuxt": {
-        "score": 241,
+        "score": 247,
         "mergedPrs": 23,
-        "reviews": 15,
+        "reviews": 17,
         "reviewsReceived": 26,
         "issuesLinked": 7,
         "reactions": 414
@@ -189,7 +189,7 @@
         "reviews": 57,
         "reviewsReceived": 0,
         "issuesLinked": 61,
-        "reactions": 340
+        "reactions": 342
       },
       "starter": {
         "score": 7,

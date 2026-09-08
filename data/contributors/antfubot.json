@@ -1,19 +1,19 @@
 {
   "username": "antfubot",
-  "lastUpdated": "2026-09-05T00:34:21.737Z",
+  "lastUpdated": "2026-09-08T01:24:05.475Z",
   "aggregatedStats": {
-    "score": 694,
-    "mergedPrs": 135,
-    "reviews": 1,
+    "score": 707,
+    "mergedPrs": 137,
+    "reviews": 2,
     "reviewsReceived": 5,
     "issuesLinked": 5,
     "reactions": 18
   },
   "orgStats": {
     "nuxt": {
-      "score": 257,
-      "mergedPrs": 50,
-      "reviews": 1,
+      "score": 270,
+      "mergedPrs": 52,
+      "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 12
@@ -38,9 +38,9 @@
   "repoStats": {
     "nuxt": {
       "devtools": {
-        "score": 239,
-        "mergedPrs": 47,
-        "reviews": 0,
+        "score": 252,
+        "mergedPrs": 49,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 10
