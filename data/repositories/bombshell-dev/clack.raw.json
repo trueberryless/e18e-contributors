@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T11:50:08.479Z",
+    "lastRunAt": "2026-09-08T11:36:55.263Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0wOFQyMzo0NDo0M1rOSZHnmg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4707,6 +4707,13 @@
       },
       "reactions": {
         "total_count": 1
+      }
+    },
+    "600": {
+      "number": 600,
+      "user": {
+        "login": "dreyfus92",
+        "type": "User"
       }
     }
   },
@@ -16113,8 +16120,8 @@
     },
     "589": {
       "number": 589,
-      "updatedAt": "2026-09-06T19:35:39Z",
-      "merged": false,
+      "updatedAt": "2026-09-07T20:11:47Z",
+      "merged": true,
       "author": {
         "login": "bombshell-bot",
         "__typename": "Bot"
@@ -16126,7 +16133,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "dreyfus92",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "590": {

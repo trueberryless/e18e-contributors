@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T11:51:02.074Z",
+    "lastRunAt": "2026-09-08T11:37:50.051Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wNS0xNVQwNDozNTo1NlrON7dKbg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4985,7 +4985,7 @@
     },
     "253": {
       "number": 253,
-      "updatedAt": "2026-09-04T17:39:43Z",
+      "updatedAt": "2026-09-07T14:08:16Z",
       "merged": false,
       "author": {
         "login": "Olivia5k",

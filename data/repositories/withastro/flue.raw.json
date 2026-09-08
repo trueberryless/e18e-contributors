@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T11:52:18.014Z",
+    "lastRunAt": "2026-09-08T11:39:03.773Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0xNlQyMjozNzowOFrOxALlzQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3334,6 +3334,13 @@
       "number": 644,
       "user": {
         "login": "rp4rk",
+        "type": "User"
+      }
+    },
+    "654": {
+      "number": 654,
+      "user": {
+        "login": "feliperyan",
         "type": "User"
       }
     }
@@ -7283,6 +7290,24 @@
       "merged": false,
       "author": {
         "login": "MichielMAnalytics",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "654": {
+      "number": 654,
+      "updatedAt": "2026-09-08T09:25:53Z",
+      "merged": false,
+      "author": {
+        "login": "feliperyan",
         "__typename": "User"
       },
       "closingIssuesReferences": {

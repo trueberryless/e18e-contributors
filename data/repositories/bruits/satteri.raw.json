@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T17:24:51.930Z",
+    "lastRunAt": "2026-09-08T11:40:05.880Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNC0wNVQxMzo0NToxMlrO0AsyQw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2120,6 +2120,13 @@
       "number": 296,
       "user": {
         "login": "coclique",
+        "type": "User"
+      }
+    },
+    "297": {
+      "number": 297,
+      "user": {
+        "login": "gtritchie",
         "type": "User"
       }
     }
@@ -5986,7 +5993,7 @@
     },
     "271": {
       "number": 271,
-      "updatedAt": "2026-08-19T10:14:26Z",
+      "updatedAt": "2026-09-08T10:24:51Z",
       "merged": false,
       "author": {
         "login": "Princesseuh",
@@ -6251,7 +6258,7 @@
     },
     "291": {
       "number": 291,
-      "updatedAt": "2026-08-28T18:01:04Z",
+      "updatedAt": "2026-09-08T10:25:18Z",
       "merged": false,
       "author": {
         "login": "Princesseuh",
@@ -6309,6 +6316,24 @@
             }
           }
         ]
+      }
+    },
+    "297": {
+      "number": 297,
+      "updatedAt": "2026-09-07T22:25:22Z",
+      "merged": false,
+      "author": {
+        "login": "gtritchie",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

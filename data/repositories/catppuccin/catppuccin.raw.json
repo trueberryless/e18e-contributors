@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T11:50:57.517Z",
+    "lastRunAt": "2026-09-08T11:37:44.686Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMS0wNlQwNDo0NToyM1rOMJRkaw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8752,6 +8752,13 @@
       "number": 3118,
       "user": {
         "login": "joeywrightphoto",
+        "type": "User"
+      }
+    },
+    "3119": {
+      "number": 3119,
+      "user": {
+        "login": "makeev",
         "type": "User"
       }
     }
@@ -20628,6 +20635,24 @@
       },
       "closingIssuesReferences": {
         "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "3119": {
+      "number": 3119,
+      "updatedAt": "2026-09-07T18:46:55Z",
+      "merged": false,
+      "author": {
+        "login": "makeev",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0

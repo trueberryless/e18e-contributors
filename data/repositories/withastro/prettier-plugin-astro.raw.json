@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T11:52:10.984Z",
+    "lastRunAt": "2026-09-08T11:38:56.763Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wOS0wOFQxODozOTowOFrOK4EsGw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3519,6 +3519,27 @@
       "number": 476,
       "user": {
         "login": "lishaduck",
+        "type": "User"
+      }
+    },
+    "477": {
+      "number": 477,
+      "user": {
+        "login": "Princesseuh",
+        "type": "User"
+      }
+    },
+    "478": {
+      "number": 478,
+      "user": {
+        "login": "github-actions[bot]",
+        "type": "Bot"
+      }
+    },
+    "479": {
+      "number": 479,
+      "user": {
+        "login": "Princesseuh",
         "type": "User"
       }
     }
@@ -10959,6 +10980,60 @@
       "author": {
         "login": "github-actions",
         "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "477": {
+      "number": 477,
+      "updatedAt": "2026-09-07T14:57:02Z",
+      "merged": true,
+      "author": {
+        "login": "Princesseuh",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "478": {
+      "number": 478,
+      "updatedAt": "2026-09-07T14:57:28Z",
+      "merged": false,
+      "author": {
+        "login": "github-actions",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "479": {
+      "number": 479,
+      "updatedAt": "2026-09-08T11:01:58Z",
+      "merged": false,
+      "author": {
+        "login": "Princesseuh",
+        "__typename": "User"
       },
       "closingIssuesReferences": {
         "totalCount": 0
