@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T11:48:39.819Z",
+    "lastRunAt": "2026-09-08T06:23:19.640Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wNS0wOVQwNTo0NDo1NlrOGL8Juw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -16773,7 +16773,7 @@
     },
     "801": {
       "number": 801,
-      "updatedAt": "2026-09-03T23:57:29Z",
+      "updatedAt": "2026-09-07T22:46:05Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -16791,7 +16791,7 @@
     },
     "802": {
       "number": 802,
-      "updatedAt": "2026-09-07T02:54:14Z",
+      "updatedAt": "2026-09-08T03:53:49Z",
       "merged": false,
       "author": {
         "login": "renovate",

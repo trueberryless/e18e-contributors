@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T05:49:37.421Z",
+    "lastRunAt": "2026-09-08T06:21:58.768Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wNC0xOVQwNDo0Mjo0NVrONl6pkw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5801,6 +5801,20 @@
         "login": "hi-ogawa",
         "type": "User"
       }
+    },
+    "818": {
+      "number": 818,
+      "user": {
+        "login": "sheremet-va",
+        "type": "User"
+      }
+    },
+    "819": {
+      "number": 819,
+      "user": {
+        "login": "hi-ogawa",
+        "type": "User"
+      }
     }
   },
   "prs": {
@@ -6944,7 +6958,7 @@
     },
     "228": {
       "number": 228,
-      "updatedAt": "2024-02-18T07:57:57Z",
+      "updatedAt": "2026-09-07T11:18:12Z",
       "merged": true,
       "author": {
         "login": "hi-ogawa",
@@ -12347,7 +12361,7 @@
     },
     "811": {
       "number": 811,
-      "updatedAt": "2026-09-07T04:22:43Z",
+      "updatedAt": "2026-09-07T09:08:57Z",
       "merged": false,
       "author": {
         "login": "hi-ogawa",
@@ -12365,6 +12379,13 @@
             "state": "CHANGES_REQUESTED",
             "author": {
               "login": "sheremet-va",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "hi-ogawa",
               "__typename": "User"
             }
           },
@@ -12441,7 +12462,51 @@
     },
     "817": {
       "number": 817,
-      "updatedAt": "2026-09-07T04:38:55Z",
+      "updatedAt": "2026-09-07T06:52:37Z",
+      "merged": true,
+      "author": {
+        "login": "hi-ogawa",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "sheremet-va",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "818": {
+      "number": 818,
+      "updatedAt": "2026-09-07T09:08:39Z",
+      "merged": false,
+      "author": {
+        "login": "sheremet-va",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "819": {
+      "number": 819,
+      "updatedAt": "2026-09-08T04:52:02Z",
       "merged": false,
       "author": {
         "login": "hi-ogawa",

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T05:47:46.601Z",
+    "lastRunAt": "2026-09-08T06:20:00.719Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wMy0xNVQyMjowMzo1OFrOFyz7vQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -23298,6 +23298,13 @@
       "number": 3117,
       "user": {
         "login": "dummdidumm",
+        "type": "User"
+      }
+    },
+    "3118": {
+      "number": 3118,
+      "user": {
+        "login": "hexadecimal233",
         "type": "User"
       }
     }

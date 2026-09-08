@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T05:48:45.397Z",
+    "lastRunAt": "2026-09-08T06:21:02.080Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wOC0yMVQwOTo1NjoyM1rOHBrajQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -7916,6 +7916,27 @@
       "number": 1146,
       "user": {
         "login": "MatthewPattell",
+        "type": "User"
+      }
+    },
+    "1147": {
+      "number": 1147,
+      "user": {
+        "login": "waleedmustafa971",
+        "type": "User"
+      }
+    },
+    "1148": {
+      "number": 1148,
+      "user": {
+        "login": "AAlbadi",
+        "type": "User"
+      }
+    },
+    "1149": {
+      "number": 1149,
+      "user": {
+        "login": "prc5",
         "type": "User"
       }
     }
@@ -35412,6 +35433,60 @@
       "merged": false,
       "author": {
         "login": "MatthewPattell",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1147": {
+      "number": 1147,
+      "updatedAt": "2026-09-07T13:15:36Z",
+      "merged": false,
+      "author": {
+        "login": "waleedmustafa971",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1148": {
+      "number": 1148,
+      "updatedAt": "2026-09-07T17:30:18Z",
+      "merged": false,
+      "author": {
+        "login": "AAlbadi",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1149": {
+      "number": 1149,
+      "updatedAt": "2026-09-07T22:10:17Z",
+      "merged": false,
+      "author": {
+        "login": "prc5",
         "__typename": "User"
       },
       "closingIssuesReferences": {

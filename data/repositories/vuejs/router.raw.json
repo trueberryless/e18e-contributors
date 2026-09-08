@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T11:48:30.814Z",
+    "lastRunAt": "2026-09-08T06:23:13.832Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0wNy0xN1QwOTo1OToyNVrOEckWMQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17575,6 +17575,13 @@
       },
       "reactions": {
         "total_count": 1
+      }
+    },
+    "2801": {
+      "number": 2801,
+      "user": {
+        "login": "posva",
+        "type": "User"
       }
     }
   },

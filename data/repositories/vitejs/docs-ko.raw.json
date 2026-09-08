@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T05:48:46.168Z",
+    "lastRunAt": "2026-09-08T06:21:02.913Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wNS0xN1QwNjoyNjoyNFrOJno8kw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2400,6 +2400,20 @@
     },
     "1825": {
       "number": 1825,
+      "user": {
+        "login": "github-actions[bot]",
+        "type": "Bot"
+      }
+    },
+    "1826": {
+      "number": 1826,
+      "user": {
+        "login": "github-actions[bot]",
+        "type": "Bot"
+      }
+    },
+    "1827": {
+      "number": 1827,
       "user": {
         "login": "github-actions[bot]",
         "type": "Bot"
