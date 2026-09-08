@@ -1,20 +1,20 @@
 {
   "username": "anonrig",
-  "lastUpdated": "2026-09-07T17:28:16.554Z",
+  "lastUpdated": "2026-09-08T16:14:45.566Z",
   "aggregatedStats": {
-    "score": 376,
-    "mergedPrs": 34,
-    "reviews": 61,
-    "reviewsReceived": 6,
+    "score": 391,
+    "mergedPrs": 35,
+    "reviews": 64,
+    "reviewsReceived": 7,
     "issuesLinked": 3,
     "reactions": 106
   },
   "orgStats": {
     "biomejs": {
-      "score": 13,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
+      "score": 28,
+      "mergedPrs": 2,
+      "reviews": 4,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 35
     },
@@ -70,9 +70,9 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 7,
+        "score": 13,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 35
@@ -86,10 +86,10 @@
         "reactions": 0
       },
       "website": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 9,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

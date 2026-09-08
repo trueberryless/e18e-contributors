@@ -1,6 +1,6 @@
 {
   "username": "devtechedge",
-  "lastUpdated": "2026-09-08T06:25:20.618Z",
+  "lastUpdated": "2026-09-08T16:14:45.663Z",
   "aggregatedStats": {
     "score": 0,
     "mergedPrs": 0,
@@ -10,6 +10,14 @@
     "reactions": 0
   },
   "orgStats": {
+    "biomejs": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "tanstack": {
       "score": 0,
       "mergedPrs": 0,
@@ -28,6 +36,16 @@
     }
   },
   "repoStats": {
+    "biomejs": {
+      "biome": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "tanstack": {
       "router": {
         "score": 0,

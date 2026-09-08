@@ -1,22 +1,22 @@
 {
   "username": "dyc3",
-  "lastUpdated": "2026-09-07T17:28:16.685Z",
+  "lastUpdated": "2026-09-08T16:14:45.680Z",
   "aggregatedStats": {
-    "score": 5764,
-    "mergedPrs": 412,
-    "reviews": 1023,
-    "reviewsReceived": 390,
-    "issuesLinked": 102,
-    "reactions": 407
+    "score": 6312,
+    "mergedPrs": 456,
+    "reviews": 1110,
+    "reviewsReceived": 437,
+    "issuesLinked": 112,
+    "reactions": 409
   },
   "orgStats": {
     "biomejs": {
-      "score": 5756,
-      "mergedPrs": 411,
-      "reviews": 1023,
-      "reviewsReceived": 389,
-      "issuesLinked": 101,
-      "reactions": 407
+      "score": 6304,
+      "mergedPrs": 455,
+      "reviews": 1110,
+      "reviewsReceived": 436,
+      "issuesLinked": 111,
+      "reactions": 409
     },
     "sveltejs": {
       "score": 8,
@@ -38,12 +38,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 4886,
-        "mergedPrs": 354,
-        "reviews": 845,
-        "reviewsReceived": 353,
-        "issuesLinked": 94,
-        "reactions": 396
+        "score": 5362,
+        "mergedPrs": 391,
+        "reviews": 922,
+        "reviewsReceived": 395,
+        "issuesLinked": 103,
+        "reactions": 398
       },
       "biome-vscode": {
         "score": 24,
@@ -78,11 +78,11 @@
         "reactions": 2
       },
       "website": {
-        "score": 783,
-        "mergedPrs": 54,
-        "reviews": 155,
-        "reviewsReceived": 35,
-        "issuesLinked": 6,
+        "score": 855,
+        "mergedPrs": 61,
+        "reviews": 165,
+        "reviewsReceived": 40,
+        "issuesLinked": 7,
         "reactions": 9
       }
     },

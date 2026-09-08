@@ -1,20 +1,20 @@
 {
   "username": "thejackshelton",
-  "lastUpdated": "2026-09-07T17:28:17.182Z",
+  "lastUpdated": "2026-09-08T16:14:46.053Z",
   "aggregatedStats": {
-    "score": 37,
-    "mergedPrs": 4,
+    "score": 49,
+    "mergedPrs": 6,
     "reviews": 3,
-    "reviewsReceived": 6,
+    "reviewsReceived": 8,
     "issuesLinked": 0,
     "reactions": 26
   },
   "orgStats": {
     "biomejs": {
-      "score": 5,
-      "mergedPrs": 0,
+      "score": 17,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 22
     },
@@ -54,10 +54,10 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 5,
-        "mergedPrs": 0,
+        "score": 17,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 22
       }

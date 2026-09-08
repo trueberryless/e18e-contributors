@@ -1,21 +1,21 @@
 {
   "username": "tim-we",
-  "lastUpdated": "2026-09-07T05:50:51.535Z",
+  "lastUpdated": "2026-09-08T16:14:46.058Z",
   "aggregatedStats": {
-    "score": 46,
-    "mergedPrs": 6,
-    "reviews": 2,
-    "reviewsReceived": 6,
-    "issuesLinked": 2,
+    "score": 58,
+    "mergedPrs": 7,
+    "reviews": 3,
+    "reviewsReceived": 8,
+    "issuesLinked": 3,
     "reactions": 2
   },
   "orgStats": {
     "biomejs": {
-      "score": 17,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 1,
+      "score": 29,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
       "reactions": 2
     },
     "vitest-dev": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 17,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
+        "score": 29,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
         "reactions": 2
       }
     },

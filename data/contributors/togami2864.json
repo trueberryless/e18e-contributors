@@ -1,20 +1,20 @@
 {
   "username": "togami2864",
-  "lastUpdated": "2026-09-07T17:28:17.195Z",
+  "lastUpdated": "2026-09-08T16:14:46.063Z",
   "aggregatedStats": {
-    "score": 33,
-    "mergedPrs": 3,
-    "reviews": 1,
-    "reviewsReceived": 4,
+    "score": 54,
+    "mergedPrs": 4,
+    "reviews": 6,
+    "reviewsReceived": 5,
     "issuesLinked": 2,
     "reactions": 70
   },
   "orgStats": {
     "biomejs": {
-      "score": 27,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 3,
+      "score": 48,
+      "mergedPrs": 3,
+      "reviews": 6,
+      "reviewsReceived": 4,
       "issuesLinked": 2,
       "reactions": 66
     },
@@ -46,12 +46,20 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 27,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 3,
+        "score": 39,
+        "mergedPrs": 3,
+        "reviews": 3,
+        "reviewsReceived": 4,
         "issuesLinked": 2,
         "reactions": 66
+      },
+      "website": {
+        "score": 9,
+        "mergedPrs": 0,
+        "reviews": 3,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "vitejs": {

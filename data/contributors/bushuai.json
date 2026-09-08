@@ -1,21 +1,21 @@
 {
   "username": "bushuai",
-  "lastUpdated": "2026-09-07T17:28:16.609Z",
+  "lastUpdated": "2026-09-08T16:14:45.615Z",
   "aggregatedStats": {
-    "score": 36,
-    "mergedPrs": 5,
-    "reviews": 1,
-    "reviewsReceived": 4,
-    "issuesLinked": 2,
+    "score": 75,
+    "mergedPrs": 10,
+    "reviews": 2,
+    "reviewsReceived": 9,
+    "issuesLinked": 5,
     "reactions": 0
   },
   "orgStats": {
     "biomejs": {
-      "score": 31,
-      "mergedPrs": 4,
-      "reviews": 1,
-      "reviewsReceived": 4,
-      "issuesLinked": 2,
+      "score": 70,
+      "mergedPrs": 9,
+      "reviews": 2,
+      "reviewsReceived": 9,
+      "issuesLinked": 5,
       "reactions": 0
     },
     "vuejs": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "score": 50,
+        "mergedPrs": 6,
+        "reviews": 2,
+        "reviewsReceived": 6,
+        "issuesLinked": 4,
         "reactions": 0
       },
       "biome-vscode": {

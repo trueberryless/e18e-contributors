@@ -1,21 +1,21 @@
 {
   "username": "sterliakov",
-  "lastUpdated": "2026-09-07T17:28:17.159Z",
+  "lastUpdated": "2026-09-08T16:14:46.036Z",
   "aggregatedStats": {
-    "score": 83,
-    "mergedPrs": 9,
-    "reviews": 2,
-    "reviewsReceived": 13,
-    "issuesLinked": 9,
+    "score": 94,
+    "mergedPrs": 10,
+    "reviews": 3,
+    "reviewsReceived": 14,
+    "issuesLinked": 10,
     "reactions": 8
   },
   "orgStats": {
     "biomejs": {
-      "score": 83,
-      "mergedPrs": 9,
-      "reviews": 2,
-      "reviewsReceived": 13,
-      "issuesLinked": 9,
+      "score": 94,
+      "mergedPrs": 10,
+      "reviews": 3,
+      "reviewsReceived": 14,
+      "issuesLinked": 10,
       "reactions": 8
     },
     "oxc-project": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 67,
-        "mergedPrs": 7,
-        "reviews": 2,
-        "reviewsReceived": 11,
-        "issuesLinked": 7,
+        "score": 78,
+        "mergedPrs": 8,
+        "reviews": 3,
+        "reviewsReceived": 12,
+        "issuesLinked": 8,
         "reactions": 8
       },
       "pre-commit": {

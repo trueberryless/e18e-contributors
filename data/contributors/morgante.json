@@ -1,20 +1,20 @@
 {
   "username": "morgante",
-  "lastUpdated": "2026-09-06T21:10:40.014Z",
+  "lastUpdated": "2026-09-08T16:14:45.901Z",
   "aggregatedStats": {
-    "score": 2349,
-    "mergedPrs": 256,
-    "reviews": 296,
-    "reviewsReceived": 101,
+    "score": 2379,
+    "mergedPrs": 260,
+    "reviews": 298,
+    "reviewsReceived": 105,
     "issuesLinked": 27,
     "reactions": 259
   },
   "orgStats": {
     "biomejs": {
-      "score": 2349,
-      "mergedPrs": 256,
-      "reviews": 296,
-      "reviewsReceived": 101,
+      "score": 2379,
+      "mergedPrs": 260,
+      "reviews": 298,
+      "reviewsReceived": 105,
       "issuesLinked": 27,
       "reactions": 259
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 9,
-        "mergedPrs": 0,
-        "reviews": 3,
-        "reviewsReceived": 0,
+        "score": 39,
+        "mergedPrs": 4,
+        "reviews": 5,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 1
       },

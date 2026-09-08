@@ -1,15 +1,23 @@
 {
   "username": "Boshen",
-  "lastUpdated": "2026-09-07T20:48:22.382Z",
+  "lastUpdated": "2026-09-08T16:14:45.381Z",
   "aggregatedStats": {
-    "score": 7534,
+    "score": 7537,
     "mergedPrs": 1263,
-    "reviews": 112,
+    "reviews": 113,
     "reviewsReceived": 137,
     "issuesLinked": 115,
     "reactions": 5162
   },
   "orgStats": {
+    "biomejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "oxc-project": {
       "score": 7479,
       "mergedPrs": 1260,
@@ -52,6 +60,16 @@
     }
   },
   "repoStats": {
+    "biomejs": {
+      "biome": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "oxc-project": {
       "bench-javascript-parser-written-in-rust": {
         "score": 107,

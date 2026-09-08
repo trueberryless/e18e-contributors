@@ -1,21 +1,21 @@
 {
   "username": "uncenter",
-  "lastUpdated": "2026-09-06T18:37:05.433Z",
+  "lastUpdated": "2026-09-08T16:14:46.080Z",
   "aggregatedStats": {
-    "score": 5989,
-    "mergedPrs": 705,
-    "reviews": 564,
-    "reviewsReceived": 536,
-    "issuesLinked": 98,
+    "score": 6025,
+    "mergedPrs": 709,
+    "reviews": 567,
+    "reviewsReceived": 541,
+    "issuesLinked": 99,
     "reactions": 395
   },
   "orgStats": {
     "biomejs": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 37,
+      "mergedPrs": 4,
+      "reviews": 3,
+      "reviewsReceived": 5,
+      "issuesLinked": 1,
       "reactions": 9
     },
     "catppuccin": {
@@ -102,11 +102,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 25,
+        "mergedPrs": 2,
+        "reviews": 3,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
         "reactions": 9
       },
       "biome-vscode": {
@@ -118,10 +118,10 @@
         "reactions": 0
       },
       "website": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

@@ -1,19 +1,19 @@
 {
   "username": "Princesseuh",
-  "lastUpdated": "2026-09-08T11:41:50.098Z",
+  "lastUpdated": "2026-09-08T16:14:45.483Z",
   "aggregatedStats": {
-    "score": 6156,
+    "score": 6159,
     "mergedPrs": 604,
-    "reviews": 690,
+    "reviews": 691,
     "reviewsReceived": 477,
     "issuesLinked": 254,
     "reactions": 808
   },
   "orgStats": {
     "biomejs": {
-      "score": 36,
+      "score": 39,
       "mergedPrs": 4,
-      "reviews": 3,
+      "reviews": 4,
       "reviewsReceived": 4,
       "issuesLinked": 1,
       "reactions": 6
@@ -76,6 +76,14 @@
         "reviewsReceived": 4,
         "issuesLinked": 1,
         "reactions": 6
+      },
+      "website": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "bruits": {

@@ -1,22 +1,22 @@
 {
   "username": "Conaclos",
-  "lastUpdated": "2026-09-07T17:28:16.335Z",
+  "lastUpdated": "2026-09-08T16:14:45.390Z",
   "aggregatedStats": {
-    "score": 704,
-    "mergedPrs": 58,
-    "reviews": 65,
-    "reviewsReceived": 59,
-    "issuesLinked": 19,
-    "reactions": 1213
+    "score": 1459,
+    "mergedPrs": 148,
+    "reviews": 123,
+    "reviewsReceived": 132,
+    "issuesLinked": 46,
+    "reactions": 1257
   },
   "orgStats": {
     "biomejs": {
-      "score": 703,
-      "mergedPrs": 58,
-      "reviews": 65,
-      "reviewsReceived": 59,
-      "issuesLinked": 19,
-      "reactions": 1208
+      "score": 1458,
+      "mergedPrs": 148,
+      "reviews": 123,
+      "reviewsReceived": 132,
+      "issuesLinked": 46,
+      "reactions": 1252
     },
     "zed-industries": {
       "score": 1,
@@ -30,12 +30,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 585,
-        "mergedPrs": 46,
-        "reviews": 49,
-        "reviewsReceived": 49,
-        "issuesLinked": 19,
-        "reactions": 1207
+        "score": 1248,
+        "mergedPrs": 124,
+        "reviews": 100,
+        "reviewsReceived": 115,
+        "issuesLinked": 44,
+        "reactions": 1250
       },
       "biome-vscode": {
         "score": 3,
@@ -54,12 +54,12 @@
         "reactions": 0
       },
       "website": {
-        "score": 112,
-        "mergedPrs": 12,
-        "reviews": 14,
-        "reviewsReceived": 10,
-        "issuesLinked": 0,
-        "reactions": 1
+        "score": 204,
+        "mergedPrs": 24,
+        "reviews": 21,
+        "reviewsReceived": 17,
+        "issuesLinked": 2,
+        "reactions": 2
       }
     },
     "zed-industries": {
