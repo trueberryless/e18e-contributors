@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T20:47:14.453Z",
+    "lastRunAt": "2026-09-08T19:33:17.347Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMS0xNFQxMjoxMjoxN1rOXzkiDg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -9427,6 +9427,20 @@
       "number": 1295,
       "user": {
         "login": "oxc-guard[bot]",
+        "type": "Bot"
+      }
+    },
+    "1296": {
+      "number": 1296,
+      "user": {
+        "login": "mdong1909",
+        "type": "User"
+      }
+    },
+    "1297": {
+      "number": 1297,
+      "user": {
+        "login": "renovate[bot]",
         "type": "Bot"
       }
     }
@@ -34097,7 +34111,7 @@
     },
     "1289": {
       "number": 1289,
-      "updatedAt": "2026-09-07T06:00:02Z",
+      "updatedAt": "2026-09-08T12:46:41Z",
       "merged": false,
       "author": {
         "login": "themosthigh",
@@ -34191,6 +34205,57 @@
       "merged": false,
       "author": {
         "login": "oxc-guard",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1296": {
+      "number": 1296,
+      "updatedAt": "2026-09-08T04:58:26Z",
+      "merged": true,
+      "author": {
+        "login": "mdong1909",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "chatgpt-codex-connector",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "leaysgur",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "1297": {
+      "number": 1297,
+      "updatedAt": "2026-09-08T15:08:09Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
         "__typename": "Bot"
       },
       "closingIssuesReferences": {
