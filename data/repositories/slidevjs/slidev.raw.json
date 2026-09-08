@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T05:46:58.570Z",
+    "lastRunAt": "2026-09-08T01:23:11.586Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wNS0wNVQwODoxODozM1rOJZLi4w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -18641,6 +18641,13 @@
       "number": 2737,
       "user": {
         "login": "giaBaoJS",
+        "type": "User"
+      }
+    },
+    "2738": {
+      "number": 2738,
+      "user": {
+        "login": "Sudaisib",
         "type": "User"
       }
     }
@@ -42675,6 +42682,24 @@
       "merged": false,
       "author": {
         "login": "giaBaoJS",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2738": {
+      "number": 2738,
+      "updatedAt": "2026-09-07T10:08:09Z",
+      "merged": false,
+      "author": {
+        "login": "Sudaisib",
         "__typename": "User"
       },
       "closingIssuesReferences": {

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T01:04:57.410Z",
+    "lastRunAt": "2026-09-08T01:21:24.080Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wOC0zMFQyMzo1NzozNlrOPgE7lg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4009,6 +4009,13 @@
     },
     "567": {
       "number": 567,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "568": {
+      "number": 568,
       "user": {
         "login": "renovate[bot]",
         "type": "Bot"
@@ -14478,7 +14485,7 @@
     },
     "537": {
       "number": 537,
-      "updatedAt": "2026-09-03T23:30:53Z",
+      "updatedAt": "2026-09-07T12:58:37Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -14700,7 +14707,7 @@
     },
     "548": {
       "number": 548,
-      "updatedAt": "2026-09-03T23:30:05Z",
+      "updatedAt": "2026-09-07T12:58:26Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -14718,7 +14725,7 @@
     },
     "549": {
       "number": 549,
-      "updatedAt": "2026-09-06T14:55:09Z",
+      "updatedAt": "2026-09-07T12:58:28Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -14896,7 +14903,7 @@
     },
     "558": {
       "number": 558,
-      "updatedAt": "2026-08-31T12:11:22Z",
+      "updatedAt": "2026-09-07T12:52:41Z",
       "merged": false,
       "author": {
         "login": "dependabot",
@@ -14914,7 +14921,7 @@
     },
     "559": {
       "number": 559,
-      "updatedAt": "2026-09-03T23:29:02Z",
+      "updatedAt": "2026-09-08T00:43:28Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -14958,7 +14965,7 @@
     },
     "561": {
       "number": 561,
-      "updatedAt": "2026-09-03T23:28:45Z",
+      "updatedAt": "2026-09-07T12:57:45Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -14976,7 +14983,7 @@
     },
     "562": {
       "number": 562,
-      "updatedAt": "2026-08-31T12:11:40Z",
+      "updatedAt": "2026-09-07T12:52:42Z",
       "merged": false,
       "author": {
         "login": "dependabot",
@@ -15088,6 +15095,32 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "568": {
+      "number": 568,
+      "updatedAt": "2026-09-07T12:51:39Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }

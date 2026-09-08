@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T01:04:50.686Z",
+    "lastRunAt": "2026-09-08T01:21:18.141Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wOS0zMFQxMzozMjo0NVrOHYjpvA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17463,6 +17463,34 @@
       },
       "reactions": {
         "total_count": 2
+      }
+    },
+    "2328": {
+      "number": 2328,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "2329": {
+      "number": 2329,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "2330": {
+      "number": 2330,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "2331": {
+      "number": 2331,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -52419,7 +52447,7 @@
     },
     "2301": {
       "number": 2301,
-      "updatedAt": "2026-09-02T07:53:51Z",
+      "updatedAt": "2026-09-07T13:43:20Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -53011,6 +53039,102 @@
             }
           }
         ]
+      }
+    },
+    "2328": {
+      "number": 2328,
+      "updatedAt": "2026-09-07T09:24:44Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "2329": {
+      "number": 2329,
+      "updatedAt": "2026-09-07T12:58:17Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "2330": {
+      "number": 2330,
+      "updatedAt": "2026-09-07T13:38:42Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "2331": {
+      "number": 2331,
+      "updatedAt": "2026-09-07T13:44:23Z",
+      "merged": false,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

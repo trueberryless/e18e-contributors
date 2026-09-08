@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T01:05:00.713Z",
+    "lastRunAt": "2026-09-08T01:21:26.399Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wOS0xOFQxMDo1MDoxNVrOWonZIw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2424,6 +2424,27 @@
     },
     "339": {
       "number": 339,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "340": {
+      "number": 340,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "341": {
+      "number": 341,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "342": {
+      "number": 342,
       "user": {
         "login": "renovate[bot]",
         "type": "Bot"
@@ -10441,6 +10462,84 @@
     "339": {
       "number": 339,
       "updatedAt": "2026-08-31T06:43:10Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "340": {
+      "number": 340,
+      "updatedAt": "2026-09-07T08:10:44Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "341": {
+      "number": 341,
+      "updatedAt": "2026-09-07T09:40:55Z",
+      "merged": true,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "342": {
+      "number": 342,
+      "updatedAt": "2026-09-07T12:51:39Z",
       "merged": true,
       "author": {
         "login": "renovate",

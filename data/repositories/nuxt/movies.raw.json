@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-07T01:04:56.347Z",
+    "lastRunAt": "2026-09-08T01:21:23.178Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMC0xN1QxMjozMzoxNlrOQOMngQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -748,6 +748,20 @@
     },
     "107": {
       "number": 107,
+      "user": {
+        "login": "atinux",
+        "type": "User"
+      }
+    },
+    "108": {
+      "number": 108,
+      "user": {
+        "login": "atinux",
+        "type": "User"
+      }
+    },
+    "109": {
+      "number": 109,
       "user": {
         "login": "atinux",
         "type": "User"
@@ -1886,8 +1900,8 @@
     },
     "99": {
       "number": 99,
-      "updatedAt": "2025-09-25T09:17:11Z",
-      "merged": false,
+      "updatedAt": "2026-09-07T09:22:33Z",
+      "merged": true,
       "author": {
         "login": "samnangdeoun",
         "__typename": "User"
@@ -2079,6 +2093,57 @@
               "__typename": "Bot"
             }
           },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "108": {
+      "number": 108,
+      "updatedAt": "2026-09-07T09:57:42Z",
+      "merged": true,
+      "author": {
+        "login": "atinux",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "109": {
+      "number": 109,
+      "updatedAt": "2026-09-07T10:00:09Z",
+      "merged": true,
+      "author": {
+        "login": "atinux",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
           {
             "state": "COMMENTED",
             "author": {

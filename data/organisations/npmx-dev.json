@@ -1,6 +1,6 @@
 {
   "id": "npmx-dev",
-  "updatedAt": "2026-09-07T01:04:00.495Z",
+  "updatedAt": "2026-09-08T01:20:32.596Z",
   "stats": {
     "20jasper": {
       "score": 6,
@@ -235,6 +235,14 @@
       "reactions": 1
     },
     "ColumbusLabs": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "Creatixpy": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -1723,9 +1731,9 @@
       "reactions": 8
     },
     "danielroe": {
-      "score": 3440,
+      "score": 3443,
       "mergedPrs": 97,
-      "reviews": 953,
+      "reviews": 954,
       "reviewsReceived": 33,
       "issuesLinked": 13,
       "reactions": 370
