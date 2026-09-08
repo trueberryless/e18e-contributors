@@ -1,13 +1,13 @@
 {
   "username": "juliusmarminge",
-  "lastUpdated": "2026-09-07T23:39:20.579Z",
+  "lastUpdated": "2026-09-08T22:45:21.959Z",
   "aggregatedStats": {
-    "score": 73,
-    "mergedPrs": 6,
-    "reviews": 6,
-    "reviewsReceived": 5,
+    "score": 82,
+    "mergedPrs": 7,
+    "reviews": 7,
+    "reviewsReceived": 6,
     "issuesLinked": 3,
-    "reactions": 126
+    "reactions": 127
   },
   "orgStats": {
     "biomejs": {
@@ -59,12 +59,12 @@
       "reactions": 7
     },
     "tanstack": {
-      "score": 56,
-      "mergedPrs": 5,
-      "reviews": 6,
-      "reviewsReceived": 4,
+      "score": 65,
+      "mergedPrs": 6,
+      "reviews": 7,
+      "reviewsReceived": 5,
       "issuesLinked": 2,
-      "reactions": 46
+      "reactions": 47
     },
     "vitejs": {
       "score": 6,
@@ -178,12 +178,12 @@
         "reactions": 0
       },
       "query": {
-        "score": 55,
-        "mergedPrs": 5,
-        "reviews": 6,
-        "reviewsReceived": 4,
+        "score": 64,
+        "mergedPrs": 6,
+        "reviews": 7,
+        "reviewsReceived": 5,
         "issuesLinked": 2,
-        "reactions": 40
+        "reactions": 41
       },
       "router": {
         "score": 1,

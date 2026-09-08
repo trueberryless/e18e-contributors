@@ -1,13 +1,13 @@
 {
   "username": "Svish",
-  "lastUpdated": "2026-09-07T01:05:57.195Z",
+  "lastUpdated": "2026-09-08T22:45:21.512Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 1,
+    "score": 15,
+    "mergedPrs": 2,
     "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 6
+    "reactions": 7
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 15,
+      "mergedPrs": 2,
       "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 7
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "tanstack": {
       "query": {
-        "score": 9,
-        "mergedPrs": 1,
+        "score": 15,
+        "mergedPrs": 2,
         "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 5
       },
       "tanstack.com": {
         "score": 0,

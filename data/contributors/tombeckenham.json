@@ -1,32 +1,32 @@
 {
   "username": "tombeckenham",
-  "lastUpdated": "2026-09-06T09:35:53.188Z",
+  "lastUpdated": "2026-09-08T22:45:45.999Z",
   "aggregatedStats": {
-    "score": 1020,
-    "mergedPrs": 100,
-    "reviews": 104,
-    "reviewsReceived": 90,
-    "issuesLinked": 58,
+    "score": 1039,
+    "mergedPrs": 102,
+    "reviews": 105,
+    "reviewsReceived": 92,
+    "issuesLinked": 60,
     "reactions": 21
   },
   "orgStats": {
     "tanstack": {
-      "score": 1020,
-      "mergedPrs": 100,
-      "reviews": 104,
-      "reviewsReceived": 90,
-      "issuesLinked": 58,
+      "score": 1039,
+      "mergedPrs": 102,
+      "reviews": 105,
+      "reviewsReceived": 92,
+      "issuesLinked": 60,
       "reactions": 21
     }
   },
   "repoStats": {
     "tanstack": {
       "ai": {
-        "score": 992,
-        "mergedPrs": 96,
-        "reviews": 103,
-        "reviewsReceived": 85,
-        "issuesLinked": 58,
+        "score": 1011,
+        "mergedPrs": 98,
+        "reviews": 104,
+        "reviewsReceived": 87,
+        "issuesLinked": 60,
         "reactions": 21
       },
       "config": {

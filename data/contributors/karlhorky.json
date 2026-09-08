@@ -1,10 +1,10 @@
 {
   "username": "karlhorky",
-  "lastUpdated": "2026-09-07T05:50:53.822Z",
+  "lastUpdated": "2026-09-08T22:45:25.823Z",
   "aggregatedStats": {
-    "score": 91,
+    "score": 94,
     "mergedPrs": 12,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsReceived": 14,
     "issuesLinked": 1,
     "reactions": 83
@@ -59,9 +59,9 @@
       "reactions": 1
     },
     "tanstack": {
-      "score": 5,
+      "score": 8,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -169,6 +169,14 @@
       }
     },
     "tanstack": {
+      "query": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "tanstack.com": {
         "score": 5,
         "mergedPrs": 1,

@@ -1,13 +1,13 @@
 {
   "username": "zorzysty",
-  "lastUpdated": "2026-09-07T23:39:20.951Z",
+  "lastUpdated": "2026-09-08T22:45:22.434Z",
   "aggregatedStats": {
-    "score": 122,
-    "mergedPrs": 18,
-    "reviews": 8,
-    "reviewsReceived": 5,
-    "issuesLinked": 1,
-    "reactions": 6
+    "score": 207,
+    "mergedPrs": 33,
+    "reviews": 9,
+    "reviewsReceived": 10,
+    "issuesLinked": 2,
+    "reactions": 7
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 1
     },
     "tanstack": {
-      "score": 122,
-      "mergedPrs": 18,
-      "reviews": 8,
-      "reviewsReceived": 5,
-      "issuesLinked": 1,
-      "reactions": 5
+      "score": 207,
+      "mergedPrs": 33,
+      "reviews": 9,
+      "reviewsReceived": 10,
+      "issuesLinked": 2,
+      "reactions": 6
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "tanstack": {
       "query": {
-        "score": 121,
-        "mergedPrs": 18,
-        "reviews": 8,
-        "reviewsReceived": 5,
-        "issuesLinked": 1,
-        "reactions": 1
+        "score": 206,
+        "mergedPrs": 33,
+        "reviews": 9,
+        "reviewsReceived": 10,
+        "issuesLinked": 2,
+        "reactions": 2
       },
       "router": {
         "score": 0,

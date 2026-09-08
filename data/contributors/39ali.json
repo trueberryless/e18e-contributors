@@ -1,33 +1,33 @@
 {
   "username": "39ali",
-  "lastUpdated": "2026-09-05T17:41:56.048Z",
+  "lastUpdated": "2026-09-08T22:46:03.609Z",
   "aggregatedStats": {
-    "score": 43,
-    "mergedPrs": 6,
+    "score": 57,
+    "mergedPrs": 8,
     "reviews": 1,
-    "reviewsReceived": 7,
-    "issuesLinked": 0,
-    "reactions": 27
+    "reviewsReceived": 9,
+    "issuesLinked": 1,
+    "reactions": 29
   },
   "orgStats": {
     "zed-industries": {
-      "score": 43,
-      "mergedPrs": 6,
+      "score": 57,
+      "mergedPrs": 8,
       "reviews": 1,
-      "reviewsReceived": 7,
-      "issuesLinked": 0,
-      "reactions": 27
+      "reviewsReceived": 9,
+      "issuesLinked": 1,
+      "reactions": 29
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 43,
-        "mergedPrs": 6,
+        "score": 57,
+        "mergedPrs": 8,
         "reviews": 1,
-        "reviewsReceived": 7,
-        "issuesLinked": 0,
-        "reactions": 27
+        "reviewsReceived": 9,
+        "issuesLinked": 1,
+        "reactions": 29
       }
     }
   }

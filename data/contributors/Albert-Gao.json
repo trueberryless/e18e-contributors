@@ -1,19 +1,19 @@
 {
   "username": "Albert-Gao",
-  "lastUpdated": "2026-09-04T23:17:19.429Z",
+  "lastUpdated": "2026-09-08T22:45:41.763Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "tanstack": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -29,6 +29,14 @@
   },
   "repoStats": {
     "tanstack": {
+      "query": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "router": {
         "score": 0,
         "mergedPrs": 0,

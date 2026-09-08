@@ -1,16 +1,24 @@
 {
   "username": "Shaun-Regenbaum",
-  "lastUpdated": "2026-08-19T08:34:05.367Z",
+  "lastUpdated": "2026-09-08T22:45:38.688Z",
   "aggregatedStats": {
     "score": 0,
     "mergedPrs": 0,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 2
+    "reactions": 4
   },
   "orgStats": {
     "sveltejs": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 2
+    },
+    "zen-browser": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -22,6 +30,16 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 2
+      }
+    },
+    "zen-browser": {
+      "desktop": {
         "score": 0,
         "mergedPrs": 0,
         "reviews": 0,

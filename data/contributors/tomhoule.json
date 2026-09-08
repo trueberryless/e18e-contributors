@@ -1,22 +1,22 @@
 {
   "username": "tomhoule",
-  "lastUpdated": "2026-09-07T23:39:52.438Z",
+  "lastUpdated": "2026-09-08T22:46:08.662Z",
   "aggregatedStats": {
-    "score": 302,
-    "mergedPrs": 18,
-    "reviews": 63,
-    "reviewsReceived": 17,
-    "issuesLinked": 1,
-    "reactions": 38
+    "score": 416,
+    "mergedPrs": 28,
+    "reviews": 79,
+    "reviewsReceived": 28,
+    "issuesLinked": 3,
+    "reactions": 52
   },
   "orgStats": {
     "zed-industries": {
-      "score": 302,
-      "mergedPrs": 18,
-      "reviews": 63,
-      "reviewsReceived": 17,
-      "issuesLinked": 1,
-      "reactions": 38
+      "score": 416,
+      "mergedPrs": 28,
+      "reviews": 79,
+      "reviewsReceived": 28,
+      "issuesLinked": 3,
+      "reactions": 52
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 302,
-        "mergedPrs": 18,
-        "reviews": 63,
-        "reviewsReceived": 17,
-        "issuesLinked": 1,
-        "reactions": 38
+        "score": 416,
+        "mergedPrs": 28,
+        "reviews": 79,
+        "reviewsReceived": 28,
+        "issuesLinked": 3,
+        "reactions": 52
       }
     }
   }

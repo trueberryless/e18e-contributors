@@ -1,33 +1,33 @@
 {
   "username": "niklod",
-  "lastUpdated": "2026-09-04T23:17:43.777Z",
+  "lastUpdated": "2026-09-08T22:46:07.695Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 2,
     "mergedPrs": 0,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 8
+    "reactions": 16
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1,
+      "score": 2,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 8
+      "reactions": 16
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 1,
+        "score": 2,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 8
+        "reactions": 16
       }
     }
   }

@@ -1,13 +1,13 @@
 {
   "username": "ian-h-chamberlain",
-  "lastUpdated": "2026-09-06T09:35:43.619Z",
+  "lastUpdated": "2026-09-08T22:45:34.920Z",
   "aggregatedStats": {
-    "score": 4,
-    "mergedPrs": 0,
+    "score": 11,
+    "mergedPrs": 1,
     "reviews": 1,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 14
+    "reactions": 15
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 4,
-      "mergedPrs": 0,
+      "score": 11,
+      "mergedPrs": 1,
       "reviews": 1,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 14
+      "reactions": 15
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 11,
+        "mergedPrs": 1,
         "reviews": 1,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 14
+        "reactions": 15
       }
     }
   }

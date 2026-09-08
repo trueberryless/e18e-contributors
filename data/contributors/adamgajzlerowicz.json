@@ -1,15 +1,23 @@
 {
   "username": "adamgajzlerowicz",
-  "lastUpdated": "2026-09-05T08:58:26.928Z",
+  "lastUpdated": "2026-09-08T22:45:42.621Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "tanstack": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vuejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -36,6 +44,16 @@
     }
   },
   "repoStats": {
+    "tanstack": {
+      "query": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vuejs": {
       "vue": {
         "score": 0,

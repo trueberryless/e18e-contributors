@@ -1,22 +1,22 @@
 {
   "username": "flybayer",
-  "lastUpdated": "2026-09-05T20:07:12.439Z",
+  "lastUpdated": "2026-09-08T22:45:43.448Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 22,
+    "mergedPrs": 3,
+    "reviews": 1,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 25
+    "issuesLinked": 1,
+    "reactions": 26
   },
   "orgStats": {
     "tanstack": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 12
+      "issuesLinked": 1,
+      "reactions": 13
     },
     "vuejs": {
       "score": 6,
@@ -62,12 +62,12 @@
         "reactions": 0
       },
       "query": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 11,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "issuesLinked": 1,
+        "reactions": 8
       }
     },
     "vuejs": {

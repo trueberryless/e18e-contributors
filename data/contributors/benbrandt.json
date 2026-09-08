@@ -1,13 +1,13 @@
 {
   "username": "benbrandt",
-  "lastUpdated": "2026-09-07T23:39:48.043Z",
+  "lastUpdated": "2026-09-08T22:46:02.244Z",
   "aggregatedStats": {
-    "score": 809,
-    "mergedPrs": 110,
-    "reviews": 58,
-    "reviewsReceived": 40,
-    "issuesLinked": 11,
-    "reactions": 230
+    "score": 1333,
+    "mergedPrs": 166,
+    "reviews": 116,
+    "reviewsReceived": 96,
+    "issuesLinked": 15,
+    "reactions": 290
   },
   "orgStats": {
     "withastro": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 803,
-      "mergedPrs": 109,
-      "reviews": 58,
-      "reviewsReceived": 39,
-      "issuesLinked": 11,
-      "reactions": 230
+      "score": 1327,
+      "mergedPrs": 165,
+      "reviews": 116,
+      "reviewsReceived": 95,
+      "issuesLinked": 15,
+      "reactions": 290
     }
   },
   "repoStats": {
@@ -56,12 +56,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 366,
-        "mergedPrs": 39,
-        "reviews": 37,
-        "reviewsReceived": 39,
-        "issuesLinked": 0,
-        "reactions": 212
+        "score": 890,
+        "mergedPrs": 95,
+        "reviews": 95,
+        "reviewsReceived": 95,
+        "issuesLinked": 4,
+        "reactions": 272
       }
     }
   }

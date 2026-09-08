@@ -1,13 +1,13 @@
 {
   "username": "danilo-leal",
-  "lastUpdated": "2026-09-08T11:41:51.454Z",
+  "lastUpdated": "2026-09-08T22:45:23.171Z",
   "aggregatedStats": {
-    "score": 844,
-    "mergedPrs": 89,
-    "reviews": 79,
-    "reviewsReceived": 89,
-    "issuesLinked": 3,
-    "reactions": 665
+    "score": 1094,
+    "mergedPrs": 118,
+    "reviews": 104,
+    "reviewsReceived": 113,
+    "issuesLinked": 4,
+    "reactions": 709
   },
   "orgStats": {
     "catppuccin": {
@@ -19,12 +19,12 @@
       "reactions": 8
     },
     "zed-industries": {
-      "score": 838,
-      "mergedPrs": 88,
-      "reviews": 79,
-      "reviewsReceived": 89,
-      "issuesLinked": 3,
-      "reactions": 657
+      "score": 1088,
+      "mergedPrs": 117,
+      "reviews": 104,
+      "reviewsReceived": 113,
+      "issuesLinked": 4,
+      "reactions": 701
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 838,
-        "mergedPrs": 88,
-        "reviews": 79,
-        "reviewsReceived": 89,
-        "issuesLinked": 3,
-        "reactions": 657
+        "score": 1088,
+        "mergedPrs": 117,
+        "reviews": 104,
+        "reviewsReceived": 113,
+        "issuesLinked": 4,
+        "reactions": 701
       }
     }
   }

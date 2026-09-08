@@ -1,12 +1,12 @@
 {
   "username": "sachinraja",
-  "lastUpdated": "2026-09-07T23:39:29.010Z",
+  "lastUpdated": "2026-09-08T22:45:34.145Z",
   "aggregatedStats": {
-    "score": 8,
-    "mergedPrs": 1,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 25,
+    "mergedPrs": 2,
+    "reviews": 4,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 5
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 3,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 20,
+      "mergedPrs": 1,
+      "reviews": 4,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vitejs": {
@@ -56,11 +56,11 @@
     },
     "tanstack": {
       "query": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 20,
+        "mergedPrs": 1,
+        "reviews": 4,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

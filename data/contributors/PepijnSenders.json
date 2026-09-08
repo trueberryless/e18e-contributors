@@ -1,32 +1,32 @@
 {
   "username": "PepijnSenders",
-  "lastUpdated": "2026-09-05T15:57:14.688Z",
+  "lastUpdated": "2026-09-08T22:45:42.310Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
+    "score": 21,
+    "mergedPrs": 3,
     "reviews": 1,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 5
   },
   "orgStats": {
     "tanstack": {
-      "score": 14,
-      "mergedPrs": 2,
+      "score": 21,
+      "mergedPrs": 3,
       "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 5
     }
   },
   "repoStats": {
     "tanstack": {
       "query": {
-        "score": 14,
-        "mergedPrs": 2,
+        "score": 21,
+        "mergedPrs": 3,
         "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 5
       }
     }

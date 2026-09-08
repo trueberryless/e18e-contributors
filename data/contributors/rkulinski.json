@@ -1,19 +1,19 @@
 {
   "username": "rkulinski",
-  "lastUpdated": "2026-09-05T15:57:16.169Z",
+  "lastUpdated": "2026-09-08T22:45:45.604Z",
   "aggregatedStats": {
-    "score": 161,
+    "score": 167,
     "mergedPrs": 31,
-    "reviews": 2,
+    "reviews": 4,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "tanstack": {
-      "score": 161,
+      "score": 167,
       "mergedPrs": 31,
-      "reviews": 2,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "tanstack": {
+      "query": {
+        "score": 6,
+        "mergedPrs": 0,
+        "reviews": 2,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "ranger": {
         "score": 151,
         "mergedPrs": 29,

@@ -1,13 +1,13 @@
 {
   "username": "Jungzl",
-  "lastUpdated": "2026-09-07T01:05:57.116Z",
+  "lastUpdated": "2026-09-08T22:45:21.406Z",
   "aggregatedStats": {
-    "score": 38,
-    "mergedPrs": 6,
-    "reviews": 1,
+    "score": 46,
+    "mergedPrs": 7,
+    "reviews": 2,
     "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 15
+    "reactions": 17
   },
   "orgStats": {
     "biomejs": {
@@ -43,12 +43,12 @@
       "reactions": 4
     },
     "tanstack": {
-      "score": 8,
-      "mergedPrs": 1,
-      "reviews": 1,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "vitejs": {
       "score": 11,
@@ -126,12 +126,12 @@
     },
     "tanstack": {
       "query": {
-        "score": 8,
-        "mergedPrs": 1,
-        "reviews": 1,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "vitejs": {

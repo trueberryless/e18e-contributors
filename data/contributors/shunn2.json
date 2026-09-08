@@ -1,6 +1,6 @@
 {
   "username": "shunn2",
-  "lastUpdated": "2026-08-20T00:55:25.211Z",
+  "lastUpdated": "2026-09-08T22:45:45.768Z",
   "aggregatedStats": {
     "score": 14,
     "mergedPrs": 2,
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "tanstack": {
+      "router": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "virtual": {
         "score": 14,
         "mergedPrs": 2,
