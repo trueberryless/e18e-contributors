@@ -1,19 +1,19 @@
 {
   "username": "hunter2009",
-  "lastUpdated": "2026-09-05T00:34:27.856Z",
+  "lastUpdated": "2026-09-09T00:32:50.352Z",
   "aggregatedStats": {
-    "score": 17,
+    "score": 20,
     "mergedPrs": 2,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "pnpm": {
-      "score": 17,
+      "score": 20,
       "mergedPrs": 2,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
@@ -22,9 +22,9 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

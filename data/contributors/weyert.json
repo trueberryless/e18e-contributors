@@ -1,22 +1,22 @@
 {
   "username": "weyert",
-  "lastUpdated": "2026-09-08T01:24:09.967Z",
+  "lastUpdated": "2026-09-09T00:32:50.867Z",
   "aggregatedStats": {
-    "score": 47,
-    "mergedPrs": 0,
-    "reviews": 15,
-    "reviewsReceived": 0,
+    "score": 87,
+    "mergedPrs": 3,
+    "reviews": 22,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 18
+    "reactions": 36
   },
   "orgStats": {
     "pnpm": {
-      "score": 47,
-      "mergedPrs": 0,
-      "reviews": 15,
-      "reviewsReceived": 0,
+      "score": 87,
+      "mergedPrs": 3,
+      "reviews": 22,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 18
+      "reactions": 36
     },
     "tanstack": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 47,
-        "mergedPrs": 0,
-        "reviews": 15,
-        "reviewsReceived": 0,
+        "score": 87,
+        "mergedPrs": 3,
+        "reviews": 22,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 18
+        "reactions": 36
       }
     },
     "tanstack": {

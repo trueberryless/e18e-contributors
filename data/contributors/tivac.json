@@ -1,9 +1,9 @@
 {
   "username": "tivac",
-  "lastUpdated": "2026-09-05T20:07:02.765Z",
+  "lastUpdated": "2026-09-09T00:32:43.183Z",
   "aggregatedStats": {
-    "score": 80,
-    "mergedPrs": 7,
+    "score": 85,
+    "mergedPrs": 8,
     "reviews": 11,
     "reviewsReceived": 7,
     "issuesLinked": 1,
@@ -19,8 +19,8 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 77,
-      "mergedPrs": 7,
+      "score": 82,
+      "mergedPrs": 8,
       "reviews": 10,
       "reviewsReceived": 7,
       "issuesLinked": 1,
@@ -96,8 +96,8 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 2,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

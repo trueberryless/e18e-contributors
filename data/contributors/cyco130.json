@@ -1,13 +1,13 @@
 {
   "username": "cyco130",
-  "lastUpdated": "2026-09-05T20:07:07.019Z",
+  "lastUpdated": "2026-09-09T00:32:49.424Z",
   "aggregatedStats": {
-    "score": 57,
-    "mergedPrs": 8,
+    "score": 64,
+    "mergedPrs": 9,
     "reviews": 0,
-    "reviewsReceived": 9,
+    "reviewsReceived": 10,
     "issuesLinked": 0,
-    "reactions": 72
+    "reactions": 90
   },
   "orgStats": {
     "oxc-project": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 52,
-      "mergedPrs": 8,
+      "score": 59,
+      "mergedPrs": 9,
       "reviews": 0,
-      "reviewsReceived": 9,
+      "reviewsReceived": 10,
       "issuesLinked": 0,
-      "reactions": 26
+      "reactions": 44
     },
     "vitest-dev": {
       "score": 4,
@@ -92,12 +92,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 17,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 26
+        "reactions": 44
       },
       "vite-ecosystem-ci": {
         "score": 24,

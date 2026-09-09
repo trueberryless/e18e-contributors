@@ -1,11 +1,11 @@
 {
   "username": "paoloricciuti",
-  "lastUpdated": "2026-09-08T06:25:05.727Z",
+  "lastUpdated": "2026-09-09T00:32:43.266Z",
   "aggregatedStats": {
-    "score": 4033,
-    "mergedPrs": 404,
-    "reviews": 341,
-    "reviewsReceived": 366,
+    "score": 4054,
+    "mergedPrs": 406,
+    "reviews": 344,
+    "reviewsReceived": 368,
     "issuesLinked": 260,
     "reactions": 1044
   },
@@ -27,10 +27,10 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 3844,
-      "mergedPrs": 381,
-      "reviews": 328,
-      "reviewsReceived": 344,
+      "score": 3865,
+      "mergedPrs": 383,
+      "reviews": 331,
+      "reviewsReceived": 346,
       "issuesLinked": 254,
       "reactions": 1031
     },
@@ -90,10 +90,10 @@
     },
     "sveltejs": {
       "ai-tools": {
-        "score": 644,
-        "mergedPrs": 70,
-        "reviews": 73,
-        "reviewsReceived": 44,
+        "score": 656,
+        "mergedPrs": 71,
+        "reviews": 75,
+        "reviewsReceived": 45,
         "issuesLinked": 13,
         "reactions": 54
       },
@@ -130,10 +130,10 @@
         "reactions": 4
       },
       "kit": {
-        "score": 181,
-        "mergedPrs": 19,
-        "reviews": 13,
-        "reviewsReceived": 19,
+        "score": 190,
+        "mergedPrs": 20,
+        "reviews": 14,
+        "reviewsReceived": 20,
         "issuesLinked": 9,
         "reactions": 102
       },

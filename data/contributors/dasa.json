@@ -1,33 +1,33 @@
 {
   "username": "dasa",
-  "lastUpdated": "2026-09-07T05:50:59.109Z",
+  "lastUpdated": "2026-09-09T00:32:50.220Z",
   "aggregatedStats": {
-    "score": 71,
+    "score": 72,
     "mergedPrs": 9,
     "reviews": 3,
     "reviewsReceived": 8,
     "issuesLinked": 4,
-    "reactions": 11
+    "reactions": 15
   },
   "orgStats": {
     "pnpm": {
-      "score": 71,
+      "score": 72,
       "mergedPrs": 9,
       "reviews": 3,
       "reviewsReceived": 8,
       "issuesLinked": 4,
-      "reactions": 11
+      "reactions": 15
     }
   },
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 60,
+        "score": 61,
         "mergedPrs": 7,
         "reviews": 3,
         "reviewsReceived": 7,
         "issuesLinked": 4,
-        "reactions": 11
+        "reactions": 15
       },
       "pnpm.io": {
         "score": 11,

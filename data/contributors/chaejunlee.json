@@ -1,13 +1,13 @@
 {
   "username": "chaejunlee",
-  "lastUpdated": "2026-09-08T06:25:15.223Z",
+  "lastUpdated": "2026-09-09T00:32:52.366Z",
   "aggregatedStats": {
-    "score": 56,
-    "mergedPrs": 5,
-    "reviews": 4,
-    "reviewsReceived": 9,
-    "issuesLinked": 4,
-    "reactions": 22
+    "score": 147,
+    "mergedPrs": 13,
+    "reviews": 10,
+    "reviewsReceived": 27,
+    "issuesLinked": 11,
+    "reactions": 26
   },
   "orgStats": {
     "shadcn-ui": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 56,
-      "mergedPrs": 5,
-      "reviews": 4,
-      "reviewsReceived": 9,
-      "issuesLinked": 4,
-      "reactions": 22
+      "score": 147,
+      "mergedPrs": 13,
+      "reviews": 10,
+      "reviewsReceived": 27,
+      "issuesLinked": 11,
+      "reactions": 26
     },
     "withastro": {
       "score": 0,
@@ -48,12 +48,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 49,
-        "mergedPrs": 4,
-        "reviews": 4,
-        "reviewsReceived": 9,
-        "issuesLinked": 3,
-        "reactions": 22
+        "score": 140,
+        "mergedPrs": 12,
+        "reviews": 10,
+        "reviewsReceived": 27,
+        "issuesLinked": 10,
+        "reactions": 26
       },
       "vite-plugin-react": {
         "score": 7,

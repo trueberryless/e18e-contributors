@@ -1,13 +1,13 @@
 {
   "username": "senaoxi",
-  "lastUpdated": "2026-09-08T06:25:19.048Z",
+  "lastUpdated": "2026-09-09T00:32:56.192Z",
   "aggregatedStats": {
-    "score": 79,
-    "mergedPrs": 8,
-    "reviews": 2,
-    "reviewsReceived": 15,
-    "issuesLinked": 8,
-    "reactions": 15
+    "score": 137,
+    "mergedPrs": 14,
+    "reviews": 3,
+    "reviewsReceived": 26,
+    "issuesLinked": 15,
+    "reactions": 16
   },
   "orgStats": {
     "sveltejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 79,
-      "mergedPrs": 8,
-      "reviews": 2,
-      "reviewsReceived": 15,
-      "issuesLinked": 8,
-      "reactions": 15
+      "score": 137,
+      "mergedPrs": 14,
+      "reviews": 3,
+      "reviewsReceived": 26,
+      "issuesLinked": 15,
+      "reactions": 16
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 73,
-        "mergedPrs": 7,
-        "reviews": 2,
-        "reviewsReceived": 14,
-        "issuesLinked": 8,
-        "reactions": 15
+        "score": 131,
+        "mergedPrs": 13,
+        "reviews": 3,
+        "reviewsReceived": 25,
+        "issuesLinked": 15,
+        "reactions": 16
       }
     }
   }

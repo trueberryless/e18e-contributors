@@ -1,21 +1,21 @@
 {
   "username": "cernymatej",
-  "lastUpdated": "2026-09-08T01:24:05.729Z",
+  "lastUpdated": "2026-09-09T00:32:46.056Z",
   "aggregatedStats": {
-    "score": 658,
-    "mergedPrs": 75,
+    "score": 666,
+    "mergedPrs": 76,
     "reviews": 37,
-    "reviewsReceived": 73,
-    "issuesLinked": 34,
+    "reviewsReceived": 74,
+    "issuesLinked": 35,
     "reactions": 308
   },
   "orgStats": {
     "nuxt": {
-      "score": 541,
-      "mergedPrs": 57,
+      "score": 549,
+      "mergedPrs": 58,
       "reviews": 36,
-      "reviewsReceived": 60,
-      "issuesLinked": 30,
+      "reviewsReceived": 61,
+      "issuesLinked": 31,
       "reactions": 281
     },
     "oxc-project": {
@@ -86,11 +86,11 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 490,
-        "mergedPrs": 51,
+        "score": 498,
+        "mergedPrs": 52,
         "reviews": 32,
-        "reviewsReceived": 54,
-        "issuesLinked": 29,
+        "reviewsReceived": 55,
+        "issuesLinked": 30,
         "reactions": 268
       },
       "nuxt.com": {

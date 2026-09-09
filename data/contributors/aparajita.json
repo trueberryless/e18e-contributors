@@ -1,10 +1,10 @@
 {
   "username": "aparajita",
-  "lastUpdated": "2026-09-05T20:07:04.621Z",
+  "lastUpdated": "2026-09-09T00:32:45.766Z",
   "aggregatedStats": {
-    "score": 30,
+    "score": 33,
     "mergedPrs": 5,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 19
@@ -27,9 +27,9 @@
       "reactions": 1
     },
     "pnpm": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 7
@@ -90,9 +90,9 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 7

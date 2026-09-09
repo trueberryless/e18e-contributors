@@ -1,13 +1,13 @@
 {
   "username": "thebanjomatic",
-  "lastUpdated": "2026-09-08T06:25:12.665Z",
+  "lastUpdated": "2026-09-09T00:32:49.772Z",
   "aggregatedStats": {
-    "score": 100,
-    "mergedPrs": 10,
+    "score": 107,
+    "mergedPrs": 11,
     "reviews": 8,
-    "reviewsReceived": 7,
+    "reviewsReceived": 8,
     "issuesLinked": 7,
-    "reactions": 44
+    "reactions": 49
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 30,
-      "mergedPrs": 3,
+      "score": 37,
+      "mergedPrs": 4,
       "reviews": 2,
-      "reviewsReceived": 4,
+      "reviewsReceived": 5,
       "issuesLinked": 2,
-      "reactions": 10
+      "reactions": 15
     },
     "vitest-dev": {
       "score": 34,
@@ -56,12 +56,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 30,
-        "mergedPrs": 3,
+        "score": 37,
+        "mergedPrs": 4,
         "reviews": 2,
-        "reviewsReceived": 4,
+        "reviewsReceived": 5,
         "issuesLinked": 2,
-        "reactions": 10
+        "reactions": 15
       },
       "vite-plugin-vue": {
         "score": 0,

@@ -1,13 +1,13 @@
 {
   "username": "elliott-with-the-longest-name-on-github",
-  "lastUpdated": "2026-09-08T06:25:05.466Z",
+  "lastUpdated": "2026-09-09T00:32:43.007Z",
   "aggregatedStats": {
-    "score": 2796,
-    "mergedPrs": 207,
-    "reviews": 448,
-    "reviewsReceived": 186,
-    "issuesLinked": 82,
-    "reactions": 667
+    "score": 2855,
+    "mergedPrs": 213,
+    "reviews": 454,
+    "reviewsReceived": 192,
+    "issuesLinked": 84,
+    "reactions": 679
   },
   "orgStats": {
     "changesets": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 2782,
-      "mergedPrs": 206,
-      "reviews": 447,
-      "reviewsReceived": 185,
-      "issuesLinked": 82,
-      "reactions": 618
+      "score": 2841,
+      "mergedPrs": 212,
+      "reviews": 453,
+      "reviewsReceived": 191,
+      "issuesLinked": 84,
+      "reactions": 630
     },
     "tanstack": {
       "score": 14,
@@ -114,12 +114,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 1958,
-        "mergedPrs": 137,
-        "reviews": 318,
-        "reviewsReceived": 131,
-        "issuesLinked": 75,
-        "reactions": 379
+        "score": 2004,
+        "mergedPrs": 142,
+        "reviews": 323,
+        "reviewsReceived": 135,
+        "issuesLinked": 76,
+        "reactions": 381
       },
       "language-tools": {
         "score": 15,
@@ -138,12 +138,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 457,
-        "mergedPrs": 29,
-        "reviews": 85,
-        "reviewsReceived": 24,
-        "issuesLinked": 5,
-        "reactions": 231
+        "score": 470,
+        "mergedPrs": 30,
+        "reviews": 86,
+        "reviewsReceived": 26,
+        "issuesLinked": 6,
+        "reactions": 241
       },
       "svelte.dev": {
         "score": 184,

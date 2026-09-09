@@ -1,15 +1,23 @@
 {
   "username": "wspl",
-  "lastUpdated": "2026-09-05T00:34:54.355Z",
+  "lastUpdated": "2026-09-09T00:33:01.190Z",
   "aggregatedStats": {
-    "score": 4,
+    "score": 7,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 37
   },
   "orgStats": {
+    "vitejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vuejs": {
       "score": 4,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "vitejs": {
+      "vite": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vuejs": {
       "rfcs": {
         "score": 4,

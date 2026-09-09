@@ -1,20 +1,20 @@
 {
   "username": "ximus",
-  "lastUpdated": "2026-09-08T06:25:19.442Z",
+  "lastUpdated": "2026-09-09T00:32:56.577Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
-    "reviews": 2,
-    "reviewsReceived": 1,
+    "score": 21,
+    "mergedPrs": 2,
+    "reviews": 3,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "sveltejs": {
-      "score": 12,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 1,
+      "score": 21,
+      "mergedPrs": 2,
+      "reviews": 3,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 12,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 1,
+        "score": 21,
+        "mergedPrs": 2,
+        "reviews": 3,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

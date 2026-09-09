@@ -1,12 +1,12 @@
 {
   "username": "hi-ogawa",
-  "lastUpdated": "2026-09-08T06:25:12.449Z",
+  "lastUpdated": "2026-09-09T00:32:49.518Z",
   "aggregatedStats": {
-    "score": 9255,
-    "mergedPrs": 1015,
+    "score": 9273,
+    "mergedPrs": 1017,
     "reviews": 854,
-    "reviewsReceived": 767,
-    "issuesLinked": 398,
+    "reviewsReceived": 771,
+    "issuesLinked": 400,
     "reactions": 556
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 3519,
-      "mergedPrs": 445,
+      "score": 3537,
+      "mergedPrs": 447,
       "reviews": 284,
-      "reviewsReceived": 191,
-      "issuesLinked": 111,
+      "reviewsReceived": 195,
+      "issuesLinked": 113,
       "reactions": 288
     },
     "vitest-dev": {
@@ -108,11 +108,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 1351,
-        "mergedPrs": 113,
+        "score": 1369,
+        "mergedPrs": 115,
         "reviews": 165,
-        "reviewsReceived": 157,
-        "issuesLinked": 57,
+        "reviewsReceived": 161,
+        "issuesLinked": 59,
         "reactions": 199
       },
       "vite-ecosystem-ci": {

@@ -1,20 +1,20 @@
 {
   "username": "gulewei",
-  "lastUpdated": "2026-09-05T00:34:40.080Z",
+  "lastUpdated": "2026-09-09T00:33:00.299Z",
   "aggregatedStats": {
-    "score": 7,
-    "mergedPrs": 1,
+    "score": 14,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 2,
     "issuesLinked": 1,
     "reactions": 0
   },
   "orgStats": {
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

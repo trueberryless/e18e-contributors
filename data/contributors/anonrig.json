@@ -1,10 +1,10 @@
 {
   "username": "anonrig",
-  "lastUpdated": "2026-09-08T16:14:45.566Z",
+  "lastUpdated": "2026-09-09T00:32:40.796Z",
   "aggregatedStats": {
-    "score": 391,
+    "score": 394,
     "mergedPrs": 35,
-    "reviews": 64,
+    "reviews": 65,
     "reviewsReceived": 7,
     "issuesLinked": 3,
     "reactions": 106
@@ -27,9 +27,9 @@
       "reactions": 40
     },
     "pnpm": {
-      "score": 336,
+      "score": 339,
       "mergedPrs": 30,
-      "reviews": 59,
+      "reviews": 60,
       "reviewsReceived": 2,
       "issuesLinked": 3,
       "reactions": 9
@@ -114,9 +114,9 @@
         "reactions": 9
       },
       "pnpm": {
-        "score": 3,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

@@ -1,13 +1,13 @@
 {
   "username": "antfu",
-  "lastUpdated": "2026-09-08T06:25:06.853Z",
+  "lastUpdated": "2026-09-09T00:32:44.208Z",
   "aggregatedStats": {
-    "score": 7184,
-    "mergedPrs": 643,
-    "reviews": 986,
-    "reviewsReceived": 312,
-    "issuesLinked": 142,
-    "reactions": 4159
+    "score": 7303,
+    "mergedPrs": 655,
+    "reviews": 998,
+    "reviewsReceived": 325,
+    "issuesLinked": 145,
+    "reactions": 4195
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 86
     },
     "nuxt": {
-      "score": 3578,
-      "mergedPrs": 376,
-      "reviews": 356,
-      "reviewsReceived": 216,
-      "issuesLinked": 97,
-      "reactions": 2200
+      "score": 3641,
+      "mergedPrs": 383,
+      "reviews": 361,
+      "reviewsReceived": 224,
+      "issuesLinked": 98,
+      "reactions": 2229
     },
     "pnpm": {
       "score": 5,
@@ -51,12 +51,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 1048,
-      "mergedPrs": 100,
-      "reviews": 155,
-      "reviewsReceived": 15,
-      "issuesLinked": 5,
-      "reactions": 582
+      "score": 1104,
+      "mergedPrs": 105,
+      "reviews": 162,
+      "reviewsReceived": 20,
+      "issuesLinked": 7,
+      "reactions": 589
     },
     "vitest-dev": {
       "score": 215,
@@ -232,12 +232,12 @@
         "reactions": 3
       },
       "nuxt": {
-        "score": 217,
-        "mergedPrs": 17,
-        "reviews": 19,
-        "reviewsReceived": 15,
-        "issuesLinked": 2,
-        "reactions": 563
+        "score": 280,
+        "mergedPrs": 24,
+        "reviews": 24,
+        "reviewsReceived": 23,
+        "issuesLinked": 3,
+        "reactions": 592
       },
       "nuxt.com": {
         "score": 50,
@@ -400,12 +400,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 129,
-        "mergedPrs": 9,
-        "reviews": 18,
-        "reviewsReceived": 10,
-        "issuesLinked": 0,
-        "reactions": 200
+        "score": 185,
+        "mergedPrs": 14,
+        "reviews": 25,
+        "reviewsReceived": 15,
+        "issuesLinked": 2,
+        "reactions": 207
       },
       "vite-benchmark": {
         "score": 10,

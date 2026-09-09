@@ -1,21 +1,21 @@
 {
   "username": "brittneypostma",
-  "lastUpdated": "2026-09-08T06:25:17.531Z",
+  "lastUpdated": "2026-09-09T00:32:54.667Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 20,
+    "mergedPrs": 2,
+    "reviews": 2,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 1
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 20,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 1
     },
     "vitejs": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 17,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 1
       },
       "prettier-plugin-svelte": {

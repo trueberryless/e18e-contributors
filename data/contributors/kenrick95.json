@@ -1,12 +1,12 @@
 {
   "username": "kenrick95",
-  "lastUpdated": "2026-09-08T01:23:57.953Z",
+  "lastUpdated": "2026-09-09T00:32:41.085Z",
   "aggregatedStats": {
-    "score": 58,
-    "mergedPrs": 5,
-    "reviews": 9,
-    "reviewsReceived": 5,
-    "issuesLinked": 0,
+    "score": 149,
+    "mergedPrs": 11,
+    "reviews": 25,
+    "reviewsReceived": 10,
+    "issuesLinked": 4,
     "reactions": 15
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 1
     },
     "pnpm": {
-      "score": 45,
-      "mergedPrs": 3,
-      "reviews": 9,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
+      "score": 136,
+      "mergedPrs": 9,
+      "reviews": 25,
+      "reviewsReceived": 7,
+      "issuesLinked": 4,
       "reactions": 11
     }
   },
@@ -84,11 +84,11 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 34,
-        "mergedPrs": 1,
-        "reviews": 9,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
+        "score": 125,
+        "mergedPrs": 7,
+        "reviews": 25,
+        "reviewsReceived": 6,
+        "issuesLinked": 4,
         "reactions": 9
       },
       "pnpm.io": {

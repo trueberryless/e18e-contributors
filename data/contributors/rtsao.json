@@ -1,13 +1,13 @@
 {
   "username": "rtsao",
-  "lastUpdated": "2026-09-08T06:25:12.627Z",
+  "lastUpdated": "2026-09-09T00:32:49.722Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 0,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 70
+    "score": 30,
+    "mergedPrs": 2,
+    "reviews": 2,
+    "reviewsReceived": 3,
+    "issuesLinked": 1,
+    "reactions": 82
   },
   "orgStats": {
     "oxc-project": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 9,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 64
+      "score": 29,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 1,
+      "reactions": 76
     },
     "vuejs": {
       "score": 0,
@@ -66,12 +66,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 9,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 64
+        "score": 29,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
+        "reactions": 76
       },
       "vite-plugin-react-swc": {
         "score": 0,

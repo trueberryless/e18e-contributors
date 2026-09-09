@@ -1,10 +1,10 @@
 {
   "username": "delight",
-  "lastUpdated": "2026-09-05T20:07:07.547Z",
+  "lastUpdated": "2026-09-09T00:32:50.231Z",
   "aggregatedStats": {
-    "score": 8,
+    "score": 11,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 18
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 8,
+      "score": 11,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 17
@@ -56,9 +56,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 4

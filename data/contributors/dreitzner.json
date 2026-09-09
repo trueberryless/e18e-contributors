@@ -1,13 +1,13 @@
 {
   "username": "dreitzner",
-  "lastUpdated": "2026-09-08T06:25:09.079Z",
+  "lastUpdated": "2026-09-09T00:32:46.422Z",
   "aggregatedStats": {
-    "score": 221,
+    "score": 224,
     "mergedPrs": 16,
     "reviews": 34,
     "reviewsReceived": 9,
     "issuesLinked": 11,
-    "reactions": 82
+    "reactions": 108
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 31
     },
     "sveltejs": {
-      "score": 177,
+      "score": 180,
       "mergedPrs": 12,
       "reviews": 32,
       "reviewsReceived": 4,
       "issuesLinked": 6,
-      "reactions": 51
+      "reactions": 77
     }
   },
   "repoStats": {
@@ -64,12 +64,12 @@
         "reactions": 10
       },
       "kit": {
-        "score": 15,
+        "score": 17,
         "mergedPrs": 1,
         "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 1,
-        "reactions": 37
+        "reactions": 63
       },
       "language-tools": {
         "score": 0,

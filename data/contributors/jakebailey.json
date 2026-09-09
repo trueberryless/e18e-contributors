@@ -1,13 +1,13 @@
 {
   "username": "jakebailey",
-  "lastUpdated": "2026-09-08T01:24:02.956Z",
+  "lastUpdated": "2026-09-09T00:32:43.050Z",
   "aggregatedStats": {
-    "score": 60,
-    "mergedPrs": 4,
-    "reviews": 9,
-    "reviewsReceived": 1,
-    "issuesLinked": 0,
-    "reactions": 122
+    "score": 129,
+    "mergedPrs": 13,
+    "reviews": 11,
+    "reviewsReceived": 13,
+    "issuesLinked": 1,
+    "reactions": 158
   },
   "orgStats": {
     "changesets": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "pnpm": {
-      "score": 44,
-      "mergedPrs": 2,
-      "reviews": 7,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 119
+      "score": 113,
+      "mergedPrs": 11,
+      "reviews": 9,
+      "reviewsReceived": 13,
+      "issuesLinked": 1,
+      "reactions": 155
     },
     "refined-github": {
       "score": 0,
@@ -90,12 +90,12 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 44,
-        "mergedPrs": 2,
-        "reviews": 7,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 119
+        "score": 113,
+        "mergedPrs": 11,
+        "reviews": 9,
+        "reviewsReceived": 13,
+        "issuesLinked": 1,
+        "reactions": 155
       }
     },
     "refined-github": {

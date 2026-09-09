@@ -1,20 +1,20 @@
 {
   "username": "m1san",
-  "lastUpdated": "2026-09-05T00:34:40.833Z",
+  "lastUpdated": "2026-09-09T00:33:00.630Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 7,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 1
   },
   "orgStats": {
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 1
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 1
       }

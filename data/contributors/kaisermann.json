@@ -1,10 +1,10 @@
 {
   "username": "kaisermann",
-  "lastUpdated": "2026-09-07T11:53:29.153Z",
+  "lastUpdated": "2026-09-09T00:32:43.071Z",
   "aggregatedStats": {
-    "score": 517,
+    "score": 520,
     "mergedPrs": 48,
-    "reviews": 72,
+    "reviews": 73,
     "reviewsReceived": 8,
     "issuesLinked": 23,
     "reactions": 68
@@ -19,9 +19,9 @@
       "reactions": 7
     },
     "sveltejs": {
-      "score": 498,
+      "score": 501,
       "mergedPrs": 46,
-      "reviews": 70,
+      "reviews": 71,
       "reviewsReceived": 7,
       "issuesLinked": 23,
       "reactions": 52
@@ -56,9 +56,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

@@ -1,13 +1,13 @@
 {
   "username": "typed-sigterm",
-  "lastUpdated": "2026-09-07T01:06:00.941Z",
+  "lastUpdated": "2026-09-09T00:32:44.276Z",
   "aggregatedStats": {
-    "score": 73,
-    "mergedPrs": 10,
+    "score": 94,
+    "mergedPrs": 13,
     "reviews": 3,
-    "reviewsReceived": 11,
-    "issuesLinked": 1,
-    "reactions": 19
+    "reviewsReceived": 14,
+    "issuesLinked": 2,
+    "reactions": 20
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 3
     },
     "nuxt": {
-      "score": 40,
-      "mergedPrs": 6,
+      "score": 61,
+      "mergedPrs": 9,
       "reviews": 1,
-      "reviewsReceived": 6,
-      "issuesLinked": 0,
-      "reactions": 14
+      "reviewsReceived": 9,
+      "issuesLinked": 1,
+      "reactions": 15
     },
     "oxc-project": {
       "score": 0,
@@ -88,12 +88,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 30,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 6
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
+        "reactions": 7
       },
       "nuxt.com": {
         "score": 6,

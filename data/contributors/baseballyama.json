@@ -1,12 +1,12 @@
 {
   "username": "baseballyama",
-  "lastUpdated": "2026-09-08T06:25:12.328Z",
+  "lastUpdated": "2026-09-09T00:32:49.384Z",
   "aggregatedStats": {
-    "score": 1882,
-    "mergedPrs": 206,
-    "reviews": 180,
-    "reviewsReceived": 137,
-    "issuesLinked": 73,
+    "score": 1952,
+    "mergedPrs": 212,
+    "reviews": 190,
+    "reviewsReceived": 143,
+    "issuesLinked": 75,
     "reactions": 288
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 32
     },
     "sveltejs": {
-      "score": 1846,
-      "mergedPrs": 202,
-      "reviews": 179,
-      "reviewsReceived": 134,
-      "issuesLinked": 71,
+      "score": 1916,
+      "mergedPrs": 208,
+      "reviews": 189,
+      "reviewsReceived": 140,
+      "issuesLinked": 73,
       "reactions": 228
     },
     "vitejs": {
@@ -144,11 +144,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 82,
-        "mergedPrs": 8,
-        "reviews": 5,
-        "reviewsReceived": 7,
-        "issuesLinked": 6,
+        "score": 152,
+        "mergedPrs": 14,
+        "reviews": 15,
+        "reviewsReceived": 13,
+        "issuesLinked": 8,
         "reactions": 83
       },
       "svelte-eslint-parser": {

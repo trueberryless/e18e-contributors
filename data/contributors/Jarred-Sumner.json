@@ -1,35 +1,27 @@
 {
   "username": "Jarred-Sumner",
-  "lastUpdated": "2026-09-05T00:34:55.296Z",
+  "lastUpdated": "2026-09-09T00:32:59.586Z",
   "aggregatedStats": {
-    "score": 6,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 2,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
-    "withastro": {
-      "score": 6,
+    "vitejs": {
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
     }
   },
   "repoStats": {
-    "withastro": {
-      "astro": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 0
-      },
-      "docs": {
+    "vitejs": {
+      "vite": {
         "score": 3,
         "mergedPrs": 0,
         "reviews": 1,

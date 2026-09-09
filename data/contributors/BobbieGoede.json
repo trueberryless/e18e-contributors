@@ -1,13 +1,13 @@
 {
   "username": "BobbieGoede",
-  "lastUpdated": "2026-09-08T01:24:03.087Z",
+  "lastUpdated": "2026-09-09T00:32:43.222Z",
   "aggregatedStats": {
-    "score": 602,
-    "mergedPrs": 77,
-    "reviews": 28,
-    "reviewsReceived": 68,
+    "score": 624,
+    "mergedPrs": 79,
+    "reviews": 31,
+    "reviewsReceived": 71,
     "issuesLinked": 23,
-    "reactions": 182
+    "reactions": 184
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 6
     },
     "nuxt": {
-      "score": 535,
-      "mergedPrs": 68,
-      "reviews": 25,
-      "reviewsReceived": 60,
+      "score": 557,
+      "mergedPrs": 70,
+      "reviews": 28,
+      "reviewsReceived": 63,
       "issuesLinked": 22,
-      "reactions": 156
+      "reactions": 157
     },
     "vitejs": {
       "score": 0,
@@ -40,7 +40,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "vitest-dev": {
       "score": 0,
@@ -154,12 +154,12 @@
         "reactions": 4
       },
       "nuxt": {
-        "score": 256,
-        "mergedPrs": 30,
-        "reviews": 15,
-        "reviewsReceived": 29,
+        "score": 278,
+        "mergedPrs": 32,
+        "reviews": 18,
+        "reviewsReceived": 32,
         "issuesLinked": 11,
-        "reactions": 98
+        "reactions": 99
       },
       "nuxt.com": {
         "score": 12,
@@ -209,7 +209,7 @@
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vitest-dev": {

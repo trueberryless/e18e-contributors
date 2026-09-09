@@ -1,10 +1,10 @@
 {
   "username": "jeffydc",
-  "lastUpdated": "2026-09-07T05:50:56.218Z",
+  "lastUpdated": "2026-09-09T00:32:47.107Z",
   "aggregatedStats": {
-    "score": 68,
+    "score": 77,
     "mergedPrs": 10,
-    "reviews": 2,
+    "reviews": 5,
     "reviewsReceived": 9,
     "issuesLinked": 0,
     "reactions": 27
@@ -35,9 +35,9 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 5,
+      "score": 14,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 19
@@ -108,9 +108,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 5,
+        "score": 14,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 19

@@ -1,22 +1,22 @@
 {
   "username": "trueadm",
-  "lastUpdated": "2026-09-08T06:25:19.301Z",
+  "lastUpdated": "2026-09-09T00:32:56.435Z",
   "aggregatedStats": {
-    "score": 3979,
-    "mergedPrs": 318,
-    "reviews": 527,
-    "reviewsReceived": 264,
-    "issuesLinked": 204,
-    "reactions": 1362
+    "score": 5418,
+    "mergedPrs": 478,
+    "reviews": 652,
+    "reviewsReceived": 305,
+    "issuesLinked": 309,
+    "reactions": 1494
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3979,
-      "mergedPrs": 318,
-      "reviews": 527,
-      "reviewsReceived": 264,
-      "issuesLinked": 204,
-      "reactions": 1362
+      "score": 5418,
+      "mergedPrs": 478,
+      "reviews": 652,
+      "reviewsReceived": 305,
+      "issuesLinked": 309,
+      "reactions": 1494
     }
   },
   "repoStats": {
@@ -46,12 +46,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 3789,
-        "mergedPrs": 308,
-        "reviews": 486,
-        "reviewsReceived": 260,
-        "issuesLinked": 198,
-        "reactions": 1354
+        "score": 5229,
+        "mergedPrs": 468,
+        "reviews": 611,
+        "reviewsReceived": 301,
+        "issuesLinked": 303,
+        "reactions": 1486
       },
       "svelte.dev": {
         "score": 119,

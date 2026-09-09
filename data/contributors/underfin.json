@@ -1,10 +1,10 @@
 {
   "username": "underfin",
-  "lastUpdated": "2026-09-08T01:24:08.175Z",
+  "lastUpdated": "2026-09-09T00:32:48.861Z",
   "aggregatedStats": {
-    "score": 75,
+    "score": 81,
     "mergedPrs": 9,
-    "reviews": 5,
+    "reviews": 7,
     "reviewsReceived": 6,
     "issuesLinked": 0,
     "reactions": 88
@@ -27,9 +27,9 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 32,
+      "score": 38,
       "mergedPrs": 2,
-      "reviews": 5,
+      "reviews": 7,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 41
@@ -82,9 +82,9 @@
         "reactions": 0
       },
       "vite": {
-        "score": 4,
+        "score": 10,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 41

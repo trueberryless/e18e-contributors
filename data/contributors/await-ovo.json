@@ -1,13 +1,13 @@
 {
   "username": "await-ovo",
-  "lastUpdated": "2026-09-08T01:23:58.297Z",
+  "lastUpdated": "2026-09-09T00:32:41.513Z",
   "aggregatedStats": {
-    "score": 162,
-    "mergedPrs": 20,
-    "reviews": 7,
-    "reviewsReceived": 20,
-    "issuesLinked": 9,
-    "reactions": 35
+    "score": 605,
+    "mergedPrs": 68,
+    "reviews": 28,
+    "reviewsReceived": 72,
+    "issuesLinked": 52,
+    "reactions": 52
   },
   "orgStats": {
     "bombshell-dev": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "pnpm": {
-      "score": 150,
-      "mergedPrs": 18,
-      "reviews": 7,
-      "reviewsReceived": 18,
-      "issuesLinked": 9,
-      "reactions": 33
+      "score": 593,
+      "mergedPrs": 66,
+      "reviews": 28,
+      "reviewsReceived": 70,
+      "issuesLinked": 52,
+      "reactions": 50
     },
     "vitejs": {
       "score": 6,
@@ -64,12 +64,12 @@
         "reactions": 0
       },
       "pnpm": {
-        "score": 105,
-        "mergedPrs": 11,
-        "reviews": 6,
-        "reviewsReceived": 11,
-        "issuesLinked": 9,
-        "reactions": 33
+        "score": 548,
+        "mergedPrs": 59,
+        "reviews": 27,
+        "reviewsReceived": 63,
+        "issuesLinked": 52,
+        "reactions": 50
       },
       "pnpm.io": {
         "score": 29,

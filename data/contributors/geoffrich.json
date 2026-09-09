@@ -1,20 +1,20 @@
 {
   "username": "geoffrich",
-  "lastUpdated": "2026-09-08T06:25:18.000Z",
+  "lastUpdated": "2026-09-09T00:32:55.108Z",
   "aggregatedStats": {
-    "score": 315,
-    "mergedPrs": 31,
-    "reviews": 36,
-    "reviewsReceived": 21,
+    "score": 394,
+    "mergedPrs": 37,
+    "reviews": 50,
+    "reviewsReceived": 28,
     "issuesLinked": 6,
     "reactions": 193
   },
   "orgStats": {
     "sveltejs": {
-      "score": 315,
-      "mergedPrs": 31,
-      "reviews": 36,
-      "reviewsReceived": 21,
+      "score": 394,
+      "mergedPrs": 37,
+      "reviews": 50,
+      "reviewsReceived": 28,
       "issuesLinked": 6,
       "reactions": 193
     }
@@ -30,10 +30,10 @@
         "reactions": 0
       },
       "kit": {
-        "score": 106,
-        "mergedPrs": 10,
-        "reviews": 8,
-        "reviewsReceived": 10,
+        "score": 173,
+        "mergedPrs": 16,
+        "reviews": 18,
+        "reviewsReceived": 17,
         "issuesLinked": 3,
         "reactions": 157
       },
@@ -70,9 +70,9 @@
         "reactions": 3
       },
       "svelte": {
-        "score": 9,
+        "score": 21,
         "mergedPrs": 0,
-        "reviews": 2,
+        "reviews": 6,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 29

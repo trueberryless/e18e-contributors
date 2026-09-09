@@ -1,22 +1,22 @@
 {
   "username": "lvqq",
-  "lastUpdated": "2026-09-08T01:24:09.667Z",
+  "lastUpdated": "2026-09-09T00:32:50.498Z",
   "aggregatedStats": {
-    "score": 181,
-    "mergedPrs": 20,
-    "reviews": 15,
-    "reviewsReceived": 19,
-    "issuesLinked": 7,
-    "reactions": 23
+    "score": 336,
+    "mergedPrs": 37,
+    "reviews": 28,
+    "reviewsReceived": 36,
+    "issuesLinked": 14,
+    "reactions": 24
   },
   "orgStats": {
     "pnpm": {
-      "score": 167,
-      "mergedPrs": 18,
-      "reviews": 15,
-      "reviewsReceived": 16,
-      "issuesLinked": 7,
-      "reactions": 17
+      "score": 322,
+      "mergedPrs": 35,
+      "reviews": 28,
+      "reviewsReceived": 33,
+      "issuesLinked": 14,
+      "reactions": 18
     },
     "vitejs": {
       "score": 0,
@@ -46,12 +46,12 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 122,
-        "mergedPrs": 11,
-        "reviews": 15,
-        "reviewsReceived": 11,
-        "issuesLinked": 5,
-        "reactions": 14
+        "score": 278,
+        "mergedPrs": 28,
+        "reviews": 28,
+        "reviewsReceived": 28,
+        "issuesLinked": 12,
+        "reactions": 15
       },
       "pnpm.io": {
         "score": 44,

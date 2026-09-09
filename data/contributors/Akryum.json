@@ -1,13 +1,13 @@
 {
   "username": "Akryum",
-  "lastUpdated": "2026-09-08T06:25:06.814Z",
+  "lastUpdated": "2026-09-09T00:32:44.173Z",
   "aggregatedStats": {
-    "score": 1258,
+    "score": 1264,
     "mergedPrs": 137,
     "reviews": 124,
     "reviewsReceived": 54,
     "issuesLinked": 9,
-    "reactions": 1294
+    "reactions": 1352
   },
   "orgStats": {
     "npmx-dev": {
@@ -27,12 +27,12 @@
       "reactions": 48
     },
     "vitejs": {
-      "score": 27,
+      "score": 33,
       "mergedPrs": 3,
       "reviews": 0,
       "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 93
+      "reactions": 151
     },
     "vitest-dev": {
       "score": 1,
@@ -122,12 +122,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 9,
+        "score": 15,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 89
+        "reactions": 147
       },
       "vite-ecosystem-ci": {
         "score": 18,

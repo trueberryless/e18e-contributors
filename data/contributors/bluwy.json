@@ -1,13 +1,13 @@
 {
   "username": "bluwy",
-  "lastUpdated": "2026-09-08T11:41:50.789Z",
+  "lastUpdated": "2026-09-09T00:32:41.515Z",
   "aggregatedStats": {
-    "score": 9426,
-    "mergedPrs": 596,
-    "reviews": 1810,
-    "reviewsReceived": 624,
-    "issuesLinked": 151,
-    "reactions": 917
+    "score": 11234,
+    "mergedPrs": 696,
+    "reviews": 2177,
+    "reviewsReceived": 739,
+    "issuesLinked": 193,
+    "reactions": 994
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,20 +75,20 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 1717,
-      "mergedPrs": 98,
-      "reviews": 353,
-      "reviewsReceived": 99,
-      "issuesLinked": 29,
-      "reactions": 108
+      "score": 1777,
+      "mergedPrs": 100,
+      "reviews": 368,
+      "reviewsReceived": 102,
+      "issuesLinked": 30,
+      "reactions": 112
     },
     "vitejs": {
-      "score": 4341,
-      "mergedPrs": 205,
-      "reviews": 980,
-      "reviewsReceived": 231,
-      "issuesLinked": 46,
-      "reactions": 534
+      "score": 6089,
+      "mergedPrs": 303,
+      "reviews": 1332,
+      "reviewsReceived": 343,
+      "issuesLinked": 87,
+      "reactions": 607
     },
     "vitest-dev": {
       "score": 53,
@@ -254,12 +254,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 78,
-        "mergedPrs": 7,
-        "reviews": 10,
-        "reviewsReceived": 8,
-        "issuesLinked": 1,
-        "reactions": 26
+        "score": 138,
+        "mergedPrs": 9,
+        "reviews": 25,
+        "reviewsReceived": 11,
+        "issuesLinked": 2,
+        "reactions": 30
       },
       "language-tools": {
         "score": 13,
@@ -360,12 +360,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 4026,
-        "mergedPrs": 174,
-        "reviews": 938,
-        "reviewsReceived": 202,
-        "issuesLinked": 44,
-        "reactions": 520
+        "score": 5773,
+        "mergedPrs": 272,
+        "reviews": 1290,
+        "reviewsReceived": 314,
+        "issuesLinked": 85,
+        "reactions": 593
       },
       "vite-benchmark": {
         "score": 15,

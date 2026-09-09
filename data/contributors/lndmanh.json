@@ -1,6 +1,6 @@
 {
   "username": "lndmanh",
-  "lastUpdated": "2026-08-19T07:39:14.459Z",
+  "lastUpdated": "2026-09-09T00:32:47.501Z",
   "aggregatedStats": {
     "score": 6,
     "mergedPrs": 1,
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "nuxt": {
+      "content": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "nuxt": {
         "score": 6,
         "mergedPrs": 1,

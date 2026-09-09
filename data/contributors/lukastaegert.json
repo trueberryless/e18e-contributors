@@ -1,10 +1,10 @@
 {
   "username": "lukastaegert",
-  "lastUpdated": "2026-09-05T00:34:33.110Z",
+  "lastUpdated": "2026-09-09T00:32:55.574Z",
   "aggregatedStats": {
-    "score": 12,
+    "score": 15,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 1,
     "reactions": 2
@@ -19,9 +19,9 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -56,9 +56,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

@@ -1,22 +1,22 @@
 {
   "username": "TrevorBurnham",
-  "lastUpdated": "2026-09-07T05:50:58.984Z",
+  "lastUpdated": "2026-09-09T00:32:50.051Z",
   "aggregatedStats": {
-    "score": 145,
-    "mergedPrs": 18,
+    "score": 154,
+    "mergedPrs": 19,
     "reviews": 9,
-    "reviewsReceived": 16,
-    "issuesLinked": 4,
-    "reactions": 44
+    "reviewsReceived": 17,
+    "issuesLinked": 5,
+    "reactions": 50
   },
   "orgStats": {
     "pnpm": {
-      "score": 128,
-      "mergedPrs": 15,
+      "score": 137,
+      "mergedPrs": 16,
       "reviews": 9,
-      "reviewsReceived": 14,
-      "issuesLinked": 4,
-      "reactions": 43
+      "reviewsReceived": 15,
+      "issuesLinked": 5,
+      "reactions": 49
     },
     "tanstack": {
       "score": 0,
@@ -46,12 +46,12 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 123,
-        "mergedPrs": 14,
+        "score": 132,
+        "mergedPrs": 15,
         "reviews": 9,
-        "reviewsReceived": 14,
-        "issuesLinked": 4,
-        "reactions": 43
+        "reviewsReceived": 15,
+        "issuesLinked": 5,
+        "reactions": 49
       },
       "pnpm.io": {
         "score": 5,

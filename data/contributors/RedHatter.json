@@ -1,22 +1,22 @@
 {
   "username": "RedHatter",
-  "lastUpdated": "2026-09-05T00:34:31.901Z",
+  "lastUpdated": "2026-09-09T00:32:54.221Z",
   "aggregatedStats": {
-    "score": 62,
+    "score": 68,
     "mergedPrs": 6,
     "reviews": 2,
     "reviewsReceived": 1,
     "issuesLinked": 1,
-    "reactions": 234
+    "reactions": 293
   },
   "orgStats": {
     "sveltejs": {
-      "score": 62,
+      "score": 68,
       "mergedPrs": 6,
       "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 1,
-      "reactions": 234
+      "reactions": 293
     }
   },
   "repoStats": {
@@ -46,12 +46,12 @@
         "reactions": 8
       },
       "svelte": {
-        "score": 21,
+        "score": 27,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 211
+        "reactions": 270
       },
       "svelte-devtools": {
         "score": 3,

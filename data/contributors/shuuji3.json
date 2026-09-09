@@ -1,12 +1,12 @@
 {
   "username": "shuuji3",
-  "lastUpdated": "2026-09-08T06:25:06.925Z",
+  "lastUpdated": "2026-09-09T00:32:44.267Z",
   "aggregatedStats": {
-    "score": 2125,
-    "mergedPrs": 251,
+    "score": 2133,
+    "mergedPrs": 252,
     "reviews": 61,
-    "reviewsReceived": 256,
-    "issuesLinked": 213,
+    "reviewsReceived": 257,
+    "issuesLinked": 214,
     "reactions": 50
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 1699,
-      "mergedPrs": 205,
+      "score": 1707,
+      "mergedPrs": 206,
       "reviews": 20,
-      "reviewsReceived": 207,
-      "issuesLinked": 203,
+      "reviewsReceived": 208,
+      "issuesLinked": 204,
       "reactions": 8
     },
     "vuejs": {
@@ -100,11 +100,11 @@
         "reactions": 4
       },
       "vite": {
-        "score": 40,
-        "mergedPrs": 6,
+        "score": 48,
+        "mergedPrs": 7,
         "reviews": 1,
-        "reviewsReceived": 7,
-        "issuesLinked": 0,
+        "reviewsReceived": 8,
+        "issuesLinked": 1,
         "reactions": 4
       }
     },

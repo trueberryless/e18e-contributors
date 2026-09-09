@@ -1,20 +1,20 @@
 {
   "username": "3cp",
-  "lastUpdated": "2026-09-05T00:34:27.346Z",
+  "lastUpdated": "2026-09-09T00:32:49.845Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
+    "score": 20,
+    "mergedPrs": 3,
     "reviews": 0,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 1,
     "reactions": 1
   },
   "orgStats": {
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

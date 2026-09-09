@@ -1,13 +1,13 @@
 {
   "username": "benmccann",
-  "lastUpdated": "2026-09-08T06:25:03.265Z",
+  "lastUpdated": "2026-09-09T00:32:40.833Z",
   "aggregatedStats": {
-    "score": 7989,
-    "mergedPrs": 794,
-    "reviews": 1011,
-    "reviewsReceived": 491,
-    "issuesLinked": 111,
-    "reactions": 2732
+    "score": 9203,
+    "mergedPrs": 912,
+    "reviews": 1166,
+    "reviewsReceived": 605,
+    "issuesLinked": 131,
+    "reactions": 2777
   },
   "orgStats": {
     "biomejs": {
@@ -67,12 +67,12 @@
       "reactions": 111
     },
     "sveltejs": {
-      "score": 7554,
-      "mergedPrs": 750,
-      "reviews": 964,
-      "reviewsReceived": 455,
-      "issuesLinked": 108,
-      "reactions": 2412
+      "score": 8750,
+      "mergedPrs": 868,
+      "reviews": 1113,
+      "reviewsReceived": 569,
+      "issuesLinked": 128,
+      "reactions": 2457
     },
     "tanstack": {
       "score": 8,
@@ -83,9 +83,9 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 118,
+      "score": 136,
       "mergedPrs": 6,
-      "reviews": 22,
+      "reviews": 28,
       "reviewsReceived": 7,
       "issuesLinked": 2,
       "reactions": 107
@@ -364,12 +364,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 3423,
-        "mergedPrs": 324,
-        "reviews": 463,
-        "reviewsReceived": 197,
-        "issuesLinked": 36,
-        "reactions": 1446
+        "score": 4302,
+        "mergedPrs": 411,
+        "reviews": 564,
+        "reviewsReceived": 295,
+        "issuesLinked": 56,
+        "reactions": 1479
       },
       "language-tools": {
         "score": 77,
@@ -452,12 +452,12 @@
         "reactions": 3
       },
       "svelte": {
-        "score": 598,
-        "mergedPrs": 61,
-        "reviews": 60,
-        "reviewsReceived": 53,
+        "score": 915,
+        "mergedPrs": 92,
+        "reviews": 108,
+        "reviewsReceived": 69,
         "issuesLinked": 3,
-        "reactions": 543
+        "reactions": 555
       },
       "svelte-devtools": {
         "score": 9,
@@ -600,9 +600,9 @@
         "reactions": 0
       },
       "vite": {
-        "score": 86,
+        "score": 104,
         "mergedPrs": 2,
-        "reviews": 20,
+        "reviews": 26,
         "reviewsReceived": 3,
         "issuesLinked": 1,
         "reactions": 107

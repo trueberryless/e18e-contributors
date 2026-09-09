@@ -1,13 +1,13 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-08T06:25:04.009Z",
+  "lastUpdated": "2026-09-09T00:32:41.523Z",
   "aggregatedStats": {
-    "score": 51756,
-    "mergedPrs": 2710,
-    "reviews": 11203,
-    "reviewsReceived": 1049,
-    "issuesLinked": 1114,
-    "reactions": 13190
+    "score": 54064,
+    "mergedPrs": 2885,
+    "reviews": 11595,
+    "reviewsReceived": 1093,
+    "issuesLinked": 1208,
+    "reactions": 13446
   },
   "orgStats": {
     "bombshell-dev": {
@@ -35,12 +35,12 @@
       "reactions": 370
     },
     "nuxt": {
-      "score": 47320,
-      "mergedPrs": 2529,
-      "reviews": 10103,
-      "reviewsReceived": 964,
-      "issuesLinked": 1082,
-      "reactions": 12377
+      "score": 49612,
+      "mergedPrs": 2702,
+      "reviews": 10494,
+      "reviewsReceived": 1005,
+      "issuesLinked": 1176,
+      "reactions": 12630
     },
     "oxc-project": {
       "score": 317,
@@ -75,12 +75,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 85,
-      "mergedPrs": 10,
-      "reviews": 4,
-      "reviewsReceived": 11,
+      "score": 101,
+      "mergedPrs": 12,
+      "reviews": 5,
+      "reviewsReceived": 14,
       "issuesLinked": 3,
-      "reactions": 57
+      "reactions": 60
     },
     "vitest-dev": {
       "score": 14,
@@ -236,8 +236,8 @@
         "reactions": 1
       },
       "examples": {
-        "score": 489,
-        "mergedPrs": 13,
+        "score": 494,
+        "mergedPrs": 14,
         "reviews": 141,
         "reviewsReceived": 0,
         "issuesLinked": 0,
@@ -316,8 +316,8 @@
         "reactions": 44
       },
       "modules": {
-        "score": 913,
-        "mergedPrs": 34,
+        "score": 918,
+        "mergedPrs": 35,
         "reviews": 241,
         "reviewsReceived": 12,
         "issuesLinked": 1,
@@ -340,12 +340,12 @@
         "reactions": 1
       },
       "nuxt": {
-        "score": 12103,
-        "mergedPrs": 709,
-        "reviews": 2368,
-        "reviewsReceived": 134,
-        "issuesLinked": 302,
-        "reactions": 7160
+        "score": 14361,
+        "mergedPrs": 877,
+        "reviews": 2756,
+        "reviewsReceived": 175,
+        "issuesLinked": 396,
+        "reactions": 7413
       },
       "nuxt.com": {
         "score": 1300,
@@ -356,17 +356,17 @@
         "reactions": 445
       },
       "nuxt.new": {
-        "score": 533,
-        "mergedPrs": 26,
+        "score": 538,
+        "mergedPrs": 27,
         "reviews": 128,
         "reviewsReceived": 1,
         "issuesLinked": 8,
         "reactions": 18
       },
       "nuxters": {
-        "score": 941,
+        "score": 947,
         "mergedPrs": 5,
-        "reviews": 304,
+        "reviews": 306,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 32
@@ -388,16 +388,16 @@
         "reactions": 13
       },
       "telemetry": {
-        "score": 1012,
-        "mergedPrs": 22,
-        "reviews": 298,
+        "score": 1020,
+        "mergedPrs": 23,
+        "reviews": 299,
         "reviewsReceived": 3,
         "issuesLinked": 1,
         "reactions": 31
       },
       "test-utils": {
-        "score": 2677,
-        "mergedPrs": 83,
+        "score": 2682,
+        "mergedPrs": 84,
         "reviews": 725,
         "reviewsReceived": 14,
         "issuesLinked": 22,
@@ -518,12 +518,12 @@
         "reactions": 4
       },
       "vite": {
-        "score": 39,
-        "mergedPrs": 4,
-        "reviews": 2,
-        "reviewsReceived": 5,
+        "score": 56,
+        "mergedPrs": 6,
+        "reviews": 3,
+        "reviewsReceived": 8,
         "issuesLinked": 2,
-        "reactions": 43
+        "reactions": 46
       },
       "vite-ecosystem-ci": {
         "score": 35,

@@ -1,22 +1,22 @@
 {
   "username": "AlbertMarashi",
-  "lastUpdated": "2026-09-05T20:07:09.882Z",
+  "lastUpdated": "2026-09-09T00:32:53.759Z",
   "aggregatedStats": {
-    "score": 60,
+    "score": 65,
     "mergedPrs": 3,
-    "reviews": 5,
+    "reviews": 6,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 296
+    "reactions": 315
   },
   "orgStats": {
     "sveltejs": {
-      "score": 43,
+      "score": 48,
       "mergedPrs": 1,
-      "reviews": 5,
+      "reviews": 6,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 230
+      "reactions": 249
     },
     "vitejs": {
       "score": 0,
@@ -102,12 +102,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 7,
+        "score": 12,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 73
+        "reactions": 92
       },
       "svelte-eslint-parser": {
         "score": 0,

@@ -1,12 +1,12 @@
 {
   "username": "Disservin",
-  "lastUpdated": "2026-09-08T06:25:07.367Z",
+  "lastUpdated": "2026-09-09T00:32:44.591Z",
   "aggregatedStats": {
-    "score": 35,
-    "mergedPrs": 4,
+    "score": 44,
+    "mergedPrs": 5,
     "reviews": 2,
-    "reviewsReceived": 6,
-    "issuesLinked": 1,
+    "reviewsReceived": 8,
+    "issuesLinked": 2,
     "reactions": 13
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 8,
-      "mergedPrs": 1,
+      "score": 17,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 3,
-      "issuesLinked": 0,
+      "reviewsReceived": 5,
+      "issuesLinked": 1,
       "reactions": 4
     },
     "vuejs": {
@@ -48,11 +48,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "vite-plugin-vue": {

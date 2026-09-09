@@ -1,21 +1,21 @@
 {
   "username": "BlackHole1",
-  "lastUpdated": "2026-09-08T01:24:09.090Z",
+  "lastUpdated": "2026-09-09T00:32:49.877Z",
   "aggregatedStats": {
-    "score": 84,
-    "mergedPrs": 7,
-    "reviews": 14,
-    "reviewsReceived": 6,
-    "issuesLinked": 0,
+    "score": 250,
+    "mergedPrs": 11,
+    "reviews": 60,
+    "reviewsReceived": 10,
+    "issuesLinked": 2,
     "reactions": 7
   },
   "orgStats": {
     "pnpm": {
-      "score": 72,
-      "mergedPrs": 5,
-      "reviews": 14,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "score": 238,
+      "mergedPrs": 9,
+      "reviews": 60,
+      "reviewsReceived": 8,
+      "issuesLinked": 2,
       "reactions": 7
     },
     "vitest-dev": {
@@ -46,11 +46,11 @@
         "reactions": 0
       },
       "pnpm": {
-        "score": 34,
-        "mergedPrs": 0,
-        "reviews": 11,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 200,
+        "mergedPrs": 4,
+        "reviews": 57,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
         "reactions": 5
       },
       "pnpm.io": {

@@ -1,13 +1,13 @@
 {
   "username": "HugoRCD",
-  "lastUpdated": "2026-09-07T01:06:00.825Z",
+  "lastUpdated": "2026-09-09T00:32:44.182Z",
   "aggregatedStats": {
-    "score": 1416,
-    "mergedPrs": 196,
+    "score": 1422,
+    "mergedPrs": 197,
     "reviews": 56,
-    "reviewsReceived": 156,
+    "reviewsReceived": 157,
     "issuesLinked": 34,
-    "reactions": 444
+    "reactions": 446
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 1399,
-      "mergedPrs": 193,
+      "score": 1405,
+      "mergedPrs": 194,
       "reviews": 56,
-      "reviewsReceived": 155,
+      "reviewsReceived": 156,
       "issuesLinked": 34,
-      "reactions": 430
+      "reactions": 432
     },
     "vitejs": {
       "score": 1,
@@ -104,12 +104,12 @@
         "reactions": 66
       },
       "nuxt.com": {
-        "score": 675,
-        "mergedPrs": 95,
+        "score": 682,
+        "mergedPrs": 96,
         "reviews": 30,
-        "reviewsReceived": 75,
+        "reviewsReceived": 76,
         "issuesLinked": 9,
-        "reactions": 173
+        "reactions": 175
       },
       "nuxters": {
         "score": 9,

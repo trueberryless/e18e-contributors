@@ -1,13 +1,13 @@
 {
   "username": "TheAlexLichter",
-  "lastUpdated": "2026-09-08T19:36:21.012Z",
+  "lastUpdated": "2026-09-09T00:32:40.731Z",
   "aggregatedStats": {
-    "score": 2906,
-    "mergedPrs": 264,
-    "reviews": 395,
-    "reviewsReceived": 160,
-    "issuesLinked": 36,
-    "reactions": 1704
+    "score": 3009,
+    "mergedPrs": 269,
+    "reviews": 419,
+    "reviewsReceived": 164,
+    "issuesLinked": 37,
+    "reactions": 1707
   },
   "orgStats": {
     "biomejs": {
@@ -35,12 +35,12 @@
       "reactions": 23
     },
     "nuxt": {
-      "score": 2164,
-      "mergedPrs": 173,
-      "reviews": 345,
-      "reviewsReceived": 81,
-      "issuesLinked": 25,
-      "reactions": 1329
+      "score": 2267,
+      "mergedPrs": 178,
+      "reviews": 369,
+      "reviewsReceived": 85,
+      "issuesLinked": 26,
+      "reactions": 1332
     },
     "oxc-project": {
       "score": 153,
@@ -292,12 +292,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 411,
-        "mergedPrs": 27,
-        "reviews": 52,
-        "reviewsReceived": 24,
-        "issuesLinked": 8,
-        "reactions": 798
+        "score": 514,
+        "mergedPrs": 32,
+        "reviews": 76,
+        "reviewsReceived": 28,
+        "issuesLinked": 9,
+        "reactions": 801
       },
       "nuxt.com": {
         "score": 69,

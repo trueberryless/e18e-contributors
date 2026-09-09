@@ -1,20 +1,20 @@
 {
   "username": "enkot",
-  "lastUpdated": "2026-09-08T01:24:06.069Z",
+  "lastUpdated": "2026-09-09T00:32:46.538Z",
   "aggregatedStats": {
-    "score": 47,
-    "mergedPrs": 3,
+    "score": 53,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 3,
+    "reviewsReceived": 4,
     "issuesLinked": 2,
     "reactions": 220
   },
   "orgStats": {
     "nuxt": {
-      "score": 37,
-      "mergedPrs": 2,
+      "score": 43,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 2,
       "reactions": 175
     },
@@ -70,10 +70,10 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 30,
-        "mergedPrs": 2,
+        "score": 36,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 2,
         "reactions": 111
       },

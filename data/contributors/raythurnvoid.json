@@ -1,10 +1,10 @@
 {
   "username": "raythurnvoid",
-  "lastUpdated": "2026-09-05T20:07:07.138Z",
+  "lastUpdated": "2026-09-09T00:32:49.702Z",
   "aggregatedStats": {
-    "score": 29,
+    "score": 32,
     "mergedPrs": 3,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 90
@@ -27,9 +27,9 @@
       "reactions": 53
     },
     "vitejs": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 13
@@ -106,9 +106,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 13

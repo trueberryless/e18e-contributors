@@ -1,13 +1,13 @@
 {
   "username": "fi3ework",
-  "lastUpdated": "2026-09-08T06:25:12.416Z",
+  "lastUpdated": "2026-09-09T00:32:49.469Z",
   "aggregatedStats": {
-    "score": 93,
-    "mergedPrs": 12,
-    "reviews": 2,
-    "reviewsReceived": 5,
-    "issuesLinked": 5,
-    "reactions": 118
+    "score": 120,
+    "mergedPrs": 15,
+    "reviews": 3,
+    "reviewsReceived": 10,
+    "issuesLinked": 7,
+    "reactions": 119
   },
   "orgStats": {
     "oxc-project": {
@@ -27,12 +27,12 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 62,
-      "mergedPrs": 8,
-      "reviews": 1,
-      "reviewsReceived": 4,
-      "issuesLinked": 2,
-      "reactions": 107
+      "score": 89,
+      "mergedPrs": 11,
+      "reviews": 2,
+      "reviewsReceived": 9,
+      "issuesLinked": 4,
+      "reactions": 108
     },
     "vuejs": {
       "score": 31,
@@ -74,12 +74,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 31,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 3,
-        "issuesLinked": 2,
-        "reactions": 107
+        "score": 58,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 8,
+        "issuesLinked": 4,
+        "reactions": 108
       },
       "vite-benchmark": {
         "score": 25,

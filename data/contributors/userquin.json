@@ -1,13 +1,13 @@
 {
   "username": "userquin",
-  "lastUpdated": "2026-09-08T06:25:06.937Z",
+  "lastUpdated": "2026-09-09T00:32:44.277Z",
   "aggregatedStats": {
-    "score": 1648,
-    "mergedPrs": 210,
-    "reviews": 105,
-    "reviewsReceived": 183,
-    "issuesLinked": 36,
-    "reactions": 273
+    "score": 1703,
+    "mergedPrs": 216,
+    "reviews": 110,
+    "reviewsReceived": 189,
+    "issuesLinked": 38,
+    "reactions": 277
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 47
     },
     "nuxt": {
-      "score": 147,
-      "mergedPrs": 21,
-      "reviews": 7,
-      "reviewsReceived": 10,
-      "issuesLinked": 1,
-      "reactions": 90
+      "score": 171,
+      "mergedPrs": 24,
+      "reviews": 9,
+      "reviewsReceived": 11,
+      "issuesLinked": 2,
+      "reactions": 92
     },
     "pnpm": {
       "score": 1,
@@ -35,20 +35,20 @@
       "reactions": 5
     },
     "sveltejs": {
-      "score": 8,
+      "score": 11,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 0
     },
     "vitejs": {
-      "score": 49,
-      "mergedPrs": 5,
-      "reviews": 4,
-      "reviewsReceived": 6,
-      "issuesLinked": 1,
-      "reactions": 42
+      "score": 77,
+      "mergedPrs": 8,
+      "reviews": 6,
+      "reviewsReceived": 11,
+      "issuesLinked": 2,
+      "reactions": 44
     },
     "vitest-dev": {
       "score": 581,
@@ -144,12 +144,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 37,
-        "mergedPrs": 4,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
-        "reactions": 71
+        "score": 61,
+        "mergedPrs": 7,
+        "reviews": 4,
+        "reviewsReceived": 5,
+        "issuesLinked": 1,
+        "reactions": 73
       },
       "nuxt.com": {
         "score": 11,
@@ -188,9 +188,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 8,
+        "score": 11,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 0
@@ -214,12 +214,12 @@
         "reactions": 4
       },
       "vite": {
-        "score": 32,
-        "mergedPrs": 3,
-        "reviews": 3,
-        "reviewsReceived": 3,
-        "issuesLinked": 1,
-        "reactions": 33
+        "score": 61,
+        "mergedPrs": 6,
+        "reviews": 5,
+        "reviewsReceived": 8,
+        "issuesLinked": 2,
+        "reactions": 35
       },
       "vite-ecosystem-ci": {
         "score": 10,

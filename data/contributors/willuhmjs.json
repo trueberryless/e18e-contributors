@@ -1,10 +1,10 @@
 {
   "username": "willuhmjs",
-  "lastUpdated": "2026-09-05T00:34:11.707Z",
+  "lastUpdated": "2026-09-09T00:32:40.515Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 1
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
@@ -46,6 +46,14 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1
+      },
+      "svelte": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     }
   }

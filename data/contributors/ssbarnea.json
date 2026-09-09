@@ -1,10 +1,10 @@
 {
   "username": "ssbarnea",
-  "lastUpdated": "2026-09-05T00:34:16.913Z",
+  "lastUpdated": "2026-09-09T00:32:41.368Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 4,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 7
@@ -17,6 +17,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
+    },
+    "pnpm": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "refined-github": {
       "score": 1,
@@ -44,6 +52,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1
+      }
+    },
+    "pnpm": {
+      "pnpm": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "refined-github": {

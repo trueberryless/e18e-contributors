@@ -1,11 +1,11 @@
 {
   "username": "haoqunjiang",
-  "lastUpdated": "2026-09-08T06:25:12.445Z",
+  "lastUpdated": "2026-09-09T00:32:49.514Z",
   "aggregatedStats": {
-    "score": 6662,
-    "mergedPrs": 544,
-    "reviews": 1107,
-    "reviewsReceived": 151,
+    "score": 6675,
+    "mergedPrs": 545,
+    "reviews": 1109,
+    "reviewsReceived": 153,
     "issuesLinked": 195,
     "reactions": 804
   },
@@ -19,9 +19,9 @@
       "reactions": 12
     },
     "pnpm": {
-      "score": 13,
+      "score": 16,
       "mergedPrs": 1,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 6
@@ -35,10 +35,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 283,
-      "mergedPrs": 10,
-      "reviews": 71,
-      "reviewsReceived": 10,
+      "score": 293,
+      "mergedPrs": 11,
+      "reviews": 72,
+      "reviewsReceived": 12,
       "issuesLinked": 3,
       "reactions": 41
     },
@@ -88,9 +88,9 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 7,
+        "score": 10,
         "mergedPrs": 0,
-        "reviews": 2,
+        "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 6
@@ -132,10 +132,10 @@
         "reactions": 0
       },
       "vite": {
-        "score": 20,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 3,
+        "score": 30,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
         "reactions": 39
       },

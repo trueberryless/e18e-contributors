@@ -1,11 +1,11 @@
 {
   "username": "mcmxcdev",
-  "lastUpdated": "2026-09-08T01:23:58.013Z",
+  "lastUpdated": "2026-09-09T00:32:41.157Z",
   "aggregatedStats": {
-    "score": 73,
-    "mergedPrs": 9,
-    "reviews": 2,
-    "reviewsReceived": 9,
+    "score": 122,
+    "mergedPrs": 16,
+    "reviews": 5,
+    "reviewsReceived": 14,
     "issuesLinked": 4,
     "reactions": 53
   },
@@ -27,10 +27,10 @@
       "reactions": 8
     },
     "pnpm": {
-      "score": 36,
-      "mergedPrs": 5,
-      "reviews": 0,
-      "reviewsReceived": 4,
+      "score": 85,
+      "mergedPrs": 12,
+      "reviews": 3,
+      "reviewsReceived": 9,
       "issuesLinked": 2,
       "reactions": 31
     },
@@ -106,10 +106,10 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 31,
-        "mergedPrs": 4,
-        "reviews": 0,
-        "reviewsReceived": 4,
+        "score": 80,
+        "mergedPrs": 11,
+        "reviews": 3,
+        "reviewsReceived": 9,
         "issuesLinked": 2,
         "reactions": 31
       },

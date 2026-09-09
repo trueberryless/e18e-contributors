@@ -1,21 +1,21 @@
 {
   "username": "susnux",
-  "lastUpdated": "2026-09-08T06:25:25.009Z",
+  "lastUpdated": "2026-09-09T00:33:01.031Z",
   "aggregatedStats": {
-    "score": 28,
-    "mergedPrs": 3,
-    "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 1,
+    "score": 49,
+    "mergedPrs": 5,
+    "reviews": 4,
+    "reviewsReceived": 7,
+    "issuesLinked": 2,
     "reactions": 14
   },
   "orgStats": {
     "vitejs": {
-      "score": 27,
-      "mergedPrs": 3,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 1,
+      "score": 48,
+      "mergedPrs": 5,
+      "reviews": 4,
+      "reviewsReceived": 7,
+      "issuesLinked": 2,
       "reactions": 3
     },
     "vitest-dev": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 27,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 1,
+        "score": 48,
+        "mergedPrs": 5,
+        "reviews": 4,
+        "reviewsReceived": 7,
+        "issuesLinked": 2,
         "reactions": 3
       },
       "vite-plugin-vue2": {

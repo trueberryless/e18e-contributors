@@ -1,13 +1,13 @@
 {
   "username": "sxzz",
-  "lastUpdated": "2026-09-08T06:25:05.734Z",
+  "lastUpdated": "2026-09-09T00:32:43.272Z",
   "aggregatedStats": {
-    "score": 2878,
-    "mergedPrs": 189,
-    "reviews": 541,
-    "reviewsReceived": 84,
+    "score": 2902,
+    "mergedPrs": 192,
+    "reviews": 542,
+    "reviewsReceived": 90,
     "issuesLinked": 43,
-    "reactions": 1410
+    "reactions": 1411
   },
   "orgStats": {
     "e18e": {
@@ -67,12 +67,12 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 215,
-      "mergedPrs": 21,
-      "reviews": 33,
-      "reviewsReceived": 9,
+      "score": 239,
+      "mergedPrs": 24,
+      "reviews": 34,
+      "reviewsReceived": 15,
       "issuesLinked": 1,
-      "reactions": 3
+      "reactions": 4
     },
     "vitest-dev": {
       "score": 28,
@@ -292,12 +292,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 15,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 2,
+        "score": 39,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 8,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       },
       "vite-plugin-vue": {
         "score": 163,

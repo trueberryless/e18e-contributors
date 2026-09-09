@@ -1,13 +1,13 @@
 {
   "username": "teemingc",
-  "lastUpdated": "2026-09-08T06:25:05.638Z",
+  "lastUpdated": "2026-09-09T00:32:43.175Z",
   "aggregatedStats": {
-    "score": 6461,
-    "mergedPrs": 583,
-    "reviews": 813,
-    "reviewsReceived": 571,
-    "issuesLinked": 234,
-    "reactions": 682
+    "score": 6732,
+    "mergedPrs": 612,
+    "reviews": 829,
+    "reviewsReceived": 603,
+    "issuesLinked": 257,
+    "reactions": 687
   },
   "orgStats": {
     "changesets": {
@@ -35,12 +35,12 @@
       "reactions": 11
     },
     "sveltejs": {
-      "score": 6437,
-      "mergedPrs": 580,
-      "reviews": 811,
-      "reviewsReceived": 569,
-      "issuesLinked": 234,
-      "reactions": 669
+      "score": 6708,
+      "mergedPrs": 609,
+      "reviews": 827,
+      "reviewsReceived": 601,
+      "issuesLinked": 257,
+      "reactions": 674
     },
     "vitejs": {
       "score": 8,
@@ -124,12 +124,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 5168,
-        "mergedPrs": 474,
-        "reviews": 615,
-        "reviewsReceived": 466,
-        "issuesLinked": 213,
-        "reactions": 609
+        "score": 5439,
+        "mergedPrs": 503,
+        "reviews": 631,
+        "reviewsReceived": 498,
+        "issuesLinked": 236,
+        "reactions": 613
       },
       "language-tools": {
         "score": 17,
@@ -169,7 +169,7 @@
         "reviews": 9,
         "reviewsReceived": 8,
         "issuesLinked": 1,
-        "reactions": 13
+        "reactions": 14
       },
       "svelte-eslint-parser": {
         "score": 15,

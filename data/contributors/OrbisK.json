@@ -1,12 +1,12 @@
 {
   "username": "OrbisK",
-  "lastUpdated": "2026-09-08T06:25:05.691Z",
+  "lastUpdated": "2026-09-09T00:32:43.232Z",
   "aggregatedStats": {
-    "score": 796,
-    "mergedPrs": 79,
+    "score": 804,
+    "mergedPrs": 80,
     "reviews": 89,
-    "reviewsReceived": 87,
-    "issuesLinked": 13,
+    "reviewsReceived": 88,
+    "issuesLinked": 14,
     "reactions": 212
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 14
     },
     "nuxt": {
-      "score": 579,
-      "mergedPrs": 54,
+      "score": 587,
+      "mergedPrs": 55,
       "reviews": 71,
-      "reviewsReceived": 55,
-      "issuesLinked": 11,
+      "reviewsReceived": 56,
+      "issuesLinked": 12,
       "reactions": 189
     },
     "vitest-dev": {
@@ -106,11 +106,11 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 377,
-        "mergedPrs": 29,
+        "score": 385,
+        "mergedPrs": 30,
         "reviews": 58,
-        "reviewsReceived": 31,
-        "issuesLinked": 7,
+        "reviewsReceived": 32,
+        "issuesLinked": 8,
         "reactions": 130
       },
       "nuxt.com": {
