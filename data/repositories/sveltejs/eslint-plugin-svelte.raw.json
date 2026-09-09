@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T00:30:42.016Z",
+    "lastRunAt": "2026-09-09T23:28:13.646Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wNC0zMFQwNjo1Njo0MVrOJU1oVA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -11497,6 +11497,13 @@
       },
       "reactions": {
         "total_count": 1
+      }
+    },
+    "1578": {
+      "number": 1578,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -33218,7 +33225,7 @@
     },
     "1284": {
       "number": 1284,
-      "updatedAt": "2026-09-08T04:26:43Z",
+      "updatedAt": "2026-09-09T22:18:17Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -35326,7 +35333,7 @@
     },
     "1409": {
       "number": 1409,
-      "updatedAt": "2026-09-08T04:26:38Z",
+      "updatedAt": "2026-09-09T22:19:27Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -36026,7 +36033,7 @@
     },
     "1463": {
       "number": 1463,
-      "updatedAt": "2026-09-08T04:26:45Z",
+      "updatedAt": "2026-09-09T22:18:31Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -36044,7 +36051,7 @@
     },
     "1464": {
       "number": 1464,
-      "updatedAt": "2026-09-08T04:26:48Z",
+      "updatedAt": "2026-09-09T22:19:03Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -36142,7 +36149,7 @@
     },
     "1470": {
       "number": 1470,
-      "updatedAt": "2026-09-08T04:26:46Z",
+      "updatedAt": "2026-09-09T22:21:27Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -36193,7 +36200,7 @@
     },
     "1474": {
       "number": 1474,
-      "updatedAt": "2026-09-08T04:26:35Z",
+      "updatedAt": "2026-09-09T22:17:38Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -37488,7 +37495,7 @@
     },
     "1547": {
       "number": 1547,
-      "updatedAt": "2026-09-08T04:26:41Z",
+      "updatedAt": "2026-09-09T22:18:02Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -37937,6 +37944,24 @@
       "merged": true,
       "author": {
         "login": "github-actions",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1578": {
+      "number": 1578,
+      "updatedAt": "2026-09-09T22:20:45Z",
+      "merged": false,
+      "author": {
+        "login": "renovate",
         "__typename": "Bot"
       },
       "closingIssuesReferences": {

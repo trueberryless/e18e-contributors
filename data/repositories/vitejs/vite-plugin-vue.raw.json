@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T00:31:42.559Z",
+    "lastRunAt": "2026-09-09T23:29:13.286Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMi0wM1QxMDowNjoxNlrORDHjHw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -15038,7 +15038,7 @@
     },
     "826": {
       "number": 826,
-      "updatedAt": "2026-09-07T20:32:03Z",
+      "updatedAt": "2026-09-09T23:05:07Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -15056,7 +15056,7 @@
     },
     "827": {
       "number": 827,
-      "updatedAt": "2026-09-07T15:59:01Z",
+      "updatedAt": "2026-09-09T23:05:38Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -15126,7 +15126,7 @@
     },
     "831": {
       "number": 831,
-      "updatedAt": "2026-09-07T15:59:20Z",
+      "updatedAt": "2026-09-09T23:06:14Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -15144,7 +15144,7 @@
     },
     "832": {
       "number": 832,
-      "updatedAt": "2026-09-07T16:01:05Z",
+      "updatedAt": "2026-09-09T23:07:15Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -15162,7 +15162,7 @@
     },
     "833": {
       "number": 833,
-      "updatedAt": "2026-09-07T16:01:38Z",
+      "updatedAt": "2026-09-09T23:08:10Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -15242,8 +15242,8 @@
     },
     "838": {
       "number": 838,
-      "updatedAt": "2026-09-06T20:17:23Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T09:07:34Z",
+      "merged": true,
       "author": {
         "login": "danielroe",
         "__typename": "User"
@@ -15255,12 +15255,20 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "haoqunjiang",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "839": {
       "number": 839,
-      "updatedAt": "2026-09-07T16:01:06Z",
+      "updatedAt": "2026-09-09T23:06:25Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -15278,7 +15286,7 @@
     },
     "840": {
       "number": 840,
-      "updatedAt": "2026-09-07T16:00:35Z",
+      "updatedAt": "2026-09-09T23:06:54Z",
       "merged": false,
       "author": {
         "login": "renovate",

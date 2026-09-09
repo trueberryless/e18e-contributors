@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T00:29:38.965Z",
+    "lastRunAt": "2026-09-09T23:27:20.541Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wNS0wNVQwODoxODozM1rOJZLi4w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -18648,6 +18648,13 @@
       "number": 2738,
       "user": {
         "login": "Sudaisib",
+        "type": "User"
+      }
+    },
+    "2739": {
+      "number": 2739,
+      "user": {
+        "login": "jabrailkhalil",
         "type": "User"
       }
     }
@@ -42704,6 +42711,24 @@
       },
       "closingIssuesReferences": {
         "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2739": {
+      "number": 2739,
+      "updatedAt": "2026-09-09T21:03:43Z",
+      "merged": false,
+      "author": {
+        "login": "jabrailkhalil",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0

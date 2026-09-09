@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T00:30:33.298Z",
+    "lastRunAt": "2026-09-09T23:28:05.669Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOC0wMy0xMFQyMzo0NjoyN1rOCmH-jw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1450,6 +1450,13 @@
       "number": 189,
       "user": {
         "login": "NotAFlightRisk",
+        "type": "User"
+      }
+    },
+    "190": {
+      "number": 190,
+      "user": {
+        "login": "leonidaz",
         "type": "User"
       }
     }
@@ -4425,6 +4432,24 @@
       "merged": false,
       "author": {
         "login": "NotAFlightRisk",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "190": {
+      "number": 190,
+      "updatedAt": "2026-09-09T21:15:01Z",
+      "merged": false,
+      "author": {
+        "login": "leonidaz",
         "__typename": "User"
       },
       "closingIssuesReferences": {

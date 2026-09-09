@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T05:04:56.142Z",
+    "lastRunAt": "2026-09-09T23:31:21.168Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMS0yMVQxNDoxNzoxN1rORui15Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -34322,6 +34322,13 @@
         "login": "LearningQuests",
         "type": "User"
       }
+    },
+    "5425": {
+      "number": 5425,
+      "user": {
+        "login": "yuraoak",
+        "type": "User"
+      }
     }
   },
   "prs": {
@@ -66383,7 +66390,7 @@
     },
     "4060": {
       "number": 4060,
-      "updatedAt": "2026-09-09T03:00:07Z",
+      "updatedAt": "2026-09-09T08:10:59Z",
       "merged": false,
       "author": {
         "login": "PolarisWasInDenial",
@@ -76297,6 +76304,24 @@
       "merged": false,
       "author": {
         "login": "LearningQuests",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "5425": {
+      "number": 5425,
+      "updatedAt": "2026-09-09T14:11:17Z",
+      "merged": false,
+      "author": {
+        "login": "yuraoak",
         "__typename": "User"
       },
       "closingIssuesReferences": {
