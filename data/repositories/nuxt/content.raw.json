@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:21:16.656Z",
+    "lastRunAt": "2026-09-09T00:27:49.661Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wNS0wM1QxMjowOToxOFrOGJYZEQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -27022,6 +27022,13 @@
       "number": 3848,
       "user": {
         "login": "onmax",
+        "type": "User"
+      }
+    },
+    "3849": {
+      "number": 3849,
+      "user": {
+        "login": "lndmanh",
         "type": "User"
       }
     }

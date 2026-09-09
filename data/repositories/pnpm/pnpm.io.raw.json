@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:22:11.988Z",
+    "lastRunAt": "2026-09-09T00:28:40.278Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNy0wNy0wNlQyMDo0MjowOFrOB7QF9A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -6710,6 +6710,30 @@
       },
       "reactions": {
         "total_count": 1
+      }
+    },
+    "919": {
+      "number": 919,
+      "user": {
+        "login": "Mister-Hope",
+        "type": "User"
+      }
+    },
+    "920": {
+      "number": 920,
+      "user": {
+        "login": "btea",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "921": {
+      "number": 921,
+      "user": {
+        "login": "Botato300",
+        "type": "User"
       }
     }
   },
@@ -22681,7 +22705,7 @@
     },
     "820": {
       "number": 820,
-      "updatedAt": "2026-06-09T22:27:52Z",
+      "updatedAt": "2026-09-08T13:12:53Z",
       "merged": false,
       "author": {
         "login": "AgnetaGavrielov",
@@ -26626,6 +26650,46 @@
             "state": "COMMENTED",
             "author": {
               "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "920": {
+      "number": 920,
+      "updatedAt": "2026-09-08T13:07:44Z",
+      "merged": true,
+      "author": {
+        "login": "btea",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "greptile-apps",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "greptile-apps",
               "__typename": "Bot"
             }
           }

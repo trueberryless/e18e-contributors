@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:21:25.625Z",
+    "lastRunAt": "2026-09-09T00:27:58.524Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0xNVQxMzowNDoyOFrOSggPtw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -11815,6 +11815,13 @@
       "user": {
         "login": "renovate[bot]",
         "type": "Bot"
+      }
+    },
+    "1530": {
+      "number": 1530,
+      "user": {
+        "login": "danielroe",
+        "type": "User"
       }
     }
   },
@@ -40147,7 +40154,7 @@
     },
     "1518": {
       "number": 1518,
-      "updatedAt": "2026-09-06T18:15:23Z",
+      "updatedAt": "2026-09-08T18:38:24Z",
       "merged": false,
       "author": {
         "login": "danielroe",
@@ -40161,6 +40168,20 @@
       },
       "reviews": {
         "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
           {
             "state": "COMMENTED",
             "author": {
@@ -40239,7 +40260,7 @@
     },
     "1523": {
       "number": 1523,
-      "updatedAt": "2026-09-07T19:41:04Z",
+      "updatedAt": "2026-09-08T23:33:06Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40283,7 +40304,7 @@
     },
     "1526": {
       "number": 1526,
-      "updatedAt": "2026-09-07T10:31:46Z",
+      "updatedAt": "2026-09-08T23:31:56Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40359,6 +40380,32 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "1530": {
+      "number": 1530,
+      "updatedAt": "2026-09-08T18:35:58Z",
+      "merged": false,
+      "author": {
+        "login": "danielroe",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     }
   }

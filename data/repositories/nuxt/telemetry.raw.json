@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:21:17.539Z",
+    "lastRunAt": "2026-09-09T00:27:50.427Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wNS0wN1QxMDoyMToyM1rOGD9Aig==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3513,6 +3513,20 @@
       "number": 483,
       "user": {
         "login": "renovate[bot]",
+        "type": "Bot"
+      }
+    },
+    "484": {
+      "number": 484,
+      "user": {
+        "login": "danielroe",
+        "type": "User"
+      }
+    },
+    "485": {
+      "number": 485,
+      "user": {
+        "login": "github-actions[bot]",
         "type": "Bot"
       }
     }
@@ -14343,6 +14357,64 @@
             }
           }
         ]
+      }
+    },
+    "484": {
+      "number": 484,
+      "updatedAt": "2026-09-08T18:24:33Z",
+      "merged": true,
+      "author": {
+        "login": "danielroe",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "danielroe",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "485": {
+      "number": 485,
+      "updatedAt": "2026-09-08T18:24:58Z",
+      "merged": false,
+      "author": {
+        "login": "github-actions",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

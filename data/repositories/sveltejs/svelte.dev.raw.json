@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T06:20:06.052Z",
+    "lastRunAt": "2026-09-09T00:30:44.079Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNi0xMFQxODowNzozNlrOcf8RgA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -54993,7 +54993,7 @@
     },
     "2134": {
       "number": 2134,
-      "updatedAt": "2026-08-27T20:14:17Z",
+      "updatedAt": "2026-09-08T14:47:40Z",
       "merged": false,
       "author": {
         "login": "Rich-Harris",
@@ -56428,8 +56428,8 @@
     },
     "2188": {
       "number": 2188,
-      "updatedAt": "2026-09-08T03:54:01Z",
-      "merged": false,
+      "updatedAt": "2026-09-08T14:47:41Z",
+      "merged": true,
       "author": {
         "login": "github-actions",
         "__typename": "Bot"

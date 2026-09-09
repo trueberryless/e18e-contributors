@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:21:21.286Z",
+    "lastRunAt": "2026-09-09T00:27:54.092Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMS0xOFQxMzoxNTo0NlrOLraJ-A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -53071,6 +53071,13 @@
       "number": 6929,
       "user": {
         "login": "lazerg",
+        "type": "User"
+      }
+    },
+    "6930": {
+      "number": 6930,
+      "user": {
+        "login": "dprockcreative",
         "type": "User"
       }
     }
@@ -133133,7 +133140,7 @@
     },
     "6858": {
       "number": 6858,
-      "updatedAt": "2026-09-07T12:24:06Z",
+      "updatedAt": "2026-09-08T08:18:51Z",
       "merged": false,
       "author": {
         "login": "61021",
@@ -133159,6 +133166,13 @@
             "author": {
               "login": "benjamincanac",
               "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
             }
           }
         ]
@@ -133445,8 +133459,8 @@
     },
     "6871": {
       "number": 6871,
-      "updatedAt": "2026-09-07T12:20:43Z",
-      "merged": false,
+      "updatedAt": "2026-09-08T08:17:00Z",
+      "merged": true,
       "author": {
         "login": "giaBaoJS",
         "__typename": "User"
@@ -133468,6 +133482,13 @@
           },
           {
             "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "benjamincanac",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
             "author": {
               "login": "benjamincanac",
               "__typename": "User"
@@ -134355,7 +134376,7 @@
     },
     "6915": {
       "number": 6915,
-      "updatedAt": "2026-09-07T14:43:20Z",
+      "updatedAt": "2026-09-08T19:30:50Z",
       "merged": false,
       "author": {
         "login": "benjamincanac",

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:21:21.226Z",
+    "lastRunAt": "2026-09-09T00:27:53.724Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wNy0xNFQyMToxODo0NVrOOVF6Qg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8157,6 +8157,20 @@
     },
     "1086": {
       "number": 1086,
+      "user": {
+        "login": "antfubot",
+        "type": "User"
+      }
+    },
+    "1087": {
+      "number": 1087,
+      "user": {
+        "login": "antfubot",
+        "type": "User"
+      }
+    },
+    "1088": {
+      "number": 1088,
       "user": {
         "login": "antfubot",
         "type": "User"
@@ -21824,6 +21838,42 @@
             }
           }
         ]
+      }
+    },
+    "1087": {
+      "number": 1087,
+      "updatedAt": "2026-09-08T02:19:22Z",
+      "merged": false,
+      "author": {
+        "login": "antfubot",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1088": {
+      "number": 1088,
+      "updatedAt": "2026-09-08T09:47:23Z",
+      "merged": false,
+      "author": {
+        "login": "antfubot",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

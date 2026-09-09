@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T06:21:07.051Z",
+    "lastRunAt": "2026-09-09T00:31:44.043Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNC0xMFQwODo0Njo1MVrOkg6sAw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4281,6 +4281,20 @@
       },
       "reactions": {
         "total_count": 1
+      }
+    },
+    "565": {
+      "number": 565,
+      "user": {
+        "login": "webfansplz",
+        "type": "User"
+      }
+    },
+    "566": {
+      "number": 566,
+      "user": {
+        "login": "webfansplz",
+        "type": "User"
       }
     }
   },
@@ -14384,6 +14398,58 @@
             "author": {
               "login": "antfu",
               "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "565": {
+      "number": 565,
+      "updatedAt": "2026-09-08T07:02:27Z",
+      "merged": false,
+      "author": {
+        "login": "webfansplz",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-pull-request-reviewer",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "566": {
+      "number": 566,
+      "updatedAt": "2026-09-08T08:28:43Z",
+      "merged": false,
+      "author": {
+        "login": "webfansplz",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-pull-request-reviewer",
+              "__typename": "Bot"
             }
           }
         ]

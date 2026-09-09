@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T06:20:00.719Z",
+    "lastRunAt": "2026-09-09T00:30:38.655Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wMy0xNVQyMjowMzo1OFrOFyz7vQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -55453,7 +55453,7 @@
     },
     "3114": {
       "number": 3114,
-      "updatedAt": "2026-09-07T02:48:34Z",
+      "updatedAt": "2026-09-08T14:32:01Z",
       "merged": false,
       "author": {
         "login": "colecrouter",
@@ -55483,6 +55483,13 @@
           },
           {
             "state": "COMMENTED",
+            "author": {
+              "login": "jasonlyu123",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
             "author": {
               "login": "jasonlyu123",
               "__typename": "User"

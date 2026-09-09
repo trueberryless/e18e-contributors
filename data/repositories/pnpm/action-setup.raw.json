@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:22:13.197Z",
+    "lastRunAt": "2026-09-09T00:28:41.555Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wNS0wOFQxNDozOTo0M1rOGMB2DA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5684,7 +5684,7 @@
     },
     "266": {
       "number": 266,
-      "updatedAt": "2026-08-31T16:42:30Z",
+      "updatedAt": "2026-09-08T14:21:30Z",
       "merged": false,
       "author": {
         "login": "etienne-martin",
@@ -5731,6 +5731,13 @@
             "author": {
               "login": "etienne-martin",
               "__typename": "User"
+            }
+          },
+          {
+            "state": "DISMISSED",
+            "author": {
+              "login": "greptile-apps",
+              "__typename": "Bot"
             }
           },
           {

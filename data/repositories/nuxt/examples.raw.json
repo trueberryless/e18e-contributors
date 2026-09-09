@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T01:21:24.805Z",
+    "lastRunAt": "2026-09-09T00:27:57.843Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMC0yMFQxNjowMToxMVrOQIZpcA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1877,6 +1877,13 @@
       "user": {
         "login": "renovate[bot]",
         "type": "Bot"
+      }
+    },
+    "263": {
+      "number": 263,
+      "user": {
+        "login": "danielroe",
+        "type": "User"
       }
     }
   },
@@ -7195,7 +7202,7 @@
     },
     "253": {
       "number": 253,
-      "updatedAt": "2026-09-08T00:43:49Z",
+      "updatedAt": "2026-09-08T18:30:05Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -7413,11 +7420,29 @@
     },
     "262": {
       "number": 262,
-      "updatedAt": "2026-09-08T00:39:54Z",
+      "updatedAt": "2026-09-08T18:28:43Z",
       "merged": false,
       "author": {
         "login": "renovate",
         "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "263": {
+      "number": 263,
+      "updatedAt": "2026-09-08T18:23:58Z",
+      "merged": true,
+      "author": {
+        "login": "danielroe",
+        "__typename": "User"
       },
       "closingIssuesReferences": {
         "totalCount": 0
