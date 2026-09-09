@@ -1,22 +1,22 @@
 {
   "username": "milahu",
-  "lastUpdated": "2026-09-09T00:32:50.541Z",
+  "lastUpdated": "2026-09-09T21:14:54.296Z",
   "aggregatedStats": {
-    "score": 98,
-    "mergedPrs": 13,
+    "score": 103,
+    "mergedPrs": 14,
     "reviews": 3,
     "reviewsReceived": 13,
     "issuesLinked": 1,
-    "reactions": 90
+    "reactions": 93
   },
   "orgStats": {
     "pnpm": {
-      "score": 22,
-      "mergedPrs": 2,
+      "score": 27,
+      "mergedPrs": 3,
       "reviews": 1,
       "reviewsReceived": 2,
       "issuesLinked": 1,
-      "reactions": 48
+      "reactions": 51
     },
     "sveltejs": {
       "score": 75,
@@ -54,12 +54,12 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 22,
-        "mergedPrs": 2,
+        "score": 27,
+        "mergedPrs": 3,
         "reviews": 1,
         "reviewsReceived": 2,
         "issuesLinked": 1,
-        "reactions": 48
+        "reactions": 51
       }
     },
     "sveltejs": {

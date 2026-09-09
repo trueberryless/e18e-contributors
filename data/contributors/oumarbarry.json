@@ -1,22 +1,22 @@
 {
   "username": "oumarbarry",
-  "lastUpdated": "2026-09-06T13:08:51.090Z",
+  "lastUpdated": "2026-09-09T21:14:52.140Z",
   "aggregatedStats": {
-    "score": 11,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 19,
+    "mergedPrs": 3,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "nuxt": {
-      "score": 11,
-      "mergedPrs": 2,
-      "reviews": 0,
+      "score": 19,
+      "mergedPrs": 3,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 8,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "nuxt.com": {
         "score": 6,

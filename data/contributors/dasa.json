@@ -1,20 +1,20 @@
 {
   "username": "dasa",
-  "lastUpdated": "2026-09-09T00:32:50.220Z",
+  "lastUpdated": "2026-09-09T21:14:54.019Z",
   "aggregatedStats": {
-    "score": 72,
-    "mergedPrs": 9,
+    "score": 84,
+    "mergedPrs": 11,
     "reviews": 3,
-    "reviewsReceived": 8,
+    "reviewsReceived": 10,
     "issuesLinked": 4,
     "reactions": 15
   },
   "orgStats": {
     "pnpm": {
-      "score": 72,
-      "mergedPrs": 9,
+      "score": 84,
+      "mergedPrs": 11,
       "reviews": 3,
-      "reviewsReceived": 8,
+      "reviewsReceived": 10,
       "issuesLinked": 4,
       "reactions": 15
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 61,
-        "mergedPrs": 7,
+        "score": 73,
+        "mergedPrs": 9,
         "reviews": 3,
-        "reviewsReceived": 7,
+        "reviewsReceived": 9,
         "issuesLinked": 4,
         "reactions": 15
       },

@@ -1,20 +1,20 @@
 {
   "username": "Boby900",
-  "lastUpdated": "2026-09-08T19:36:24.643Z",
+  "lastUpdated": "2026-09-09T21:14:49.285Z",
   "aggregatedStats": {
-    "score": 11,
-    "mergedPrs": 2,
-    "reviews": 0,
-    "reviewsReceived": 1,
+    "score": 20,
+    "mergedPrs": 3,
+    "reviews": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 1
   },
   "orgStats": {
     "nuxt": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 9,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -46,10 +46,10 @@
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 9,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

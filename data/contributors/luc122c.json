@@ -1,13 +1,13 @@
 {
   "username": "luc122c",
-  "lastUpdated": "2026-09-09T00:32:44.248Z",
+  "lastUpdated": "2026-09-09T21:14:49.097Z",
   "aggregatedStats": {
-    "score": 389,
-    "mergedPrs": 48,
-    "reviews": 18,
-    "reviewsReceived": 44,
-    "issuesLinked": 22,
-    "reactions": 76
+    "score": 448,
+    "mergedPrs": 55,
+    "reviews": 20,
+    "reviewsReceived": 53,
+    "issuesLinked": 26,
+    "reactions": 87
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "nuxt": {
-      "score": 320,
-      "mergedPrs": 38,
-      "reviews": 17,
-      "reviewsReceived": 35,
-      "issuesLinked": 19,
-      "reactions": 60
+      "score": 379,
+      "mergedPrs": 45,
+      "reviews": 19,
+      "reviewsReceived": 44,
+      "issuesLinked": 23,
+      "reactions": 71
     },
     "refined-github": {
       "score": 0,
@@ -128,12 +128,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 211,
-        "mergedPrs": 24,
-        "reviews": 12,
-        "reviewsReceived": 25,
-        "issuesLinked": 13,
-        "reactions": 44
+        "score": 271,
+        "mergedPrs": 31,
+        "reviews": 14,
+        "reviewsReceived": 34,
+        "issuesLinked": 17,
+        "reactions": 55
       },
       "nuxters": {
         "score": 22,

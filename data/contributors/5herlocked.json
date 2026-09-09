@@ -1,33 +1,33 @@
 {
   "username": "5herlocked",
-  "lastUpdated": "2026-09-08T22:46:03.621Z",
+  "lastUpdated": "2026-09-09T21:15:13.379Z",
   "aggregatedStats": {
-    "score": 23,
-    "mergedPrs": 1,
+    "score": 30,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 142
+    "reactions": 147
   },
   "orgStats": {
     "zed-industries": {
-      "score": 23,
-      "mergedPrs": 1,
+      "score": 30,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 142
+      "reactions": 147
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 23,
-        "mergedPrs": 1,
+        "score": 30,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 142
+        "reactions": 147
       }
     }
   }

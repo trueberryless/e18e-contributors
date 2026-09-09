@@ -1,19 +1,19 @@
 {
   "username": "johannschopplich",
-  "lastUpdated": "2026-09-06T13:08:50.162Z",
+  "lastUpdated": "2026-09-09T21:14:51.380Z",
   "aggregatedStats": {
-    "score": 98,
+    "score": 101,
     "mergedPrs": 15,
-    "reviews": 3,
+    "reviews": 4,
     "reviewsReceived": 10,
     "issuesLinked": 0,
     "reactions": 36
   },
   "orgStats": {
     "nuxt": {
-      "score": 81,
+      "score": 84,
       "mergedPrs": 12,
-      "reviews": 3,
+      "reviews": 4,
       "reviewsReceived": 8,
       "issuesLinked": 0,
       "reactions": 35
@@ -62,9 +62,9 @@
         "reactions": 12
       },
       "nuxt": {
-        "score": 2,
+        "score": 5,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 17

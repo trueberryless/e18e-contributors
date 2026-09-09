@@ -1,33 +1,33 @@
 {
   "username": "dongdong867",
-  "lastUpdated": "2026-09-04T23:17:42.150Z",
+  "lastUpdated": "2026-09-09T21:15:14.825Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 1,
+    "score": 39,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 34
+    "reviewsReceived": 6,
+    "issuesLinked": 3,
+    "reactions": 42
   },
   "orgStats": {
     "zed-industries": {
-      "score": 14,
-      "mergedPrs": 1,
+      "score": 39,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 34
+      "reviewsReceived": 6,
+      "issuesLinked": 3,
+      "reactions": 42
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 14,
-        "mergedPrs": 1,
+        "score": 39,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 34
+        "reviewsReceived": 6,
+        "issuesLinked": 3,
+        "reactions": 42
       }
     }
   }

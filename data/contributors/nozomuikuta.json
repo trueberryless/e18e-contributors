@@ -1,22 +1,22 @@
 {
   "username": "nozomuikuta",
-  "lastUpdated": "2026-09-09T00:32:48.003Z",
+  "lastUpdated": "2026-09-09T21:14:52.083Z",
   "aggregatedStats": {
-    "score": 517,
-    "mergedPrs": 58,
+    "score": 525,
+    "mergedPrs": 59,
     "reviews": 43,
-    "reviewsReceived": 42,
-    "issuesLinked": 23,
-    "reactions": 104
+    "reviewsReceived": 43,
+    "issuesLinked": 24,
+    "reactions": 106
   },
   "orgStats": {
     "nuxt": {
-      "score": 284,
-      "mergedPrs": 28,
+      "score": 292,
+      "mergedPrs": 29,
       "reviews": 27,
-      "reviewsReceived": 26,
-      "issuesLinked": 16,
-      "reactions": 48
+      "reviewsReceived": 27,
+      "issuesLinked": 17,
+      "reactions": 50
     },
     "oxc-project": {
       "score": 150,
@@ -102,12 +102,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 9
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 11
       },
       "nuxt.com": {
         "score": 0,

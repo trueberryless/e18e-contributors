@@ -1,33 +1,33 @@
 {
   "username": "tidely",
-  "lastUpdated": "2026-09-06T09:36:14.813Z",
+  "lastUpdated": "2026-09-09T21:15:16.554Z",
   "aggregatedStats": {
-    "score": 72,
-    "mergedPrs": 9,
+    "score": 78,
+    "mergedPrs": 10,
     "reviews": 3,
-    "reviewsReceived": 9,
+    "reviewsReceived": 10,
     "issuesLinked": 2,
-    "reactions": 48
+    "reactions": 50
   },
   "orgStats": {
     "zed-industries": {
-      "score": 72,
-      "mergedPrs": 9,
+      "score": 78,
+      "mergedPrs": 10,
       "reviews": 3,
-      "reviewsReceived": 9,
+      "reviewsReceived": 10,
       "issuesLinked": 2,
-      "reactions": 48
+      "reactions": 50
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 72,
-        "mergedPrs": 9,
+        "score": 78,
+        "mergedPrs": 10,
         "reviews": 3,
-        "reviewsReceived": 9,
+        "reviewsReceived": 10,
         "issuesLinked": 2,
-        "reactions": 48
+        "reactions": 50
       }
     }
   }

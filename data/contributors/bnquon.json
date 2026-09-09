@@ -1,33 +1,33 @@
 {
   "username": "bnquon",
-  "lastUpdated": "2026-09-08T22:46:10.487Z",
+  "lastUpdated": "2026-09-09T21:15:17.686Z",
   "aggregatedStats": {
-    "score": 64,
-    "mergedPrs": 7,
+    "score": 72,
+    "mergedPrs": 8,
     "reviews": 1,
-    "reviewsReceived": 9,
-    "issuesLinked": 8,
-    "reactions": 10
+    "reviewsReceived": 10,
+    "issuesLinked": 9,
+    "reactions": 12
   },
   "orgStats": {
     "zen-browser": {
-      "score": 64,
-      "mergedPrs": 7,
+      "score": 72,
+      "mergedPrs": 8,
       "reviews": 1,
-      "reviewsReceived": 9,
-      "issuesLinked": 8,
-      "reactions": 10
+      "reviewsReceived": 10,
+      "issuesLinked": 9,
+      "reactions": 12
     }
   },
   "repoStats": {
     "zen-browser": {
       "desktop": {
-        "score": 64,
-        "mergedPrs": 7,
+        "score": 72,
+        "mergedPrs": 8,
         "reviews": 1,
-        "reviewsReceived": 9,
-        "issuesLinked": 8,
-        "reactions": 10
+        "reviewsReceived": 10,
+        "issuesLinked": 9,
+        "reactions": 12
       }
     }
   }

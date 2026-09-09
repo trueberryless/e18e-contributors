@@ -1,22 +1,22 @@
 {
   "username": "clemcode",
-  "lastUpdated": "2026-09-08T01:24:05.783Z",
+  "lastUpdated": "2026-09-09T21:14:50.570Z",
   "aggregatedStats": {
-    "score": 2089,
-    "mergedPrs": 307,
+    "score": 2101,
+    "mergedPrs": 309,
     "reviews": 120,
-    "reviewsReceived": 146,
+    "reviewsReceived": 148,
     "issuesLinked": 16,
-    "reactions": 161
+    "reactions": 162
   },
   "orgStats": {
     "nuxt": {
-      "score": 2089,
-      "mergedPrs": 307,
+      "score": 2101,
+      "mergedPrs": 309,
       "reviews": 120,
-      "reviewsReceived": 146,
+      "reviewsReceived": 148,
       "issuesLinked": 16,
-      "reactions": 161
+      "reactions": 162
     }
   },
   "repoStats": {
@@ -78,12 +78,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 16,
-        "mergedPrs": 2,
+        "score": 28,
+        "mergedPrs": 4,
         "reviews": 0,
-        "reviewsReceived": 2,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 38
+        "reactions": 39
       },
       "nuxt.com": {
         "score": 686,

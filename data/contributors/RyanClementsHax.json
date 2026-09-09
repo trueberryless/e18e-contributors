@@ -1,21 +1,21 @@
 {
   "username": "RyanClementsHax",
-  "lastUpdated": "2026-09-09T00:32:45.241Z",
+  "lastUpdated": "2026-09-09T21:14:49.900Z",
   "aggregatedStats": {
-    "score": 20,
-    "mergedPrs": 2,
+    "score": 28,
+    "mergedPrs": 3,
     "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 2,
+    "reviewsReceived": 3,
+    "issuesLinked": 3,
     "reactions": 5
   },
   "orgStats": {
     "nuxt": {
-      "score": 20,
-      "mergedPrs": 2,
+      "score": 28,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 3,
       "reactions": 5
     },
     "vitest-dev": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 19,
-        "mergedPrs": 2,
+        "score": 27,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 2,
+        "reviewsReceived": 3,
+        "issuesLinked": 3,
         "reactions": 4
       },
       "ui": {

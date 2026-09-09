@@ -1,21 +1,21 @@
 {
   "username": "Flosciante",
-  "lastUpdated": "2026-09-07T01:06:01.359Z",
+  "lastUpdated": "2026-09-09T21:14:49.452Z",
   "aggregatedStats": {
-    "score": 1438,
-    "mergedPrs": 185,
+    "score": 1446,
+    "mergedPrs": 186,
     "reviews": 56,
-    "reviewsReceived": 146,
-    "issuesLinked": 98,
+    "reviewsReceived": 147,
+    "issuesLinked": 99,
     "reactions": 34
   },
   "orgStats": {
     "nuxt": {
-      "score": 1438,
-      "mergedPrs": 185,
+      "score": 1446,
+      "mergedPrs": 186,
       "reviews": 56,
-      "reviewsReceived": 146,
-      "issuesLinked": 98,
+      "reviewsReceived": 147,
+      "issuesLinked": 99,
       "reactions": 34
     }
   },
@@ -54,11 +54,11 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "nuxt.com": {

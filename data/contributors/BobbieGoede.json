@@ -1,13 +1,13 @@
 {
   "username": "BobbieGoede",
-  "lastUpdated": "2026-09-09T00:32:43.222Z",
+  "lastUpdated": "2026-09-09T21:14:48.180Z",
   "aggregatedStats": {
-    "score": 624,
-    "mergedPrs": 79,
-    "reviews": 31,
-    "reviewsReceived": 71,
-    "issuesLinked": 23,
-    "reactions": 184
+    "score": 716,
+    "mergedPrs": 92,
+    "reviews": 34,
+    "reviewsReceived": 84,
+    "issuesLinked": 25,
+    "reactions": 194
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 6
     },
     "nuxt": {
-      "score": 557,
-      "mergedPrs": 70,
-      "reviews": 28,
-      "reviewsReceived": 63,
-      "issuesLinked": 22,
-      "reactions": 157
+      "score": 649,
+      "mergedPrs": 83,
+      "reviews": 31,
+      "reviewsReceived": 76,
+      "issuesLinked": 24,
+      "reactions": 167
     },
     "vitejs": {
       "score": 0,
@@ -154,12 +154,12 @@
         "reactions": 4
       },
       "nuxt": {
-        "score": 278,
-        "mergedPrs": 32,
-        "reviews": 18,
-        "reviewsReceived": 32,
-        "issuesLinked": 11,
-        "reactions": 99
+        "score": 370,
+        "mergedPrs": 45,
+        "reviews": 21,
+        "reviewsReceived": 45,
+        "issuesLinked": 13,
+        "reactions": 109
       },
       "nuxt.com": {
         "score": 12,

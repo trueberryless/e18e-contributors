@@ -1,13 +1,13 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-09T05:08:39.930Z",
+  "lastUpdated": "2026-09-09T21:14:46.810Z",
   "aggregatedStats": {
-    "score": 54093,
-    "mergedPrs": 2890,
-    "reviews": 11595,
-    "reviewsReceived": 1095,
-    "issuesLinked": 1209,
-    "reactions": 13446
+    "score": 56633,
+    "mergedPrs": 3031,
+    "reviews": 12129,
+    "reviewsReceived": 1159,
+    "issuesLinked": 1281,
+    "reactions": 13700
   },
   "orgStats": {
     "bombshell-dev": {
@@ -35,12 +35,12 @@
       "reactions": 370
     },
     "nuxt": {
-      "score": 49612,
-      "mergedPrs": 2702,
-      "reviews": 10494,
-      "reviewsReceived": 1005,
-      "issuesLinked": 1176,
-      "reactions": 12630
+      "score": 52152,
+      "mergedPrs": 2843,
+      "reviews": 11028,
+      "reviewsReceived": 1069,
+      "issuesLinked": 1248,
+      "reactions": 12884
     },
     "oxc-project": {
       "score": 317,
@@ -148,8 +148,8 @@
     },
     "nuxt": {
       "a11y": {
-        "score": 801,
-        "mergedPrs": 4,
+        "score": 806,
+        "mergedPrs": 5,
         "reviews": 260,
         "reviewsReceived": 0,
         "issuesLinked": 0,
@@ -172,8 +172,8 @@
         "reactions": 141
       },
       "cli": {
-        "score": 2916,
-        "mergedPrs": 178,
+        "score": 2921,
+        "mergedPrs": 179,
         "reviews": 617,
         "reviewsReceived": 24,
         "issuesLinked": 51,
@@ -244,9 +244,9 @@
         "reactions": 12
       },
       "fonts": {
-        "score": 1883,
-        "mergedPrs": 52,
-        "reviews": 526,
+        "score": 1891,
+        "mergedPrs": 53,
+        "reviews": 527,
         "reviewsReceived": 1,
         "issuesLinked": 18,
         "reactions": 77
@@ -260,8 +260,8 @@
         "reactions": 2770
       },
       "hackernews": {
-        "score": 918,
-        "mergedPrs": 7,
+        "score": 923,
+        "mergedPrs": 8,
         "reviews": 293,
         "reviewsReceived": 2,
         "issuesLinked": 1,
@@ -292,9 +292,9 @@
         "reactions": 14
       },
       "image": {
-        "score": 2839,
-        "mergedPrs": 87,
-        "reviews": 769,
+        "score": 2847,
+        "mergedPrs": 88,
+        "reviews": 770,
         "reviewsReceived": 27,
         "issuesLinked": 24,
         "reactions": 224
@@ -308,8 +308,8 @@
         "reactions": 0
       },
       "module-builder": {
-        "score": 1304,
-        "mergedPrs": 29,
+        "score": 1309,
+        "mergedPrs": 30,
         "reviews": 380,
         "reviewsReceived": 5,
         "issuesLinked": 5,
@@ -324,8 +324,8 @@
         "reactions": 56
       },
       "movies": {
-        "score": 44,
-        "mergedPrs": 4,
+        "score": 49,
+        "mergedPrs": 5,
         "reviews": 7,
         "reviewsReceived": 2,
         "issuesLinked": 0,
@@ -340,17 +340,17 @@
         "reactions": 1
       },
       "nuxt": {
-        "score": 14361,
-        "mergedPrs": 877,
-        "reviews": 2756,
-        "reviewsReceived": 175,
-        "issuesLinked": 396,
-        "reactions": 7413
+        "score": 16843,
+        "mergedPrs": 1008,
+        "reviews": 3287,
+        "reviewsReceived": 239,
+        "issuesLinked": 468,
+        "reactions": 7667
       },
       "nuxt.com": {
-        "score": 1300,
-        "mergedPrs": 70,
-        "reviews": 293,
+        "score": 1313,
+        "mergedPrs": 72,
+        "reviews": 294,
         "reviewsReceived": 20,
         "issuesLinked": 3,
         "reactions": 445
@@ -364,8 +364,8 @@
         "reactions": 18
       },
       "nuxters": {
-        "score": 947,
-        "mergedPrs": 5,
+        "score": 952,
+        "mergedPrs": 6,
         "reviews": 306,
         "reviewsReceived": 1,
         "issuesLinked": 0,

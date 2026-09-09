@@ -1,13 +1,13 @@
 {
   "username": "notpeter",
-  "lastUpdated": "2026-09-08T22:45:22.133Z",
+  "lastUpdated": "2026-09-09T21:14:46.543Z",
   "aggregatedStats": {
-    "score": 283,
-    "mergedPrs": 4,
+    "score": 300,
+    "mergedPrs": 6,
     "reviews": 1,
-    "reviewsReceived": 3,
-    "issuesLinked": 0,
-    "reactions": 2573
+    "reviewsReceived": 5,
+    "issuesLinked": 2,
+    "reactions": 2581
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 271,
-      "mergedPrs": 2,
+      "score": 288,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 2573
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
+      "reactions": 2581
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 55
       },
       "zed": {
-        "score": 266,
-        "mergedPrs": 2,
+        "score": 283,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 2517
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
+        "reactions": 2525
       },
       "zed-fonts": {
         "score": 0,

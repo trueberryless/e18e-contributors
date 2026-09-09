@@ -1,13 +1,13 @@
 {
   "username": "gaauwe",
-  "lastUpdated": "2026-09-08T22:45:21.836Z",
+  "lastUpdated": "2026-09-09T21:14:46.352Z",
   "aggregatedStats": {
-    "score": 118,
-    "mergedPrs": 9,
+    "score": 126,
+    "mergedPrs": 10,
     "reviews": 15,
-    "reviewsReceived": 9,
-    "issuesLinked": 1,
-    "reactions": 173
+    "reviewsReceived": 10,
+    "issuesLinked": 2,
+    "reactions": 174
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "zed-industries": {
-      "score": 105,
-      "mergedPrs": 7,
+      "score": 113,
+      "mergedPrs": 8,
       "reviews": 15,
-      "reviewsReceived": 8,
-      "issuesLinked": 0,
-      "reactions": 171
+      "reviewsReceived": 9,
+      "issuesLinked": 1,
+      "reactions": 172
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 105,
-        "mergedPrs": 7,
+        "score": 113,
+        "mergedPrs": 8,
         "reviews": 15,
-        "reviewsReceived": 8,
-        "issuesLinked": 0,
-        "reactions": 171
+        "reviewsReceived": 9,
+        "issuesLinked": 1,
+        "reactions": 172
       }
     }
   }

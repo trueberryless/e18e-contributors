@@ -1,22 +1,22 @@
 {
   "username": "franklin-tina",
-  "lastUpdated": "2026-09-08T01:24:06.279Z",
+  "lastUpdated": "2026-09-09T21:14:50.968Z",
   "aggregatedStats": {
-    "score": 33,
-    "mergedPrs": 4,
+    "score": 39,
+    "mergedPrs": 5,
     "reviews": 2,
-    "reviewsReceived": 4,
+    "reviewsReceived": 5,
     "issuesLinked": 1,
-    "reactions": 7
+    "reactions": 10
   },
   "orgStats": {
     "nuxt": {
-      "score": 27,
-      "mergedPrs": 3,
+      "score": 33,
+      "mergedPrs": 4,
       "reviews": 2,
-      "reviewsReceived": 3,
+      "reviewsReceived": 4,
       "issuesLinked": 1,
-      "reactions": 7
+      "reactions": 10
     },
     "vuejs": {
       "score": 6,
@@ -46,12 +46,12 @@
         "reactions": 1
       },
       "nuxt": {
-        "score": 21,
-        "mergedPrs": 2,
+        "score": 27,
+        "mergedPrs": 3,
         "reviews": 2,
-        "reviewsReceived": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 1,
-        "reactions": 6
+        "reactions": 9
       }
     },
     "vuejs": {

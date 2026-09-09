@@ -1,33 +1,33 @@
 {
   "username": "ivan-kalachikov",
-  "lastUpdated": "2026-09-09T00:32:47.033Z",
+  "lastUpdated": "2026-09-09T21:14:51.258Z",
   "aggregatedStats": {
-    "score": 15,
-    "mergedPrs": 1,
+    "score": 24,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 1,
-    "reactions": 26
+    "reviewsReceived": 4,
+    "issuesLinked": 2,
+    "reactions": 32
   },
   "orgStats": {
     "nuxt": {
-      "score": 15,
-      "mergedPrs": 1,
+      "score": 24,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 1,
-      "reactions": 26
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
+      "reactions": 32
     }
   },
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 15,
-        "mergedPrs": 1,
+        "score": 24,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 26
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
+        "reactions": 32
       },
       "starter": {
         "score": 0,

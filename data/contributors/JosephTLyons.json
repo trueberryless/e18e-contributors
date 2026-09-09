@@ -1,22 +1,22 @@
 {
   "username": "JosephTLyons",
-  "lastUpdated": "2026-09-08T22:46:04.213Z",
+  "lastUpdated": "2026-09-09T21:15:13.744Z",
   "aggregatedStats": {
-    "score": 1266,
-    "mergedPrs": 67,
-    "reviews": 36,
-    "reviewsReceived": 23,
+    "score": 1416,
+    "mergedPrs": 88,
+    "reviews": 44,
+    "reviewsReceived": 43,
     "issuesLinked": 3,
-    "reactions": 7943
+    "reactions": 7947
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1266,
-      "mergedPrs": 67,
-      "reviews": 36,
-      "reviewsReceived": 23,
+      "score": 1416,
+      "mergedPrs": 88,
+      "reviews": 44,
+      "reviewsReceived": 43,
       "issuesLinked": 3,
-      "reactions": 7943
+      "reactions": 7947
     }
   },
   "repoStats": {
@@ -54,12 +54,12 @@
         "reactions": 168
       },
       "zed": {
-        "score": 1021,
-        "mergedPrs": 25,
-        "reviews": 32,
-        "reviewsReceived": 23,
+        "score": 1170,
+        "mergedPrs": 46,
+        "reviews": 40,
+        "reviewsReceived": 43,
         "issuesLinked": 0,
-        "reactions": 7770
+        "reactions": 7774
       }
     }
   }

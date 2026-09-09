@@ -1,11 +1,11 @@
 {
   "username": "userquin",
-  "lastUpdated": "2026-09-09T05:08:42.633Z",
+  "lastUpdated": "2026-09-09T21:14:49.122Z",
   "aggregatedStats": {
-    "score": 1827,
-    "mergedPrs": 230,
+    "score": 1833,
+    "mergedPrs": 231,
     "reviews": 121,
-    "reviewsReceived": 202,
+    "reviewsReceived": 203,
     "issuesLinked": 41,
     "reactions": 296
   },
@@ -19,10 +19,10 @@
       "reactions": 47
     },
     "nuxt": {
-      "score": 171,
-      "mergedPrs": 24,
+      "score": 177,
+      "mergedPrs": 25,
       "reviews": 9,
-      "reviewsReceived": 11,
+      "reviewsReceived": 12,
       "issuesLinked": 2,
       "reactions": 92
     },
@@ -144,10 +144,10 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 61,
-        "mergedPrs": 7,
+        "score": 67,
+        "mergedPrs": 8,
         "reviews": 4,
-        "reviewsReceived": 5,
+        "reviewsReceived": 6,
         "issuesLinked": 1,
         "reactions": 73
       },

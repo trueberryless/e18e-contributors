@@ -1,13 +1,13 @@
 {
   "username": "aparajita",
-  "lastUpdated": "2026-09-09T00:32:45.766Z",
+  "lastUpdated": "2026-09-09T21:14:50.313Z",
   "aggregatedStats": {
-    "score": 33,
-    "mergedPrs": 5,
-    "reviews": 1,
-    "reviewsReceived": 3,
+    "score": 266,
+    "mergedPrs": 9,
+    "reviews": 71,
+    "reviewsReceived": 6,
     "issuesLinked": 0,
-    "reactions": 19
+    "reactions": 25
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 1
     },
     "pnpm": {
-      "score": 4,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
+      "score": 237,
+      "mergedPrs": 4,
+      "reviews": 71,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 7
+      "reactions": 13
     },
     "vuejs": {
       "score": 23,
@@ -90,12 +90,12 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 237,
+        "mergedPrs": 4,
+        "reviews": 71,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 7
+        "reactions": 13
       }
     },
     "vuejs": {

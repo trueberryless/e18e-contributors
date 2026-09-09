@@ -1,13 +1,13 @@
 {
   "username": "fireairforce",
-  "lastUpdated": "2026-09-09T14:49:59.236Z",
+  "lastUpdated": "2026-09-09T21:14:46.342Z",
   "aggregatedStats": {
-    "score": 672,
-    "mergedPrs": 60,
-    "reviews": 76,
-    "reviewsReceived": 62,
-    "issuesLinked": 39,
-    "reactions": 41
+    "score": 691,
+    "mergedPrs": 62,
+    "reviews": 78,
+    "reviewsReceived": 63,
+    "issuesLinked": 40,
+    "reactions": 45
   },
   "orgStats": {
     "biomejs": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "pnpm": {
-      "score": 117,
-      "mergedPrs": 12,
-      "reviews": 11,
-      "reviewsReceived": 10,
-      "issuesLinked": 6,
-      "reactions": 16
+      "score": 136,
+      "mergedPrs": 14,
+      "reviews": 13,
+      "reviewsReceived": 11,
+      "issuesLinked": 7,
+      "reactions": 20
     },
     "vitejs": {
       "score": 0,
@@ -108,12 +108,12 @@
     },
     "pnpm": {
       "pnpm": {
-        "score": 102,
-        "mergedPrs": 9,
-        "reviews": 11,
-        "reviewsReceived": 10,
-        "issuesLinked": 6,
-        "reactions": 16
+        "score": 121,
+        "mergedPrs": 11,
+        "reviews": 13,
+        "reviewsReceived": 11,
+        "issuesLinked": 7,
+        "reactions": 20
       },
       "pnpm.io": {
         "score": 15,

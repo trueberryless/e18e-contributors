@@ -1,32 +1,32 @@
 {
   "username": "GoncaloAleixo4",
-  "lastUpdated": "2026-09-06T09:36:10.440Z",
+  "lastUpdated": "2026-09-09T21:15:13.662Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 10,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 8
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 8
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 8
       }
     }
