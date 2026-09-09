@@ -1,15 +1,23 @@
 {
   "username": "Mouvedia",
-  "lastUpdated": "2026-09-05T20:07:01.958Z",
+  "lastUpdated": "2026-09-09T14:49:58.893Z",
   "aggregatedStats": {
-    "score": 9,
+    "score": 12,
     "mergedPrs": 0,
-    "reviews": 3,
+    "reviews": 4,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "biomejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "catppuccin": {
       "score": 3,
       "mergedPrs": 0,
@@ -28,6 +36,16 @@
     }
   },
   "repoStats": {
+    "biomejs": {
+      "biome": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "catppuccin": {
       "vscode-icons": {
         "score": 3,

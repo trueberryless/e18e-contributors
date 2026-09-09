@@ -1,22 +1,22 @@
 {
   "username": "drwpow",
-  "lastUpdated": "2026-09-09T05:08:39.428Z",
+  "lastUpdated": "2026-09-09T14:49:59.204Z",
   "aggregatedStats": {
-    "score": 630,
-    "mergedPrs": 53,
+    "score": 638,
+    "mergedPrs": 54,
     "reviews": 104,
-    "reviewsReceived": 27,
-    "issuesLinked": 8,
-    "reactions": 99
+    "reviewsReceived": 28,
+    "issuesLinked": 9,
+    "reactions": 101
   },
   "orgStats": {
     "biomejs": {
-      "score": 26,
-      "mergedPrs": 3,
+      "score": 34,
+      "mergedPrs": 4,
       "reviews": 2,
-      "reviewsReceived": 2,
-      "issuesLinked": 1,
-      "reactions": 9
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
+      "reactions": 11
     },
     "changesets": {
       "score": 1,
@@ -86,12 +86,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 26,
-        "mergedPrs": 3,
+        "score": 34,
+        "mergedPrs": 4,
         "reviews": 2,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 9
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
+        "reactions": 11
       },
       "website": {
         "score": 0,

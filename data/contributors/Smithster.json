@@ -1,33 +1,33 @@
 {
   "username": "Smithster",
-  "lastUpdated": "2026-09-06T23:11:42.474Z",
+  "lastUpdated": "2026-09-09T14:50:01.769Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
+    "score": 39,
+    "mergedPrs": 7,
     "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 6
   },
   "orgStats": {
     "monkeytypegame": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 39,
+      "mergedPrs": 7,
       "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 6
     }
   },
   "repoStats": {
     "monkeytypegame": {
       "monkeytype": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 39,
+        "mergedPrs": 7,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 6
       }
     }
   }

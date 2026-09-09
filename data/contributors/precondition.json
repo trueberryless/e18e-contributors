@@ -1,20 +1,20 @@
 {
   "username": "precondition",
-  "lastUpdated": "2026-09-05T12:34:19.974Z",
+  "lastUpdated": "2026-09-09T14:50:02.139Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 6,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 2
   },
   "orgStats": {
     "monkeytypegame": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "monkeytypegame": {
       "monkeytype": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 2
       }

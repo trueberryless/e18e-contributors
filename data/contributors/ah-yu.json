@@ -1,22 +1,22 @@
 {
   "username": "ah-yu",
-  "lastUpdated": "2026-09-08T16:14:45.545Z",
+  "lastUpdated": "2026-09-09T14:49:59.086Z",
   "aggregatedStats": {
-    "score": 65,
-    "mergedPrs": 4,
-    "reviews": 5,
-    "reviewsReceived": 4,
-    "issuesLinked": 0,
-    "reactions": 256
+    "score": 106,
+    "mergedPrs": 7,
+    "reviews": 11,
+    "reviewsReceived": 10,
+    "issuesLinked": 1,
+    "reactions": 260
   },
   "orgStats": {
     "biomejs": {
-      "score": 65,
-      "mergedPrs": 4,
-      "reviews": 5,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
-      "reactions": 256
+      "score": 106,
+      "mergedPrs": 7,
+      "reviews": 11,
+      "reviewsReceived": 10,
+      "issuesLinked": 1,
+      "reactions": 260
     },
     "oxc-project": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 57,
-        "mergedPrs": 3,
-        "reviews": 4,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
-        "reactions": 256
+        "score": 98,
+        "mergedPrs": 6,
+        "reviews": 10,
+        "reviewsReceived": 10,
+        "issuesLinked": 1,
+        "reactions": 260
       },
       "website": {
         "score": 8,

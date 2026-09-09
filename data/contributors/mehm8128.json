@@ -1,21 +1,21 @@
 {
   "username": "mehm8128",
-  "lastUpdated": "2026-09-08T19:36:21.406Z",
+  "lastUpdated": "2026-09-09T14:49:59.401Z",
   "aggregatedStats": {
-    "score": 209,
-    "mergedPrs": 22,
+    "score": 217,
+    "mergedPrs": 23,
     "reviews": 16,
-    "reviewsReceived": 30,
-    "issuesLinked": 9,
+    "reviewsReceived": 31,
+    "issuesLinked": 10,
     "reactions": 23
   },
   "orgStats": {
     "biomejs": {
-      "score": 117,
-      "mergedPrs": 12,
+      "score": 125,
+      "mergedPrs": 13,
       "reviews": 9,
-      "reviewsReceived": 20,
-      "issuesLinked": 4,
+      "reviewsReceived": 21,
+      "issuesLinked": 5,
       "reactions": 17
     },
     "oxc-project": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 98,
-        "mergedPrs": 10,
+        "score": 106,
+        "mergedPrs": 11,
         "reviews": 7,
-        "reviewsReceived": 17,
-        "issuesLinked": 4,
+        "reviewsReceived": 18,
+        "issuesLinked": 5,
         "reactions": 15
       },
       "website": {

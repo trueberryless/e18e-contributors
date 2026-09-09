@@ -1,19 +1,19 @@
 {
   "username": "wojtekmaj",
-  "lastUpdated": "2026-09-08T16:14:46.106Z",
+  "lastUpdated": "2026-09-09T14:49:59.632Z",
   "aggregatedStats": {
-    "score": 528,
+    "score": 534,
     "mergedPrs": 61,
-    "reviews": 40,
+    "reviews": 42,
     "reviewsReceived": 66,
     "issuesLinked": 13,
     "reactions": 108
   },
   "orgStats": {
     "biomejs": {
-      "score": 31,
+      "score": 37,
       "mergedPrs": 4,
-      "reviews": 0,
+      "reviews": 2,
       "reviewsReceived": 6,
       "issuesLinked": 2,
       "reactions": 7
@@ -70,9 +70,9 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 25,
+        "score": 31,
         "mergedPrs": 3,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 5,
         "issuesLinked": 2,
         "reactions": 7

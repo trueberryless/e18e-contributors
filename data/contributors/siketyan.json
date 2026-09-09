@@ -1,21 +1,21 @@
 {
   "username": "siketyan",
-  "lastUpdated": "2026-09-08T16:14:46.017Z",
+  "lastUpdated": "2026-09-09T14:49:59.547Z",
   "aggregatedStats": {
-    "score": 3411,
-    "mergedPrs": 277,
-    "reviews": 512,
-    "reviewsReceived": 281,
-    "issuesLinked": 87,
+    "score": 3437,
+    "mergedPrs": 279,
+    "reviews": 515,
+    "reviewsReceived": 286,
+    "issuesLinked": 88,
     "reactions": 344
   },
   "orgStats": {
     "biomejs": {
-      "score": 3403,
-      "mergedPrs": 276,
-      "reviews": 512,
-      "reviewsReceived": 281,
-      "issuesLinked": 86,
+      "score": 3429,
+      "mergedPrs": 278,
+      "reviews": 515,
+      "reviewsReceived": 286,
+      "issuesLinked": 87,
       "reactions": 336
     },
     "oxc-project": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 2323,
-        "mergedPrs": 173,
-        "reviews": 368,
-        "reviewsReceived": 211,
-        "issuesLinked": 58,
+        "score": 2349,
+        "mergedPrs": 175,
+        "reviews": 371,
+        "reviewsReceived": 216,
+        "issuesLinked": 59,
         "reactions": 270
       },
       "biome-intellij": {

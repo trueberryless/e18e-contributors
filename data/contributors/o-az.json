@@ -1,20 +1,20 @@
 {
   "username": "o-az",
-  "lastUpdated": "2026-09-07T11:53:27.053Z",
+  "lastUpdated": "2026-09-09T14:49:59.459Z",
   "aggregatedStats": {
-    "score": 35,
-    "mergedPrs": 6,
+    "score": 43,
+    "mergedPrs": 7,
     "reviews": 0,
-    "reviewsReceived": 4,
+    "reviewsReceived": 7,
     "issuesLinked": 0,
     "reactions": 17
   },
   "orgStats": {
     "biomejs": {
-      "score": 5,
-      "mergedPrs": 1,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -70,10 +70,10 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       },

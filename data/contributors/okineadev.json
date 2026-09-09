@@ -1,22 +1,22 @@
 {
   "username": "okineadev",
-  "lastUpdated": "2026-09-07T17:28:17.016Z",
+  "lastUpdated": "2026-09-09T14:49:59.464Z",
   "aggregatedStats": {
-    "score": 141,
-    "mergedPrs": 20,
+    "score": 153,
+    "mergedPrs": 22,
     "reviews": 4,
-    "reviewsReceived": 13,
+    "reviewsReceived": 15,
     "issuesLinked": 5,
-    "reactions": 57
+    "reactions": 58
   },
   "orgStats": {
     "biomejs": {
-      "score": 31,
-      "mergedPrs": 5,
+      "score": 43,
+      "mergedPrs": 7,
       "reviews": 0,
-      "reviewsReceived": 6,
+      "reviewsReceived": 8,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 3
     },
     "e18e": {
       "score": 1,
@@ -78,12 +78,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "biome-vscode": {
         "score": 12,

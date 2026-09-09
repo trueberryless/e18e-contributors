@@ -1,15 +1,23 @@
 {
   "username": "quiple",
-  "lastUpdated": "2026-09-05T12:34:50.451Z",
+  "lastUpdated": "2026-09-09T14:49:59.496Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "biomejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "withastro": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "biomejs": {
+      "biome": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "withastro": {
       "astro": {
         "score": 0,

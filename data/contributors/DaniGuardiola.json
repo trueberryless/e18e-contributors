@@ -1,22 +1,22 @@
 {
   "username": "DaniGuardiola",
-  "lastUpdated": "2026-09-05T12:34:16.628Z",
+  "lastUpdated": "2026-09-09T14:49:58.815Z",
   "aggregatedStats": {
-    "score": 85,
-    "mergedPrs": 0,
-    "reviews": 0,
+    "score": 103,
+    "mergedPrs": 1,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 847
+    "reactions": 948
   },
   "orgStats": {
     "biomejs": {
-      "score": 83,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 101,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 828
+      "reactions": 929
     },
     "oxc-project": {
       "score": 1,
@@ -38,12 +38,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 83,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 101,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 828
+        "reactions": 929
       },
       "setup-biome": {
         "score": 0,
