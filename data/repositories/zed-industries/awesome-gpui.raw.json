@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T22:38:47.425Z",
+    "lastRunAt": "2026-09-09T21:05:56.293Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMi0wMVQyMDoyNjo0N1rOZb_Whg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2306,8 +2306,8 @@
     },
     "94": {
       "number": 94,
-      "updatedAt": "2026-09-07T03:35:30Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T03:05:48Z",
+      "merged": true,
       "author": {
         "login": "PeatBoy",
         "__typename": "User"
@@ -2324,8 +2324,8 @@
     },
     "95": {
       "number": 95,
-      "updatedAt": "2026-09-08T06:57:23Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T03:07:09Z",
+      "merged": true,
       "author": {
         "login": "zkillua00",
         "__typename": "User"

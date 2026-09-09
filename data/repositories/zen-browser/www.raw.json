@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T22:43:58.258Z",
+    "lastRunAt": "2026-09-09T21:11:04.160Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNy0xNFQxNTowMTo0N1rOdVEJrQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -22862,7 +22862,7 @@
     },
     "1013": {
       "number": 1013,
-      "updatedAt": "2026-09-07T08:06:56Z",
+      "updatedAt": "2026-09-09T03:13:51Z",
       "merged": false,
       "author": {
         "login": "dependabot",
@@ -23398,8 +23398,8 @@
     },
     "1049": {
       "number": 1049,
-      "updatedAt": "2026-09-07T08:05:53Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T03:01:00Z",
+      "merged": true,
       "author": {
         "login": "dependabot",
         "__typename": "Bot"
@@ -23411,13 +23411,21 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "taroj1205",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "1050": {
       "number": 1050,
-      "updatedAt": "2026-09-07T08:07:59Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T03:12:50Z",
+      "merged": true,
       "author": {
         "login": "dependabot",
         "__typename": "Bot"
@@ -23429,12 +23437,20 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "taroj1205",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "1051": {
       "number": 1051,
-      "updatedAt": "2026-09-07T08:15:53Z",
+      "updatedAt": "2026-09-09T03:28:00Z",
       "merged": false,
       "author": {
         "login": "dependabot",

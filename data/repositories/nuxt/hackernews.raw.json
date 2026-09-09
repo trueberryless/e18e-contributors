@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T00:27:45.487Z",
+    "lastRunAt": "2026-09-09T21:12:37.978Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNy0wNi0wNVQxMzowOTozMlrOB2Owow==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -13035,8 +13035,8 @@
     },
     "450": {
       "number": 450,
-      "updatedAt": "2026-09-08T18:21:27Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T07:52:40Z",
+      "merged": true,
       "author": {
         "login": "danielroe",
         "__typename": "User"

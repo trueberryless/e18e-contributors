@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T00:27:58.524Z",
+    "lastRunAt": "2026-09-09T21:12:51.792Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0xNVQxMzowNDoyOFrOSggPtw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -39200,7 +39200,7 @@
     },
     "1482": {
       "number": 1482,
-      "updatedAt": "2026-09-05T08:31:04Z",
+      "updatedAt": "2026-09-09T07:58:23Z",
       "merged": false,
       "author": {
         "login": "github-actions",
@@ -40260,7 +40260,7 @@
     },
     "1523": {
       "number": 1523,
-      "updatedAt": "2026-09-08T23:33:06Z",
+      "updatedAt": "2026-09-09T03:51:47Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40304,7 +40304,7 @@
     },
     "1526": {
       "number": 1526,
-      "updatedAt": "2026-09-08T23:31:56Z",
+      "updatedAt": "2026-09-09T08:01:12Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40348,7 +40348,7 @@
     },
     "1528": {
       "number": 1528,
-      "updatedAt": "2026-09-07T10:58:33Z",
+      "updatedAt": "2026-09-09T08:00:37Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40384,8 +40384,8 @@
     },
     "1530": {
       "number": 1530,
-      "updatedAt": "2026-09-08T18:35:58Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T07:58:14Z",
+      "merged": true,
       "author": {
         "login": "danielroe",
         "__typename": "User"
@@ -40398,6 +40398,13 @@
       },
       "reviews": {
         "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
           {
             "state": "COMMENTED",
             "author": {

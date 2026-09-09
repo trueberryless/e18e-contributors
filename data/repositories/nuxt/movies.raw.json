@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T00:27:56.413Z",
+    "lastRunAt": "2026-09-09T21:12:49.157Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMC0xN1QxMjozMzoxNlrOQOMngQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2217,7 +2217,7 @@
     },
     "111": {
       "number": 111,
-      "updatedAt": "2026-09-08T19:47:32Z",
+      "updatedAt": "2026-09-09T08:04:30Z",
       "merged": false,
       "author": {
         "login": "atinux",
@@ -2257,8 +2257,8 @@
     },
     "112": {
       "number": 112,
-      "updatedAt": "2026-09-08T18:24:25Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T07:52:40Z",
+      "merged": true,
       "author": {
         "login": "danielroe",
         "__typename": "User"

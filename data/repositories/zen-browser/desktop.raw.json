@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T22:43:58.258Z",
+    "lastRunAt": "2026-09-09T21:11:04.160Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNy0xNlQwNzowODozM1rOdXQN3A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -105164,7 +105164,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 1
+        "total_count": 2
       }
     },
     "14959": {
@@ -105654,7 +105654,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 2
+        "total_count": 3
       }
     },
     "15028": {
@@ -106401,7 +106401,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 6
+        "total_count": 7
       }
     },
     "15124": {
@@ -107046,7 +107046,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 2
+        "total_count": 4
       }
     },
     "15217": {
@@ -107533,7 +107533,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 8
+        "total_count": 12
       }
     },
     "15283": {
@@ -107722,6 +107722,145 @@
       "number": 15304,
       "user": {
         "login": "skifli",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 2
+      }
+    },
+    "15305": {
+      "number": 15305,
+      "user": {
+        "login": "mr-cheffy",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15306": {
+      "number": 15306,
+      "user": {
+        "login": "mr-cheffy",
+        "type": "User"
+      }
+    },
+    "15307": {
+      "number": 15307,
+      "user": {
+        "login": "bnquon",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15308": {
+      "number": 15308,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
+      }
+    },
+    "15309": {
+      "number": 15309,
+      "user": {
+        "login": "Lmears",
+        "type": "User"
+      }
+    },
+    "15310": {
+      "number": 15310,
+      "user": {
+        "login": "mfrknince",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15311": {
+      "number": 15311,
+      "user": {
+        "login": "hotwraith",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15312": {
+      "number": 15312,
+      "user": {
+        "login": "mr-cheffy",
+        "type": "User"
+      }
+    },
+    "15313": {
+      "number": 15313,
+      "user": {
+        "login": "mr-cheffy",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15314": {
+      "number": 15314,
+      "user": {
+        "login": "mr-cheffy",
+        "type": "User"
+      }
+    },
+    "15315": {
+      "number": 15315,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
+      }
+    },
+    "15316": {
+      "number": 15316,
+      "user": {
+        "login": "7manahu7",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15317": {
+      "number": 15317,
+      "user": {
+        "login": "User-758",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15318": {
+      "number": 15318,
+      "user": {
+        "login": "mr-cheffy",
+        "type": "User"
+      }
+    },
+    "15319": {
+      "number": 15319,
+      "user": {
+        "login": "Divc09",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15321": {
+      "number": 15321,
+      "user": {
+        "login": "ShubhamJ010",
         "type": "User"
       },
       "reactions": {
@@ -150761,7 +150900,7 @@
     },
     "14832": {
       "number": 14832,
-      "updatedAt": "2026-09-08T10:49:34Z",
+      "updatedAt": "2026-09-08T23:04:31Z",
       "merged": false,
       "author": {
         "login": "patlux",
@@ -150835,6 +150974,13 @@
             "state": "COMMENTED",
             "author": {
               "login": "patlux",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "mr-cheffy",
               "__typename": "User"
             }
           }
@@ -153292,7 +153438,7 @@
     },
     "15171": {
       "number": 15171,
-      "updatedAt": "2026-09-07T20:32:57Z",
+      "updatedAt": "2026-09-09T17:11:34Z",
       "merged": false,
       "author": {
         "login": "iexavl",
@@ -153331,6 +153477,13 @@
             "state": "CHANGES_REQUESTED",
             "author": {
               "login": "mr-cheffy",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "iexavl",
               "__typename": "User"
             }
           }
@@ -154082,7 +154235,7 @@
     },
     "15282": {
       "number": 15282,
-      "updatedAt": "2026-09-08T18:31:34Z",
+      "updatedAt": "2026-09-09T20:53:16Z",
       "merged": false,
       "author": {
         "login": "FlorianButz",
@@ -154092,7 +154245,7 @@
         "totalCount": 0
       },
       "reactions": {
-        "totalCount": 8
+        "totalCount": 12
       },
       "reviews": {
         "nodes": []
@@ -154283,6 +154436,184 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "15305": {
+      "number": 15305,
+      "updatedAt": "2026-09-08T23:39:16Z",
+      "merged": true,
+      "author": {
+        "login": "mr-cheffy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15306": {
+      "number": 15306,
+      "updatedAt": "2026-09-09T00:13:41Z",
+      "merged": true,
+      "author": {
+        "login": "mr-cheffy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15307": {
+      "number": 15307,
+      "updatedAt": "2026-09-09T06:35:00Z",
+      "merged": true,
+      "author": {
+        "login": "bnquon",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "mr-cheffy",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "15308": {
+      "number": 15308,
+      "updatedAt": "2026-09-09T08:32:16Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15309": {
+      "number": 15309,
+      "updatedAt": "2026-09-09T12:22:33Z",
+      "merged": false,
+      "author": {
+        "login": "Lmears",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15312": {
+      "number": 15312,
+      "updatedAt": "2026-09-09T11:13:43Z",
+      "merged": true,
+      "author": {
+        "login": "mr-cheffy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15314": {
+      "number": 15314,
+      "updatedAt": "2026-09-09T11:15:20Z",
+      "merged": true,
+      "author": {
+        "login": "mr-cheffy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15315": {
+      "number": 15315,
+      "updatedAt": "2026-09-09T16:54:18Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15318": {
+      "number": 15318,
+      "updatedAt": "2026-09-09T17:35:50Z",
+      "merged": true,
+      "author": {
+        "login": "mr-cheffy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-pull-request-reviewer",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     }
   }
