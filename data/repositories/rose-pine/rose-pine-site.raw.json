@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T19:34:15.060Z",
+    "lastRunAt": "2026-09-09T18:22:39.979Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMS0yMVQxOTozMDozN1rOMWa8kA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5215,7 +5215,7 @@
     },
     "231": {
       "number": 231,
-      "updatedAt": "2026-09-04T21:00:29Z",
+      "updatedAt": "2026-09-08T20:38:31Z",
       "merged": true,
       "author": {
         "login": "mrodant",

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T22:26:13.780Z",
+    "lastRunAt": "2026-09-09T18:24:29.294Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wOS0wNFQxOTo0NjoyMVrPAAAAAQj4Who=",
     "prBackfillComplete": false,
     "issuesBackfillComplete": true
@@ -80552,7 +80552,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 14
+        "total_count": 18
       }
     },
     "10027": {
@@ -80804,9 +80804,41 @@
         "login": "britsync07-prog",
         "type": "User"
       }
+    },
+    "10062": {
+      "number": 10062,
+      "user": {
+        "login": "fregante",
+        "type": "User"
+      }
+    },
+    "10063": {
+      "number": 10063,
+      "user": {
+        "login": "ixeft-astra",
+        "type": "User"
+      }
     }
   },
   "prs": {
+    "10032": {
+      "number": 10032,
+      "updatedAt": "2026-09-09T06:12:04Z",
+      "merged": false,
+      "author": {
+        "login": "AjnasNB",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
     "10039": {
       "number": 10039,
       "updatedAt": "2026-09-08T15:15:43Z",
@@ -80948,7 +80980,7 @@
     },
     "10047": {
       "number": 10047,
-      "updatedAt": "2026-09-08T20:08:26Z",
+      "updatedAt": "2026-09-09T12:32:00Z",
       "merged": false,
       "author": {
         "login": "patrickelectric",
@@ -80966,6 +80998,20 @@
             "state": "COMMENTED",
             "author": {
               "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "patrickelectric",
               "__typename": "User"
             }
           }
@@ -81046,7 +81092,7 @@
     },
     "10054": {
       "number": 10054,
-      "updatedAt": "2026-09-06T04:48:59Z",
+      "updatedAt": "2026-09-09T05:34:57Z",
       "merged": false,
       "author": {
         "login": "fregante",
@@ -81059,7 +81105,36 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-pull-request-reviewer",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-swe-agent",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-swe-agent",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     },
     "10058": {
@@ -81090,6 +81165,24 @@
       },
       "closingIssuesReferences": {
         "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "10062": {
+      "number": 10062,
+      "updatedAt": "2026-09-09T10:49:47Z",
+      "merged": false,
+      "author": {
+        "login": "fregante",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
       },
       "reactions": {
         "totalCount": 0

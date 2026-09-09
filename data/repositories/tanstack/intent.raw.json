@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T22:33:48.819Z",
+    "lastRunAt": "2026-09-09T18:31:58.069Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0yNVQxODowMTo0NVrOxkdzGg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1730,6 +1730,13 @@
     },
     "259": {
       "number": 259,
+      "user": {
+        "login": "LadyBluenotes",
+        "type": "User"
+      }
+    },
+    "260": {
+      "number": 260,
       "user": {
         "login": "LadyBluenotes",
         "type": "User"
@@ -6340,7 +6347,7 @@
     },
     "258": {
       "number": 258,
-      "updatedAt": "2026-09-06T23:29:38Z",
+      "updatedAt": "2026-09-09T05:03:52Z",
       "merged": false,
       "author": {
         "login": "LadyBluenotes",
@@ -6415,6 +6422,60 @@
             "author": {
               "login": "LadyBluenotes",
               "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "tannerlinsley",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "259": {
+      "number": 259,
+      "updatedAt": "2026-09-09T05:11:29Z",
+      "merged": false,
+      "author": {
+        "login": "LadyBluenotes",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "LadyBluenotes",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
             }
           },
           {
@@ -6427,9 +6488,9 @@
         ]
       }
     },
-    "259": {
-      "number": 259,
-      "updatedAt": "2026-09-06T01:55:24Z",
+    "260": {
+      "number": 260,
+      "updatedAt": "2026-09-09T05:06:31Z",
       "merged": false,
       "author": {
         "login": "LadyBluenotes",
@@ -6442,29 +6503,7 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": [
-          {
-            "state": "COMMENTED",
-            "author": {
-              "login": "coderabbitai",
-              "__typename": "Bot"
-            }
-          },
-          {
-            "state": "COMMENTED",
-            "author": {
-              "login": "LadyBluenotes",
-              "__typename": "User"
-            }
-          },
-          {
-            "state": "COMMENTED",
-            "author": {
-              "login": "coderabbitai",
-              "__typename": "Bot"
-            }
-          }
-        ]
+        "nodes": []
       }
     }
   }
