@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T11:40:05.880Z",
+    "lastRunAt": "2026-09-09T10:02:41.412Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNC0wNVQxMzo0NToxMlrO0AsyQw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2127,6 +2127,13 @@
       "number": 297,
       "user": {
         "login": "gtritchie",
+        "type": "User"
+      }
+    },
+    "298": {
+      "number": 298,
+      "user": {
+        "login": "odysseus0",
         "type": "User"
       }
     }
@@ -6328,6 +6335,24 @@
       },
       "closingIssuesReferences": {
         "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "298": {
+      "number": 298,
+      "updatedAt": "2026-09-08T23:17:45Z",
+      "merged": false,
+      "author": {
+        "login": "odysseus0",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
       },
       "reactions": {
         "totalCount": 0

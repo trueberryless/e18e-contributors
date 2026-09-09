@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T11:39:03.773Z",
+    "lastRunAt": "2026-09-09T10:01:39.815Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0xNlQyMjozNzowOFrOxALlzQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3341,6 +3341,13 @@
       "number": 654,
       "user": {
         "login": "feliperyan",
+        "type": "User"
+      }
+    },
+    "655": {
+      "number": 655,
+      "user": {
+        "login": "astrobot-houston",
         "type": "User"
       }
     }
@@ -7304,7 +7311,7 @@
     },
     "654": {
       "number": 654,
-      "updatedAt": "2026-09-08T09:25:53Z",
+      "updatedAt": "2026-09-08T13:50:52Z",
       "merged": false,
       "author": {
         "login": "feliperyan",

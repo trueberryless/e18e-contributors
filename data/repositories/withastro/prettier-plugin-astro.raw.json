@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T11:38:56.763Z",
+    "lastRunAt": "2026-09-09T10:01:33.252Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wOS0wOFQxODozOTowOFrOK4EsGw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3534,10 +3534,20 @@
       "user": {
         "login": "github-actions[bot]",
         "type": "Bot"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "479": {
       "number": 479,
+      "user": {
+        "login": "Princesseuh",
+        "type": "User"
+      }
+    },
+    "480": {
+      "number": 480,
       "user": {
         "login": "Princesseuh",
         "type": "User"
@@ -11011,8 +11021,8 @@
     },
     "478": {
       "number": 478,
-      "updatedAt": "2026-09-07T14:57:28Z",
-      "merged": false,
+      "updatedAt": "2026-09-08T22:00:45Z",
+      "merged": true,
       "author": {
         "login": "github-actions",
         "__typename": "Bot"
@@ -11021,7 +11031,7 @@
         "totalCount": 0
       },
       "reactions": {
-        "totalCount": 0
+        "totalCount": 1
       },
       "reviews": {
         "nodes": []
@@ -11029,8 +11039,8 @@
     },
     "479": {
       "number": 479,
-      "updatedAt": "2026-09-08T11:01:58Z",
-      "merged": false,
+      "updatedAt": "2026-09-08T11:57:21Z",
+      "merged": true,
       "author": {
         "login": "Princesseuh",
         "__typename": "User"
@@ -11042,7 +11052,48 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "delucis",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "480": {
+      "number": 480,
+      "updatedAt": "2026-09-08T21:58:43Z",
+      "merged": true,
+      "author": {
+        "login": "Princesseuh",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "trueberryless",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "delucis",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }
