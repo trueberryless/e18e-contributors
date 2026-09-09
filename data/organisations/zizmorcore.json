@@ -1,6 +1,6 @@
 {
   "id": "zizmorcore",
-  "updatedAt": "2026-09-08T06:24:13.302Z",
+  "updatedAt": "2026-09-09T05:05:49.144Z",
   "stats": {
     "0xCyr": {
       "score": 0,
@@ -1610,6 +1610,14 @@
       "issuesLinked": 0,
       "reactions": 0
     },
+    "jessehouwing": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "jessestricker": {
       "score": 0,
       "mergedPrs": 0,
@@ -1984,7 +1992,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 0
+      "reactions": 1
     },
     "matifali": {
       "score": 6,
@@ -2859,12 +2867,12 @@
       "reactions": 0
     },
     "woodruffw": {
-      "score": 6865,
-      "mergedPrs": 1056,
+      "score": 6877,
+      "mergedPrs": 1058,
       "reviews": 349,
       "reviewsReceived": 7,
-      "issuesLinked": 241,
-      "reactions": 486
+      "issuesLinked": 242,
+      "reactions": 490
     },
     "woodruffw-bot": {
       "score": 15,

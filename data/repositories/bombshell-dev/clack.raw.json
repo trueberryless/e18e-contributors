@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T11:36:55.263Z",
+    "lastRunAt": "2026-09-09T05:06:28.709Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0wOFQyMzo0NDo0M1rOSZHnmg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4713,6 +4713,13 @@
       "number": 600,
       "user": {
         "login": "dreyfus92",
+        "type": "User"
+      }
+    },
+    "601": {
+      "number": 601,
+      "user": {
+        "login": "gameroman",
         "type": "User"
       }
     }
@@ -16362,6 +16369,32 @@
               "__typename": "User"
             }
           },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "dreyfus92",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "601": {
+      "number": 601,
+      "updatedAt": "2026-09-08T17:15:10Z",
+      "merged": false,
+      "author": {
+        "login": "gameroman",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
           {
             "state": "APPROVED",
             "author": {

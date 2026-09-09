@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T06:24:11.252Z",
+    "lastRunAt": "2026-09-09T05:05:47.226Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wOC0yMlQwMTozMzo1MFrOeRATbA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17009,6 +17009,9 @@
       "user": {
         "login": "martinpitt",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "2368": {
@@ -17033,6 +17036,40 @@
       "user": {
         "login": "dependabot[bot]",
         "type": "Bot"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "2371": {
+      "number": 2371,
+      "user": {
+        "login": "jessehouwing",
+        "type": "User"
+      }
+    },
+    "2372": {
+      "number": 2372,
+      "user": {
+        "login": "jessehouwing",
+        "type": "User"
+      }
+    },
+    "2373": {
+      "number": 2373,
+      "user": {
+        "login": "woodruffw",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "2374": {
+      "number": 2374,
+      "user": {
+        "login": "woodruffw",
+        "type": "User"
       },
       "reactions": {
         "total_count": 1
@@ -54851,6 +54888,42 @@
       "author": {
         "login": "dependabot",
         "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2373": {
+      "number": 2373,
+      "updatedAt": "2026-09-09T05:00:18Z",
+      "merged": true,
+      "author": {
+        "login": "woodruffw",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2374": {
+      "number": 2374,
+      "updatedAt": "2026-09-09T05:05:28Z",
+      "merged": true,
+      "author": {
+        "login": "woodruffw",
+        "__typename": "User"
       },
       "closingIssuesReferences": {
         "totalCount": 0

@@ -1,6 +1,6 @@
 {
   "id": "vuejs/eslint-plugin-vue",
-  "updatedAt": "2026-09-08T06:23:03.499Z",
+  "updatedAt": "2026-09-09T05:04:43.262Z",
   "stats": {
     "374632897": {
       "score": 0,
@@ -3601,6 +3601,14 @@
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 6
+    },
+    "chiliec": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "chouchouji": {
       "score": 29,

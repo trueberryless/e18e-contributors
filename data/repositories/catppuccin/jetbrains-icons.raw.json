@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T11:38:10.139Z",
+    "lastRunAt": "2026-09-09T05:07:41.170Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMC0yOFQyMTozNjo1OVrOXghJUA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2054,6 +2054,13 @@
       "user": {
         "login": "renovate[bot]",
         "type": "Bot"
+      }
+    },
+    "284": {
+      "number": 284,
+      "user": {
+        "login": "Atulin",
+        "type": "User"
       }
     }
   },

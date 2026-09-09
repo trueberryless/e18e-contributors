@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T06:23:25.697Z",
+    "lastRunAt": "2026-09-09T05:05:01.748Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNi0yOFQxMTozMDoyMlrOc-FkXw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -564,6 +564,13 @@
         "login": "lwleen",
         "type": "User"
       }
+    },
+    "71": {
+      "number": 71,
+      "user": {
+        "login": "hechang27-sprt",
+        "type": "User"
+      }
     }
   },
   "prs": {
@@ -811,7 +818,7 @@
     },
     "63": {
       "number": 63,
-      "updatedAt": "2026-09-06T12:34:34Z",
+      "updatedAt": "2026-09-09T00:58:00Z",
       "merged": false,
       "author": {
         "login": "zhiyuanzmj",

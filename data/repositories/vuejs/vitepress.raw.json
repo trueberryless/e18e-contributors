@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-08T06:23:19.176Z",
+    "lastRunAt": "2026-09-09T05:04:56.142Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMS0yMVQxNDoxNzoxN1rORui15Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -66383,7 +66383,7 @@
     },
     "4060": {
       "number": 4060,
-      "updatedAt": "2026-08-30T03:58:29Z",
+      "updatedAt": "2026-09-09T03:00:07Z",
       "merged": false,
       "author": {
         "login": "PolarisWasInDenial",
