@@ -1,33 +1,33 @@
 {
   "username": "boschni",
-  "lastUpdated": "2026-09-08T22:45:42.956Z",
+  "lastUpdated": "2026-09-09T18:37:42.072Z",
   "aggregatedStats": {
-    "score": 259,
-    "mergedPrs": 32,
-    "reviews": 15,
+    "score": 565,
+    "mergedPrs": 84,
+    "reviews": 22,
     "reviewsReceived": 11,
-    "issuesLinked": 18,
-    "reactions": 70
+    "issuesLinked": 30,
+    "reactions": 76
   },
   "orgStats": {
     "tanstack": {
-      "score": 259,
-      "mergedPrs": 32,
-      "reviews": 15,
+      "score": 565,
+      "mergedPrs": 84,
+      "reviews": 22,
       "reviewsReceived": 11,
-      "issuesLinked": 18,
-      "reactions": 70
+      "issuesLinked": 30,
+      "reactions": 76
     }
   },
   "repoStats": {
     "tanstack": {
       "query": {
-        "score": 259,
-        "mergedPrs": 32,
-        "reviews": 15,
+        "score": 565,
+        "mergedPrs": 84,
+        "reviews": 22,
         "reviewsReceived": 11,
-        "issuesLinked": 18,
-        "reactions": 70
+        "issuesLinked": 30,
+        "reactions": 76
       }
     }
   }

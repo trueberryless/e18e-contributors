@@ -1,12 +1,12 @@
 {
   "username": "cexbrayat",
-  "lastUpdated": "2026-09-09T05:08:44.158Z",
+  "lastUpdated": "2026-09-09T18:37:26.618Z",
   "aggregatedStats": {
-    "score": 3561,
-    "mergedPrs": 311,
+    "score": 3568,
+    "mergedPrs": 312,
     "reviews": 579,
     "reviewsReceived": 165,
-    "issuesLinked": 30,
+    "issuesLinked": 31,
     "reactions": 434
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 4
     },
     "oxc-project": {
-      "score": 21,
-      "mergedPrs": 2,
+      "score": 28,
+      "mergedPrs": 3,
       "reviews": 0,
       "reviewsReceived": 2,
-      "issuesLinked": 1,
+      "issuesLinked": 2,
       "reactions": 67
     },
     "vitejs": {
@@ -80,11 +80,11 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 21,
-        "mergedPrs": 2,
+        "score": 28,
+        "mergedPrs": 3,
         "reviews": 0,
         "reviewsReceived": 2,
-        "issuesLinked": 1,
+        "issuesLinked": 2,
         "reactions": 67
       }
     },

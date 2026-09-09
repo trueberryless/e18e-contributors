@@ -1,13 +1,13 @@
 {
   "username": "Zwyx",
-  "lastUpdated": "2026-09-07T23:39:28.507Z",
+  "lastUpdated": "2026-09-09T18:37:31.877Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
+    "score": 12,
+    "mergedPrs": 1,
+    "reviews": 1,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 29
+    "reactions": 30
   },
   "orgStats": {
     "pnpm": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "shadcn-ui": {
-      "score": 3,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 12,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 29
+      "reactions": 30
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
     },
     "shadcn-ui": {
       "ui": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 12,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 29
+        "reactions": 30
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "username": "im-anishraj",
-  "lastUpdated": "2026-08-20T00:55:24.538Z",
+  "lastUpdated": "2026-09-09T18:37:42.756Z",
   "aggregatedStats": {
     "score": 0,
     "mergedPrs": 0,
@@ -21,6 +21,22 @@
   },
   "repoStats": {
     "tanstack": {
+      "ai": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
+      "router": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "tanstack.com": {
         "score": 0,
         "mergedPrs": 0,

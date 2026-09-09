@@ -1,19 +1,19 @@
 {
   "username": "fabb",
-  "lastUpdated": "2026-09-08T19:36:29.113Z",
+  "lastUpdated": "2026-09-09T18:37:31.117Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 4,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 6
   },
   "orgStats": {
     "oxc-project": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 6
@@ -30,9 +30,9 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 6

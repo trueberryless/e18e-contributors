@@ -1,13 +1,13 @@
 {
   "username": "shuding",
-  "lastUpdated": "2026-09-07T01:06:16.496Z",
+  "lastUpdated": "2026-09-09T18:37:43.923Z",
   "aggregatedStats": {
     "score": 3,
     "mergedPrs": 0,
     "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 4
   },
   "orgStats": {
     "tanstack": {
@@ -16,7 +16,7 @@
       "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "vitest-dev": {
       "score": 0,
@@ -35,7 +35,7 @@
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vitest-dev": {

@@ -1,13 +1,13 @@
 {
   "username": "kazupon",
-  "lastUpdated": "2026-09-09T05:08:39.943Z",
+  "lastUpdated": "2026-09-09T18:37:20.995Z",
   "aggregatedStats": {
-    "score": 11822,
-    "mergedPrs": 367,
+    "score": 11829,
+    "mergedPrs": 368,
     "reviews": 3264,
-    "reviewsReceived": 131,
+    "reviewsReceived": 133,
     "issuesLinked": 22,
-    "reactions": 194
+    "reactions": 196
   },
   "orgStats": {
     "bombshell-dev": {
@@ -27,12 +27,12 @@
       "reactions": 45
     },
     "oxc-project": {
-      "score": 18,
-      "mergedPrs": 3,
+      "score": 25,
+      "mergedPrs": 4,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 1,
-      "reactions": 10
+      "reactions": 12
     },
     "sveltejs": {
       "score": 6,
@@ -154,12 +154,12 @@
         "reactions": 0
       },
       "oxc": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 10
+        "reactions": 12
       }
     },
     "sveltejs": {

@@ -1,21 +1,21 @@
 {
   "username": "baevm",
-  "lastUpdated": "2026-09-08T19:36:29.048Z",
+  "lastUpdated": "2026-09-09T18:37:31.029Z",
   "aggregatedStats": {
-    "score": 517,
-    "mergedPrs": 66,
-    "reviews": 33,
-    "reviewsReceived": 69,
-    "issuesLinked": 8,
+    "score": 655,
+    "mergedPrs": 84,
+    "reviews": 42,
+    "reviewsReceived": 88,
+    "issuesLinked": 9,
     "reactions": 28
   },
   "orgStats": {
     "oxc-project": {
-      "score": 517,
-      "mergedPrs": 66,
-      "reviews": 33,
-      "reviewsReceived": 69,
-      "issuesLinked": 8,
+      "score": 655,
+      "mergedPrs": 84,
+      "reviews": 42,
+      "reviewsReceived": 88,
+      "issuesLinked": 9,
       "reactions": 27
     },
     "vitejs": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 511,
-        "mergedPrs": 65,
-        "reviews": 33,
-        "reviewsReceived": 68,
-        "issuesLinked": 8,
+        "score": 649,
+        "mergedPrs": 83,
+        "reviews": 42,
+        "reviewsReceived": 87,
+        "issuesLinked": 9,
         "reactions": 27
       },
       "oxlint-migrate": {

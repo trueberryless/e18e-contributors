@@ -1,13 +1,13 @@
 {
   "username": "Mister-Hope",
-  "lastUpdated": "2026-09-08T01:24:08.559Z",
+  "lastUpdated": "2026-09-09T18:37:30.935Z",
   "aggregatedStats": {
     "score": 189,
     "mergedPrs": 28,
     "reviews": 3,
     "reviewsReceived": 16,
     "issuesLinked": 1,
-    "reactions": 220
+    "reactions": 223
   },
   "orgStats": {
     "oxc-project": {
@@ -16,7 +16,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 15
+      "reactions": 18
     },
     "pnpm": {
       "score": 80,
@@ -62,12 +62,12 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 1,
+        "score": 2,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 13
+        "reactions": 16
       },
       "oxc-vscode": {
         "score": 0,

@@ -1,15 +1,23 @@
 {
   "username": "dsonet",
-  "lastUpdated": "2026-09-08T06:25:20.678Z",
+  "lastUpdated": "2026-09-09T18:37:31.099Z",
   "aggregatedStats": {
-    "score": 73,
+    "score": 76,
     "mergedPrs": 8,
-    "reviews": 11,
+    "reviews": 12,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 3
   },
   "orgStats": {
+    "oxc-project": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "tanstack": {
       "score": 0,
       "mergedPrs": 0,
@@ -36,6 +44,16 @@
     }
   },
   "repoStats": {
+    "oxc-project": {
+      "oxc": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "tanstack": {
       "router": {
         "score": 0,

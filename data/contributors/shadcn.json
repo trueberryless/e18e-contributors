@@ -1,13 +1,13 @@
 {
   "username": "shadcn",
-  "lastUpdated": "2026-09-08T19:36:30.938Z",
+  "lastUpdated": "2026-09-09T18:37:33.740Z",
   "aggregatedStats": {
-    "score": 3018,
-    "mergedPrs": 402,
-    "reviews": 251,
-    "reviewsReceived": 8,
-    "issuesLinked": 21,
-    "reactions": 2052
+    "score": 4082,
+    "mergedPrs": 479,
+    "reviews": 469,
+    "reviewsReceived": 12,
+    "issuesLinked": 23,
+    "reactions": 2218
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "shadcn-ui": {
-      "score": 3018,
-      "mergedPrs": 402,
-      "reviews": 251,
-      "reviewsReceived": 8,
-      "issuesLinked": 21,
-      "reactions": 2052
+      "score": 4082,
+      "mergedPrs": 479,
+      "reviews": 469,
+      "reviewsReceived": 12,
+      "issuesLinked": 23,
+      "reactions": 2218
     }
   },
   "repoStats": {
@@ -80,12 +80,12 @@
         "reactions": 0
       },
       "ui": {
-        "score": 2965,
-        "mergedPrs": 395,
-        "reviews": 245,
-        "reviewsReceived": 8,
-        "issuesLinked": 21,
-        "reactions": 2052
+        "score": 4029,
+        "mergedPrs": 472,
+        "reviews": 463,
+        "reviewsReceived": 12,
+        "issuesLinked": 23,
+        "reactions": 2218
       }
     }
   }

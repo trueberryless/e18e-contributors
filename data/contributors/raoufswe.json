@@ -1,20 +1,20 @@
 {
   "username": "raoufswe",
-  "lastUpdated": "2026-09-08T22:45:45.546Z",
+  "lastUpdated": "2026-09-09T18:37:43.702Z",
   "aggregatedStats": {
-    "score": 47,
-    "mergedPrs": 8,
+    "score": 63,
+    "mergedPrs": 11,
     "reviews": 1,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 1,
     "reactions": 5
   },
   "orgStats": {
     "tanstack": {
-      "score": 47,
-      "mergedPrs": 8,
+      "score": 63,
+      "mergedPrs": 11,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 1,
       "reactions": 4
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "tanstack": {
       "query": {
-        "score": 32,
-        "mergedPrs": 5,
+        "score": 48,
+        "mergedPrs": 8,
         "reviews": 1,
-        "reviewsReceived": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 1,
         "reactions": 4
       },

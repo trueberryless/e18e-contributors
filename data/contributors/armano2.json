@@ -1,12 +1,12 @@
 {
   "username": "armano2",
-  "lastUpdated": "2026-09-08T19:36:21.076Z",
+  "lastUpdated": "2026-09-09T18:37:20.078Z",
   "aggregatedStats": {
-    "score": 1018,
-    "mergedPrs": 106,
-    "reviews": 107,
-    "reviewsReceived": 111,
-    "issuesLinked": 24,
+    "score": 1040,
+    "mergedPrs": 108,
+    "reviews": 109,
+    "reviewsReceived": 113,
+    "issuesLinked": 26,
     "reactions": 83
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 340,
-      "mergedPrs": 38,
-      "reviews": 31,
-      "reviewsReceived": 39,
-      "issuesLinked": 7,
+      "score": 362,
+      "mergedPrs": 40,
+      "reviews": 33,
+      "reviewsReceived": 41,
+      "issuesLinked": 9,
       "reactions": 39
     },
     "vitejs": {
@@ -56,11 +56,11 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 340,
-        "mergedPrs": 38,
-        "reviews": 31,
-        "reviewsReceived": 39,
-        "issuesLinked": 7,
+        "score": 362,
+        "mergedPrs": 40,
+        "reviews": 33,
+        "reviewsReceived": 41,
+        "issuesLinked": 9,
         "reactions": 39
       }
     },

@@ -1,20 +1,20 @@
 {
   "username": "lgastler",
-  "lastUpdated": "2026-09-06T18:37:19.963Z",
+  "lastUpdated": "2026-09-09T18:37:35.808Z",
   "aggregatedStats": {
-    "score": 7,
-    "mergedPrs": 1,
+    "score": 14,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 2,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "shadcn-ui": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "shadcn-ui": {
       "ui": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

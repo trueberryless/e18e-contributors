@@ -1,20 +1,20 @@
 {
   "username": "KuSh",
-  "lastUpdated": "2026-09-08T22:45:32.355Z",
+  "lastUpdated": "2026-09-09T18:37:30.918Z",
   "aggregatedStats": {
-    "score": 90,
-    "mergedPrs": 13,
+    "score": 114,
+    "mergedPrs": 17,
     "reviews": 3,
-    "reviewsReceived": 11,
+    "reviewsReceived": 15,
     "issuesLinked": 2,
     "reactions": 17
   },
   "orgStats": {
     "oxc-project": {
-      "score": 37,
-      "mergedPrs": 6,
+      "score": 61,
+      "mergedPrs": 10,
       "reviews": 1,
-      "reviewsReceived": 4,
+      "reviewsReceived": 8,
       "issuesLinked": 0,
       "reactions": 4
     },
@@ -46,10 +46,10 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 21,
-        "mergedPrs": 3,
+        "score": 45,
+        "mergedPrs": 7,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 7,
         "issuesLinked": 0,
         "reactions": 4
       },

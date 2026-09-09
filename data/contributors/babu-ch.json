@@ -1,22 +1,22 @@
 {
   "username": "babu-ch",
-  "lastUpdated": "2026-09-08T19:36:29.047Z",
+  "lastUpdated": "2026-09-09T18:37:31.027Z",
   "aggregatedStats": {
-    "score": 356,
-    "mergedPrs": 52,
-    "reviews": 6,
-    "reviewsReceived": 44,
-    "issuesLinked": 16,
-    "reactions": 21
+    "score": 519,
+    "mergedPrs": 72,
+    "reviews": 8,
+    "reviewsReceived": 67,
+    "issuesLinked": 33,
+    "reactions": 25
   },
   "orgStats": {
     "oxc-project": {
-      "score": 243,
-      "mergedPrs": 36,
-      "reviews": 4,
-      "reviewsReceived": 35,
-      "issuesLinked": 7,
-      "reactions": 17
+      "score": 406,
+      "mergedPrs": 56,
+      "reviews": 6,
+      "reviewsReceived": 58,
+      "issuesLinked": 24,
+      "reactions": 21
     },
     "vuejs": {
       "score": 113,
@@ -30,12 +30,12 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 243,
-        "mergedPrs": 36,
-        "reviews": 4,
-        "reviewsReceived": 35,
-        "issuesLinked": 7,
-        "reactions": 17
+        "score": 406,
+        "mergedPrs": 56,
+        "reviews": 6,
+        "reviewsReceived": 58,
+        "issuesLinked": 24,
+        "reactions": 21
       }
     },
     "vuejs": {

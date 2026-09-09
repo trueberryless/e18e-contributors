@@ -1,33 +1,33 @@
 {
   "username": "Ephem",
-  "lastUpdated": "2026-09-08T22:45:41.967Z",
+  "lastUpdated": "2026-09-09T18:37:40.836Z",
   "aggregatedStats": {
-    "score": 143,
-    "mergedPrs": 11,
-    "reviews": 23,
+    "score": 175,
+    "mergedPrs": 15,
+    "reviews": 25,
     "reviewsReceived": 5,
-    "issuesLinked": 5,
-    "reactions": 42
+    "issuesLinked": 7,
+    "reactions": 57
   },
   "orgStats": {
     "tanstack": {
-      "score": 143,
-      "mergedPrs": 11,
-      "reviews": 23,
+      "score": 175,
+      "mergedPrs": 15,
+      "reviews": 25,
       "reviewsReceived": 5,
-      "issuesLinked": 5,
-      "reactions": 42
+      "issuesLinked": 7,
+      "reactions": 57
     }
   },
   "repoStats": {
     "tanstack": {
       "query": {
-        "score": 143,
-        "mergedPrs": 11,
-        "reviews": 23,
+        "score": 175,
+        "mergedPrs": 15,
+        "reviews": 25,
         "reviewsReceived": 5,
-        "issuesLinked": 5,
-        "reactions": 42
+        "issuesLinked": 7,
+        "reactions": 57
       }
     }
   }

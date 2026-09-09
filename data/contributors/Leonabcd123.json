@@ -1,12 +1,12 @@
 {
   "username": "Leonabcd123",
-  "lastUpdated": "2026-09-08T19:36:23.754Z",
+  "lastUpdated": "2026-09-09T18:37:23.547Z",
   "aggregatedStats": {
-    "score": 767,
-    "mergedPrs": 114,
-    "reviews": 34,
-    "reviewsReceived": 50,
-    "issuesLinked": 22,
+    "score": 792,
+    "mergedPrs": 117,
+    "reviews": 35,
+    "reviewsReceived": 51,
+    "issuesLinked": 25,
     "reactions": 7
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 1
     },
     "oxc-project": {
-      "score": 41,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 5,
+      "score": 66,
+      "mergedPrs": 7,
+      "reviews": 3,
+      "reviewsReceived": 5,
+      "issuesLinked": 8,
       "reactions": 6
     },
     "tanstack": {
@@ -56,11 +56,11 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 41,
-        "mergedPrs": 4,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 5,
+        "score": 66,
+        "mergedPrs": 7,
+        "reviews": 3,
+        "reviewsReceived": 5,
+        "issuesLinked": 8,
         "reactions": 6
       }
     },

@@ -1,12 +1,12 @@
 {
   "username": "torn4dom4n",
-  "lastUpdated": "2026-09-08T01:23:58.212Z",
+  "lastUpdated": "2026-09-09T18:37:20.837Z",
   "aggregatedStats": {
-    "score": 65,
-    "mergedPrs": 10,
+    "score": 74,
+    "mergedPrs": 11,
     "reviews": 0,
-    "reviewsReceived": 12,
-    "issuesLinked": 1,
+    "reviewsReceived": 14,
+    "issuesLinked": 2,
     "reactions": 11
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 1
     },
     "shadcn-ui": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "withastro": {
@@ -66,11 +66,11 @@
     },
     "shadcn-ui": {
       "ui": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },
