@@ -1,21 +1,21 @@
 {
   "username": "jasonlyu123",
-  "lastUpdated": "2026-09-08T06:25:18.215Z",
+  "lastUpdated": "2026-09-09T23:32:25.888Z",
   "aggregatedStats": {
-    "score": 2482,
-    "mergedPrs": 362,
-    "reviews": 135,
-    "reviewsReceived": 192,
-    "issuesLinked": 24,
+    "score": 2516,
+    "mergedPrs": 365,
+    "reviews": 139,
+    "reviewsReceived": 195,
+    "issuesLinked": 26,
     "reactions": 269
   },
   "orgStats": {
     "sveltejs": {
-      "score": 2442,
-      "mergedPrs": 358,
-      "reviews": 132,
-      "reviewsReceived": 188,
-      "issuesLinked": 21,
+      "score": 2476,
+      "mergedPrs": 361,
+      "reviews": 136,
+      "reviewsReceived": 191,
+      "issuesLinked": 23,
       "reactions": 263
     },
     "vuejs": {
@@ -54,11 +54,11 @@
         "reactions": 258
       },
       "svelte": {
-        "score": 14,
-        "mergedPrs": 2,
-        "reviews": 0,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
+        "score": 48,
+        "mergedPrs": 5,
+        "reviews": 4,
+        "reviewsReceived": 5,
+        "issuesLinked": 3,
         "reactions": 0
       },
       "svelte-preprocess": {

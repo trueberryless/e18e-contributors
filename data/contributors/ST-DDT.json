@@ -1,10 +1,10 @@
 {
   "username": "ST-DDT",
-  "lastUpdated": "2026-09-09T05:08:48.581Z",
+  "lastUpdated": "2026-09-09T23:32:22.344Z",
   "aggregatedStats": {
-    "score": 720,
+    "score": 726,
     "mergedPrs": 113,
-    "reviews": 10,
+    "reviews": 12,
     "reviewsReceived": 119,
     "issuesLinked": 2,
     "reactions": 17
@@ -18,10 +18,18 @@
       "issuesLinked": 0,
       "reactions": 1
     },
+    "vitejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vitest-dev": {
-      "score": 22,
+      "score": 25,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 5,
       "issuesLinked": 0,
       "reactions": 15
@@ -46,6 +54,16 @@
         "reactions": 1
       }
     },
+    "vitejs": {
+      "vite": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vitest-dev": {
       "eslint-plugin-vitest": {
         "score": 7,
@@ -56,9 +74,9 @@
         "reactions": 7
       },
       "vitest": {
-        "score": 15,
+        "score": 18,
         "mergedPrs": 2,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 8

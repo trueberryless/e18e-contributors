@@ -1,19 +1,19 @@
 {
   "username": "Prinzhorn",
-  "lastUpdated": "2026-09-05T00:34:31.889Z",
+  "lastUpdated": "2026-09-09T23:32:24.900Z",
   "aggregatedStats": {
-    "score": 4,
+    "score": 7,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 38
   },
   "orgStats": {
     "sveltejs": {
-      "score": 4,
+      "score": 7,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 38
@@ -46,9 +46,9 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 5

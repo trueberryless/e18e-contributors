@@ -1,19 +1,19 @@
 {
   "username": "rixo",
-  "lastUpdated": "2026-09-09T00:32:56.080Z",
+  "lastUpdated": "2026-09-09T23:32:26.489Z",
   "aggregatedStats": {
-    "score": 129,
+    "score": 132,
     "mergedPrs": 17,
-    "reviews": 7,
+    "reviews": 8,
     "reviewsReceived": 8,
     "issuesLinked": 1,
     "reactions": 132
   },
   "orgStats": {
     "sveltejs": {
-      "score": 120,
+      "score": 123,
       "mergedPrs": 16,
-      "reviews": 6,
+      "reviews": 7,
       "reviewsReceived": 7,
       "issuesLinked": 1,
       "reactions": 130
@@ -86,9 +86,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 8,
+        "score": 11,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 83

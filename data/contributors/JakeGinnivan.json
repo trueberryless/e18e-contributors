@@ -1,13 +1,13 @@
 {
   "username": "JakeGinnivan",
-  "lastUpdated": "2026-09-08T22:45:24.110Z",
+  "lastUpdated": "2026-09-09T23:32:11.578Z",
   "aggregatedStats": {
-    "score": 53,
-    "mergedPrs": 6,
+    "score": 65,
+    "mergedPrs": 8,
     "reviews": 4,
-    "reviewsReceived": 2,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 92
+    "reactions": 93
   },
   "orgStats": {
     "changesets": {
@@ -43,12 +43,12 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 7
     }
   },
   "repoStats": {
@@ -110,12 +110,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 13,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 6
+        "reactions": 7
       }
     }
   }

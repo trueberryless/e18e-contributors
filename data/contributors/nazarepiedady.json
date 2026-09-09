@@ -1,11 +1,11 @@
 {
   "username": "nazarepiedady",
-  "lastUpdated": "2026-09-08T06:25:10.656Z",
+  "lastUpdated": "2026-09-09T23:32:19.604Z",
   "aggregatedStats": {
-    "score": 276,
-    "mergedPrs": 38,
-    "reviews": 11,
-    "reviewsReceived": 48,
+    "score": 285,
+    "mergedPrs": 39,
+    "reviews": 12,
+    "reviewsReceived": 49,
     "issuesLinked": 1,
     "reactions": 34
   },
@@ -19,18 +19,18 @@
       "reactions": 21
     },
     "sveltejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
     },
     "vitejs": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 12,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 4
     },
@@ -88,9 +88,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
@@ -98,10 +98,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 4
       }

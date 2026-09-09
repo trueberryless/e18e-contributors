@@ -1,10 +1,10 @@
 {
   "username": "sisou",
-  "lastUpdated": "2026-09-05T05:00:58.590Z",
+  "lastUpdated": "2026-09-09T23:32:20.209Z",
   "aggregatedStats": {
-    "score": 6,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 14,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 11
@@ -27,9 +27,9 @@
       "reactions": 10
     },
     "vuejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 8,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
@@ -74,9 +74,9 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 8,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

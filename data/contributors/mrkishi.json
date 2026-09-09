@@ -1,19 +1,19 @@
 {
   "username": "mrkishi",
-  "lastUpdated": "2026-09-05T00:34:33.254Z",
+  "lastUpdated": "2026-09-09T23:32:26.258Z",
   "aggregatedStats": {
-    "score": 209,
+    "score": 212,
     "mergedPrs": 30,
-    "reviews": 6,
+    "reviews": 7,
     "reviewsReceived": 14,
     "issuesLinked": 10,
     "reactions": 66
   },
   "orgStats": {
     "sveltejs": {
-      "score": 203,
+      "score": 206,
       "mergedPrs": 29,
-      "reviews": 6,
+      "reviews": 7,
       "reviewsReceived": 13,
       "issuesLinked": 10,
       "reactions": 66
@@ -46,9 +46,9 @@
         "reactions": 4
       },
       "kit": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 7

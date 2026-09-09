@@ -1,20 +1,20 @@
 {
   "username": "deweyou",
-  "lastUpdated": "2026-09-05T20:07:14.887Z",
+  "lastUpdated": "2026-09-09T23:32:31.252Z",
   "aggregatedStats": {
-    "score": 37,
-    "mergedPrs": 5,
-    "reviews": 4,
-    "reviewsReceived": 0,
+    "score": 62,
+    "mergedPrs": 9,
+    "reviews": 5,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "vitest-dev": {
-      "score": 37,
-      "mergedPrs": 5,
-      "reviews": 4,
-      "reviewsReceived": 0,
+      "score": 62,
+      "mergedPrs": 9,
+      "reviews": 5,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -30,10 +30,10 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 25,
+        "mergedPrs": 4,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

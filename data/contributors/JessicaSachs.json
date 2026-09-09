@@ -1,13 +1,13 @@
 {
   "username": "JessicaSachs",
-  "lastUpdated": "2026-09-09T05:08:43.109Z",
+  "lastUpdated": "2026-09-09T23:32:13.187Z",
   "aggregatedStats": {
-    "score": 244,
-    "mergedPrs": 25,
-    "reviews": 27,
-    "reviewsReceived": 20,
+    "score": 274,
+    "mergedPrs": 29,
+    "reviews": 29,
+    "reviewsReceived": 23,
     "issuesLinked": 5,
-    "reactions": 84
+    "reactions": 91
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 8
     },
     "vitest-dev": {
-      "score": 4,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
+      "score": 34,
+      "mergedPrs": 4,
+      "reviews": 3,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 11
+      "reactions": 18
     },
     "vuejs": {
       "score": 201,
@@ -132,12 +132,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 34,
+        "mergedPrs": 4,
+        "reviews": 3,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 11
+        "reactions": 18
       }
     },
     "vuejs": {

@@ -1,10 +1,10 @@
 {
   "username": "znck",
-  "lastUpdated": "2026-09-09T05:08:48.464Z",
+  "lastUpdated": "2026-09-09T23:32:22.229Z",
   "aggregatedStats": {
-    "score": 1109,
-    "mergedPrs": 104,
-    "reviews": 173,
+    "score": 1120,
+    "mergedPrs": 105,
+    "reviews": 175,
     "reviewsReceived": 29,
     "issuesLinked": 14,
     "reactions": 132
@@ -27,9 +27,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 1104,
-      "mergedPrs": 103,
-      "reviews": 173,
+      "score": 1115,
+      "mergedPrs": 104,
+      "reviews": 175,
       "reviewsReceived": 29,
       "issuesLinked": 14,
       "reactions": 132
@@ -90,9 +90,9 @@
         "reactions": 0
       },
       "core": {
-        "score": 48,
-        "mergedPrs": 2,
-        "reviews": 12,
+        "score": 59,
+        "mergedPrs": 3,
+        "reviews": 14,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 14

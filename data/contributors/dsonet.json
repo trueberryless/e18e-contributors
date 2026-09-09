@@ -1,10 +1,10 @@
 {
   "username": "dsonet",
-  "lastUpdated": "2026-09-09T18:37:31.099Z",
+  "lastUpdated": "2026-09-09T23:32:20.923Z",
   "aggregatedStats": {
-    "score": 76,
+    "score": 82,
     "mergedPrs": 8,
-    "reviews": 12,
+    "reviews": 14,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 3
@@ -35,9 +35,9 @@
       "reactions": 1
     },
     "vuejs": {
-      "score": 73,
+      "score": 79,
       "mergedPrs": 8,
-      "reviews": 11,
+      "reviews": 13,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 2
@@ -76,9 +76,9 @@
     },
     "vuejs": {
       "core": {
-        "score": 6,
+        "score": 12,
         "mergedPrs": 0,
-        "reviews": 2,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

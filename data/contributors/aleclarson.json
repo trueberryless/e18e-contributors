@@ -1,13 +1,13 @@
 {
   "username": "aleclarson",
-  "lastUpdated": "2026-09-09T05:08:39.319Z",
+  "lastUpdated": "2026-09-09T23:32:10.011Z",
   "aggregatedStats": {
-    "score": 141,
-    "mergedPrs": 15,
-    "reviews": 13,
-    "reviewsReceived": 6,
+    "score": 174,
+    "mergedPrs": 18,
+    "reviews": 16,
+    "reviewsReceived": 10,
     "issuesLinked": 3,
-    "reactions": 155
+    "reactions": 201
   },
   "orgStats": {
     "biomejs": {
@@ -43,20 +43,20 @@
       "reactions": 11
     },
     "vitejs": {
-      "score": 129,
-      "mergedPrs": 14,
-      "reviews": 12,
-      "reviewsReceived": 6,
+      "score": 146,
+      "mergedPrs": 15,
+      "reviews": 14,
+      "reviewsReceived": 7,
       "issuesLinked": 2,
-      "reactions": 133
+      "reactions": 178
     },
     "vitest-dev": {
-      "score": 10,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 0,
+      "score": 26,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 1,
-      "reactions": 1
+      "reactions": 2
     },
     "withastro": {
       "score": 0,
@@ -134,12 +134,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 52,
-        "mergedPrs": 3,
-        "reviews": 5,
-        "reviewsReceived": 5,
+        "score": 68,
+        "mergedPrs": 4,
+        "reviews": 7,
+        "reviewsReceived": 6,
         "issuesLinked": 2,
-        "reactions": 127
+        "reactions": 172
       },
       "vite-plugin-react": {
         "score": 6,
@@ -168,12 +168,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 10,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 26,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 1,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "withastro": {

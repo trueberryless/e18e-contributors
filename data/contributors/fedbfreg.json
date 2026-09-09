@@ -1,0 +1,52 @@
+{
+  "username": "fedbfreg",
+  "lastUpdated": "2026-09-09T23:32:25.587Z",
+  "aggregatedStats": {
+    "score": 0,
+    "mergedPrs": 0,
+    "reviews": 0,
+    "reviewsReceived": 0,
+    "issuesLinked": 0,
+    "reactions": 0
+  },
+  "orgStats": {
+    "sveltejs": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "vitejs": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    }
+  },
+  "repoStats": {
+    "sveltejs": {
+      "svelte": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "vitejs": {
+      "vite": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    }
+  }
+}

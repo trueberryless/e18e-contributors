@@ -1,22 +1,22 @@
 {
   "username": "Picknight",
-  "lastUpdated": "2026-09-09T05:08:59.558Z",
+  "lastUpdated": "2026-09-09T23:32:32.862Z",
   "aggregatedStats": {
-    "score": 24,
-    "mergedPrs": 4,
-    "reviews": 1,
+    "score": 109,
+    "mergedPrs": 19,
+    "reviews": 2,
     "reviewsReceived": 1,
-    "issuesLinked": 0,
-    "reactions": 3
+    "issuesLinked": 3,
+    "reactions": 6
   },
   "orgStats": {
     "vuejs": {
-      "score": 24,
-      "mergedPrs": 4,
-      "reviews": 1,
+      "score": 109,
+      "mergedPrs": 19,
+      "reviews": 2,
       "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 3
+      "issuesLinked": 3,
+      "reactions": 6
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 19,
-        "mergedPrs": 3,
-        "reviews": 1,
+        "score": 104,
+        "mergedPrs": 18,
+        "reviews": 2,
         "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 3
+        "issuesLinked": 3,
+        "reactions": 6
       },
       "docs-next-zh-cn": {
         "score": 0,

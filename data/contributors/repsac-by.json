@@ -1,33 +1,33 @@
 {
   "username": "repsac-by",
-  "lastUpdated": "2026-09-09T00:32:56.062Z",
+  "lastUpdated": "2026-09-09T23:32:26.476Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
-    "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 5
+    "score": 89,
+    "mergedPrs": 10,
+    "reviews": 4,
+    "reviewsReceived": 10,
+    "issuesLinked": 8,
+    "reactions": 10
   },
   "orgStats": {
     "sveltejs": {
-      "score": 12,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 5
+      "score": 89,
+      "mergedPrs": 10,
+      "reviews": 4,
+      "reviewsReceived": 10,
+      "issuesLinked": 8,
+      "reactions": 10
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 12,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 5
+        "score": 89,
+        "mergedPrs": 10,
+        "reviews": 4,
+        "reviewsReceived": 10,
+        "issuesLinked": 8,
+        "reactions": 10
       }
     }
   }

@@ -1,13 +1,13 @@
 {
   "username": "AriPerkkio",
-  "lastUpdated": "2026-09-09T05:08:41.561Z",
+  "lastUpdated": "2026-09-09T23:32:11.859Z",
   "aggregatedStats": {
-    "score": 4330,
-    "mergedPrs": 376,
-    "reviews": 552,
-    "reviewsReceived": 369,
-    "issuesLinked": 194,
-    "reactions": 358
+    "score": 4391,
+    "mergedPrs": 383,
+    "reviews": 556,
+    "reviewsReceived": 375,
+    "issuesLinked": 198,
+    "reactions": 360
   },
   "orgStats": {
     "e18e": {
@@ -51,19 +51,19 @@
       "reactions": 12
     },
     "vitejs": {
-      "score": 48,
-      "mergedPrs": 3,
-      "reviews": 7,
-      "reviewsReceived": 5,
+      "score": 64,
+      "mergedPrs": 5,
+      "reviews": 8,
+      "reviewsReceived": 8,
       "issuesLinked": 3,
-      "reactions": 5
+      "reactions": 7
     },
     "vitest-dev": {
-      "score": 4239,
-      "mergedPrs": 368,
-      "reviews": 542,
-      "reviewsReceived": 360,
-      "issuesLinked": 190,
+      "score": 4284,
+      "mergedPrs": 373,
+      "reviews": 545,
+      "reviewsReceived": 363,
+      "issuesLinked": 194,
       "reactions": 330
     },
     "vuejs": {
@@ -144,12 +144,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 45,
-        "mergedPrs": 3,
-        "reviews": 6,
-        "reviewsReceived": 5,
+        "score": 61,
+        "mergedPrs": 5,
+        "reviews": 7,
+        "reviewsReceived": 8,
         "issuesLinked": 3,
-        "reactions": 5
+        "reactions": 7
       },
       "vite-plugin-react": {
         "score": 3,
@@ -170,11 +170,11 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 4211,
-        "mergedPrs": 364,
-        "reviews": 542,
-        "reviewsReceived": 356,
-        "issuesLinked": 188,
+        "score": 4256,
+        "mergedPrs": 369,
+        "reviews": 545,
+        "reviewsReceived": 359,
+        "issuesLinked": 192,
         "reactions": 330
       }
     },

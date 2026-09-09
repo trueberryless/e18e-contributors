@@ -1,12 +1,12 @@
 {
   "username": "IanVS",
-  "lastUpdated": "2026-09-09T00:32:49.274Z",
+  "lastUpdated": "2026-09-09T23:32:20.802Z",
   "aggregatedStats": {
-    "score": 58,
-    "mergedPrs": 6,
-    "reviews": 2,
-    "reviewsReceived": 5,
-    "issuesLinked": 2,
+    "score": 90,
+    "mergedPrs": 10,
+    "reviews": 4,
+    "reviewsReceived": 9,
+    "issuesLinked": 3,
     "reactions": 134
   },
   "orgStats": {
@@ -59,19 +59,19 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 31,
-      "mergedPrs": 3,
-      "reviews": 1,
-      "reviewsReceived": 2,
+      "score": 47,
+      "mergedPrs": 5,
+      "reviews": 2,
+      "reviewsReceived": 5,
       "issuesLinked": 0,
       "reactions": 108
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 3
     },
     "withastro": {
@@ -186,10 +186,10 @@
         "reactions": 7
       },
       "vite": {
-        "score": 19,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 35,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 98
       },
@@ -212,11 +212,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 3
       }
     },

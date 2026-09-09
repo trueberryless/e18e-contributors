@@ -1,20 +1,20 @@
 {
   "username": "benbucksch",
-  "lastUpdated": "2026-09-06T13:08:57.789Z",
+  "lastUpdated": "2026-09-09T23:32:25.190Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
-    "reviews": 1,
-    "reviewsReceived": 0,
+    "score": 13,
+    "mergedPrs": 1,
+    "reviews": 2,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 1
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
+      "score": 13,
+      "mergedPrs": 1,
+      "reviews": 2,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 1
     }
@@ -30,10 +30,10 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 13,
+        "mergedPrs": 1,
+        "reviews": 2,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

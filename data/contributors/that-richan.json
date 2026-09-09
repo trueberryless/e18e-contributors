@@ -1,6 +1,6 @@
 {
   "username": "that-richan",
-  "lastUpdated": "2026-09-05T20:07:11.497Z",
+  "lastUpdated": "2026-09-09T23:32:26.679Z",
   "aggregatedStats": {
     "score": 6,
     "mergedPrs": 1,
@@ -22,6 +22,14 @@
   "repoStats": {
     "sveltejs": {
       "eslint-plugin-svelte": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
+      "language-tools": {
         "score": 0,
         "mergedPrs": 0,
         "reviews": 0,

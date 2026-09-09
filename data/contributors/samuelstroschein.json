@@ -1,22 +1,22 @@
 {
   "username": "samuelstroschein",
-  "lastUpdated": "2026-09-05T00:34:33.504Z",
+  "lastUpdated": "2026-09-09T23:32:26.543Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 3,
-    "reviews": 2,
+    "score": 33,
+    "mergedPrs": 4,
+    "reviews": 3,
     "reviewsReceived": 3,
     "issuesLinked": 0,
-    "reactions": 15
+    "reactions": 17
   },
   "orgStats": {
     "sveltejs": {
-      "score": 16,
-      "mergedPrs": 2,
-      "reviews": 1,
+      "score": 24,
+      "mergedPrs": 3,
+      "reviews": 2,
       "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 9
+      "reactions": 11
     },
     "tanstack": {
       "score": 9,
@@ -62,12 +62,12 @@
         "reactions": 3
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 8,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "tanstack": {

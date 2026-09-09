@@ -1,12 +1,12 @@
 {
   "username": "tmkx",
-  "lastUpdated": "2026-09-09T05:08:41.538Z",
+  "lastUpdated": "2026-09-09T23:32:11.836Z",
   "aggregatedStats": {
-    "score": 73,
-    "mergedPrs": 12,
+    "score": 80,
+    "mergedPrs": 13,
     "reviews": 1,
     "reviewsReceived": 6,
-    "issuesLinked": 2,
+    "issuesLinked": 3,
     "reactions": 3
   },
   "orgStats": {
@@ -59,11 +59,11 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 17,
+      "mergedPrs": 2,
       "reviews": 1,
       "reviewsReceived": 2,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 0
     }
   },
@@ -138,11 +138,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 17,
+        "mergedPrs": 2,
         "reviews": 1,
         "reviewsReceived": 2,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       }
     }

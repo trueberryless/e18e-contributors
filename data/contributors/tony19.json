@@ -1,10 +1,10 @@
 {
   "username": "tony19",
-  "lastUpdated": "2026-09-09T05:08:39.840Z",
+  "lastUpdated": "2026-09-09T23:32:10.499Z",
   "aggregatedStats": {
-    "score": 60,
+    "score": 63,
     "mergedPrs": 5,
-    "reviews": 7,
+    "reviews": 8,
     "reviewsReceived": 7,
     "issuesLinked": 2,
     "reactions": 30
@@ -35,9 +35,9 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 4,
+      "score": 7,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 6
@@ -108,9 +108,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 4,
+        "score": 7,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 6

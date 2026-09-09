@@ -1,12 +1,12 @@
 {
   "username": "mikestopcontinues",
-  "lastUpdated": "2026-09-05T05:01:00.404Z",
+  "lastUpdated": "2026-09-09T23:32:21.738Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 9,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 12
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 9
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 3
     },
     "withastro": {
@@ -92,11 +92,11 @@
         "reactions": 3
       },
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

@@ -1,13 +1,13 @@
 {
   "username": "mcmxcdev",
-  "lastUpdated": "2026-09-09T00:32:41.157Z",
+  "lastUpdated": "2026-09-09T23:32:10.304Z",
   "aggregatedStats": {
-    "score": 122,
-    "mergedPrs": 16,
-    "reviews": 5,
-    "reviewsReceived": 14,
+    "score": 133,
+    "mergedPrs": 17,
+    "reviews": 6,
+    "reviewsReceived": 16,
     "issuesLinked": 4,
-    "reactions": 53
+    "reactions": 54
   },
   "orgStats": {
     "biomejs": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 36,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 5,
+      "score": 47,
+      "mergedPrs": 5,
+      "reviews": 3,
+      "reviewsReceived": 7,
       "issuesLinked": 2,
-      "reactions": 14
+      "reactions": 15
     },
     "tanstack": {
       "score": 0,
@@ -198,12 +198,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "svelte-preprocess": {
         "score": 7,

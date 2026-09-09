@@ -1,19 +1,19 @@
 {
   "username": "khromov",
-  "lastUpdated": "2026-09-06T13:08:58.627Z",
+  "lastUpdated": "2026-09-09T23:32:26.018Z",
   "aggregatedStats": {
-    "score": 100,
+    "score": 103,
     "mergedPrs": 8,
-    "reviews": 16,
+    "reviews": 17,
     "reviewsReceived": 7,
     "issuesLinked": 0,
     "reactions": 52
   },
   "orgStats": {
     "sveltejs": {
-      "score": 100,
+      "score": 103,
       "mergedPrs": 8,
-      "reviews": 16,
+      "reviews": 17,
       "reviewsReceived": 7,
       "issuesLinked": 0,
       "reactions": 51
@@ -70,9 +70,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 9

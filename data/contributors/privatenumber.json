@@ -1,12 +1,12 @@
 {
   "username": "privatenumber",
-  "lastUpdated": "2026-09-09T00:32:41.550Z",
+  "lastUpdated": "2026-09-09T23:32:10.606Z",
   "aggregatedStats": {
-    "score": 231,
-    "mergedPrs": 25,
+    "score": 240,
+    "mergedPrs": 26,
     "reviews": 11,
-    "reviewsReceived": 26,
-    "issuesLinked": 4,
+    "reviewsReceived": 28,
+    "issuesLinked": 5,
     "reactions": 381
   },
   "orgStats": {
@@ -67,11 +67,11 @@
       "reactions": 8
     },
     "vuejs": {
-      "score": 160,
-      "mergedPrs": 18,
+      "score": 169,
+      "mergedPrs": 19,
       "reviews": 8,
-      "reviewsReceived": 19,
-      "issuesLinked": 2,
+      "reviewsReceived": 21,
+      "issuesLinked": 3,
       "reactions": 228
     }
   },
@@ -188,11 +188,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 21,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
         "reactions": 6
       },
       "devtools-v6": {

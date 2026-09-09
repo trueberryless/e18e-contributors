@@ -1,10 +1,10 @@
 {
   "username": "Snugug",
-  "lastUpdated": "2026-09-08T06:25:17.107Z",
+  "lastUpdated": "2026-09-09T23:32:24.956Z",
   "aggregatedStats": {
-    "score": 41,
+    "score": 47,
     "mergedPrs": 4,
-    "reviews": 1,
+    "reviews": 3,
     "reviewsReceived": 5,
     "issuesLinked": 2,
     "reactions": 87
@@ -27,9 +27,9 @@
       "reactions": 61
     },
     "vitest-dev": {
-      "score": 3,
+      "score": 9,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 25
@@ -90,9 +90,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 3,
+        "score": 9,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 25

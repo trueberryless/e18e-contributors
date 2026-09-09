@@ -1,12 +1,12 @@
 {
   "username": "styfle",
-  "lastUpdated": "2026-09-08T01:24:07.972Z",
+  "lastUpdated": "2026-09-09T23:32:20.291Z",
   "aggregatedStats": {
-    "score": 58,
-    "mergedPrs": 6,
+    "score": 66,
+    "mergedPrs": 7,
     "reviews": 5,
-    "reviewsReceived": 7,
-    "issuesLinked": 1,
+    "reviewsReceived": 8,
+    "issuesLinked": 2,
     "reactions": 36
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 3
     },
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vitejs": {
@@ -108,11 +108,11 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

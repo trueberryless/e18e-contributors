@@ -1,12 +1,12 @@
 {
   "username": "Xiot",
-  "lastUpdated": "2026-09-05T00:34:26.846Z",
+  "lastUpdated": "2026-09-09T23:32:20.854Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 8,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 2
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 1
     },
     "vitest-dev": {
@@ -56,11 +56,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 1
       }
     },

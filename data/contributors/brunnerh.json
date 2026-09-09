@@ -1,20 +1,20 @@
 {
   "username": "brunnerh",
-  "lastUpdated": "2026-09-09T00:32:54.670Z",
+  "lastUpdated": "2026-09-09T23:32:25.229Z",
   "aggregatedStats": {
-    "score": 183,
-    "mergedPrs": 17,
-    "reviews": 16,
-    "reviewsReceived": 14,
+    "score": 195,
+    "mergedPrs": 18,
+    "reviews": 18,
+    "reviewsReceived": 15,
     "issuesLinked": 1,
     "reactions": 338
   },
   "orgStats": {
     "sveltejs": {
-      "score": 180,
-      "mergedPrs": 17,
-      "reviews": 15,
-      "reviewsReceived": 14,
+      "score": 192,
+      "mergedPrs": 18,
+      "reviews": 17,
+      "reviewsReceived": 15,
       "issuesLinked": 1,
       "reactions": 338
     },
@@ -46,10 +46,10 @@
         "reactions": 1
       },
       "kit": {
-        "score": 14,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 1,
+        "score": 23,
+        "mergedPrs": 2,
+        "reviews": 3,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 18
       },
@@ -86,9 +86,9 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 131,
+        "score": 134,
         "mergedPrs": 12,
-        "reviews": 11,
+        "reviews": 12,
         "reviewsReceived": 10,
         "issuesLinked": 1,
         "reactions": 263

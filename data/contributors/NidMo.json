@@ -1,12 +1,12 @@
 {
   "username": "NidMo",
-  "lastUpdated": "2026-09-05T00:34:20.851Z",
+  "lastUpdated": "2026-09-09T23:32:13.387Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 9,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 3
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 3
     },
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vitejs": {
@@ -56,11 +56,11 @@
     },
     "sveltejs": {
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

@@ -1,19 +1,19 @@
 {
   "username": "LukasParke",
-  "lastUpdated": "2026-09-07T05:51:02.423Z",
+  "lastUpdated": "2026-09-09T23:32:24.802Z",
   "aggregatedStats": {
-    "score": 41,
+    "score": 44,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 330
   },
   "orgStats": {
     "sveltejs": {
-      "score": 36,
+      "score": 39,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 308
@@ -30,9 +30,9 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 36,
+        "score": 39,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 308

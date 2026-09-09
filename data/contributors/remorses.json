@@ -1,10 +1,10 @@
 {
   "username": "remorses",
-  "lastUpdated": "2026-09-08T01:24:03.026Z",
+  "lastUpdated": "2026-09-09T23:32:11.806Z",
   "aggregatedStats": {
-    "score": 33,
+    "score": 36,
     "mergedPrs": 3,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 3,
     "issuesLinked": 2,
     "reactions": 110
@@ -43,9 +43,9 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 2,
+      "score": 5,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 21
@@ -118,9 +118,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 2,
+        "score": 5,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 21

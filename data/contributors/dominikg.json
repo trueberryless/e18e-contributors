@@ -1,13 +1,13 @@
 {
   "username": "dominikg",
-  "lastUpdated": "2026-09-09T05:08:41.400Z",
+  "lastUpdated": "2026-09-09T23:32:11.714Z",
   "aggregatedStats": {
-    "score": 5119,
-    "mergedPrs": 515,
-    "reviews": 656,
-    "reviewsReceived": 379,
-    "issuesLinked": 60,
-    "reactions": 761
+    "score": 5512,
+    "mergedPrs": 546,
+    "reviews": 719,
+    "reviewsReceived": 413,
+    "issuesLinked": 67,
+    "reactions": 779
   },
   "orgStats": {
     "changesets": {
@@ -59,28 +59,28 @@
       "reactions": 8
     },
     "sveltejs": {
-      "score": 4001,
-      "mergedPrs": 396,
-      "reviews": 529,
-      "reviewsReceived": 278,
-      "issuesLinked": 51,
-      "reactions": 536
+      "score": 4229,
+      "mergedPrs": 411,
+      "reviews": 573,
+      "reviewsReceived": 293,
+      "issuesLinked": 54,
+      "reactions": 542
     },
     "vitejs": {
-      "score": 1088,
-      "mergedPrs": 117,
-      "reviews": 123,
-      "reviewsReceived": 100,
-      "issuesLinked": 9,
-      "reactions": 159
+      "score": 1202,
+      "mergedPrs": 127,
+      "reviews": 137,
+      "reviewsReceived": 115,
+      "issuesLinked": 12,
+      "reactions": 169
     },
     "vitest-dev": {
-      "score": 7,
-      "mergedPrs": 0,
-      "reviews": 2,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 7
+      "score": 58,
+      "mergedPrs": 6,
+      "reviews": 7,
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
+      "reactions": 9
     },
     "withastro": {
       "score": 3,
@@ -226,12 +226,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 476,
-        "mergedPrs": 34,
-        "reviews": 80,
-        "reviewsReceived": 32,
-        "issuesLinked": 2,
-        "reactions": 296
+        "score": 636,
+        "mergedPrs": 46,
+        "reviews": 108,
+        "reviewsReceived": 44,
+        "issuesLinked": 4,
+        "reactions": 301
       },
       "language-tools": {
         "score": 10,
@@ -282,12 +282,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 147,
-        "mergedPrs": 12,
-        "reviews": 25,
-        "reviewsReceived": 10,
-        "issuesLinked": 0,
-        "reactions": 16
+        "score": 215,
+        "mergedPrs": 15,
+        "reviews": 41,
+        "reviewsReceived": 13,
+        "issuesLinked": 1,
+        "reactions": 17
       },
       "svelte-devtools": {
         "score": 3,
@@ -348,12 +348,12 @@
         "reactions": 2
       },
       "vite": {
-        "score": 180,
-        "mergedPrs": 16,
-        "reviews": 21,
-        "reviewsReceived": 22,
-        "issuesLinked": 3,
-        "reactions": 88
+        "score": 294,
+        "mergedPrs": 26,
+        "reviews": 35,
+        "reviewsReceived": 37,
+        "issuesLinked": 6,
+        "reactions": 98
       },
       "vite-ecosystem-ci": {
         "score": 881,
@@ -374,12 +374,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 7,
-        "mergedPrs": 0,
-        "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "score": 58,
+        "mergedPrs": 6,
+        "reviews": 7,
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
+        "reactions": 9
       }
     },
     "withastro": {

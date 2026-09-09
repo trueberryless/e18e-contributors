@@ -1,21 +1,21 @@
 {
   "username": "theetrain",
-  "lastUpdated": "2026-09-09T00:32:56.373Z",
+  "lastUpdated": "2026-09-09T23:32:26.685Z",
   "aggregatedStats": {
-    "score": 124,
-    "mergedPrs": 11,
+    "score": 139,
+    "mergedPrs": 13,
     "reviews": 12,
-    "reviewsReceived": 9,
-    "issuesLinked": 2,
+    "reviewsReceived": 12,
+    "issuesLinked": 3,
     "reactions": 200
   },
   "orgStats": {
     "sveltejs": {
-      "score": 124,
-      "mergedPrs": 11,
+      "score": 139,
+      "mergedPrs": 13,
       "reviews": 12,
-      "reviewsReceived": 9,
-      "issuesLinked": 2,
+      "reviewsReceived": 12,
+      "issuesLinked": 3,
       "reactions": 198
     },
     "withastro": {
@@ -46,11 +46,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 89,
-        "mergedPrs": 8,
+        "score": 98,
+        "mergedPrs": 9,
         "reviews": 8,
-        "reviewsReceived": 7,
-        "issuesLinked": 1,
+        "reviewsReceived": 9,
+        "issuesLinked": 2,
         "reactions": 161
       },
       "language-tools": {
@@ -78,10 +78,10 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 1,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 10
       },

@@ -1,21 +1,21 @@
 {
   "username": "EmilTholin",
-  "lastUpdated": "2026-09-05T00:34:31.590Z",
+  "lastUpdated": "2026-09-09T23:32:24.681Z",
   "aggregatedStats": {
-    "score": 57,
-    "mergedPrs": 8,
-    "reviews": 3,
-    "reviewsReceived": 2,
-    "issuesLinked": 2,
+    "score": 75,
+    "mergedPrs": 10,
+    "reviews": 4,
+    "reviewsReceived": 3,
+    "issuesLinked": 4,
     "reactions": 18
   },
   "orgStats": {
     "sveltejs": {
-      "score": 57,
-      "mergedPrs": 8,
-      "reviews": 3,
-      "reviewsReceived": 2,
-      "issuesLinked": 2,
+      "score": 75,
+      "mergedPrs": 10,
+      "reviews": 4,
+      "reviewsReceived": 3,
+      "issuesLinked": 4,
       "reactions": 18
     }
   },
@@ -54,11 +54,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 19,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 2,
         "reactions": 12
       },
       "svelte-loader": {

@@ -1,6 +1,6 @@
 {
   "username": "yuraoak",
-  "lastUpdated": "2026-09-09T21:14:53.140Z",
+  "lastUpdated": "2026-09-09T23:32:20.676Z",
   "aggregatedStats": {
     "score": 0,
     "mergedPrs": 0,
@@ -11,6 +11,14 @@
   },
   "orgStats": {
     "nuxt": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "vuejs": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
@@ -30,6 +38,16 @@
   "repoStats": {
     "nuxt": {
       "nuxt.com": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "vuejs": {
+      "vitepress": {
         "score": 0,
         "mergedPrs": 0,
         "reviews": 0,

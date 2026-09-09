@@ -1,11 +1,11 @@
 {
   "username": "GrygrFlzr",
-  "lastUpdated": "2026-09-09T00:32:49.920Z",
+  "lastUpdated": "2026-09-09T23:32:21.235Z",
   "aggregatedStats": {
-    "score": 142,
-    "mergedPrs": 13,
-    "reviews": 9,
-    "reviewsReceived": 9,
+    "score": 154,
+    "mergedPrs": 14,
+    "reviews": 11,
+    "reviewsReceived": 10,
     "issuesLinked": 6,
     "reactions": 289
   },
@@ -19,18 +19,18 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 108,
+      "score": 114,
       "mergedPrs": 12,
-      "reviews": 8,
+      "reviews": 10,
       "reviewsReceived": 8,
       "issuesLinked": 5,
       "reactions": 57
     },
     "vitejs": {
-      "score": 34,
-      "mergedPrs": 1,
+      "score": 40,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 1,
       "reactions": 232
     }
@@ -64,9 +64,9 @@
         "reactions": 0
       },
       "kit": {
-        "score": 8,
+        "score": 14,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 50
@@ -114,10 +114,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 34,
-        "mergedPrs": 1,
+        "score": 40,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 1,
         "reactions": 232
       }

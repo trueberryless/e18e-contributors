@@ -1,13 +1,13 @@
 {
   "username": "sapphi-red",
-  "lastUpdated": "2026-09-09T18:37:21.017Z",
+  "lastUpdated": "2026-09-09T23:32:10.609Z",
   "aggregatedStats": {
-    "score": 14484,
-    "mergedPrs": 1478,
-    "reviews": 1694,
-    "reviewsReceived": 1116,
-    "issuesLinked": 370,
-    "reactions": 1552
+    "score": 15650,
+    "mergedPrs": 1583,
+    "reviews": 1839,
+    "reviewsReceived": 1237,
+    "issuesLinked": 410,
+    "reactions": 1609
   },
   "orgStats": {
     "bombshell-dev": {
@@ -67,19 +67,19 @@
       "reactions": 9
     },
     "vitejs": {
-      "score": 13384,
-      "mergedPrs": 1339,
-      "reviews": 1599,
-      "reviewsReceived": 1049,
-      "issuesLinked": 356,
-      "reactions": 1307
+      "score": 14506,
+      "mergedPrs": 1438,
+      "reviews": 1742,
+      "reviewsReceived": 1166,
+      "issuesLinked": 394,
+      "reactions": 1364
     },
     "vitest-dev": {
-      "score": 117,
-      "mergedPrs": 16,
-      "reviews": 7,
-      "reviewsReceived": 16,
-      "issuesLinked": 0,
+      "score": 161,
+      "mergedPrs": 22,
+      "reviews": 9,
+      "reviewsReceived": 20,
+      "issuesLinked": 2,
       "reactions": 1
     },
     "vuejs": {
@@ -268,17 +268,17 @@
         "reactions": 0
       },
       "vite": {
-        "score": 10802,
-        "mergedPrs": 1005,
-        "reviews": 1427,
-        "reviewsReceived": 844,
-        "issuesLinked": 264,
-        "reactions": 1242
+        "score": 11922,
+        "mergedPrs": 1104,
+        "reviews": 1569,
+        "reviewsReceived": 961,
+        "issuesLinked": 302,
+        "reactions": 1299
       },
       "vite-ecosystem-ci": {
-        "score": 545,
+        "score": 548,
         "mergedPrs": 79,
-        "reviews": 34,
+        "reviews": 35,
         "reviewsReceived": 43,
         "issuesLinked": 2,
         "reactions": 10
@@ -342,11 +342,11 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 105,
-        "mergedPrs": 14,
-        "reviews": 7,
-        "reviewsReceived": 14,
-        "issuesLinked": 0,
+        "score": 149,
+        "mergedPrs": 20,
+        "reviews": 9,
+        "reviewsReceived": 18,
+        "issuesLinked": 2,
         "reactions": 1
       }
     },

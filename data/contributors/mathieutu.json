@@ -1,13 +1,13 @@
 {
   "username": "mathieutu",
-  "lastUpdated": "2026-09-05T20:07:05.849Z",
+  "lastUpdated": "2026-09-09T23:32:19.414Z",
   "aggregatedStats": {
-    "score": 61,
-    "mergedPrs": 9,
+    "score": 66,
+    "mergedPrs": 10,
     "reviews": 1,
     "reviewsReceived": 6,
     "issuesLinked": 2,
-    "reactions": 26
+    "reactions": 28
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 3
     },
     "vuejs": {
-      "score": 17,
-      "mergedPrs": 2,
+      "score": 22,
+      "mergedPrs": 3,
       "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 5
+      "reactions": 7
     },
     "zen-browser": {
       "score": 14,
@@ -124,12 +124,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       },
       "devtools-v6": {
         "score": 0,

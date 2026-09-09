@@ -1,33 +1,33 @@
 {
   "username": "69hunter",
-  "lastUpdated": "2026-09-05T05:01:12.031Z",
+  "lastUpdated": "2026-09-09T23:32:31.708Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 1
+    "score": 31,
+    "mergedPrs": 4,
+    "reviews": 2,
+    "reviewsReceived": 1,
+    "issuesLinked": 2,
+    "reactions": 2
   },
   "orgStats": {
     "vuejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "score": 31,
+      "mergedPrs": 4,
+      "reviews": 2,
+      "reviewsReceived": 1,
+      "issuesLinked": 2,
+      "reactions": 2
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
+        "score": 31,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 1,
+        "issuesLinked": 2,
+        "reactions": 2
       }
     }
   }

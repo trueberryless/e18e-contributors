@@ -1,10 +1,10 @@
 {
   "username": "jocarrd",
-  "lastUpdated": "2026-09-09T18:37:35.439Z",
+  "lastUpdated": "2026-09-09T23:32:23.785Z",
   "aggregatedStats": {
-    "score": 37,
+    "score": 40,
     "mergedPrs": 0,
-    "reviews": 12,
+    "reviews": 13,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 7
@@ -17,6 +17,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 7
+    },
+    "vitejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     }
   },
   "repoStats": {
@@ -28,6 +36,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 7
+      }
+    },
+    "vitejs": {
+      "vite": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     }
   }

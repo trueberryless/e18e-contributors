@@ -1,13 +1,13 @@
 {
   "username": "azat-io",
-  "lastUpdated": "2026-09-08T06:25:03.252Z",
+  "lastUpdated": "2026-09-09T23:32:10.047Z",
   "aggregatedStats": {
-    "score": 135,
-    "mergedPrs": 19,
-    "reviews": 5,
-    "reviewsReceived": 17,
+    "score": 145,
+    "mergedPrs": 20,
+    "reviews": 6,
+    "reviewsReceived": 19,
     "issuesLinked": 1,
-    "reactions": 50
+    "reactions": 54
   },
   "orgStats": {
     "biomejs": {
@@ -51,12 +51,12 @@
       "reactions": 27
     },
     "vitejs": {
-      "score": 11,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 2,
+      "score": 21,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
-      "reactions": 5
+      "reactions": 9
     },
     "vitest-dev": {
       "score": 13,
@@ -152,12 +152,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 2,
+        "score": 21,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 5
+        "reactions": 9
       }
     },
     "vitest-dev": {

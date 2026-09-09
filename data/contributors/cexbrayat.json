@@ -1,13 +1,13 @@
 {
   "username": "cexbrayat",
-  "lastUpdated": "2026-09-09T18:37:26.618Z",
+  "lastUpdated": "2026-09-09T23:32:14.183Z",
   "aggregatedStats": {
-    "score": 3568,
-    "mergedPrs": 312,
-    "reviews": 579,
-    "reviewsReceived": 165,
-    "issuesLinked": 31,
-    "reactions": 434
+    "score": 3669,
+    "mergedPrs": 327,
+    "reviews": 583,
+    "reviewsReceived": 173,
+    "issuesLinked": 34,
+    "reactions": 435
   },
   "orgStats": {
     "nuxt": {
@@ -35,20 +35,20 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 31,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "score": 88,
+      "mergedPrs": 13,
+      "reviews": 4,
+      "reviewsReceived": 6,
+      "issuesLinked": 2,
       "reactions": 5
     },
     "vuejs": {
-      "score": 3484,
-      "mergedPrs": 301,
-      "reviews": 577,
-      "reviewsReceived": 154,
-      "issuesLinked": 29,
-      "reactions": 356
+      "score": 3528,
+      "mergedPrs": 307,
+      "reviews": 579,
+      "reviewsReceived": 160,
+      "issuesLinked": 30,
+      "reactions": 357
     }
   },
   "repoStats": {
@@ -108,11 +108,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 31,
-        "mergedPrs": 4,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
+        "score": 88,
+        "mergedPrs": 13,
+        "reviews": 4,
+        "reviewsReceived": 6,
+        "issuesLinked": 2,
         "reactions": 5
       }
     },
@@ -134,12 +134,12 @@
         "reactions": 8
       },
       "core": {
-        "score": 168,
-        "mergedPrs": 27,
-        "reviews": 5,
-        "reviewsReceived": 14,
-        "issuesLinked": 1,
-        "reactions": 19
+        "score": 212,
+        "mergedPrs": 33,
+        "reviews": 7,
+        "reviewsReceived": 20,
+        "issuesLinked": 2,
+        "reactions": 20
       },
       "create-vue": {
         "score": 1141,

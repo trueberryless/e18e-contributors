@@ -1,20 +1,20 @@
 {
   "username": "zxch3n",
-  "lastUpdated": "2026-09-09T05:08:58.281Z",
+  "lastUpdated": "2026-09-09T23:32:31.582Z",
   "aggregatedStats": {
-    "score": 60,
-    "mergedPrs": 6,
-    "reviews": 7,
-    "reviewsReceived": 1,
+    "score": 75,
+    "mergedPrs": 8,
+    "reviews": 8,
+    "reviewsReceived": 3,
     "issuesLinked": 2,
     "reactions": 36
   },
   "orgStats": {
     "vitest-dev": {
-      "score": 60,
-      "mergedPrs": 6,
-      "reviews": 7,
-      "reviewsReceived": 1,
+      "score": 75,
+      "mergedPrs": 8,
+      "reviews": 8,
+      "reviewsReceived": 3,
       "issuesLinked": 2,
       "reactions": 36
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vitest-dev": {
       "vitest": {
-        "score": 27,
-        "mergedPrs": 4,
-        "reviews": 2,
-        "reviewsReceived": 1,
+        "score": 42,
+        "mergedPrs": 6,
+        "reviews": 3,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 2
       },

@@ -1,11 +1,11 @@
 {
   "username": "yangmingshan",
-  "lastUpdated": "2026-09-09T05:08:47.447Z",
+  "lastUpdated": "2026-09-09T23:32:21.157Z",
   "aggregatedStats": {
-    "score": 66,
-    "mergedPrs": 11,
+    "score": 93,
+    "mergedPrs": 16,
     "reviews": 2,
-    "reviewsReceived": 4,
+    "reviewsReceived": 6,
     "issuesLinked": 0,
     "reactions": 11
   },
@@ -27,10 +27,10 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 59,
-      "mergedPrs": 10,
+      "score": 86,
+      "mergedPrs": 15,
       "reviews": 2,
-      "reviewsReceived": 2,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
       "reactions": 11
     }
@@ -66,10 +66,10 @@
         "reactions": 0
       },
       "core": {
-        "score": 48,
-        "mergedPrs": 8,
+        "score": 75,
+        "mergedPrs": 13,
         "reviews": 2,
-        "reviewsReceived": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 8
       },

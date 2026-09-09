@@ -1,10 +1,10 @@
 {
   "username": "suyundukov",
-  "lastUpdated": "2026-09-09T00:33:01.032Z",
+  "lastUpdated": "2026-09-09T23:32:30.683Z",
   "aggregatedStats": {
-    "score": 18,
+    "score": 21,
     "mergedPrs": 0,
-    "reviews": 6,
+    "reviews": 7,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 9,
+      "score": 12,
       "mergedPrs": 0,
-      "reviews": 3,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -39,6 +39,14 @@
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vetur": {
         "score": 3,
         "mergedPrs": 0,

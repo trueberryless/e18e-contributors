@@ -1,13 +1,13 @@
 {
   "username": "yyx990803",
-  "lastUpdated": "2026-09-09T05:08:46.948Z",
+  "lastUpdated": "2026-09-09T23:32:20.683Z",
   "aggregatedStats": {
-    "score": 4124,
-    "mergedPrs": 110,
-    "reviews": 344,
-    "reviewsReceived": 20,
-    "issuesLinked": 13,
-    "reactions": 24961
+    "score": 4228,
+    "mergedPrs": 118,
+    "reviews": 361,
+    "reviewsReceived": 21,
+    "issuesLinked": 15,
+    "reactions": 25048
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 32
     },
     "vitejs": {
-      "score": 143,
-      "mergedPrs": 7,
+      "score": 149,
+      "mergedPrs": 8,
       "reviews": 17,
-      "reviewsReceived": 5,
+      "reviewsReceived": 6,
       "issuesLinked": 0,
-      "reactions": 519
+      "reactions": 520
     },
     "vitest-dev": {
       "score": 8,
@@ -43,12 +43,12 @@
       "reactions": 21
     },
     "vuejs": {
-      "score": 3959,
-      "mergedPrs": 101,
-      "reviews": 327,
+      "score": 4057,
+      "mergedPrs": 108,
+      "reviews": 344,
       "reviewsReceived": 14,
-      "issuesLinked": 13,
-      "reactions": 24328
+      "issuesLinked": 15,
+      "reactions": 24414
     },
     "withastro": {
       "score": 1,
@@ -114,12 +114,12 @@
         "reactions": 38
       },
       "vite": {
-        "score": 115,
-        "mergedPrs": 6,
+        "score": 121,
+        "mergedPrs": 7,
         "reviews": 11,
-        "reviewsReceived": 4,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
-        "reactions": 481
+        "reactions": 482
       },
       "vite-plugin-react-refresh": {
         "score": 3,
@@ -206,12 +206,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 724,
-        "mergedPrs": 29,
-        "reviews": 107,
+        "score": 823,
+        "mergedPrs": 36,
+        "reviews": 124,
         "reviewsReceived": 0,
-        "issuesLinked": 4,
-        "reactions": 2500
+        "issuesLinked": 6,
+        "reactions": 2586
       },
       "create-vue": {
         "score": 0,

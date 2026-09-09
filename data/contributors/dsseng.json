@@ -1,12 +1,12 @@
 {
   "username": "dsseng",
-  "lastUpdated": "2026-09-09T05:08:44.457Z",
+  "lastUpdated": "2026-09-09T23:32:15.961Z",
   "aggregatedStats": {
-    "score": 118,
-    "mergedPrs": 16,
-    "reviews": 6,
+    "score": 128,
+    "mergedPrs": 17,
+    "reviews": 7,
     "reviewsReceived": 12,
-    "issuesLinked": 3,
+    "issuesLinked": 4,
     "reactions": 19
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 88,
-      "mergedPrs": 11,
-      "reviews": 6,
+      "score": 98,
+      "mergedPrs": 12,
+      "reviews": 7,
       "reviewsReceived": 7,
-      "issuesLinked": 3,
+      "issuesLinked": 4,
       "reactions": 17
     }
   },
@@ -76,11 +76,11 @@
     },
     "vuejs": {
       "core": {
-        "score": 7,
-        "mergedPrs": 0,
-        "reviews": 2,
+        "score": 17,
+        "mergedPrs": 1,
+        "reviews": 3,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 6
       },
       "devtools-v6": {

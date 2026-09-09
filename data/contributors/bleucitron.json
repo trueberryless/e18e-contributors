@@ -1,22 +1,22 @@
 {
   "username": "bleucitron",
-  "lastUpdated": "2026-09-08T06:25:17.494Z",
+  "lastUpdated": "2026-09-09T23:32:25.207Z",
   "aggregatedStats": {
-    "score": 60,
-    "mergedPrs": 8,
-    "reviews": 1,
-    "reviewsReceived": 10,
+    "score": 82,
+    "mergedPrs": 11,
+    "reviews": 2,
+    "reviewsReceived": 14,
     "issuesLinked": 2,
-    "reactions": 26
+    "reactions": 28
   },
   "orgStats": {
     "sveltejs": {
-      "score": 60,
-      "mergedPrs": 8,
-      "reviews": 1,
-      "reviewsReceived": 10,
+      "score": 82,
+      "mergedPrs": 11,
+      "reviews": 2,
+      "reviewsReceived": 14,
       "issuesLinked": 2,
-      "reactions": 26
+      "reactions": 28
     }
   },
   "repoStats": {
@@ -70,12 +70,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 7,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
+        "score": 29,
+        "mergedPrs": 4,
+        "reviews": 1,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
-        "reactions": 6
+        "reactions": 8
       },
       "svelte.dev": {
         "score": 0,

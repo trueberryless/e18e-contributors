@@ -1,13 +1,13 @@
 {
   "username": "patak-cat",
-  "lastUpdated": "2026-09-09T05:08:41.618Z",
+  "lastUpdated": "2026-09-09T23:32:11.896Z",
   "aggregatedStats": {
-    "score": 7093,
-    "mergedPrs": 375,
-    "reviews": 1573,
-    "reviewsReceived": 303,
-    "issuesLinked": 44,
-    "reactions": 1079
+    "score": 9584,
+    "mergedPrs": 541,
+    "reviews": 2076,
+    "reviewsReceived": 403,
+    "issuesLinked": 68,
+    "reactions": 1113
   },
   "orgStats": {
     "e18e": {
@@ -35,28 +35,28 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 6314,
-      "mergedPrs": 304,
-      "reviews": 1456,
-      "reviewsReceived": 257,
-      "issuesLinked": 39,
-      "reactions": 914
+      "score": 8047,
+      "mergedPrs": 412,
+      "reviews": 1812,
+      "reviewsReceived": 347,
+      "issuesLinked": 55,
+      "reactions": 938
     },
     "vitest-dev": {
-      "score": 203,
-      "mergedPrs": 22,
-      "reviews": 25,
-      "reviewsReceived": 14,
-      "issuesLinked": 0,
-      "reactions": 37
+      "score": 949,
+      "mergedPrs": 79,
+      "reviews": 171,
+      "reviewsReceived": 22,
+      "issuesLinked": 7,
+      "reactions": 46
     },
     "vuejs": {
-      "score": 166,
-      "mergedPrs": 25,
-      "reviews": 7,
-      "reviewsReceived": 7,
-      "issuesLinked": 5,
-      "reactions": 27
+      "score": 178,
+      "mergedPrs": 26,
+      "reviews": 8,
+      "reviewsReceived": 9,
+      "issuesLinked": 6,
+      "reactions": 28
     }
   },
   "repoStats": {
@@ -132,12 +132,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 5390,
-        "mergedPrs": 253,
-        "reviews": 1243,
-        "reviewsReceived": 229,
-        "issuesLinked": 39,
-        "reactions": 893
+        "score": 7123,
+        "mergedPrs": 361,
+        "reviews": 1599,
+        "reviewsReceived": 319,
+        "issuesLinked": 55,
+        "reactions": 917
       },
       "vite-ecosystem-ci": {
         "score": 580,
@@ -206,22 +206,22 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 203,
-        "mergedPrs": 22,
-        "reviews": 25,
-        "reviewsReceived": 14,
-        "issuesLinked": 0,
-        "reactions": 37
+        "score": 949,
+        "mergedPrs": 79,
+        "reviews": 171,
+        "reviewsReceived": 22,
+        "issuesLinked": 7,
+        "reactions": 46
       }
     },
     "vuejs": {
       "core": {
-        "score": 13,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 3
+        "score": 25,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
+        "reactions": 4
       },
       "docs": {
         "score": 28,

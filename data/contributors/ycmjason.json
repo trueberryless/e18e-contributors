@@ -1,11 +1,11 @@
 {
   "username": "ycmjason",
-  "lastUpdated": "2026-09-09T05:08:39.888Z",
+  "lastUpdated": "2026-09-09T23:32:10.544Z",
   "aggregatedStats": {
-    "score": 141,
-    "mergedPrs": 17,
+    "score": 148,
+    "mergedPrs": 18,
     "reviews": 12,
-    "reviewsReceived": 9,
+    "reviewsReceived": 11,
     "issuesLinked": 0,
     "reactions": 115
   },
@@ -43,10 +43,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -110,10 +110,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

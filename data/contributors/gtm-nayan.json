@@ -1,13 +1,13 @@
 {
   "username": "gtm-nayan",
-  "lastUpdated": "2026-09-09T00:32:50.329Z",
+  "lastUpdated": "2026-09-09T23:32:21.576Z",
   "aggregatedStats": {
-    "score": 1069,
-    "mergedPrs": 117,
-    "reviews": 91,
-    "reviewsReceived": 106,
-    "issuesLinked": 49,
-    "reactions": 77
+    "score": 1526,
+    "mergedPrs": 162,
+    "reviews": 142,
+    "reviewsReceived": 150,
+    "issuesLinked": 66,
+    "reactions": 83
   },
   "orgStats": {
     "pnpm": {
@@ -19,20 +19,20 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 1030,
-      "mergedPrs": 113,
-      "reviews": 88,
-      "reviewsReceived": 100,
-      "issuesLinked": 47,
-      "reactions": 74
+      "score": 1471,
+      "mergedPrs": 156,
+      "reviews": 139,
+      "reviewsReceived": 142,
+      "issuesLinked": 62,
+      "reactions": 78
     },
     "vitejs": {
-      "score": 19,
-      "mergedPrs": 2,
+      "score": 35,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 4,
-      "issuesLinked": 1,
-      "reactions": 2
+      "reviewsReceived": 6,
+      "issuesLinked": 3,
+      "reactions": 4
     },
     "vitest-dev": {
       "score": 20,
@@ -72,11 +72,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 705,
-        "mergedPrs": 73,
-        "reviews": 61,
-        "reviewsReceived": 74,
-        "issuesLinked": 39,
+        "score": 747,
+        "mergedPrs": 76,
+        "reviews": 68,
+        "reviewsReceived": 78,
+        "issuesLinked": 40,
         "reactions": 50
       },
       "language-tools": {
@@ -120,22 +120,22 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 154,
-        "mergedPrs": 15,
-        "reviews": 18,
-        "reviewsReceived": 13,
-        "issuesLinked": 5,
-        "reactions": 19
+        "score": 552,
+        "mergedPrs": 55,
+        "reviews": 62,
+        "reviewsReceived": 51,
+        "issuesLinked": 19,
+        "reactions": 23
       }
     },
     "vitejs": {
       "vite": {
-        "score": 19,
-        "mergedPrs": 2,
+        "score": 35,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 4,
-        "issuesLinked": 1,
-        "reactions": 2
+        "reviewsReceived": 6,
+        "issuesLinked": 3,
+        "reactions": 4
       }
     },
     "vitest-dev": {

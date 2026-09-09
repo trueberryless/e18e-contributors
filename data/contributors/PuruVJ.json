@@ -1,13 +1,13 @@
 {
   "username": "PuruVJ",
-  "lastUpdated": "2026-09-09T00:32:43.233Z",
+  "lastUpdated": "2026-09-09T23:32:11.867Z",
   "aggregatedStats": {
-    "score": 808,
-    "mergedPrs": 124,
-    "reviews": 45,
-    "reviewsReceived": 36,
-    "issuesLinked": 4,
-    "reactions": 95
+    "score": 1248,
+    "mergedPrs": 181,
+    "reviews": 86,
+    "reviewsReceived": 65,
+    "issuesLinked": 5,
+    "reactions": 106
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 769,
-      "mergedPrs": 118,
-      "reviews": 44,
-      "reviewsReceived": 34,
-      "issuesLinked": 3,
-      "reactions": 71
+      "score": 1196,
+      "mergedPrs": 173,
+      "reviews": 84,
+      "reviewsReceived": 63,
+      "issuesLinked": 4,
+      "reactions": 82
     },
     "vitejs": {
       "score": 21,
@@ -43,9 +43,9 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 14,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 12
@@ -138,12 +138,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 139,
-        "mergedPrs": 15,
-        "reviews": 16,
-        "reviewsReceived": 11,
-        "issuesLinked": 1,
-        "reactions": 26
+        "score": 566,
+        "mergedPrs": 70,
+        "reviews": 56,
+        "reviewsReceived": 40,
+        "issuesLinked": 2,
+        "reactions": 37
       },
       "svelte.dev": {
         "score": 22,
@@ -182,9 +182,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 14,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 12

@@ -1,12 +1,12 @@
 {
   "username": "thecrypticace",
-  "lastUpdated": "2026-09-09T05:08:57.537Z",
+  "lastUpdated": "2026-09-09T23:32:30.707Z",
   "aggregatedStats": {
-    "score": 42,
-    "mergedPrs": 6,
-    "reviews": 1,
+    "score": 52,
+    "mergedPrs": 7,
+    "reviews": 2,
     "reviewsReceived": 3,
-    "issuesLinked": 1,
+    "issuesLinked": 2,
     "reactions": 37
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 30,
-      "mergedPrs": 5,
-      "reviews": 0,
+      "score": 40,
+      "mergedPrs": 6,
+      "reviews": 1,
       "reviewsReceived": 2,
-      "issuesLinked": 1,
+      "issuesLinked": 2,
       "reactions": 6
     },
     "withastro": {
@@ -72,11 +72,11 @@
         "reactions": 2
       },
       "core": {
-        "score": 5,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 15,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 4
       },
       "vue": {

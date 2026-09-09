@@ -1,22 +1,22 @@
 {
   "username": "jp-simons",
-  "lastUpdated": "2026-09-05T00:34:32.850Z",
+  "lastUpdated": "2026-09-09T23:32:25.970Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 6,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 28
+    "reactions": 35
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 27
+      "reactions": 34
     },
     "vitejs": {
       "score": 0,
@@ -38,12 +38,12 @@
         "reactions": 2
       },
       "kit": {
-        "score": 2,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 23
+        "reactions": 30
       },
       "rfcs": {
         "score": 0,

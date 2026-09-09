@@ -1,13 +1,13 @@
 {
   "username": "Demivan",
-  "lastUpdated": "2026-09-09T05:08:42.895Z",
+  "lastUpdated": "2026-09-09T23:32:12.983Z",
   "aggregatedStats": {
-    "score": 128,
-    "mergedPrs": 10,
-    "reviews": 18,
-    "reviewsReceived": 10,
-    "issuesLinked": 2,
-    "reactions": 98
+    "score": 420,
+    "mergedPrs": 43,
+    "reviews": 40,
+    "reviewsReceived": 34,
+    "issuesLinked": 20,
+    "reactions": 109
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 20
     },
     "vitest-dev": {
-      "score": 98,
-      "mergedPrs": 7,
-      "reviews": 17,
-      "reviewsReceived": 6,
-      "issuesLinked": 1,
-      "reactions": 37
+      "score": 390,
+      "mergedPrs": 40,
+      "reviews": 39,
+      "reviewsReceived": 30,
+      "issuesLinked": 19,
+      "reactions": 48
     },
     "vuejs": {
       "score": 25,
@@ -92,12 +92,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 98,
-        "mergedPrs": 7,
-        "reviews": 17,
-        "reviewsReceived": 6,
-        "issuesLinked": 1,
-        "reactions": 37
+        "score": 390,
+        "mergedPrs": 40,
+        "reviews": 39,
+        "reviewsReceived": 30,
+        "issuesLinked": 19,
+        "reactions": 48
       }
     },
     "vuejs": {

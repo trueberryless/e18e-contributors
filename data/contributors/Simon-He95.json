@@ -1,13 +1,13 @@
 {
   "username": "Simon-He95",
-  "lastUpdated": "2026-09-09T10:05:36.963Z",
+  "lastUpdated": "2026-09-09T23:32:10.568Z",
   "aggregatedStats": {
-    "score": 176,
-    "mergedPrs": 27,
+    "score": 182,
+    "mergedPrs": 28,
     "reviews": 5,
-    "reviewsReceived": 21,
+    "reviewsReceived": 22,
     "issuesLinked": 2,
-    "reactions": 22
+    "reactions": 24
   },
   "orgStats": {
     "bombshell-dev": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "vitejs": {
       "score": 48,
@@ -142,12 +142,12 @@
     },
     "sveltejs": {
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       },
       "svelte.dev": {
         "score": 0,

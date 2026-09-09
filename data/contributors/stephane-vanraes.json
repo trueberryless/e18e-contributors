@@ -1,20 +1,20 @@
 {
   "username": "stephane-vanraes",
-  "lastUpdated": "2026-09-09T00:32:56.301Z",
+  "lastUpdated": "2026-09-09T23:32:26.640Z",
   "aggregatedStats": {
-    "score": 59,
-    "mergedPrs": 8,
+    "score": 65,
+    "mergedPrs": 9,
     "reviews": 2,
-    "reviewsReceived": 6,
+    "reviewsReceived": 7,
     "issuesLinked": 2,
     "reactions": 27
   },
   "orgStats": {
     "sveltejs": {
-      "score": 59,
-      "mergedPrs": 8,
+      "score": 65,
+      "mergedPrs": 9,
       "reviews": 2,
-      "reviewsReceived": 6,
+      "reviewsReceived": 7,
       "issuesLinked": 2,
       "reactions": 27
     }
@@ -30,10 +30,10 @@
         "reactions": 0
       },
       "kit": {
-        "score": 27,
-        "mergedPrs": 3,
+        "score": 33,
+        "mergedPrs": 4,
         "reviews": 2,
-        "reviewsReceived": 3,
+        "reviewsReceived": 4,
         "issuesLinked": 1,
         "reactions": 10
       },

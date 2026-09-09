@@ -1,21 +1,21 @@
 {
   "username": "theodorejb",
-  "lastUpdated": "2026-09-09T00:32:56.376Z",
+  "lastUpdated": "2026-09-09T23:32:26.687Z",
   "aggregatedStats": {
-    "score": 38,
-    "mergedPrs": 5,
+    "score": 68,
+    "mergedPrs": 9,
     "reviews": 0,
-    "reviewsReceived": 4,
-    "issuesLinked": 4,
+    "reviewsReceived": 8,
+    "issuesLinked": 7,
     "reactions": 7
   },
   "orgStats": {
     "sveltejs": {
-      "score": 38,
-      "mergedPrs": 5,
+      "score": 68,
+      "mergedPrs": 9,
       "reviews": 0,
-      "reviewsReceived": 4,
-      "issuesLinked": 4,
+      "reviewsReceived": 8,
+      "issuesLinked": 7,
       "reactions": 7
     }
   },
@@ -38,11 +38,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 29,
-        "mergedPrs": 4,
+        "score": 59,
+        "mergedPrs": 8,
         "reviews": 0,
-        "reviewsReceived": 3,
-        "issuesLinked": 3,
+        "reviewsReceived": 7,
+        "issuesLinked": 6,
         "reactions": 4
       }
     }

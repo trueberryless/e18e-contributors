@@ -1,11 +1,11 @@
 {
   "username": "EvHaus",
-  "lastUpdated": "2026-09-09T14:49:58.829Z",
+  "lastUpdated": "2026-09-09T23:32:09.871Z",
   "aggregatedStats": {
-    "score": 32,
-    "mergedPrs": 3,
-    "reviews": 2,
-    "reviewsReceived": 3,
+    "score": 47,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 5,
     "issuesLinked": 0,
     "reactions": 71
   },
@@ -27,10 +27,10 @@
       "reactions": 1
     },
     "vitest-dev": {
-      "score": 22,
-      "mergedPrs": 3,
-      "reviews": 1,
-      "reviewsReceived": 3,
+      "score": 37,
+      "mergedPrs": 5,
+      "reviews": 2,
+      "reviewsReceived": 5,
       "issuesLinked": 0,
       "reactions": 6
     },
@@ -74,10 +74,10 @@
         "reactions": 3
       },
       "vitest": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 18,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 3
       }

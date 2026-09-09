@@ -1,12 +1,12 @@
 {
   "username": "ktsn",
-  "lastUpdated": "2026-09-09T05:08:45.371Z",
+  "lastUpdated": "2026-09-09T23:32:19.200Z",
   "aggregatedStats": {
-    "score": 2102,
-    "mergedPrs": 177,
-    "reviews": 317,
+    "score": 2119,
+    "mergedPrs": 179,
+    "reviews": 318,
     "reviewsReceived": 69,
-    "issuesLinked": 52,
+    "issuesLinked": 54,
     "reactions": 932
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 2102,
-      "mergedPrs": 177,
-      "reviews": 317,
+      "score": 2119,
+      "mergedPrs": 179,
+      "reviews": 318,
       "reviewsReceived": 69,
-      "issuesLinked": 52,
+      "issuesLinked": 54,
       "reactions": 930
     }
   },
@@ -82,11 +82,11 @@
         "reactions": 14
       },
       "core": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
+        "score": 20,
+        "mergedPrs": 2,
+        "reviews": 2,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 2,
         "reactions": 0
       },
       "eslint-plugin-vue": {

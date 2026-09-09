@@ -1,10 +1,10 @@
 {
   "username": "Artur-",
-  "lastUpdated": "2026-09-09T00:32:49.234Z",
+  "lastUpdated": "2026-09-09T23:32:20.768Z",
   "aggregatedStats": {
-    "score": 18,
+    "score": 21,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 1,
     "reactions": 83
@@ -27,9 +27,9 @@
       "reactions": 27
     },
     "vitejs": {
-      "score": 13,
+      "score": 16,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 2,
       "issuesLinked": 1,
       "reactions": 40
@@ -66,9 +66,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 13,
+        "score": 16,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 2,
         "issuesLinked": 1,
         "reactions": 40

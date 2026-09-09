@@ -1,22 +1,22 @@
 {
   "username": "cdcarson",
-  "lastUpdated": "2026-09-09T00:32:54.710Z",
+  "lastUpdated": "2026-09-09T23:32:25.255Z",
   "aggregatedStats": {
-    "score": 28,
-    "mergedPrs": 1,
-    "reviews": 2,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 144
+    "score": 57,
+    "mergedPrs": 3,
+    "reviews": 6,
+    "reviewsReceived": 3,
+    "issuesLinked": 3,
+    "reactions": 146
   },
   "orgStats": {
     "sveltejs": {
-      "score": 28,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 144
+      "score": 57,
+      "mergedPrs": 3,
+      "reviews": 6,
+      "reviewsReceived": 3,
+      "issuesLinked": 3,
+      "reactions": 146
     },
     "withastro": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 27,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 128
+        "score": 55,
+        "mergedPrs": 3,
+        "reviews": 6,
+        "reviewsReceived": 3,
+        "issuesLinked": 3,
+        "reactions": 130
       },
       "language-tools": {
         "score": 0,

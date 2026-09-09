@@ -1,22 +1,22 @@
 {
   "username": "KAROTT7",
-  "lastUpdated": "2026-09-09T00:32:59.616Z",
+  "lastUpdated": "2026-09-09T23:32:29.448Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
-    "reviews": 0,
-    "reviewsReceived": 2,
-    "issuesLinked": 1,
-    "reactions": 3
+    "score": 26,
+    "mergedPrs": 3,
+    "reviews": 1,
+    "reviewsReceived": 3,
+    "issuesLinked": 2,
+    "reactions": 6
   },
   "orgStats": {
     "vitejs": {
-      "score": 14,
-      "mergedPrs": 2,
-      "reviews": 0,
-      "reviewsReceived": 2,
-      "issuesLinked": 1,
-      "reactions": 3
+      "score": 26,
+      "mergedPrs": 3,
+      "reviews": 1,
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
+      "reactions": 6
     },
     "vuejs": {
       "score": 0,
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 8,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 3
+        "score": 20,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
+        "reactions": 6
       }
     },
     "vuejs": {

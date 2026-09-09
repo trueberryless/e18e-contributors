@@ -1,22 +1,22 @@
 {
   "username": "sun0day",
-  "lastUpdated": "2026-09-09T05:08:57.505Z",
+  "lastUpdated": "2026-09-09T23:32:30.676Z",
   "aggregatedStats": {
-    "score": 210,
-    "mergedPrs": 21,
-    "reviews": 10,
-    "reviewsReceived": 34,
-    "issuesLinked": 19,
-    "reactions": 30
+    "score": 663,
+    "mergedPrs": 74,
+    "reviews": 32,
+    "reviewsReceived": 103,
+    "issuesLinked": 45,
+    "reactions": 37
   },
   "orgStats": {
     "vitejs": {
-      "score": 179,
-      "mergedPrs": 18,
-      "reviews": 8,
-      "reviewsReceived": 30,
-      "issuesLinked": 16,
-      "reactions": 30
+      "score": 632,
+      "mergedPrs": 71,
+      "reviews": 30,
+      "reviewsReceived": 99,
+      "issuesLinked": 42,
+      "reactions": 37
     },
     "vitest-dev": {
       "score": 23,
@@ -38,12 +38,12 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 171,
-        "mergedPrs": 17,
-        "reviews": 8,
-        "reviewsReceived": 29,
-        "issuesLinked": 15,
-        "reactions": 30
+        "score": 624,
+        "mergedPrs": 70,
+        "reviews": 30,
+        "reviewsReceived": 98,
+        "issuesLinked": 41,
+        "reactions": 37
       },
       "vite-plugin-vue2": {
         "score": 8,

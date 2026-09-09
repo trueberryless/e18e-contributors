@@ -1,13 +1,13 @@
 {
   "username": "nieyuyao",
-  "lastUpdated": "2026-09-09T05:08:45.863Z",
+  "lastUpdated": "2026-09-09T23:32:19.641Z",
   "aggregatedStats": {
-    "score": 77,
-    "mergedPrs": 8,
-    "reviews": 4,
-    "reviewsReceived": 9,
-    "issuesLinked": 7,
-    "reactions": 16
+    "score": 103,
+    "mergedPrs": 11,
+    "reviews": 5,
+    "reviewsReceived": 11,
+    "issuesLinked": 10,
+    "reactions": 17
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 51,
-      "mergedPrs": 5,
-      "reviews": 3,
-      "reviewsReceived": 6,
-      "issuesLinked": 5,
-      "reactions": 7
+      "score": 77,
+      "mergedPrs": 8,
+      "reviews": 4,
+      "reviewsReceived": 8,
+      "issuesLinked": 8,
+      "reactions": 8
     },
     "vuejs": {
       "score": 26,
@@ -48,12 +48,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 51,
-        "mergedPrs": 5,
-        "reviews": 3,
-        "reviewsReceived": 6,
-        "issuesLinked": 5,
-        "reactions": 7
+        "score": 77,
+        "mergedPrs": 8,
+        "reviews": 4,
+        "reviewsReceived": 8,
+        "issuesLinked": 8,
+        "reactions": 8
       }
     },
     "vuejs": {

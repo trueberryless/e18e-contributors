@@ -1,22 +1,22 @@
 {
   "username": "Theo-Steiner",
-  "lastUpdated": "2026-09-08T06:25:17.150Z",
+  "lastUpdated": "2026-09-09T23:32:24.982Z",
   "aggregatedStats": {
-    "score": 63,
-    "mergedPrs": 8,
+    "score": 69,
+    "mergedPrs": 9,
     "reviews": 4,
-    "reviewsReceived": 6,
+    "reviewsReceived": 7,
     "issuesLinked": 0,
-    "reactions": 44
+    "reactions": 47
   },
   "orgStats": {
     "sveltejs": {
-      "score": 56,
-      "mergedPrs": 7,
+      "score": 62,
+      "mergedPrs": 8,
       "reviews": 4,
-      "reviewsReceived": 6,
+      "reviewsReceived": 7,
       "issuesLinked": 0,
-      "reactions": 28
+      "reactions": 31
     },
     "tanstack": {
       "score": 0,
@@ -62,12 +62,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 35,
-        "mergedPrs": 4,
+        "score": 41,
+        "mergedPrs": 5,
         "reviews": 3,
-        "reviewsReceived": 4,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
-        "reactions": 20
+        "reactions": 23
       },
       "svelte-eslint-parser": {
         "score": 0,

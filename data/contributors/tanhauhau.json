@@ -1,22 +1,22 @@
 {
   "username": "tanhauhau",
-  "lastUpdated": "2026-09-09T05:08:53.256Z",
+  "lastUpdated": "2026-09-09T23:32:26.664Z",
   "aggregatedStats": {
-    "score": 520,
-    "mergedPrs": 57,
-    "reviews": 23,
-    "reviewsReceived": 23,
-    "issuesLinked": 34,
-    "reactions": 742
+    "score": 834,
+    "mergedPrs": 78,
+    "reviews": 78,
+    "reviewsReceived": 41,
+    "issuesLinked": 47,
+    "reactions": 751
   },
   "orgStats": {
     "sveltejs": {
-      "score": 514,
-      "mergedPrs": 56,
-      "reviews": 23,
-      "reviewsReceived": 23,
-      "issuesLinked": 34,
-      "reactions": 735
+      "score": 818,
+      "mergedPrs": 76,
+      "reviews": 77,
+      "reviewsReceived": 41,
+      "issuesLinked": 46,
+      "reactions": 744
     },
     "vitejs": {
       "score": 1,
@@ -35,11 +35,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 0
     }
   },
@@ -62,9 +62,9 @@
         "reactions": 0
       },
       "kit": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 5
@@ -134,12 +134,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 216,
-        "mergedPrs": 17,
-        "reviews": 11,
-        "reviewsReceived": 13,
-        "issuesLinked": 13,
-        "reactions": 588
+        "score": 518,
+        "mergedPrs": 37,
+        "reviews": 64,
+        "reviewsReceived": 31,
+        "issuesLinked": 25,
+        "reactions": 597
       },
       "svelte-devtools": {
         "score": 1,
@@ -188,11 +188,11 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       }
     }

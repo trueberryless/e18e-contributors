@@ -1,12 +1,12 @@
 {
   "username": "LinusBorg",
-  "lastUpdated": "2026-09-09T05:08:56.174Z",
+  "lastUpdated": "2026-09-09T23:32:29.473Z",
   "aggregatedStats": {
-    "score": 1364,
-    "mergedPrs": 121,
-    "reviews": 158,
-    "reviewsReceived": 83,
-    "issuesLinked": 68,
+    "score": 1476,
+    "mergedPrs": 131,
+    "reviews": 171,
+    "reviewsReceived": 88,
+    "issuesLinked": 77,
     "reactions": 660
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 1364,
-      "mergedPrs": 121,
-      "reviews": 158,
-      "reviewsReceived": 83,
-      "issuesLinked": 68,
+      "score": 1476,
+      "mergedPrs": 131,
+      "reviews": 171,
+      "reviewsReceived": 88,
+      "issuesLinked": 77,
       "reactions": 660
     }
   },
@@ -56,11 +56,11 @@
         "reactions": 1
       },
       "core": {
-        "score": 409,
-        "mergedPrs": 35,
-        "reviews": 43,
-        "reviewsReceived": 22,
-        "issuesLinked": 34,
+        "score": 521,
+        "mergedPrs": 45,
+        "reviews": 56,
+        "reviewsReceived": 27,
+        "issuesLinked": 43,
         "reactions": 153
       },
       "devtools-v6": {

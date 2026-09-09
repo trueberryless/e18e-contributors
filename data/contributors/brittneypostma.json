@@ -1,20 +1,20 @@
 {
   "username": "brittneypostma",
-  "lastUpdated": "2026-09-09T00:32:54.667Z",
+  "lastUpdated": "2026-09-09T23:32:25.227Z",
   "aggregatedStats": {
-    "score": 20,
-    "mergedPrs": 2,
-    "reviews": 2,
-    "reviewsReceived": 2,
+    "score": 35,
+    "mergedPrs": 3,
+    "reviews": 5,
+    "reviewsReceived": 3,
     "issuesLinked": 1,
     "reactions": 1
   },
   "orgStats": {
     "sveltejs": {
-      "score": 20,
-      "mergedPrs": 2,
-      "reviews": 2,
-      "reviewsReceived": 2,
+      "score": 35,
+      "mergedPrs": 3,
+      "reviews": 5,
+      "reviewsReceived": 3,
       "issuesLinked": 1,
       "reactions": 1
     },
@@ -54,10 +54,10 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 18,
+        "mergedPrs": 1,
+        "reviews": 4,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

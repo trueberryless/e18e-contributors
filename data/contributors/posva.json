@@ -1,13 +1,13 @@
 {
   "username": "posva",
-  "lastUpdated": "2026-09-09T21:14:46.838Z",
+  "lastUpdated": "2026-09-09T23:32:10.605Z",
   "aggregatedStats": {
-    "score": 6491,
-    "mergedPrs": 315,
-    "reviews": 1477,
+    "score": 6675,
+    "mergedPrs": 324,
+    "reviews": 1521,
     "reviewsReceived": 92,
-    "issuesLinked": 71,
-    "reactions": 2524
+    "issuesLinked": 74,
+    "reactions": 2534
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,12 +75,12 @@
       "reactions": 13
     },
     "vuejs": {
-      "score": 6241,
-      "mergedPrs": 287,
-      "reviews": 1454,
+      "score": 6425,
+      "mergedPrs": 296,
+      "reviews": 1498,
       "reviewsReceived": 78,
-      "issuesLinked": 67,
-      "reactions": 2323
+      "issuesLinked": 70,
+      "reactions": 2333
     }
   },
   "repoStats": {
@@ -286,12 +286,12 @@
         "reactions": 9
       },
       "core": {
-        "score": 292,
-        "mergedPrs": 12,
-        "reviews": 66,
+        "score": 476,
+        "mergedPrs": 21,
+        "reviews": 110,
         "reviewsReceived": 11,
-        "issuesLinked": 2,
-        "reactions": 190
+        "issuesLinked": 5,
+        "reactions": 200
       },
       "devtools": {
         "score": 17,

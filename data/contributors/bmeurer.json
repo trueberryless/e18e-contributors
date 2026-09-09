@@ -1,13 +1,13 @@
 {
   "username": "bmeurer",
-  "lastUpdated": "2026-09-08T06:25:17.499Z",
+  "lastUpdated": "2026-09-09T23:32:25.210Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 3
+    "score": 40,
+    "mergedPrs": 3,
+    "reviews": 5,
+    "reviewsReceived": 5,
+    "issuesLinked": 2,
+    "reactions": 6
   },
   "orgStats": {
     "sveltejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 3
+      "score": 37,
+      "mergedPrs": 3,
+      "reviews": 4,
+      "reviewsReceived": 5,
+      "issuesLinked": 2,
+      "reactions": 6
     },
     "vuejs": {
       "score": 0,
@@ -48,12 +48,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 3
+        "score": 37,
+        "mergedPrs": 3,
+        "reviews": 4,
+        "reviewsReceived": 5,
+        "issuesLinked": 2,
+        "reactions": 6
       }
     },
     "vuejs": {

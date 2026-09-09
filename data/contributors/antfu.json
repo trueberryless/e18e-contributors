@@ -1,13 +1,13 @@
 {
   "username": "antfu",
-  "lastUpdated": "2026-09-09T21:14:49.056Z",
+  "lastUpdated": "2026-09-09T23:32:12.683Z",
   "aggregatedStats": {
-    "score": 8076,
-    "mergedPrs": 695,
-    "reviews": 1174,
-    "reviewsReceived": 352,
-    "issuesLinked": 147,
-    "reactions": 4329
+    "score": 8598,
+    "mergedPrs": 725,
+    "reviews": 1290,
+    "reviewsReceived": 364,
+    "issuesLinked": 152,
+    "reactions": 4346
   },
   "orgStats": {
     "npmx-dev": {
@@ -51,25 +51,25 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 1104,
-      "mergedPrs": 105,
-      "reviews": 162,
-      "reviewsReceived": 20,
-      "issuesLinked": 7,
-      "reactions": 589
+      "score": 1204,
+      "mergedPrs": 113,
+      "reviews": 178,
+      "reviewsReceived": 29,
+      "issuesLinked": 8,
+      "reactions": 597
     },
     "vitest-dev": {
-      "score": 860,
-      "mergedPrs": 38,
-      "reviews": 203,
-      "reviewsReceived": 26,
-      "issuesLinked": 4,
-      "reactions": 274
+      "score": 1256,
+      "mergedPrs": 59,
+      "reviews": 296,
+      "reviewsReceived": 29,
+      "issuesLinked": 8,
+      "reactions": 283
     },
     "vuejs": {
-      "score": 1344,
-      "mergedPrs": 123,
-      "reviews": 176,
+      "score": 1370,
+      "mergedPrs": 124,
+      "reviews": 183,
       "reviewsReceived": 62,
       "issuesLinked": 30,
       "reactions": 792
@@ -400,12 +400,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 185,
-        "mergedPrs": 14,
-        "reviews": 25,
-        "reviewsReceived": 15,
-        "issuesLinked": 2,
-        "reactions": 207
+        "score": 285,
+        "mergedPrs": 22,
+        "reviews": 41,
+        "reviewsReceived": 24,
+        "issuesLinked": 3,
+        "reactions": 215
       },
       "vite-benchmark": {
         "score": 10,
@@ -458,12 +458,12 @@
         "reactions": 60
       },
       "vitest": {
-        "score": 823,
-        "mergedPrs": 34,
-        "reviews": 201,
-        "reviewsReceived": 21,
-        "issuesLinked": 4,
-        "reactions": 210
+        "score": 1219,
+        "mergedPrs": 55,
+        "reviews": 294,
+        "reviewsReceived": 24,
+        "issuesLinked": 8,
+        "reactions": 219
       },
       "vscode": {
         "score": 0,
@@ -500,9 +500,9 @@
         "reactions": 94
       },
       "core": {
-        "score": 295,
-        "mergedPrs": 10,
-        "reviews": 65,
+        "score": 321,
+        "mergedPrs": 11,
+        "reviews": 72,
         "reviewsReceived": 4,
         "issuesLinked": 5,
         "reactions": 362

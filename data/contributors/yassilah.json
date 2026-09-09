@@ -1,10 +1,10 @@
 {
   "username": "yassilah",
-  "lastUpdated": "2026-09-09T00:32:49.084Z",
+  "lastUpdated": "2026-09-09T23:32:20.643Z",
   "aggregatedStats": {
-    "score": 96,
-    "mergedPrs": 11,
-    "reviews": 3,
+    "score": 104,
+    "mergedPrs": 12,
+    "reviews": 4,
     "reviewsReceived": 11,
     "issuesLinked": 8,
     "reactions": 49
@@ -27,9 +27,9 @@
       "reactions": 1
     },
     "vuejs": {
-      "score": 15,
-      "mergedPrs": 2,
-      "reviews": 0,
+      "score": 23,
+      "mergedPrs": 3,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 2,
       "reactions": 3
@@ -114,9 +114,9 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 8,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 3

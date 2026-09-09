@@ -1,22 +1,22 @@
 {
   "username": "geoffrich",
-  "lastUpdated": "2026-09-09T00:32:55.108Z",
+  "lastUpdated": "2026-09-09T23:32:25.734Z",
   "aggregatedStats": {
-    "score": 394,
-    "mergedPrs": 37,
-    "reviews": 50,
-    "reviewsReceived": 28,
-    "issuesLinked": 6,
-    "reactions": 193
+    "score": 523,
+    "mergedPrs": 47,
+    "reviews": 72,
+    "reviewsReceived": 38,
+    "issuesLinked": 7,
+    "reactions": 197
   },
   "orgStats": {
     "sveltejs": {
-      "score": 394,
-      "mergedPrs": 37,
-      "reviews": 50,
-      "reviewsReceived": 28,
-      "issuesLinked": 6,
-      "reactions": 193
+      "score": 523,
+      "mergedPrs": 47,
+      "reviews": 72,
+      "reviewsReceived": 38,
+      "issuesLinked": 7,
+      "reactions": 197
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 173,
-        "mergedPrs": 16,
-        "reviews": 18,
-        "reviewsReceived": 17,
+        "score": 211,
+        "mergedPrs": 19,
+        "reviews": 24,
+        "reviewsReceived": 22,
         "issuesLinked": 3,
-        "reactions": 157
+        "reactions": 161
       },
       "language-tools": {
         "score": 0,
@@ -70,11 +70,11 @@
         "reactions": 3
       },
       "svelte": {
-        "score": 21,
-        "mergedPrs": 0,
-        "reviews": 6,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 111,
+        "mergedPrs": 7,
+        "reviews": 22,
+        "reviewsReceived": 5,
+        "issuesLinked": 1,
         "reactions": 29
       },
       "svelte-repl": {

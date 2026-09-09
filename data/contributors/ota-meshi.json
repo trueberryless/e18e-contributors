@@ -1,22 +1,22 @@
 {
   "username": "ota-meshi",
-  "lastUpdated": "2026-09-08T06:25:18.805Z",
+  "lastUpdated": "2026-09-09T23:32:26.354Z",
   "aggregatedStats": {
-    "score": 7911,
-    "mergedPrs": 987,
+    "score": 7930,
+    "mergedPrs": 989,
     "reviews": 677,
-    "reviewsReceived": 309,
-    "issuesLinked": 289,
-    "reactions": 585
+    "reviewsReceived": 313,
+    "issuesLinked": 291,
+    "reactions": 586
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3305,
-      "mergedPrs": 435,
+      "score": 3324,
+      "mergedPrs": 437,
       "reviews": 262,
-      "reviewsReceived": 128,
-      "issuesLinked": 103,
-      "reactions": 104
+      "reviewsReceived": 132,
+      "issuesLinked": 105,
+      "reactions": 105
     },
     "vitejs": {
       "score": 0,
@@ -62,20 +62,20 @@
         "reactions": 2
       },
       "kit": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 1,
         "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
+        "reactions": 3
       },
       "svelte-eslint-parser": {
         "score": 1282,

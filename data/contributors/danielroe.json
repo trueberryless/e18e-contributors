@@ -1,13 +1,13 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-09T21:14:46.810Z",
+  "lastUpdated": "2026-09-09T23:32:10.583Z",
   "aggregatedStats": {
-    "score": 56633,
-    "mergedPrs": 3031,
-    "reviews": 12129,
-    "reviewsReceived": 1159,
+    "score": 56652,
+    "mergedPrs": 3033,
+    "reviews": 12131,
+    "reviewsReceived": 1161,
     "issuesLinked": 1281,
-    "reactions": 13700
+    "reactions": 13706
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,12 +75,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 101,
-      "mergedPrs": 12,
-      "reviews": 5,
-      "reviewsReceived": 14,
+      "score": 120,
+      "mergedPrs": 14,
+      "reviews": 7,
+      "reviewsReceived": 16,
       "issuesLinked": 3,
-      "reactions": 60
+      "reactions": 66
     },
     "vitest-dev": {
       "score": 31,
@@ -518,12 +518,12 @@
         "reactions": 4
       },
       "vite": {
-        "score": 56,
-        "mergedPrs": 6,
-        "reviews": 3,
-        "reviewsReceived": 8,
+        "score": 68,
+        "mergedPrs": 7,
+        "reviews": 5,
+        "reviewsReceived": 9,
         "issuesLinked": 2,
-        "reactions": 46
+        "reactions": 52
       },
       "vite-ecosystem-ci": {
         "score": 35,
@@ -534,10 +534,10 @@
         "reactions": 6
       },
       "vite-plugin-vue": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 1,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 4
       }

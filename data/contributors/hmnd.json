@@ -1,12 +1,12 @@
 {
   "username": "hmnd",
-  "lastUpdated": "2026-09-06T09:35:33.566Z",
+  "lastUpdated": "2026-09-09T23:32:11.739Z",
   "aggregatedStats": {
-    "score": 125,
-    "mergedPrs": 10,
-    "reviews": 6,
-    "reviewsReceived": 9,
-    "issuesLinked": 16,
+    "score": 142,
+    "mergedPrs": 11,
+    "reviews": 7,
+    "reviewsReceived": 12,
+    "issuesLinked": 19,
     "reactions": 162
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 107,
-      "mergedPrs": 8,
-      "reviews": 4,
-      "reviewsReceived": 8,
-      "issuesLinked": 16,
+      "score": 124,
+      "mergedPrs": 9,
+      "reviews": 5,
+      "reviewsReceived": 11,
+      "issuesLinked": 19,
       "reactions": 148
     },
     "tanstack": {
@@ -82,11 +82,11 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 14,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "score": 31,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 4,
+        "issuesLinked": 4,
         "reactions": 32
       },
       "prettier-plugin-svelte": {

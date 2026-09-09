@@ -1,13 +1,13 @@
 {
   "username": "haoqunjiang",
-  "lastUpdated": "2026-09-09T05:08:47.253Z",
+  "lastUpdated": "2026-09-09T23:32:20.949Z",
   "aggregatedStats": {
-    "score": 6689,
-    "mergedPrs": 547,
-    "reviews": 1110,
-    "reviewsReceived": 153,
-    "issuesLinked": 195,
-    "reactions": 806
+    "score": 6763,
+    "mergedPrs": 554,
+    "reviews": 1117,
+    "reviewsReceived": 159,
+    "issuesLinked": 201,
+    "reactions": 808
   },
   "orgStats": {
     "oxc-project": {
@@ -35,27 +35,27 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 293,
-      "mergedPrs": 11,
-      "reviews": 72,
-      "reviewsReceived": 12,
-      "issuesLinked": 3,
+      "score": 330,
+      "mergedPrs": 13,
+      "reviews": 77,
+      "reviewsReceived": 16,
+      "issuesLinked": 7,
       "reactions": 41
     },
     "vitest-dev": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 1,
+      "score": 15,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "vuejs": {
-      "score": 6363,
-      "mergedPrs": 533,
-      "reviews": 1034,
-      "reviewsReceived": 139,
-      "issuesLinked": 191,
+      "score": 6391,
+      "mergedPrs": 537,
+      "reviews": 1035,
+      "reviewsReceived": 140,
+      "issuesLinked": 193,
       "reactions": 745
     }
   },
@@ -132,11 +132,11 @@
         "reactions": 0
       },
       "vite": {
-        "score": 30,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 5,
-        "issuesLinked": 0,
+        "score": 64,
+        "mergedPrs": 5,
+        "reviews": 6,
+        "reviewsReceived": 9,
+        "issuesLinked": 4,
         "reactions": 39
       },
       "vite-ecosystem-ci": {
@@ -148,9 +148,9 @@
         "reactions": 2
       },
       "vite-plugin-vue": {
-        "score": 87,
+        "score": 90,
         "mergedPrs": 2,
-        "reviews": 25,
+        "reviews": 26,
         "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
@@ -174,12 +174,12 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 6,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
+        "score": 15,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "vuejs": {
@@ -216,11 +216,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 469,
-        "mergedPrs": 28,
-        "reviews": 102,
-        "reviewsReceived": 9,
-        "issuesLinked": 5,
+        "score": 497,
+        "mergedPrs": 32,
+        "reviews": 103,
+        "reviewsReceived": 10,
+        "issuesLinked": 7,
         "reactions": 37
       },
       "create-vue": {

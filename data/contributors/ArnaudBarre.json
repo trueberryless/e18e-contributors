@@ -1,13 +1,13 @@
 {
   "username": "ArnaudBarre",
-  "lastUpdated": "2026-09-09T00:32:44.174Z",
+  "lastUpdated": "2026-09-09T23:32:12.651Z",
   "aggregatedStats": {
-    "score": 1414,
-    "mergedPrs": 117,
-    "reviews": 187,
-    "reviewsReceived": 136,
-    "issuesLinked": 45,
-    "reactions": 424
+    "score": 1622,
+    "mergedPrs": 139,
+    "reviews": 210,
+    "reviewsReceived": 160,
+    "issuesLinked": 47,
+    "reactions": 434
   },
   "orgStats": {
     "npmx-dev": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 1409,
-      "mergedPrs": 116,
-      "reviews": 187,
-      "reviewsReceived": 136,
-      "issuesLinked": 45,
-      "reactions": 422
+      "score": 1617,
+      "mergedPrs": 138,
+      "reviews": 210,
+      "reviewsReceived": 160,
+      "issuesLinked": 47,
+      "reactions": 432
     }
   },
   "repoStats": {
@@ -92,12 +92,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 511,
-        "mergedPrs": 39,
-        "reviews": 74,
-        "reviewsReceived": 56,
-        "issuesLinked": 7,
-        "reactions": 244
+        "score": 719,
+        "mergedPrs": 61,
+        "reviews": 97,
+        "reviewsReceived": 80,
+        "issuesLinked": 9,
+        "reactions": 254
       },
       "vite-ecosystem-ci": {
         "score": 24,

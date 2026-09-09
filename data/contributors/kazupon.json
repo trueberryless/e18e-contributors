@@ -1,9 +1,9 @@
 {
   "username": "kazupon",
-  "lastUpdated": "2026-09-09T18:37:20.995Z",
+  "lastUpdated": "2026-09-09T23:32:10.595Z",
   "aggregatedStats": {
-    "score": 11829,
-    "mergedPrs": 368,
+    "score": 11834,
+    "mergedPrs": 369,
     "reviews": 3264,
     "reviewsReceived": 133,
     "issuesLinked": 22,
@@ -59,8 +59,8 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 11478,
-      "mergedPrs": 317,
+      "score": 11483,
+      "mergedPrs": 318,
       "reviews": 3243,
       "reviewsReceived": 108,
       "issuesLinked": 21,
@@ -242,8 +242,8 @@
         "reactions": 2
       },
       "core": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 11,
+        "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

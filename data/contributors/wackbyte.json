@@ -1,20 +1,20 @@
 {
   "username": "wackbyte",
-  "lastUpdated": "2026-09-09T10:05:53.548Z",
+  "lastUpdated": "2026-09-09T23:32:26.807Z",
   "aggregatedStats": {
-    "score": 143,
-    "mergedPrs": 21,
+    "score": 149,
+    "mergedPrs": 22,
     "reviews": 2,
-    "reviewsReceived": 17,
+    "reviewsReceived": 18,
     "issuesLinked": 7,
     "reactions": 8
   },
   "orgStats": {
     "sveltejs": {
-      "score": 125,
-      "mergedPrs": 19,
+      "score": 131,
+      "mergedPrs": 20,
       "reviews": 1,
-      "reviewsReceived": 14,
+      "reviewsReceived": 15,
       "issuesLinked": 6,
       "reactions": 8
     },
@@ -70,10 +70,10 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 62,
-        "mergedPrs": 8,
+        "score": 68,
+        "mergedPrs": 9,
         "reviews": 1,
-        "reviewsReceived": 8,
+        "reviewsReceived": 9,
         "issuesLinked": 5,
         "reactions": 8
       },

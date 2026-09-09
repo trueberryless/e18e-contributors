@@ -1,13 +1,13 @@
 {
   "username": "poyoho",
-  "lastUpdated": "2026-09-09T05:08:46.070Z",
+  "lastUpdated": "2026-09-09T23:32:19.910Z",
   "aggregatedStats": {
-    "score": 284,
-    "mergedPrs": 32,
-    "reviews": 11,
-    "reviewsReceived": 30,
-    "issuesLinked": 25,
-    "reactions": 115
+    "score": 353,
+    "mergedPrs": 39,
+    "reviews": 16,
+    "reviewsReceived": 33,
+    "issuesLinked": 32,
+    "reactions": 139
   },
   "orgStats": {
     "nuxt": {
@@ -43,20 +43,20 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 46,
+      "score": 56,
       "mergedPrs": 3,
-      "reviews": 4,
+      "reviews": 7,
       "reviewsReceived": 3,
       "issuesLinked": 4,
-      "reactions": 75
+      "reactions": 92
     },
     "vitest-dev": {
-      "score": 210,
-      "mergedPrs": 24,
-      "reviews": 7,
-      "reviewsReceived": 24,
-      "issuesLinked": 21,
-      "reactions": 33
+      "score": 269,
+      "mergedPrs": 31,
+      "reviews": 9,
+      "reviewsReceived": 27,
+      "issuesLinked": 28,
+      "reactions": 40
     },
     "vuejs": {
       "score": 5,
@@ -126,22 +126,22 @@
         "reactions": 0
       },
       "vite": {
-        "score": 41,
+        "score": 51,
         "mergedPrs": 2,
-        "reviews": 4,
+        "reviews": 7,
         "reviewsReceived": 3,
         "issuesLinked": 4,
-        "reactions": 75
+        "reactions": 92
       }
     },
     "vitest-dev": {
       "vitest": {
-        "score": 210,
-        "mergedPrs": 24,
-        "reviews": 7,
-        "reviewsReceived": 24,
-        "issuesLinked": 21,
-        "reactions": 33
+        "score": 269,
+        "mergedPrs": 31,
+        "reviews": 9,
+        "reviewsReceived": 27,
+        "issuesLinked": 28,
+        "reactions": 40
       }
     },
     "vuejs": {
