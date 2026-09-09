@@ -1,12 +1,12 @@
 {
   "username": "zhmushan",
-  "lastUpdated": "2026-09-08T06:25:19.485Z",
+  "lastUpdated": "2026-09-09T05:08:53.566Z",
   "aggregatedStats": {
-    "score": 29,
-    "mergedPrs": 4,
-    "reviews": 2,
-    "reviewsReceived": 3,
-    "issuesLinked": 0,
+    "score": 48,
+    "mergedPrs": 6,
+    "reviews": 4,
+    "reviewsReceived": 4,
+    "issuesLinked": 1,
     "reactions": 2
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 29,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 3,
-      "issuesLinked": 0,
+      "score": 48,
+      "mergedPrs": 6,
+      "reviews": 4,
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
       "reactions": 2
     },
     "withastro": {
@@ -66,11 +66,11 @@
     },
     "vuejs": {
       "core": {
-        "score": 18,
-        "mergedPrs": 2,
-        "reviews": 2,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
+        "score": 37,
+        "mergedPrs": 4,
+        "reviews": 4,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
         "reactions": 2
       },
       "create-vue": {

@@ -1,10 +1,10 @@
 {
   "username": "benmccann",
-  "lastUpdated": "2026-09-09T00:32:40.833Z",
+  "lastUpdated": "2026-09-09T05:08:39.362Z",
   "aggregatedStats": {
-    "score": 9203,
+    "score": 9206,
     "mergedPrs": 912,
-    "reviews": 1166,
+    "reviews": 1167,
     "reviewsReceived": 605,
     "issuesLinked": 131,
     "reactions": 2777
@@ -91,9 +91,9 @@
       "reactions": 107
     },
     "vitest-dev": {
-      "score": 53,
+      "score": 56,
       "mergedPrs": 8,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 9,
       "issuesLinked": 0,
       "reactions": 5
@@ -618,9 +618,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 53,
+        "score": 56,
         "mergedPrs": 8,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 9,
         "issuesLinked": 0,
         "reactions": 5

@@ -1,13 +1,13 @@
 {
   "username": "userquin",
-  "lastUpdated": "2026-09-09T00:32:44.277Z",
+  "lastUpdated": "2026-09-09T05:08:42.633Z",
   "aggregatedStats": {
-    "score": 1703,
-    "mergedPrs": 216,
-    "reviews": 110,
-    "reviewsReceived": 189,
-    "issuesLinked": 38,
-    "reactions": 277
+    "score": 1827,
+    "mergedPrs": 230,
+    "reviews": 121,
+    "reviewsReceived": 202,
+    "issuesLinked": 41,
+    "reactions": 296
   },
   "orgStats": {
     "npmx-dev": {
@@ -51,12 +51,12 @@
       "reactions": 44
     },
     "vitest-dev": {
-      "score": 581,
-      "mergedPrs": 68,
-      "reviews": 47,
-      "reviewsReceived": 68,
-      "issuesLinked": 13,
-      "reactions": 57
+      "score": 705,
+      "mergedPrs": 82,
+      "reviews": 58,
+      "reviewsReceived": 81,
+      "issuesLinked": 16,
+      "reactions": 76
     },
     "vuejs": {
       "score": 278,
@@ -248,12 +248,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 581,
-        "mergedPrs": 68,
-        "reviews": 47,
-        "reviewsReceived": 68,
-        "issuesLinked": 13,
-        "reactions": 57
+        "score": 705,
+        "mergedPrs": 82,
+        "reviews": 58,
+        "reviewsReceived": 81,
+        "issuesLinked": 16,
+        "reactions": 76
       }
     },
     "vuejs": {

@@ -1,33 +1,33 @@
 {
   "username": "defaude",
-  "lastUpdated": "2026-09-08T06:25:30.088Z",
+  "lastUpdated": "2026-09-09T05:09:02.688Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
+    "score": 19,
+    "mergedPrs": 2,
     "reviews": 1,
     "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 11
+    "issuesLinked": 2,
+    "reactions": 13
   },
   "orgStats": {
     "vuejs": {
-      "score": 12,
-      "mergedPrs": 1,
+      "score": 19,
+      "mergedPrs": 2,
       "reviews": 1,
       "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 11
+      "issuesLinked": 2,
+      "reactions": 13
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 19,
+        "mergedPrs": 2,
         "reviews": 1,
         "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 11
+        "issuesLinked": 2,
+        "reactions": 13
       }
     }
   }

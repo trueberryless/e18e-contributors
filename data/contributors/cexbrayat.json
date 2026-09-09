@@ -1,11 +1,11 @@
 {
   "username": "cexbrayat",
-  "lastUpdated": "2026-09-08T19:36:26.046Z",
+  "lastUpdated": "2026-09-09T05:08:44.158Z",
   "aggregatedStats": {
-    "score": 3469,
-    "mergedPrs": 296,
-    "reviews": 577,
-    "reviewsReceived": 154,
+    "score": 3561,
+    "mergedPrs": 311,
+    "reviews": 579,
+    "reviewsReceived": 165,
     "issuesLinked": 30,
     "reactions": 434
   },
@@ -35,18 +35,18 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 10,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
+      "score": 31,
+      "mergedPrs": 4,
+      "reviews": 2,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
       "reactions": 5
     },
     "vuejs": {
-      "score": 3413,
-      "mergedPrs": 289,
-      "reviews": 576,
-      "reviewsReceived": 146,
+      "score": 3484,
+      "mergedPrs": 301,
+      "reviews": 577,
+      "reviewsReceived": 154,
       "issuesLinked": 29,
       "reactions": 356
     }
@@ -108,10 +108,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 10,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 31,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 5
       }
@@ -134,10 +134,10 @@
         "reactions": 8
       },
       "core": {
-        "score": 97,
-        "mergedPrs": 15,
-        "reviews": 4,
-        "reviewsReceived": 6,
+        "score": 168,
+        "mergedPrs": 27,
+        "reviews": 5,
+        "reviewsReceived": 14,
         "issuesLinked": 1,
         "reactions": 19
       },

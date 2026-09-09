@@ -1,13 +1,13 @@
 {
   "username": "luckylooke",
-  "lastUpdated": "2026-09-05T05:00:57.551Z",
+  "lastUpdated": "2026-09-09T05:08:45.507Z",
   "aggregatedStats": {
-    "score": 6,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 14,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 2
+    "reactions": 3
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 8,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "vuejs": {
       "score": 6,
@@ -66,12 +66,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 8,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vuejs": {

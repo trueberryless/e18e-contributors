@@ -1,13 +1,13 @@
 {
   "username": "btea",
-  "lastUpdated": "2026-09-09T00:32:41.518Z",
+  "lastUpdated": "2026-09-09T05:08:39.926Z",
   "aggregatedStats": {
-    "score": 4485,
-    "mergedPrs": 590,
-    "reviews": 225,
-    "reviewsReceived": 623,
-    "issuesLinked": 102,
-    "reactions": 337
+    "score": 4610,
+    "mergedPrs": 608,
+    "reviews": 229,
+    "reviewsReceived": 636,
+    "issuesLinked": 107,
+    "reactions": 338
   },
   "orgStats": {
     "bombshell-dev": {
@@ -99,18 +99,18 @@
       "reactions": 108
     },
     "vitest-dev": {
-      "score": 268,
-      "mergedPrs": 38,
-      "reviews": 11,
-      "reviewsReceived": 34,
-      "issuesLinked": 5,
-      "reactions": 8
+      "score": 370,
+      "mergedPrs": 52,
+      "reviews": 15,
+      "reviewsReceived": 44,
+      "issuesLinked": 10,
+      "reactions": 9
     },
     "vuejs": {
-      "score": 986,
-      "mergedPrs": 139,
+      "score": 1009,
+      "mergedPrs": 143,
       "reviews": 49,
-      "reviewsReceived": 116,
+      "reviewsReceived": 119,
       "issuesLinked": 11,
       "reactions": 64
     },
@@ -316,12 +316,12 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 238,
-        "mergedPrs": 33,
-        "reviews": 11,
-        "reviewsReceived": 29,
-        "issuesLinked": 5,
-        "reactions": 8
+        "score": 340,
+        "mergedPrs": 47,
+        "reviews": 15,
+        "reviewsReceived": 39,
+        "issuesLinked": 10,
+        "reactions": 9
       },
       "vscode": {
         "score": 24,
@@ -334,10 +334,10 @@
     },
     "vuejs": {
       "core": {
-        "score": 143,
-        "mergedPrs": 20,
+        "score": 166,
+        "mergedPrs": 24,
         "reviews": 9,
-        "reviewsReceived": 9,
+        "reviewsReceived": 12,
         "issuesLinked": 2,
         "reactions": 26
       },

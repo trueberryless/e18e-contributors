@@ -1,13 +1,13 @@
 {
   "username": "haoqunjiang",
-  "lastUpdated": "2026-09-09T00:32:49.514Z",
+  "lastUpdated": "2026-09-09T05:08:47.253Z",
   "aggregatedStats": {
-    "score": 6675,
-    "mergedPrs": 545,
-    "reviews": 1109,
+    "score": 6689,
+    "mergedPrs": 547,
+    "reviews": 1110,
     "reviewsReceived": 153,
     "issuesLinked": 195,
-    "reactions": 804
+    "reactions": 806
   },
   "orgStats": {
     "oxc-project": {
@@ -51,12 +51,12 @@
       "reactions": 2
     },
     "vuejs": {
-      "score": 6349,
-      "mergedPrs": 531,
-      "reviews": 1033,
+      "score": 6363,
+      "mergedPrs": 533,
+      "reviews": 1034,
       "reviewsReceived": 139,
       "issuesLinked": 191,
-      "reactions": 743
+      "reactions": 745
     }
   },
   "repoStats": {
@@ -216,12 +216,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 456,
-        "mergedPrs": 26,
-        "reviews": 101,
+        "score": 469,
+        "mergedPrs": 28,
+        "reviews": 102,
         "reviewsReceived": 9,
         "issuesLinked": 5,
-        "reactions": 35
+        "reactions": 37
       },
       "create-vue": {
         "score": 1465,

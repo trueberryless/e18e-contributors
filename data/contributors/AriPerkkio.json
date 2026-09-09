@@ -1,13 +1,13 @@
 {
   "username": "AriPerkkio",
-  "lastUpdated": "2026-09-08T19:36:23.290Z",
+  "lastUpdated": "2026-09-09T05:08:41.561Z",
   "aggregatedStats": {
-    "score": 3731,
-    "mergedPrs": 305,
-    "reviews": 516,
-    "reviewsReceived": 302,
-    "issuesLinked": 161,
-    "reactions": 327
+    "score": 4330,
+    "mergedPrs": 376,
+    "reviews": 552,
+    "reviewsReceived": 369,
+    "issuesLinked": 194,
+    "reactions": 358
   },
   "orgStats": {
     "e18e": {
@@ -59,12 +59,12 @@
       "reactions": 5
     },
     "vitest-dev": {
-      "score": 3640,
-      "mergedPrs": 297,
-      "reviews": 506,
-      "reviewsReceived": 293,
-      "issuesLinked": 157,
-      "reactions": 299
+      "score": 4239,
+      "mergedPrs": 368,
+      "reviews": 542,
+      "reviewsReceived": 360,
+      "issuesLinked": 190,
+      "reactions": 330
     },
     "vuejs": {
       "score": 5,
@@ -170,12 +170,12 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 3612,
-        "mergedPrs": 293,
-        "reviews": 506,
-        "reviewsReceived": 289,
-        "issuesLinked": 155,
-        "reactions": 299
+        "score": 4211,
+        "mergedPrs": 364,
+        "reviews": 542,
+        "reviewsReceived": 356,
+        "issuesLinked": 188,
+        "reactions": 330
       }
     },
     "vuejs": {

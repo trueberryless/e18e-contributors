@@ -1,21 +1,21 @@
 {
   "username": "yuwu9145",
-  "lastUpdated": "2026-09-07T11:54:03.783Z",
+  "lastUpdated": "2026-09-09T05:09:07.914Z",
   "aggregatedStats": {
-    "score": 24,
-    "mergedPrs": 3,
+    "score": 37,
+    "mergedPrs": 5,
     "reviews": 1,
-    "reviewsReceived": 3,
-    "issuesLinked": 1,
+    "reviewsReceived": 4,
+    "issuesLinked": 2,
     "reactions": 11
   },
   "orgStats": {
     "vuejs": {
-      "score": 24,
-      "mergedPrs": 3,
+      "score": 37,
+      "mergedPrs": 5,
       "reviews": 1,
-      "reviewsReceived": 3,
-      "issuesLinked": 1,
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
       "reactions": 11
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 4
       },
       "core": {
-        "score": 18,
-        "mergedPrs": 2,
+        "score": 31,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
         "reactions": 7
       },
       "test-utils": {

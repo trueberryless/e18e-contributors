@@ -1,10 +1,10 @@
 {
   "username": "mino01x",
-  "lastUpdated": "2026-09-06T00:12:38.526Z",
+  "lastUpdated": "2026-09-09T05:08:41.481Z",
   "aggregatedStats": {
-    "score": 9,
+    "score": 12,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 0
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -39,6 +39,14 @@
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vue-cli": {
         "score": 0,
         "mergedPrs": 0,

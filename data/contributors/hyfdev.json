@@ -1,11 +1,11 @@
 {
   "username": "hyfdev",
-  "lastUpdated": "2026-09-09T00:32:49.528Z",
+  "lastUpdated": "2026-09-09T05:08:47.262Z",
   "aggregatedStats": {
-    "score": 218,
-    "mergedPrs": 31,
+    "score": 230,
+    "mergedPrs": 33,
     "reviews": 4,
-    "reviewsReceived": 32,
+    "reviewsReceived": 34,
     "issuesLinked": 4,
     "reactions": 112
   },
@@ -27,10 +27,10 @@
       "reactions": 32
     },
     "vuejs": {
-      "score": 37,
-      "mergedPrs": 4,
+      "score": 49,
+      "mergedPrs": 6,
       "reviews": 2,
-      "reviewsReceived": 5,
+      "reviewsReceived": 7,
       "issuesLinked": 3,
       "reactions": 1
     }
@@ -90,10 +90,10 @@
         "reactions": 1
       },
       "core": {
-        "score": 13,
-        "mergedPrs": 1,
+        "score": 25,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 5,
         "issuesLinked": 1,
         "reactions": 0
       },

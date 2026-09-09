@@ -1,11 +1,11 @@
 {
   "username": "zh-lx",
-  "lastUpdated": "2026-09-07T11:53:38.800Z",
+  "lastUpdated": "2026-09-09T05:08:48.459Z",
   "aggregatedStats": {
-    "score": 74,
-    "mergedPrs": 9,
+    "score": 85,
+    "mergedPrs": 11,
     "reviews": 0,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 11,
     "reactions": 47
   },
@@ -35,10 +35,10 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 66,
-      "mergedPrs": 8,
+      "score": 77,
+      "mergedPrs": 10,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 10,
       "reactions": 47
     }
@@ -84,10 +84,10 @@
     },
     "vuejs": {
       "core": {
-        "score": 59,
-        "mergedPrs": 7,
+        "score": 70,
+        "mergedPrs": 9,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 9,
         "reactions": 47
       },

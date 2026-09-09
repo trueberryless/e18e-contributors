@@ -1,19 +1,19 @@
 {
   "username": "ericdrobinson",
-  "lastUpdated": "2026-09-05T05:01:15.663Z",
+  "lastUpdated": "2026-09-09T05:09:02.970Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 4
   },
   "orgStats": {
     "vuejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 4
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vetur": {
         "score": 0,
         "mergedPrs": 0,

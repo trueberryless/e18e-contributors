@@ -1,12 +1,12 @@
 {
   "username": "DerYeger",
-  "lastUpdated": "2026-09-08T06:25:07.352Z",
+  "lastUpdated": "2026-09-09T05:08:42.897Z",
   "aggregatedStats": {
-    "score": 44,
-    "mergedPrs": 4,
+    "score": 59,
+    "mergedPrs": 6,
     "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 3,
+    "reviewsReceived": 7,
+    "issuesLinked": 4,
     "reactions": 69
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 11
     },
     "vitest-dev": {
-      "score": 21,
-      "mergedPrs": 2,
+      "score": 36,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 3,
-      "issuesLinked": 2,
+      "reviewsReceived": 6,
+      "issuesLinked": 3,
       "reactions": 5
     },
     "vuejs": {
@@ -132,11 +132,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 21,
-        "mergedPrs": 2,
+        "score": 36,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 3,
-        "issuesLinked": 2,
+        "reviewsReceived": 6,
+        "issuesLinked": 3,
         "reactions": 5
       }
     },

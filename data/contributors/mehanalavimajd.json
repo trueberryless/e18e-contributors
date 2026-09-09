@@ -1,33 +1,33 @@
 {
   "username": "mehanalavimajd",
-  "lastUpdated": "2026-09-05T20:07:18.826Z",
+  "lastUpdated": "2026-09-09T05:09:04.777Z",
   "aggregatedStats": {
-    "score": 15,
-    "mergedPrs": 2,
+    "score": 20,
+    "mergedPrs": 3,
     "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "vuejs": {
-      "score": 15,
-      "mergedPrs": 2,
+      "score": 20,
+      "mergedPrs": 3,
       "reviews": 1,
       "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "docs": {
         "score": 15,

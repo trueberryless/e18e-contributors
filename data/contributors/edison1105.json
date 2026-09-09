@@ -1,13 +1,13 @@
 {
   "username": "edison1105",
-  "lastUpdated": "2026-09-08T06:25:06.870Z",
+  "lastUpdated": "2026-09-09T05:08:42.571Z",
   "aggregatedStats": {
-    "score": 5699,
-    "mergedPrs": 783,
-    "reviews": 330,
-    "reviewsReceived": 99,
-    "issuesLinked": 287,
-    "reactions": 1208
+    "score": 6087,
+    "mergedPrs": 826,
+    "reviews": 360,
+    "reviewsReceived": 114,
+    "issuesLinked": 320,
+    "reactions": 1225
   },
   "orgStats": {
     "npmx-dev": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 5579,
-      "mergedPrs": 767,
-      "reviews": 326,
-      "reviewsReceived": 89,
-      "issuesLinked": 279,
-      "reactions": 1190
+      "score": 5967,
+      "mergedPrs": 810,
+      "reviews": 356,
+      "reviewsReceived": 104,
+      "issuesLinked": 312,
+      "reactions": 1207
     }
   },
   "repoStats": {
@@ -102,12 +102,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 5260,
-        "mergedPrs": 729,
-        "reviews": 292,
-        "reviewsReceived": 77,
-        "issuesLinked": 274,
-        "reactions": 1142
+        "score": 5648,
+        "mergedPrs": 772,
+        "reviews": 322,
+        "reviewsReceived": 92,
+        "issuesLinked": 307,
+        "reactions": 1159
       },
       "docs": {
         "score": 22,

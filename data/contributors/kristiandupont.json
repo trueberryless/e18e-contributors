@@ -1,15 +1,23 @@
 {
   "username": "kristiandupont",
-  "lastUpdated": "2026-09-05T05:01:17.094Z",
+  "lastUpdated": "2026-09-09T05:08:58.082Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "vitest-dev": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vuejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "vitest-dev": {
+      "vitest": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vuejs": {
       "vitepress": {
         "score": 0,

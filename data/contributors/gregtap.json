@@ -1,33 +1,33 @@
 {
   "username": "gregtap",
-  "lastUpdated": "2026-09-05T05:01:16.124Z",
+  "lastUpdated": "2026-09-09T05:09:03.340Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 6,
+    "mergedPrs": 1,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 11
+    "reactions": 12
   },
   "orgStats": {
     "vuejs": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 11
+      "reactions": 12
     }
   },
   "repoStats": {
     "vuejs": {
       "awesome-vue": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "vue-router": {
         "score": 1,

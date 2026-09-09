@@ -1,11 +1,11 @@
 {
   "username": "Dunqing",
-  "lastUpdated": "2026-09-09T00:32:49.257Z",
+  "lastUpdated": "2026-09-09T05:08:47.062Z",
   "aggregatedStats": {
-    "score": 2051,
-    "mergedPrs": 230,
-    "reviews": 207,
-    "reviewsReceived": 108,
+    "score": 2061,
+    "mergedPrs": 231,
+    "reviews": 208,
+    "reviewsReceived": 110,
     "issuesLinked": 73,
     "reactions": 264
   },
@@ -27,10 +27,10 @@
       "reactions": 33
     },
     "vitest-dev": {
-      "score": 372,
-      "mergedPrs": 42,
-      "reviews": 25,
-      "reviewsReceived": 30,
+      "score": 382,
+      "mergedPrs": 43,
+      "reviews": 26,
+      "reviewsReceived": 32,
       "issuesLinked": 27,
       "reactions": 34
     },
@@ -138,10 +138,10 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 367,
-        "mergedPrs": 41,
-        "reviews": 25,
-        "reviewsReceived": 30,
+        "score": 377,
+        "mergedPrs": 42,
+        "reviews": 26,
+        "reviewsReceived": 32,
         "issuesLinked": 27,
         "reactions": 34
       }

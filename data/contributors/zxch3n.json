@@ -1,33 +1,33 @@
 {
   "username": "zxch3n",
-  "lastUpdated": "2026-09-07T05:51:08.968Z",
+  "lastUpdated": "2026-09-09T05:08:58.281Z",
   "aggregatedStats": {
-    "score": 42,
-    "mergedPrs": 3,
-    "reviews": 6,
+    "score": 60,
+    "mergedPrs": 6,
+    "reviews": 7,
     "reviewsReceived": 1,
     "issuesLinked": 2,
-    "reactions": 35
+    "reactions": 36
   },
   "orgStats": {
     "vitest-dev": {
-      "score": 42,
-      "mergedPrs": 3,
-      "reviews": 6,
+      "score": 60,
+      "mergedPrs": 6,
+      "reviews": 7,
       "reviewsReceived": 1,
       "issuesLinked": 2,
-      "reactions": 35
+      "reactions": 36
     }
   },
   "repoStats": {
     "vitest-dev": {
       "vitest": {
-        "score": 9,
-        "mergedPrs": 1,
-        "reviews": 1,
+        "score": 27,
+        "mergedPrs": 4,
+        "reviews": 2,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "vscode": {
         "score": 32,

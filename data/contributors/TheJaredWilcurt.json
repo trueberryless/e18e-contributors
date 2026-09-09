@@ -1,12 +1,12 @@
 {
   "username": "TheJaredWilcurt",
-  "lastUpdated": "2026-09-06T16:29:04.500Z",
+  "lastUpdated": "2026-09-09T05:08:42.551Z",
   "aggregatedStats": {
-    "score": 108,
-    "mergedPrs": 15,
-    "reviews": 3,
-    "reviewsReceived": 11,
-    "issuesLinked": 3,
+    "score": 126,
+    "mergedPrs": 17,
+    "reviews": 4,
+    "reviewsReceived": 14,
+    "issuesLinked": 4,
     "reactions": 67
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 5
     },
     "vitest-dev": {
-      "score": 3,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 21,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 1,
       "reactions": 4
     },
     "vuejs": {
@@ -118,11 +118,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 21,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
         "reactions": 4
       }
     },

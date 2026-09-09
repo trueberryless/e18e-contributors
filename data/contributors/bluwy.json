@@ -1,13 +1,13 @@
 {
   "username": "bluwy",
-  "lastUpdated": "2026-09-09T00:32:41.515Z",
+  "lastUpdated": "2026-09-09T05:08:39.924Z",
   "aggregatedStats": {
-    "score": 11234,
-    "mergedPrs": 696,
-    "reviews": 2177,
-    "reviewsReceived": 739,
+    "score": 11248,
+    "mergedPrs": 698,
+    "reviews": 2178,
+    "reviewsReceived": 740,
     "issuesLinked": 193,
-    "reactions": 994
+    "reactions": 995
   },
   "orgStats": {
     "bombshell-dev": {
@@ -91,12 +91,12 @@
       "reactions": 607
     },
     "vitest-dev": {
-      "score": 53,
-      "mergedPrs": 9,
-      "reviews": 0,
-      "reviewsReceived": 8,
+      "score": 67,
+      "mergedPrs": 11,
+      "reviews": 1,
+      "reviewsReceived": 9,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "vuejs": {
       "score": 163,
@@ -426,12 +426,12 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 53,
-        "mergedPrs": 9,
-        "reviews": 0,
-        "reviewsReceived": 8,
+        "score": 67,
+        "mergedPrs": 11,
+        "reviews": 1,
+        "reviewsReceived": 9,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vuejs": {

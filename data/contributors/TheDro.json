@@ -1,33 +1,33 @@
 {
   "username": "TheDro",
-  "lastUpdated": "2026-09-05T05:01:13.756Z",
+  "lastUpdated": "2026-09-09T05:09:01.253Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
+    "score": 10,
+    "mergedPrs": 1,
+    "reviews": 1,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 2
+    "issuesLinked": 1,
+    "reactions": 4
   },
   "orgStats": {
     "vuejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 2
+      "issuesLinked": 1,
+      "reactions": 4
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2
+        "issuesLinked": 1,
+        "reactions": 4
       }
     }
   }

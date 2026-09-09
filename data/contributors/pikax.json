@@ -1,13 +1,13 @@
 {
   "username": "pikax",
-  "lastUpdated": "2026-09-08T06:25:24.778Z",
+  "lastUpdated": "2026-09-09T05:08:57.308Z",
   "aggregatedStats": {
-    "score": 1207,
-    "mergedPrs": 98,
-    "reviews": 123,
-    "reviewsReceived": 73,
-    "issuesLinked": 45,
-    "reactions": 1855
+    "score": 1424,
+    "mergedPrs": 127,
+    "reviews": 138,
+    "reviewsReceived": 77,
+    "issuesLinked": 56,
+    "reactions": 1863
   },
   "orgStats": {
     "vitejs": {
@@ -19,20 +19,20 @@
       "reactions": 1
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     },
     "vuejs": {
-      "score": 1207,
-      "mergedPrs": 98,
-      "reviews": 123,
-      "reviewsReceived": 73,
-      "issuesLinked": 45,
-      "reactions": 1852
+      "score": 1418,
+      "mergedPrs": 126,
+      "reviews": 138,
+      "reviewsReceived": 76,
+      "issuesLinked": 56,
+      "reactions": 1860
     }
   },
   "repoStats": {
@@ -48,10 +48,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 2
       }
@@ -98,12 +98,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 314,
-        "mergedPrs": 22,
-        "reviews": 30,
-        "reviewsReceived": 12,
-        "issuesLinked": 15,
-        "reactions": 718
+        "score": 525,
+        "mergedPrs": 50,
+        "reviews": 45,
+        "reviewsReceived": 15,
+        "issuesLinked": 26,
+        "reactions": 726
       },
       "devtools": {
         "score": 0,

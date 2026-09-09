@@ -1,12 +1,12 @@
 {
   "username": "aleclarson",
-  "lastUpdated": "2026-09-09T00:32:40.777Z",
+  "lastUpdated": "2026-09-09T05:08:39.319Z",
   "aggregatedStats": {
-    "score": 134,
-    "mergedPrs": 14,
+    "score": 141,
+    "mergedPrs": 15,
     "reviews": 13,
     "reviewsReceived": 6,
-    "issuesLinked": 2,
+    "issuesLinked": 3,
     "reactions": 155
   },
   "orgStats": {
@@ -51,11 +51,11 @@
       "reactions": 133
     },
     "vitest-dev": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 1
     },
     "withastro": {
@@ -168,11 +168,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 1
       }
     },

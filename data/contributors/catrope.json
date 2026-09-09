@@ -1,32 +1,32 @@
 {
   "username": "catrope",
-  "lastUpdated": "2026-09-08T06:25:29.583Z",
+  "lastUpdated": "2026-09-09T05:09:02.270Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 3,
+    "score": 37,
+    "mergedPrs": 5,
     "reviews": 1,
     "reviewsReceived": 2,
-    "issuesLinked": 2,
+    "issuesLinked": 3,
     "reactions": 8
   },
   "orgStats": {
     "vuejs": {
-      "score": 25,
-      "mergedPrs": 3,
+      "score": 37,
+      "mergedPrs": 5,
       "reviews": 1,
       "reviewsReceived": 2,
-      "issuesLinked": 2,
+      "issuesLinked": 3,
       "reactions": 8
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 22,
+        "mergedPrs": 3,
         "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 1,
+        "issuesLinked": 2,
         "reactions": 3
       },
       "eslint-plugin-vue": {

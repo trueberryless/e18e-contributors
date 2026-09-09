@@ -1,10 +1,10 @@
 {
   "username": "ktsn",
-  "lastUpdated": "2026-09-06T16:29:08.601Z",
+  "lastUpdated": "2026-09-09T05:08:45.371Z",
   "aggregatedStats": {
-    "score": 2099,
+    "score": 2102,
     "mergedPrs": 177,
-    "reviews": 316,
+    "reviews": 317,
     "reviewsReceived": 69,
     "issuesLinked": 52,
     "reactions": 932
@@ -27,9 +27,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 2099,
+      "score": 2102,
       "mergedPrs": 177,
-      "reviews": 316,
+      "reviews": 317,
       "reviewsReceived": 69,
       "issuesLinked": 52,
       "reactions": 930
@@ -82,9 +82,9 @@
         "reactions": 14
       },
       "core": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

@@ -1,11 +1,11 @@
 {
   "username": "shen-zhao",
-  "lastUpdated": "2026-09-07T11:53:51.535Z",
+  "lastUpdated": "2026-09-09T05:08:57.433Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 6,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 2
   },
@@ -19,10 +19,10 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
     }
@@ -40,10 +40,10 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 2
       },

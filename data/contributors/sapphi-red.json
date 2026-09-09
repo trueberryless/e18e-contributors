@@ -1,11 +1,11 @@
 {
   "username": "sapphi-red",
-  "lastUpdated": "2026-09-09T00:32:41.553Z",
+  "lastUpdated": "2026-09-09T05:08:39.958Z",
   "aggregatedStats": {
-    "score": 14401,
-    "mergedPrs": 1473,
-    "reviews": 1677,
-    "reviewsReceived": 1111,
+    "score": 14426,
+    "mergedPrs": 1476,
+    "reviews": 1679,
+    "reviewsReceived": 1115,
     "issuesLinked": 369,
     "reactions": 1552
   },
@@ -75,10 +75,10 @@
       "reactions": 1307
     },
     "vitest-dev": {
-      "score": 92,
-      "mergedPrs": 13,
-      "reviews": 5,
-      "reviewsReceived": 12,
+      "score": 117,
+      "mergedPrs": 16,
+      "reviews": 7,
+      "reviewsReceived": 16,
       "issuesLinked": 0,
       "reactions": 1
     },
@@ -342,10 +342,10 @@
         "reactions": 0
       },
       "vitest": {
-        "score": 80,
-        "mergedPrs": 11,
-        "reviews": 5,
-        "reviewsReceived": 10,
+        "score": 105,
+        "mergedPrs": 14,
+        "reviews": 7,
+        "reviewsReceived": 14,
         "issuesLinked": 0,
         "reactions": 1
       }

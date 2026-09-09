@@ -1,9 +1,9 @@
 {
   "username": "nrgnrg",
-  "lastUpdated": "2026-09-05T08:58:21.012Z",
+  "lastUpdated": "2026-09-09T05:08:55.250Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 6,
+    "mergedPrs": 1,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
@@ -27,8 +27,8 @@
       "reactions": 4
     },
     "vuejs": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -66,8 +66,8 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

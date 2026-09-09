@@ -1,11 +1,11 @@
 {
   "username": "adrienbaron",
-  "lastUpdated": "2026-09-05T20:07:04.513Z",
+  "lastUpdated": "2026-09-09T05:08:43.760Z",
   "aggregatedStats": {
-    "score": 28,
-    "mergedPrs": 4,
-    "reviews": 2,
-    "reviewsReceived": 1,
+    "score": 38,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 15
   },
@@ -19,10 +19,10 @@
       "reactions": 2
     },
     "vitest-dev": {
-      "score": 10,
-      "mergedPrs": 2,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 20,
+      "mergedPrs": 3,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 4
     },
@@ -56,10 +56,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       },

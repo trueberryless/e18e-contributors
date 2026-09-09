@@ -1,13 +1,13 @@
 {
   "username": "hi-ogawa",
-  "lastUpdated": "2026-09-09T00:32:49.518Z",
+  "lastUpdated": "2026-09-09T05:08:47.256Z",
   "aggregatedStats": {
-    "score": 9273,
-    "mergedPrs": 1017,
+    "score": 9284,
+    "mergedPrs": 1019,
     "reviews": 854,
-    "reviewsReceived": 771,
+    "reviewsReceived": 772,
     "issuesLinked": 400,
-    "reactions": 556
+    "reactions": 558
   },
   "orgStats": {
     "oxc-project": {
@@ -43,12 +43,12 @@
       "reactions": 288
     },
     "vitest-dev": {
-      "score": 5690,
-      "mergedPrs": 562,
+      "score": 5701,
+      "mergedPrs": 564,
       "reviews": 570,
-      "reviewsReceived": 574,
+      "reviewsReceived": 575,
       "issuesLinked": 285,
-      "reactions": 260
+      "reactions": 262
     },
     "withastro": {
       "score": 0,
@@ -150,16 +150,16 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 5588,
-        "mergedPrs": 550,
+        "score": 5594,
+        "mergedPrs": 551,
         "reviews": 561,
-        "reviewsReceived": 565,
+        "reviewsReceived": 566,
         "issuesLinked": 282,
-        "reactions": 258
+        "reactions": 260
       },
       "vscode": {
-        "score": 102,
-        "mergedPrs": 12,
+        "score": 107,
+        "mergedPrs": 13,
         "reviews": 9,
         "reviewsReceived": 9,
         "issuesLinked": 3,

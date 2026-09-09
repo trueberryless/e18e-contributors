@@ -1,9 +1,9 @@
 {
   "username": "tanhauhau",
-  "lastUpdated": "2026-09-09T00:32:56.341Z",
+  "lastUpdated": "2026-09-09T05:08:53.256Z",
   "aggregatedStats": {
-    "score": 515,
-    "mergedPrs": 56,
+    "score": 520,
+    "mergedPrs": 57,
     "reviews": 23,
     "reviewsReceived": 23,
     "issuesLinked": 34,
@@ -27,8 +27,8 @@
       "reactions": 7
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -178,8 +178,8 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

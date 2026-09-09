@@ -1,9 +1,9 @@
 {
   "username": "kidonng",
-  "lastUpdated": "2026-09-08T11:41:50.427Z",
+  "lastUpdated": "2026-09-09T05:08:39.574Z",
   "aggregatedStats": {
-    "score": 383,
-    "mergedPrs": 49,
+    "score": 388,
+    "mergedPrs": 50,
     "reviews": 9,
     "reviewsReceived": 42,
     "issuesLinked": 2,
@@ -75,8 +75,8 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -214,8 +214,8 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

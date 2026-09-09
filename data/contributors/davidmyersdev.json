@@ -1,9 +1,9 @@
 {
   "username": "davidmyersdev",
-  "lastUpdated": "2026-09-05T05:00:56.317Z",
+  "lastUpdated": "2026-09-09T05:08:44.331Z",
   "aggregatedStats": {
-    "score": 22,
-    "mergedPrs": 2,
+    "score": 27,
+    "mergedPrs": 3,
     "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 3,
@@ -27,8 +27,8 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -74,8 +74,8 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

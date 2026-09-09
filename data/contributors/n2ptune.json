@@ -1,11 +1,11 @@
 {
   "username": "n2ptune",
-  "lastUpdated": "2026-09-05T05:00:57.882Z",
+  "lastUpdated": "2026-09-09T05:08:45.802Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 11,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 0
   },
@@ -19,10 +19,10 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 11,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -40,10 +40,10 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 11,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

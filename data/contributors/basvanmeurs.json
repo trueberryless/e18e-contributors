@@ -1,33 +1,33 @@
 {
   "username": "basvanmeurs",
-  "lastUpdated": "2026-09-07T11:53:56.129Z",
+  "lastUpdated": "2026-09-09T05:09:02.032Z",
   "aggregatedStats": {
-    "score": 18,
-    "mergedPrs": 0,
+    "score": 47,
+    "mergedPrs": 4,
     "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 147
+    "reactions": 243
   },
   "orgStats": {
     "vuejs": {
-      "score": 18,
-      "mergedPrs": 0,
+      "score": 47,
+      "mergedPrs": 4,
       "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 147
+      "reactions": 243
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 15,
-        "mergedPrs": 0,
+        "score": 44,
+        "mergedPrs": 4,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 115
+        "reactions": 211
       },
       "vue-loader": {
         "score": 3,

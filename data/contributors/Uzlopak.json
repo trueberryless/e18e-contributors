@@ -1,10 +1,10 @@
 {
   "username": "Uzlopak",
-  "lastUpdated": "2026-09-05T05:00:52.005Z",
+  "lastUpdated": "2026-09-09T05:08:41.572Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 4
@@ -17,6 +17,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 4
+    },
+    "vitest-dev": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     }
   },
   "repoStats": {
@@ -28,6 +36,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 4
+      }
+    },
+    "vitest-dev": {
+      "vitest": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     }
   }

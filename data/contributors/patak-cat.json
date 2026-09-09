@@ -1,10 +1,10 @@
 {
   "username": "patak-cat",
-  "lastUpdated": "2026-09-09T00:32:43.266Z",
+  "lastUpdated": "2026-09-09T05:08:41.618Z",
   "aggregatedStats": {
-    "score": 7044,
-    "mergedPrs": 373,
-    "reviews": 1560,
+    "score": 7093,
+    "mergedPrs": 375,
+    "reviews": 1573,
     "reviewsReceived": 303,
     "issuesLinked": 44,
     "reactions": 1079
@@ -43,17 +43,17 @@
       "reactions": 914
     },
     "vitest-dev": {
-      "score": 162,
-      "mergedPrs": 21,
-      "reviews": 13,
+      "score": 203,
+      "mergedPrs": 22,
+      "reviews": 25,
       "reviewsReceived": 14,
       "issuesLinked": 0,
       "reactions": 37
     },
     "vuejs": {
-      "score": 158,
-      "mergedPrs": 24,
-      "reviews": 6,
+      "score": 166,
+      "mergedPrs": 25,
+      "reviews": 7,
       "reviewsReceived": 7,
       "issuesLinked": 5,
       "reactions": 27
@@ -206,9 +206,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 162,
-        "mergedPrs": 21,
-        "reviews": 13,
+        "score": 203,
+        "mergedPrs": 22,
+        "reviews": 25,
         "reviewsReceived": 14,
         "issuesLinked": 0,
         "reactions": 37
@@ -216,9 +216,9 @@
     },
     "vuejs": {
       "core": {
-        "score": 5,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 13,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 3

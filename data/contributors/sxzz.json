@@ -1,12 +1,12 @@
 {
   "username": "sxzz",
-  "lastUpdated": "2026-09-09T00:32:43.272Z",
+  "lastUpdated": "2026-09-09T05:08:41.622Z",
   "aggregatedStats": {
-    "score": 2902,
-    "mergedPrs": 192,
-    "reviews": 542,
-    "reviewsReceived": 90,
-    "issuesLinked": 43,
+    "score": 2923,
+    "mergedPrs": 194,
+    "reviews": 544,
+    "reviewsReceived": 91,
+    "issuesLinked": 45,
     "reactions": 1411
   },
   "orgStats": {
@@ -75,19 +75,19 @@
       "reactions": 4
     },
     "vitest-dev": {
-      "score": 28,
-      "mergedPrs": 3,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "score": 39,
+      "mergedPrs": 4,
+      "reviews": 3,
+      "reviewsReceived": 5,
+      "issuesLinked": 1,
       "reactions": 34
     },
     "vuejs": {
-      "score": 2431,
-      "mergedPrs": 141,
-      "reviews": 488,
+      "score": 2441,
+      "mergedPrs": 142,
+      "reviews": 489,
       "reviewsReceived": 57,
-      "issuesLinked": 40,
+      "issuesLinked": 41,
       "reactions": 1250
     },
     "withastro": {
@@ -318,11 +318,11 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 28,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
+        "score": 39,
+        "mergedPrs": 4,
+        "reviews": 3,
+        "reviewsReceived": 5,
+        "issuesLinked": 1,
         "reactions": 34
       }
     },
@@ -352,11 +352,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 1393,
-        "mergedPrs": 93,
-        "reviews": 255,
+        "score": 1403,
+        "mergedPrs": 94,
+        "reviews": 256,
         "reviewsReceived": 48,
-        "issuesLinked": 29,
+        "issuesLinked": 30,
         "reactions": 571
       },
       "docs": {

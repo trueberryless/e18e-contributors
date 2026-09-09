@@ -1,13 +1,13 @@
 {
   "username": "Akryum",
-  "lastUpdated": "2026-09-09T00:32:44.173Z",
+  "lastUpdated": "2026-09-09T05:08:42.522Z",
   "aggregatedStats": {
-    "score": 1264,
-    "mergedPrs": 137,
-    "reviews": 124,
-    "reviewsReceived": 54,
+    "score": 1278,
+    "mergedPrs": 138,
+    "reviews": 126,
+    "reviewsReceived": 55,
     "issuesLinked": 9,
-    "reactions": 1352
+    "reactions": 1368
   },
   "orgStats": {
     "npmx-dev": {
@@ -35,20 +35,20 @@
       "reactions": 151
     },
     "vitest-dev": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 7
     },
     "vuejs": {
-      "score": 1165,
-      "mergedPrs": 124,
-      "reviews": 123,
-      "reviewsReceived": 44,
+      "score": 1176,
+      "mergedPrs": 125,
+      "reviews": 124,
+      "reviewsReceived": 45,
       "issuesLinked": 9,
-      "reactions": 1143
+      "reactions": 1159
     },
     "zen-browser": {
       "score": 0,
@@ -140,9 +140,9 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 6
@@ -190,12 +190,12 @@
         "reactions": 14
       },
       "core": {
-        "score": 7,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 17,
+        "mergedPrs": 1,
+        "reviews": 2,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 37
+        "reactions": 53
       },
       "create-vue": {
         "score": 0,

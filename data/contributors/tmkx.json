@@ -1,11 +1,11 @@
 {
   "username": "tmkx",
-  "lastUpdated": "2026-09-09T00:32:43.184Z",
+  "lastUpdated": "2026-09-09T05:08:41.538Z",
   "aggregatedStats": {
-    "score": 63,
-    "mergedPrs": 11,
-    "reviews": 0,
-    "reviewsReceived": 4,
+    "score": 73,
+    "mergedPrs": 12,
+    "reviews": 1,
+    "reviewsReceived": 6,
     "issuesLinked": 2,
     "reactions": 3
   },
@@ -59,10 +59,10 @@
       "reactions": 0
     },
     "vitest-dev": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -138,10 +138,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }
