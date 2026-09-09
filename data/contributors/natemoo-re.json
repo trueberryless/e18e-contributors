@@ -1,10 +1,10 @@
 {
   "username": "natemoo-re",
-  "lastUpdated": "2026-09-08T11:41:50.935Z",
+  "lastUpdated": "2026-09-09T10:05:36.999Z",
   "aggregatedStats": {
-    "score": 3787,
-    "mergedPrs": 362,
-    "reviews": 440,
+    "score": 3822,
+    "mergedPrs": 363,
+    "reviews": 450,
     "reviewsReceived": 277,
     "issuesLinked": 139,
     "reactions": 1011
@@ -43,9 +43,9 @@
       "reactions": 11
     },
     "withastro": {
-      "score": 3385,
-      "mergedPrs": 330,
-      "reviews": 373,
+      "score": 3420,
+      "mergedPrs": 331,
+      "reviews": 383,
       "reviewsReceived": 267,
       "issuesLinked": 128,
       "reactions": 925
@@ -126,9 +126,9 @@
         "reactions": 0
       },
       "astro": {
-        "score": 189,
+        "score": 216,
         "mergedPrs": 13,
-        "reviews": 25,
+        "reviews": 34,
         "reviewsReceived": 11,
         "issuesLinked": 4,
         "reactions": 300
@@ -150,9 +150,9 @@
         "reactions": 83
       },
       "docs": {
-        "score": 5,
-        "mergedPrs": 0,
-        "reviews": 1,
+        "score": 13,
+        "mergedPrs": 1,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 17

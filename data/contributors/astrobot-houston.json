@@ -1,47 +1,47 @@
 {
   "username": "astrobot-houston",
-  "lastUpdated": "2026-09-08T11:42:23.796Z",
+  "lastUpdated": "2026-09-09T10:06:08.352Z",
   "aggregatedStats": {
-    "score": 6904,
-    "mergedPrs": 1151,
+    "score": 7389,
+    "mergedPrs": 1246,
     "reviews": 19,
-    "reviewsReceived": 738,
+    "reviewsReceived": 747,
     "issuesLinked": 98,
-    "reactions": 1584
+    "reactions": 1589
   },
   "orgStats": {
     "withastro": {
-      "score": 6904,
-      "mergedPrs": 1151,
+      "score": 7389,
+      "mergedPrs": 1246,
       "reviews": 19,
-      "reviewsReceived": 738,
+      "reviewsReceived": 747,
       "issuesLinked": 98,
-      "reactions": 1584
+      "reactions": 1589
     }
   },
   "repoStats": {
     "withastro": {
       "astro": {
-        "score": 2484,
-        "mergedPrs": 392,
+        "score": 2857,
+        "mergedPrs": 466,
         "reviews": 0,
-        "reviewsReceived": 252,
+        "reviewsReceived": 255,
         "issuesLinked": 98,
-        "reactions": 757
+        "reactions": 760
       },
       "astro.build": {
-        "score": 2497,
-        "mergedPrs": 419,
+        "score": 2504,
+        "mergedPrs": 420,
         "reviews": 0,
-        "reviewsReceived": 357,
+        "reviewsReceived": 358,
         "issuesLinked": 0,
-        "reactions": 454
+        "reactions": 456
       },
       "docs": {
-        "score": 778,
-        "mergedPrs": 134,
+        "score": 883,
+        "mergedPrs": 154,
         "reviews": 0,
-        "reviewsReceived": 88,
+        "reviewsReceived": 93,
         "issuesLinked": 0,
         "reactions": 198
       },

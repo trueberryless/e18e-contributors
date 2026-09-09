@@ -1,12 +1,12 @@
 {
   "username": "jcayzac",
-  "lastUpdated": "2026-09-09T00:32:41.572Z",
+  "lastUpdated": "2026-09-09T10:05:37.021Z",
   "aggregatedStats": {
-    "score": 44,
-    "mergedPrs": 5,
-    "reviews": 4,
-    "reviewsReceived": 6,
-    "issuesLinked": 0,
+    "score": 60,
+    "mergedPrs": 6,
+    "reviews": 6,
+    "reviewsReceived": 9,
+    "issuesLinked": 1,
     "reactions": 13
   },
   "orgStats": {
@@ -59,11 +59,11 @@
       "reactions": 4
     },
     "withastro": {
-      "score": 40,
-      "mergedPrs": 5,
-      "reviews": 3,
-      "reviewsReceived": 6,
-      "issuesLinked": 0,
+      "score": 56,
+      "mergedPrs": 6,
+      "reviews": 5,
+      "reviewsReceived": 9,
+      "issuesLinked": 1,
       "reactions": 2
     }
   },
@@ -130,11 +130,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 34,
-        "mergedPrs": 5,
-        "reviews": 1,
-        "reviewsReceived": 6,
-        "issuesLinked": 0,
+        "score": 50,
+        "mergedPrs": 6,
+        "reviews": 3,
+        "reviewsReceived": 9,
+        "issuesLinked": 1,
         "reactions": 2
       },
       "docs": {

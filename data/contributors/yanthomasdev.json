@@ -1,11 +1,11 @@
 {
   "username": "yanthomasdev",
-  "lastUpdated": "2026-09-08T11:41:50.750Z",
+  "lastUpdated": "2026-09-09T10:05:36.938Z",
   "aggregatedStats": {
-    "score": 6631,
-    "mergedPrs": 66,
-    "reviews": 2069,
-    "reviewsReceived": 83,
+    "score": 7751,
+    "mergedPrs": 72,
+    "reviews": 2429,
+    "reviewsReceived": 93,
     "issuesLinked": 1,
     "reactions": 95
   },
@@ -43,10 +43,10 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 6502,
-      "mergedPrs": 53,
-      "reviews": 2053,
-      "reviewsReceived": 70,
+      "score": 7622,
+      "mergedPrs": 59,
+      "reviews": 2413,
+      "reviewsReceived": 80,
       "issuesLinked": 0,
       "reactions": 80
     }
@@ -102,10 +102,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 191,
-        "mergedPrs": 9,
-        "reviews": 42,
-        "reviewsReceived": 20,
+        "score": 220,
+        "mergedPrs": 11,
+        "reviews": 47,
+        "reviewsReceived": 24,
         "issuesLinked": 0,
         "reactions": 3
       },
@@ -134,10 +134,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 5794,
-        "mergedPrs": 14,
-        "reviews": 1900,
-        "reviewsReceived": 18,
+        "score": 6885,
+        "mergedPrs": 18,
+        "reviews": 2255,
+        "reviewsReceived": 24,
         "issuesLinked": 0,
         "reactions": 61
       },

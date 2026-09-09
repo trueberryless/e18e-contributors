@@ -1,10 +1,10 @@
 {
   "username": "hippotastic",
-  "lastUpdated": "2026-09-08T11:41:52.802Z",
+  "lastUpdated": "2026-09-09T10:05:42.540Z",
   "aggregatedStats": {
-    "score": 859,
+    "score": 865,
     "mergedPrs": 126,
-    "reviews": 45,
+    "reviews": 47,
     "reviewsReceived": 13,
     "issuesLinked": 33,
     "reactions": 153
@@ -27,9 +27,9 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 141,
+      "score": 147,
       "mergedPrs": 14,
-      "reviews": 14,
+      "reviews": 16,
       "reviewsReceived": 13,
       "issuesLinked": 2,
       "reactions": 120
@@ -74,9 +74,9 @@
         "reactions": 0
       },
       "docs": {
-        "score": 6,
+        "score": 12,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 61

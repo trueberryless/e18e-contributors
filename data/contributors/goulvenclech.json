@@ -1,12 +1,12 @@
 {
   "username": "goulvenclech",
-  "lastUpdated": "2026-09-05T08:58:03.898Z",
+  "lastUpdated": "2026-09-09T10:05:37.020Z",
   "aggregatedStats": {
-    "score": 807,
-    "mergedPrs": 96,
-    "reviews": 52,
-    "reviewsReceived": 70,
-    "issuesLinked": 50,
+    "score": 823,
+    "mergedPrs": 97,
+    "reviews": 53,
+    "reviewsReceived": 76,
+    "issuesLinked": 51,
     "reactions": 6
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 27,
-      "mergedPrs": 4,
-      "reviews": 0,
-      "reviewsReceived": 3,
-      "issuesLinked": 2,
+      "score": 43,
+      "mergedPrs": 5,
+      "reviews": 1,
+      "reviewsReceived": 9,
+      "issuesLinked": 3,
       "reactions": 0
     }
   },
@@ -74,11 +74,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 16,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 6,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "docs": {

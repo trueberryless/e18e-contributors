@@ -1,13 +1,13 @@
 {
   "username": "matthewp",
-  "lastUpdated": "2026-09-08T11:41:52.807Z",
+  "lastUpdated": "2026-09-09T10:05:42.545Z",
   "aggregatedStats": {
-    "score": 8182,
-    "mergedPrs": 688,
-    "reviews": 1239,
-    "reviewsReceived": 642,
-    "issuesLinked": 140,
-    "reactions": 1026
+    "score": 9138,
+    "mergedPrs": 738,
+    "reviews": 1440,
+    "reviewsReceived": 706,
+    "issuesLinked": 157,
+    "reactions": 1080
   },
   "orgStats": {
     "expressive-code": {
@@ -59,12 +59,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 8177,
-      "mergedPrs": 688,
-      "reviews": 1239,
-      "reviewsReceived": 642,
-      "issuesLinked": 140,
-      "reactions": 975
+      "score": 9133,
+      "mergedPrs": 738,
+      "reviews": 1440,
+      "reviewsReceived": 706,
+      "issuesLinked": 157,
+      "reactions": 1029
     }
   },
   "repoStats": {
@@ -146,12 +146,12 @@
         "reactions": 16
       },
       "astro": {
-        "score": 5170,
-        "mergedPrs": 399,
-        "reviews": 821,
-        "reviewsReceived": 445,
-        "issuesLinked": 104,
-        "reactions": 590
+        "score": 6126,
+        "mergedPrs": 449,
+        "reviews": 1022,
+        "reviewsReceived": 509,
+        "issuesLinked": 121,
+        "reactions": 644
       },
       "astro.build": {
         "score": 482,

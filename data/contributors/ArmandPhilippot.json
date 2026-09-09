@@ -1,13 +1,13 @@
 {
   "username": "ArmandPhilippot",
-  "lastUpdated": "2026-09-08T11:41:50.952Z",
+  "lastUpdated": "2026-09-09T10:05:37.013Z",
   "aggregatedStats": {
-    "score": 8626,
-    "mergedPrs": 980,
-    "reviews": 879,
-    "reviewsReceived": 1041,
-    "issuesLinked": 19,
-    "reactions": 106
+    "score": 9779,
+    "mergedPrs": 1114,
+    "reviews": 966,
+    "reviewsReceived": 1250,
+    "issuesLinked": 25,
+    "reactions": 115
   },
   "orgStats": {
     "bruits": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 8552,
-      "mergedPrs": 970,
-      "reviews": 874,
-      "reviewsReceived": 1032,
-      "issuesLinked": 19,
-      "reactions": 104
+      "score": 9705,
+      "mergedPrs": 1104,
+      "reviews": 961,
+      "reviewsReceived": 1241,
+      "issuesLinked": 25,
+      "reactions": 113
     }
   },
   "repoStats": {
@@ -76,11 +76,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 464,
-        "mergedPrs": 28,
-        "reviews": 94,
-        "reviewsReceived": 39,
-        "issuesLinked": 1,
+        "score": 537,
+        "mergedPrs": 37,
+        "reviews": 98,
+        "reviewsReceived": 49,
+        "issuesLinked": 4,
         "reactions": 10
       },
       "astro.build": {
@@ -108,12 +108,12 @@
         "reactions": 1
       },
       "docs": {
-        "score": 7188,
-        "mergedPrs": 852,
-        "reviews": 661,
-        "reviewsReceived": 900,
-        "issuesLinked": 18,
-        "reactions": 85
+        "score": 8257,
+        "mergedPrs": 976,
+        "reviews": 743,
+        "reviewsReceived": 1097,
+        "issuesLinked": 21,
+        "reactions": 94
       },
       "prettier-plugin-astro": {
         "score": 6,
@@ -132,10 +132,10 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 688,
-        "mergedPrs": 82,
-        "reviews": 64,
-        "reviewsReceived": 85,
+        "score": 698,
+        "mergedPrs": 83,
+        "reviews": 65,
+        "reviewsReceived": 87,
         "issuesLinked": 0,
         "reactions": 8
       }

@@ -1,11 +1,11 @@
 {
   "username": "Namchee",
-  "lastUpdated": "2026-09-08T06:25:05.370Z",
+  "lastUpdated": "2026-09-09T10:05:42.115Z",
   "aggregatedStats": {
-    "score": 188,
-    "mergedPrs": 22,
+    "score": 195,
+    "mergedPrs": 23,
     "reviews": 7,
-    "reviewsReceived": 24,
+    "reviewsReceived": 26,
     "issuesLinked": 15,
     "reactions": 24
   },
@@ -59,10 +59,10 @@
       "reactions": 5
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -170,10 +170,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

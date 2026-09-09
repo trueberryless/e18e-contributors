@@ -1,12 +1,12 @@
 {
   "username": "ktym4a",
-  "lastUpdated": "2026-09-06T18:37:21.063Z",
+  "lastUpdated": "2026-09-09T10:05:50.991Z",
   "aggregatedStats": {
-    "score": 27,
-    "mergedPrs": 4,
+    "score": 35,
+    "mergedPrs": 5,
     "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 1,
+    "reviewsReceived": 3,
+    "issuesLinked": 2,
     "reactions": 1
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 16,
-      "mergedPrs": 2,
+      "score": 24,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
       "reactions": 1
     }
   },
@@ -40,11 +40,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 19,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 1
       },
       "astro.build": {

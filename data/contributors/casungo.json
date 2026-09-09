@@ -1,21 +1,21 @@
 {
   "username": "casungo",
-  "lastUpdated": "2026-09-07T11:54:04.622Z",
+  "lastUpdated": "2026-09-09T10:06:08.407Z",
   "aggregatedStats": {
-    "score": 278,
-    "mergedPrs": 39,
-    "reviews": 13,
+    "score": 333,
+    "mergedPrs": 40,
+    "reviews": 29,
     "reviewsReceived": 41,
-    "issuesLinked": 1,
+    "issuesLinked": 2,
     "reactions": 10
   },
   "orgStats": {
     "withastro": {
-      "score": 278,
-      "mergedPrs": 39,
-      "reviews": 13,
+      "score": 333,
+      "mergedPrs": 40,
+      "reviews": 29,
       "reviewsReceived": 41,
-      "issuesLinked": 1,
+      "issuesLinked": 2,
       "reactions": 10
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 4
       },
       "docs": {
-        "score": 19,
-        "mergedPrs": 2,
-        "reviews": 1,
+        "score": 74,
+        "mergedPrs": 3,
+        "reviews": 17,
         "reviewsReceived": 4,
-        "issuesLinked": 1,
+        "issuesLinked": 2,
         "reactions": 4
       },
       "starlight": {

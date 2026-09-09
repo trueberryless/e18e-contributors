@@ -1,11 +1,11 @@
 {
   "username": "trueberryless",
-  "lastUpdated": "2026-09-08T11:41:49.940Z",
+  "lastUpdated": "2026-09-09T10:05:36.157Z",
   "aggregatedStats": {
-    "score": 3126,
-    "mergedPrs": 362,
-    "reviews": 286,
-    "reviewsReceived": 408,
+    "score": 3314,
+    "mergedPrs": 385,
+    "reviews": 302,
+    "reviewsReceived": 433,
     "issuesLinked": 17,
     "reactions": 162
   },
@@ -147,10 +147,10 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 2484,
-      "mergedPrs": 293,
-      "reviews": 225,
-      "reviewsReceived": 331,
+      "score": 2672,
+      "mergedPrs": 316,
+      "reviews": 241,
+      "reviewsReceived": 356,
       "issuesLinked": 5,
       "reactions": 33
     },
@@ -392,9 +392,9 @@
     },
     "withastro": {
       "astro": {
-        "score": 81,
+        "score": 84,
         "mergedPrs": 7,
-        "reviews": 11,
+        "reviews": 12,
         "reviewsReceived": 9,
         "issuesLinked": 2,
         "reactions": 4
@@ -408,26 +408,26 @@
         "reactions": 2
       },
       "docs": {
-        "score": 620,
-        "mergedPrs": 72,
-        "reviews": 52,
-        "reviewsReceived": 100,
+        "score": 793,
+        "mergedPrs": 94,
+        "reviews": 65,
+        "reviewsReceived": 124,
         "issuesLinked": 2,
         "reactions": 2
       },
       "prettier-plugin-astro": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       },
       "starlight": {
-        "score": 1720,
-        "mergedPrs": 210,
-        "reviews": 149,
-        "reviewsReceived": 218,
+        "score": 1729,
+        "mergedPrs": 211,
+        "reviews": 150,
+        "reviewsReceived": 219,
         "issuesLinked": 1,
         "reactions": 25
       }

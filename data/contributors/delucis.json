@@ -1,11 +1,11 @@
 {
   "username": "delucis",
-  "lastUpdated": "2026-09-08T11:41:50.265Z",
+  "lastUpdated": "2026-09-09T10:05:36.475Z",
   "aggregatedStats": {
-    "score": 13418,
-    "mergedPrs": 615,
-    "reviews": 3169,
-    "reviewsReceived": 596,
+    "score": 13732,
+    "mergedPrs": 633,
+    "reviews": 3235,
+    "reviewsReceived": 622,
     "issuesLinked": 89,
     "reactions": 616
   },
@@ -91,10 +91,10 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 13244,
-      "mergedPrs": 600,
-      "reviews": 3144,
-      "reviewsReceived": 581,
+      "score": 13558,
+      "mergedPrs": 618,
+      "reviews": 3210,
+      "reviewsReceived": 607,
       "issuesLinked": 86,
       "reactions": 590
     }
@@ -234,17 +234,17 @@
         "reactions": 0
       },
       "astro": {
-        "score": 788,
-        "mergedPrs": 48,
-        "reviews": 148,
-        "reviewsReceived": 61,
+        "score": 945,
+        "mergedPrs": 59,
+        "reviews": 176,
+        "reviewsReceived": 79,
         "issuesLinked": 6,
         "reactions": 310
       },
       "astro.build": {
-        "score": 4555,
+        "score": 4564,
         "mergedPrs": 191,
-        "reviews": 1117,
+        "reviews": 1120,
         "reviewsReceived": 207,
         "issuesLinked": 20,
         "reactions": 22
@@ -274,10 +274,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 836,
-        "mergedPrs": 45,
-        "reviews": 179,
-        "reviewsReceived": 63,
+        "score": 975,
+        "mergedPrs": 52,
+        "reviews": 211,
+        "reviewsReceived": 71,
         "issuesLinked": 1,
         "reactions": 93
       },
@@ -298,9 +298,9 @@
         "reactions": 0
       },
       "prettier-plugin-astro": {
-        "score": 11,
+        "score": 17,
         "mergedPrs": 2,
-        "reviews": 0,
+        "reviews": 2,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
@@ -314,9 +314,9 @@
         "reactions": 0
       },
       "starlight": {
-        "score": 6821,
+        "score": 6824,
         "mergedPrs": 297,
-        "reviews": 1660,
+        "reviews": 1661,
         "reviewsReceived": 230,
         "issuesLinked": 55,
         "reactions": 160

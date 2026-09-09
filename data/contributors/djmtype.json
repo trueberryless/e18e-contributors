@@ -1,12 +1,12 @@
 {
   "username": "djmtype",
-  "lastUpdated": "2026-09-05T08:58:08.513Z",
+  "lastUpdated": "2026-09-09T10:05:45.001Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 10,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 13
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 8
     },
     "zen-browser": {
@@ -90,11 +90,11 @@
         "reactions": 0
       },
       "docs": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "houston-vscode": {
