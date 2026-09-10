@@ -1,13 +1,13 @@
 {
   "username": "connorshea",
-  "lastUpdated": "2026-09-09T18:37:23.043Z",
+  "lastUpdated": "2026-09-10T11:46:22.125Z",
   "aggregatedStats": {
-    "score": 1846,
-    "mergedPrs": 263,
-    "reviews": 104,
-    "reviewsReceived": 144,
-    "issuesLinked": 29,
-    "reactions": 174
+    "score": 2169,
+    "mergedPrs": 309,
+    "reviews": 119,
+    "reviewsReceived": 184,
+    "issuesLinked": 33,
+    "reactions": 176
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 3
     },
     "oxc-project": {
-      "score": 1760,
-      "mergedPrs": 252,
-      "reviews": 100,
-      "reviewsReceived": 135,
-      "issuesLinked": 25,
-      "reactions": 150
+      "score": 2083,
+      "mergedPrs": 298,
+      "reviews": 115,
+      "reviewsReceived": 175,
+      "issuesLinked": 29,
+      "reactions": 152
     },
     "vitejs": {
       "score": 6,
@@ -98,12 +98,12 @@
         "reactions": 2
       },
       "oxc": {
-        "score": 642,
-        "mergedPrs": 92,
-        "reviews": 27,
-        "reviewsReceived": 83,
-        "issuesLinked": 3,
-        "reactions": 115
+        "score": 965,
+        "mergedPrs": 138,
+        "reviews": 42,
+        "reviewsReceived": 123,
+        "issuesLinked": 7,
+        "reactions": 117
       },
       "oxc-resolver": {
         "score": 5,

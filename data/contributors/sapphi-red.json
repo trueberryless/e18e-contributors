@@ -1,13 +1,13 @@
 {
   "username": "sapphi-red",
-  "lastUpdated": "2026-09-09T23:32:10.609Z",
+  "lastUpdated": "2026-09-10T11:46:20.170Z",
   "aggregatedStats": {
-    "score": 15650,
-    "mergedPrs": 1583,
-    "reviews": 1839,
-    "reviewsReceived": 1237,
+    "score": 15719,
+    "mergedPrs": 1587,
+    "reviews": 1855,
+    "reviewsReceived": 1238,
     "issuesLinked": 410,
-    "reactions": 1609
+    "reactions": 1610
   },
   "orgStats": {
     "bombshell-dev": {
@@ -35,12 +35,12 @@
       "reactions": 7
     },
     "oxc-project": {
-      "score": 688,
-      "mergedPrs": 80,
-      "reviews": 78,
-      "reviewsReceived": 26,
+      "score": 757,
+      "mergedPrs": 84,
+      "reviews": 94,
+      "reviewsReceived": 27,
       "issuesLinked": 6,
-      "reactions": 158
+      "reactions": 159
     },
     "pnpm": {
       "score": 1,
@@ -132,12 +132,12 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 360,
-        "mergedPrs": 28,
-        "reviews": 59,
-        "reviewsReceived": 24,
+        "score": 429,
+        "mergedPrs": 32,
+        "reviews": 75,
+        "reviewsReceived": 25,
         "issuesLinked": 3,
-        "reactions": 132
+        "reactions": 133
       },
       "oxc-resolver": {
         "score": 162,
