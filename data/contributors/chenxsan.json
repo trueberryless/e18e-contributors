@@ -1,12 +1,12 @@
 {
   "username": "chenxsan",
-  "lastUpdated": "2026-09-06T16:29:12.121Z",
+  "lastUpdated": "2026-09-10T23:52:36.791Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
+    "score": 22,
+    "mergedPrs": 3,
     "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 0,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 0
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 11,
+      "mergedPrs": 1,
       "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     }
   },
@@ -74,11 +74,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "docs": {

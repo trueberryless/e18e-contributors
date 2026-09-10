@@ -1,12 +1,12 @@
 {
   "username": "kitschpatrol",
-  "lastUpdated": "2026-09-09T10:05:48.309Z",
+  "lastUpdated": "2026-09-10T23:52:37.153Z",
   "aggregatedStats": {
-    "score": 13,
-    "mergedPrs": 1,
+    "score": 22,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
+    "reviewsReceived": 3,
+    "issuesLinked": 2,
     "reactions": 22
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 13,
-      "mergedPrs": 1,
+      "score": 22,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
       "reactions": 20
     }
   },
@@ -66,11 +66,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 20,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
         "reactions": 0
       },
       "prettier-plugin-astro": {

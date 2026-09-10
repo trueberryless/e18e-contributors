@@ -1,33 +1,33 @@
 {
   "username": "SnowDingo",
-  "lastUpdated": "2026-09-10T01:25:46.212Z",
+  "lastUpdated": "2026-09-10T23:53:03.959Z",
   "aggregatedStats": {
-    "score": 81,
-    "mergedPrs": 5,
-    "reviews": 13,
-    "reviewsReceived": 12,
+    "score": 105,
+    "mergedPrs": 8,
+    "reviews": 14,
+    "reviewsReceived": 18,
     "issuesLinked": 2,
-    "reactions": 7
+    "reactions": 8
   },
   "orgStats": {
     "withastro": {
-      "score": 81,
-      "mergedPrs": 5,
-      "reviews": 13,
-      "reviewsReceived": 12,
+      "score": 105,
+      "mergedPrs": 8,
+      "reviews": 14,
+      "reviewsReceived": 18,
       "issuesLinked": 2,
-      "reactions": 7
+      "reactions": 8
     }
   },
   "repoStats": {
     "withastro": {
       "docs": {
-        "score": 60,
-        "mergedPrs": 4,
-        "reviews": 10,
-        "reviewsReceived": 8,
+        "score": 84,
+        "mergedPrs": 7,
+        "reviews": 11,
+        "reviewsReceived": 14,
         "issuesLinked": 1,
-        "reactions": 1
+        "reactions": 2
       },
       "starlight": {
         "score": 21,

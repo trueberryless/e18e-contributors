@@ -1,21 +1,21 @@
 {
   "username": "jdtjenkins",
-  "lastUpdated": "2026-09-10T01:25:46.894Z",
+  "lastUpdated": "2026-09-10T23:53:04.632Z",
   "aggregatedStats": {
-    "score": 32,
-    "mergedPrs": 2,
-    "reviews": 6,
-    "reviewsReceived": 4,
-    "issuesLinked": 0,
+    "score": 47,
+    "mergedPrs": 3,
+    "reviews": 8,
+    "reviewsReceived": 6,
+    "issuesLinked": 1,
     "reactions": 3
   },
   "orgStats": {
     "withastro": {
-      "score": 32,
-      "mergedPrs": 2,
-      "reviews": 6,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "score": 47,
+      "mergedPrs": 3,
+      "reviews": 8,
+      "reviewsReceived": 6,
+      "issuesLinked": 1,
       "reactions": 3
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 3
       },
       "docs": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 18,
+        "mergedPrs": 1,
+        "reviews": 3,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "starlight": {

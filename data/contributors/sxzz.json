@@ -1,13 +1,13 @@
 {
   "username": "sxzz",
-  "lastUpdated": "2026-09-10T21:51:30.145Z",
+  "lastUpdated": "2026-09-10T23:52:27.500Z",
   "aggregatedStats": {
-    "score": 2974,
-    "mergedPrs": 199,
+    "score": 2980,
+    "mergedPrs": 200,
     "reviews": 548,
-    "reviewsReceived": 101,
+    "reviewsReceived": 102,
     "issuesLinked": 47,
-    "reactions": 1411
+    "reactions": 1413
   },
   "orgStats": {
     "e18e": {
@@ -91,12 +91,12 @@
       "reactions": 1250
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 0
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -474,12 +474,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 0
+        "reactions": 2
       }
     }
   }

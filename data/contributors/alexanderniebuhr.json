@@ -1,13 +1,13 @@
 {
   "username": "alexanderniebuhr",
-  "lastUpdated": "2026-09-10T01:25:06.257Z",
+  "lastUpdated": "2026-09-10T23:52:24.574Z",
   "aggregatedStats": {
-    "score": 1063,
-    "mergedPrs": 101,
-    "reviews": 123,
-    "reviewsReceived": 107,
-    "issuesLinked": 38,
-    "reactions": 58
+    "score": 1365,
+    "mergedPrs": 130,
+    "reviews": 155,
+    "reviewsReceived": 160,
+    "issuesLinked": 42,
+    "reactions": 66
   },
   "orgStats": {
     "biomejs": {
@@ -51,12 +51,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 1051,
-      "mergedPrs": 99,
-      "reviews": 123,
-      "reviewsReceived": 105,
-      "issuesLinked": 38,
-      "reactions": 56
+      "score": 1353,
+      "mergedPrs": 128,
+      "reviews": 155,
+      "reviewsReceived": 158,
+      "issuesLinked": 42,
+      "reactions": 64
     }
   },
   "repoStats": {
@@ -136,12 +136,12 @@
         "reactions": 17
       },
       "astro": {
-        "score": 204,
-        "mergedPrs": 14,
-        "reviews": 30,
-        "reviewsReceived": 26,
-        "issuesLinked": 7,
-        "reactions": 39
+        "score": 498,
+        "mergedPrs": 43,
+        "reviews": 59,
+        "reviewsReceived": 79,
+        "issuesLinked": 11,
+        "reactions": 47
       },
       "astro.build": {
         "score": 9,
@@ -152,9 +152,9 @@
         "reactions": 0
       },
       "docs": {
-        "score": 73,
+        "score": 82,
         "mergedPrs": 7,
-        "reviews": 10,
+        "reviews": 13,
         "reviewsReceived": 8,
         "issuesLinked": 0,
         "reactions": 0

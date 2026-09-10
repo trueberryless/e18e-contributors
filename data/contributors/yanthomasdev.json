@@ -1,13 +1,13 @@
 {
   "username": "yanthomasdev",
-  "lastUpdated": "2026-09-10T01:25:07.125Z",
+  "lastUpdated": "2026-09-10T23:52:25.439Z",
   "aggregatedStats": {
-    "score": 8845,
-    "mergedPrs": 77,
-    "reviews": 2783,
-    "reviewsReceived": 100,
+    "score": 9778,
+    "mergedPrs": 85,
+    "reviews": 3077,
+    "reviewsReceived": 110,
     "issuesLinked": 1,
-    "reactions": 95
+    "reactions": 100
   },
   "orgStats": {
     "biomejs": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 8716,
-      "mergedPrs": 64,
-      "reviews": 2767,
-      "reviewsReceived": 87,
+      "score": 9649,
+      "mergedPrs": 72,
+      "reviews": 3061,
+      "reviewsReceived": 97,
       "issuesLinked": 0,
-      "reactions": 80
+      "reactions": 85
     }
   },
   "repoStats": {
@@ -102,12 +102,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 243,
-        "mergedPrs": 14,
-        "reviews": 48,
-        "reviewsReceived": 29,
+        "score": 279,
+        "mergedPrs": 17,
+        "reviews": 53,
+        "reviewsReceived": 35,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       },
       "astro.build": {
         "score": 279,
@@ -134,12 +134,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 7956,
-        "mergedPrs": 20,
-        "reviews": 2608,
-        "reviewsReceived": 26,
+        "score": 8853,
+        "mergedPrs": 25,
+        "reviews": 2897,
+        "reviewsReceived": 30,
         "issuesLinked": 0,
-        "reactions": 61
+        "reactions": 65
       },
       "starlight": {
         "score": 228,

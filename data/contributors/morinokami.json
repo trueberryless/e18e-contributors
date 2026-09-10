@@ -1,11 +1,11 @@
 {
   "username": "morinokami",
-  "lastUpdated": "2026-09-10T01:25:06.739Z",
+  "lastUpdated": "2026-09-10T23:52:25.103Z",
   "aggregatedStats": {
-    "score": 1758,
-    "mergedPrs": 244,
-    "reviews": 92,
-    "reviewsReceived": 255,
+    "score": 1784,
+    "mergedPrs": 247,
+    "reviews": 94,
+    "reviewsReceived": 260,
     "issuesLinked": 1,
     "reactions": 47
   },
@@ -67,10 +67,10 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 1688,
-      "mergedPrs": 233,
-      "reviews": 91,
-      "reviewsReceived": 246,
+      "score": 1714,
+      "mergedPrs": 236,
+      "reviews": 93,
+      "reviewsReceived": 251,
       "issuesLinked": 0,
       "reactions": 37
     }
@@ -188,10 +188,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 16,
-        "mergedPrs": 2,
+        "score": 36,
+        "mergedPrs": 5,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 8,
         "issuesLinked": 0,
         "reactions": 0
       },
@@ -212,9 +212,9 @@
         "reactions": 0
       },
       "docs": {
-        "score": 666,
+        "score": 672,
         "mergedPrs": 74,
-        "reviews": 70,
+        "reviews": 72,
         "reviewsReceived": 85,
         "issuesLinked": 0,
         "reactions": 7

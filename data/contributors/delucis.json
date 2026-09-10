@@ -1,13 +1,13 @@
 {
   "username": "delucis",
-  "lastUpdated": "2026-09-10T01:25:06.397Z",
+  "lastUpdated": "2026-09-10T23:52:24.740Z",
   "aggregatedStats": {
-    "score": 14077,
-    "mergedPrs": 658,
-    "reviews": 3295,
-    "reviewsReceived": 660,
-    "issuesLinked": 90,
-    "reactions": 617
+    "score": 14299,
+    "mergedPrs": 672,
+    "reviews": 3339,
+    "reviewsReceived": 677,
+    "issuesLinked": 91,
+    "reactions": 621
   },
   "orgStats": {
     "biomejs": {
@@ -91,12 +91,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 13903,
-      "mergedPrs": 643,
-      "reviews": 3270,
-      "reviewsReceived": 645,
-      "issuesLinked": 87,
-      "reactions": 591
+      "score": 14125,
+      "mergedPrs": 657,
+      "reviews": 3314,
+      "reviewsReceived": 662,
+      "issuesLinked": 88,
+      "reactions": 595
     }
   },
   "repoStats": {
@@ -234,17 +234,17 @@
         "reactions": 0
       },
       "astro": {
-        "score": 1064,
-        "mergedPrs": 69,
-        "reviews": 192,
-        "reviewsReceived": 98,
-        "issuesLinked": 7,
-        "reactions": 311
+        "score": 1177,
+        "mergedPrs": 74,
+        "reviews": 218,
+        "reviewsReceived": 106,
+        "issuesLinked": 8,
+        "reactions": 313
       },
       "astro.build": {
-        "score": 4576,
+        "score": 4582,
         "mergedPrs": 193,
-        "reviews": 1120,
+        "reviews": 1122,
         "reviewsReceived": 209,
         "issuesLinked": 20,
         "reactions": 22
@@ -274,12 +274,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 1189,
-        "mergedPrs": 65,
-        "reviews": 255,
-        "reviewsReceived": 88,
+        "score": 1292,
+        "mergedPrs": 74,
+        "reviews": 271,
+        "reviewsReceived": 97,
         "issuesLinked": 1,
-        "reactions": 93
+        "reactions": 95
       },
       "houston-vscode": {
         "score": 32,

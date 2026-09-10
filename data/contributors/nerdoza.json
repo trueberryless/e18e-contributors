@@ -1,13 +1,13 @@
 {
   "username": "nerdoza",
-  "lastUpdated": "2026-09-05T08:58:10.130Z",
+  "lastUpdated": "2026-09-10T23:52:33.794Z",
   "aggregatedStats": {
-    "score": 7,
-    "mergedPrs": 1,
-    "reviews": 0,
-    "reviewsReceived": 0,
+    "score": 16,
+    "mergedPrs": 2,
+    "reviews": 1,
+    "reviewsReceived": 1,
     "issuesLinked": 1,
-    "reactions": 7
+    "reactions": 8
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 4
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 9,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -82,12 +82,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 9,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "docs": {
         "score": 0,

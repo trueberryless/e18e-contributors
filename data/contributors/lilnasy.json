@@ -1,13 +1,13 @@
 {
   "username": "lilnasy",
-  "lastUpdated": "2026-09-10T01:25:07.214Z",
+  "lastUpdated": "2026-09-10T23:52:25.519Z",
   "aggregatedStats": {
-    "score": 1013,
-    "mergedPrs": 81,
-    "reviews": 120,
-    "reviewsReceived": 154,
-    "issuesLinked": 42,
-    "reactions": 109
+    "score": 1444,
+    "mergedPrs": 114,
+    "reviews": 172,
+    "reviewsReceived": 227,
+    "issuesLinked": 60,
+    "reactions": 116
   },
   "orgStats": {
     "bombshell-dev": {
@@ -35,12 +35,12 @@
       "reactions": 13
     },
     "withastro": {
-      "score": 1006,
-      "mergedPrs": 80,
-      "reviews": 120,
-      "reviewsReceived": 153,
-      "issuesLinked": 42,
-      "reactions": 94
+      "score": 1437,
+      "mergedPrs": 113,
+      "reviews": 172,
+      "reviewsReceived": 226,
+      "issuesLinked": 60,
+      "reactions": 101
     }
   },
   "repoStats": {
@@ -84,12 +84,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 868,
-        "mergedPrs": 71,
-        "reviews": 96,
-        "reviewsReceived": 136,
-        "issuesLinked": 40,
-        "reactions": 85
+        "score": 1298,
+        "mergedPrs": 104,
+        "reviews": 148,
+        "reviewsReceived": 209,
+        "issuesLinked": 58,
+        "reactions": 92
       },
       "compiler": {
         "score": 32,

@@ -1,11 +1,11 @@
 {
   "username": "kurtextrem",
-  "lastUpdated": "2026-09-08T11:41:50.437Z",
+  "lastUpdated": "2026-09-10T23:52:24.991Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
+    "score": 18,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 18
   },
@@ -43,10 +43,10 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 2
     }
@@ -110,10 +110,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 2
       }

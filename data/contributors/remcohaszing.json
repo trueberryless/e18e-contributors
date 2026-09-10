@@ -1,11 +1,11 @@
 {
   "username": "remcohaszing",
-  "lastUpdated": "2026-09-10T01:25:06.879Z",
+  "lastUpdated": "2026-09-10T23:52:25.221Z",
   "aggregatedStats": {
-    "score": 69,
-    "mergedPrs": 9,
+    "score": 83,
+    "mergedPrs": 11,
     "reviews": 4,
-    "reviewsReceived": 7,
+    "reviewsReceived": 11,
     "issuesLinked": 2,
     "reactions": 14
   },
@@ -59,10 +59,10 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 18,
-      "mergedPrs": 2,
+      "score": 32,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 3,
+      "reviewsReceived": 7,
       "issuesLinked": 1,
       "reactions": 0
     }
@@ -162,10 +162,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 13,
-        "mergedPrs": 1,
+        "score": 27,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 7,
         "issuesLinked": 1,
         "reactions": 0
       },

@@ -1,19 +1,19 @@
 {
   "username": "yuhangch",
-  "lastUpdated": "2026-09-06T18:37:46.940Z",
+  "lastUpdated": "2026-09-10T23:53:05.407Z",
   "aggregatedStats": {
-    "score": 6,
+    "score": 9,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 1
   },
   "orgStats": {
     "withastro": {
-      "score": 6,
+      "score": 9,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 1
@@ -28,6 +28,14 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1
+      },
+      "docs": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       },
       "starlight": {
         "score": 6,

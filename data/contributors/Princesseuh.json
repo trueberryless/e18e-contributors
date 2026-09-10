@@ -1,13 +1,13 @@
 {
   "username": "Princesseuh",
-  "lastUpdated": "2026-09-10T01:25:06.157Z",
+  "lastUpdated": "2026-09-10T23:52:24.480Z",
   "aggregatedStats": {
-    "score": 7795,
-    "mergedPrs": 705,
-    "reviews": 1000,
-    "reviewsReceived": 630,
-    "issuesLinked": 278,
-    "reactions": 836
+    "score": 8590,
+    "mergedPrs": 776,
+    "reviews": 1095,
+    "reviewsReceived": 736,
+    "issuesLinked": 300,
+    "reactions": 891
   },
   "orgStats": {
     "biomejs": {
@@ -59,12 +59,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 6513,
-      "mergedPrs": 537,
-      "reviews": 886,
-      "reviewsReceived": 609,
-      "issuesLinked": 242,
-      "reactions": 767
+      "score": 7308,
+      "mergedPrs": 608,
+      "reviews": 981,
+      "reviewsReceived": 715,
+      "issuesLinked": 264,
+      "reactions": 822
     }
   },
   "repoStats": {
@@ -170,12 +170,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 3173,
-        "mergedPrs": 190,
-        "reviews": 608,
-        "reviewsReceived": 284,
-        "issuesLinked": 47,
-        "reactions": 206
+        "score": 3925,
+        "mergedPrs": 256,
+        "reviews": 698,
+        "reviewsReceived": 388,
+        "issuesLinked": 69,
+        "reactions": 246
       },
       "astro.build": {
         "score": 213,
@@ -202,12 +202,12 @@
         "reactions": 10
       },
       "docs": {
-        "score": 194,
-        "mergedPrs": 21,
-        "reviews": 19,
-        "reviewsReceived": 28,
+        "score": 238,
+        "mergedPrs": 26,
+        "reviews": 24,
+        "reviewsReceived": 30,
         "issuesLinked": 0,
-        "reactions": 40
+        "reactions": 55
       },
       "language-tools": {
         "score": 1621,

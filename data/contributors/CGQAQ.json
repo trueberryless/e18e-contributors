@@ -1,10 +1,10 @@
 {
   "username": "CGQAQ",
-  "lastUpdated": "2026-09-09T10:05:56.054Z",
+  "lastUpdated": "2026-09-10T23:52:48.489Z",
   "aggregatedStats": {
-    "score": 17,
+    "score": 20,
     "mergedPrs": 2,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 6
@@ -27,9 +27,9 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 10,
+      "score": 13,
       "mergedPrs": 1,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
@@ -78,6 +78,14 @@
         "mergedPrs": 1,
         "reviews": 1,
         "reviewsReceived": 2,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
+      "docs": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       }

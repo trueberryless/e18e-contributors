@@ -1,10 +1,10 @@
 {
   "username": "BlankParticle",
-  "lastUpdated": "2026-09-06T18:37:05.691Z",
+  "lastUpdated": "2026-09-10T23:52:25.627Z",
   "aggregatedStats": {
-    "score": 111,
+    "score": 114,
     "mergedPrs": 11,
-    "reviews": 13,
+    "reviews": 14,
     "reviewsReceived": 10,
     "issuesLinked": 2,
     "reactions": 34
@@ -83,9 +83,9 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 4
@@ -216,9 +216,9 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 4

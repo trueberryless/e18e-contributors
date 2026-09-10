@@ -1,13 +1,13 @@
 {
   "username": "SiegfriedEhret",
-  "lastUpdated": "2026-09-05T08:58:16.629Z",
+  "lastUpdated": "2026-09-10T23:52:42.015Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 8,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 4
   },
   "orgStats": {
     "sveltejs": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "withastro": {
       "docs": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     }
   }

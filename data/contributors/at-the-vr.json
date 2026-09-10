@@ -1,13 +1,13 @@
 {
   "username": "at-the-vr",
-  "lastUpdated": "2026-09-10T01:25:37.781Z",
+  "lastUpdated": "2026-09-10T23:52:55.590Z",
   "aggregatedStats": {
-    "score": 508,
-    "mergedPrs": 52,
-    "reviews": 63,
-    "reviewsReceived": 52,
+    "score": 657,
+    "mergedPrs": 60,
+    "reviews": 96,
+    "reviewsReceived": 61,
     "issuesLinked": 3,
-    "reactions": 14
+    "reactions": 16
   },
   "orgStats": {
     "vuejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 508,
-      "mergedPrs": 52,
-      "reviews": 63,
-      "reviewsReceived": 52,
+      "score": 657,
+      "mergedPrs": 60,
+      "reviews": 96,
+      "reviewsReceived": 61,
       "issuesLinked": 3,
-      "reactions": 14
+      "reactions": 16
     }
   },
   "repoStats": {
@@ -64,12 +64,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 157,
-        "mergedPrs": 12,
-        "reviews": 26,
-        "reviewsReceived": 12,
+        "score": 305,
+        "mergedPrs": 20,
+        "reviews": 59,
+        "reviewsReceived": 21,
         "issuesLinked": 3,
-        "reactions": 9
+        "reactions": 11
       },
       "language-tools": {
         "score": 3,

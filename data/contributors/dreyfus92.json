@@ -1,13 +1,13 @@
 {
   "username": "dreyfus92",
-  "lastUpdated": "2026-09-10T21:51:27.899Z",
+  "lastUpdated": "2026-09-10T23:52:24.763Z",
   "aggregatedStats": {
-    "score": 4234,
-    "mergedPrs": 304,
-    "reviews": 727,
-    "reviewsReceived": 336,
-    "issuesLinked": 93,
-    "reactions": 110
+    "score": 4944,
+    "mergedPrs": 369,
+    "reviews": 827,
+    "reviewsReceived": 419,
+    "issuesLinked": 94,
+    "reactions": 114
   },
   "orgStats": {
     "biomejs": {
@@ -51,12 +51,12 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 2698,
-      "mergedPrs": 186,
-      "reviews": 514,
-      "reviewsReceived": 218,
-      "issuesLinked": 3,
-      "reactions": 17
+      "score": 3408,
+      "mergedPrs": 251,
+      "reviews": 614,
+      "reviewsReceived": 301,
+      "issuesLinked": 4,
+      "reactions": 21
     }
   },
   "repoStats": {
@@ -160,12 +160,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 34,
-        "mergedPrs": 2,
-        "reviews": 6,
-        "reviewsReceived": 2,
-        "issuesLinked": 2,
-        "reactions": 4
+        "score": 59,
+        "mergedPrs": 4,
+        "reviews": 9,
+        "reviewsReceived": 5,
+        "issuesLinked": 3,
+        "reactions": 8
       },
       "astro.build": {
         "score": 12,
@@ -184,10 +184,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 1304,
-        "mergedPrs": 36,
-        "reviews": 362,
-        "reviewsReceived": 37,
+        "score": 1990,
+        "mergedPrs": 99,
+        "reviews": 459,
+        "reviewsReceived": 117,
         "issuesLinked": 0,
         "reactions": 8
       },

@@ -1,13 +1,13 @@
 {
   "username": "HiDeoo",
-  "lastUpdated": "2026-09-10T01:25:07.245Z",
+  "lastUpdated": "2026-09-10T23:52:25.545Z",
   "aggregatedStats": {
-    "score": 6932,
-    "mergedPrs": 510,
-    "reviews": 1205,
-    "reviewsReceived": 606,
-    "issuesLinked": 50,
-    "reactions": 607
+    "score": 7038,
+    "mergedPrs": 514,
+    "reviews": 1231,
+    "reviewsReceived": 612,
+    "issuesLinked": 51,
+    "reactions": 608
   },
   "orgStats": {
     "bruits": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 6878,
-      "mergedPrs": 503,
-      "reviews": 1202,
-      "reviewsReceived": 599,
-      "issuesLinked": 49,
-      "reactions": 596
+      "score": 6984,
+      "mergedPrs": 507,
+      "reviews": 1228,
+      "reviewsReceived": 605,
+      "issuesLinked": 50,
+      "reactions": 597
     }
   },
   "repoStats": {
@@ -92,10 +92,10 @@
         "reactions": 0
       },
       "astro": {
-        "score": 128,
-        "mergedPrs": 11,
+        "score": 135,
+        "mergedPrs": 12,
         "reviews": 18,
-        "reviewsReceived": 18,
+        "reviewsReceived": 20,
         "issuesLinked": 0,
         "reactions": 11
       },
@@ -124,12 +124,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 342,
-        "mergedPrs": 37,
-        "reviews": 34,
-        "reviewsReceived": 47,
-        "issuesLinked": 2,
-        "reactions": 37
+        "score": 441,
+        "mergedPrs": 40,
+        "reviews": 60,
+        "reviewsReceived": 51,
+        "issuesLinked": 3,
+        "reactions": 38
       },
       "language-tools": {
         "score": 6,
