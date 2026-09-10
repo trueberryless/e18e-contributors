@@ -1,13 +1,13 @@
 {
   "username": "seanstrom",
-  "lastUpdated": "2026-09-09T21:15:03.257Z",
+  "lastUpdated": "2026-09-10T16:17:48.324Z",
   "aggregatedStats": {
-    "score": 4,
-    "mergedPrs": 0,
+    "score": 20,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 9
+    "reviewsReceived": 2,
+    "issuesLinked": 2,
+    "reactions": 14
   },
   "orgStats": {
     "vitejs": {
@@ -19,12 +19,12 @@
       "reactions": 3
     },
     "zed-industries": {
-      "score": 4,
-      "mergedPrs": 0,
+      "score": 20,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 6
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 11
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 20,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 6
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
+        "reactions": 11
       }
     }
   }

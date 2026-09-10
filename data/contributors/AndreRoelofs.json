@@ -1,33 +1,33 @@
 {
   "username": "AndreRoelofs",
-  "lastUpdated": "2026-09-04T23:17:39.966Z",
+  "lastUpdated": "2026-09-10T16:18:02.914Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 16,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 7
+    "reviewsReceived": 1,
+    "issuesLinked": 2,
+    "reactions": 11
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 7
+      "reviewsReceived": 1,
+      "issuesLinked": 2,
+      "reactions": 11
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "reviewsReceived": 1,
+        "issuesLinked": 2,
+        "reactions": 11
       }
     }
   }

@@ -1,12 +1,12 @@
 {
   "username": "wojtekmaj",
-  "lastUpdated": "2026-09-09T23:32:10.532Z",
+  "lastUpdated": "2026-09-10T16:17:22.841Z",
   "aggregatedStats": {
-    "score": 537,
-    "mergedPrs": 61,
-    "reviews": 43,
+    "score": 547,
+    "mergedPrs": 62,
+    "reviews": 44,
     "reviewsReceived": 66,
-    "issuesLinked": 13,
+    "issuesLinked": 14,
     "reactions": 108
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 67
     },
     "tanstack": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 3
     },
     "vitejs": {
@@ -124,11 +124,11 @@
     },
     "tanstack": {
       "charts": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 3
       }
     },

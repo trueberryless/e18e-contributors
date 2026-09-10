@@ -1,13 +1,13 @@
 {
   "username": "schiller-manuel",
-  "lastUpdated": "2026-09-09T18:37:36.227Z",
+  "lastUpdated": "2026-09-10T16:17:38.677Z",
   "aggregatedStats": {
-    "score": 552,
-    "mergedPrs": 46,
+    "score": 563,
+    "mergedPrs": 48,
     "reviews": 80,
     "reviewsReceived": 36,
     "issuesLinked": 5,
-    "reactions": 367
+    "reactions": 371
   },
   "orgStats": {
     "shadcn-ui": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 519,
-      "mergedPrs": 41,
+      "score": 530,
+      "mergedPrs": 43,
       "reviews": 80,
       "reviewsReceived": 32,
       "issuesLinked": 4,
-      "reactions": 344
+      "reactions": 348
     },
     "vitejs": {
       "score": 27,
@@ -120,12 +120,12 @@
         "reactions": 6
       },
       "router": {
-        "score": 119,
-        "mergedPrs": 9,
+        "score": 129,
+        "mergedPrs": 11,
         "reviews": 10,
         "reviewsReceived": 6,
         "issuesLinked": 2,
-        "reactions": 336
+        "reactions": 340
       },
       "store": {
         "score": 8,

@@ -1,20 +1,20 @@
 {
   "username": "LadyBluenotes",
-  "lastUpdated": "2026-09-09T18:37:41.358Z",
+  "lastUpdated": "2026-09-10T16:17:43.335Z",
   "aggregatedStats": {
-    "score": 1175,
-    "mergedPrs": 149,
-    "reviews": 103,
-    "reviewsReceived": 60,
+    "score": 1190,
+    "mergedPrs": 150,
+    "reviews": 106,
+    "reviewsReceived": 61,
     "issuesLinked": 30,
     "reactions": 13
   },
   "orgStats": {
     "tanstack": {
-      "score": 1175,
-      "mergedPrs": 149,
-      "reviews": 103,
-      "reviewsReceived": 60,
+      "score": 1190,
+      "mergedPrs": 150,
+      "reviews": 106,
+      "reviewsReceived": 61,
       "issuesLinked": 30,
       "reactions": 10
     },
@@ -30,9 +30,9 @@
   "repoStats": {
     "tanstack": {
       "ai": {
-        "score": 40,
+        "score": 46,
         "mergedPrs": 5,
-        "reviews": 4,
+        "reviews": 6,
         "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
@@ -134,10 +134,10 @@
         "reactions": 0
       },
       "router": {
-        "score": 22,
-        "mergedPrs": 3,
+        "score": 28,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 6
       },
@@ -158,9 +158,9 @@
         "reactions": 0
       },
       "tanstack.com": {
-        "score": 449,
+        "score": 452,
         "mergedPrs": 54,
-        "reviews": 50,
+        "reviews": 51,
         "reviewsReceived": 19,
         "issuesLinked": 5,
         "reactions": 2

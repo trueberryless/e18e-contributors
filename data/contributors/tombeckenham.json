@@ -1,32 +1,32 @@
 {
   "username": "tombeckenham",
-  "lastUpdated": "2026-09-09T18:37:44.138Z",
+  "lastUpdated": "2026-09-10T16:17:46.040Z",
   "aggregatedStats": {
-    "score": 1058,
-    "mergedPrs": 104,
-    "reviews": 106,
-    "reviewsReceived": 94,
-    "issuesLinked": 62,
+    "score": 1094,
+    "mergedPrs": 108,
+    "reviews": 109,
+    "reviewsReceived": 97,
+    "issuesLinked": 64,
     "reactions": 21
   },
   "orgStats": {
     "tanstack": {
-      "score": 1058,
-      "mergedPrs": 104,
-      "reviews": 106,
-      "reviewsReceived": 94,
-      "issuesLinked": 62,
+      "score": 1094,
+      "mergedPrs": 108,
+      "reviews": 109,
+      "reviewsReceived": 97,
+      "issuesLinked": 64,
       "reactions": 21
     }
   },
   "repoStats": {
     "tanstack": {
       "ai": {
-        "score": 1030,
-        "mergedPrs": 100,
-        "reviews": 105,
-        "reviewsReceived": 89,
-        "issuesLinked": 62,
+        "score": 1057,
+        "mergedPrs": 103,
+        "reviews": 107,
+        "reviewsReceived": 91,
+        "issuesLinked": 64,
         "reactions": 21
       },
       "config": {
@@ -46,10 +46,10 @@
         "reactions": 0
       },
       "tanstack.com": {
-        "score": 28,
-        "mergedPrs": 4,
-        "reviews": 1,
-        "reviewsReceived": 5,
+        "score": 37,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
         "reactions": 0
       }

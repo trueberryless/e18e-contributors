@@ -1,10 +1,10 @@
 {
   "username": "AlemTuzlak",
-  "lastUpdated": "2026-09-09T18:37:19.758Z",
+  "lastUpdated": "2026-09-10T16:17:21.732Z",
   "aggregatedStats": {
-    "score": 3783,
-    "mergedPrs": 371,
-    "reviews": 570,
+    "score": 3794,
+    "mergedPrs": 372,
+    "reviews": 572,
     "reviewsReceived": 146,
     "issuesLinked": 31,
     "reactions": 105
@@ -19,9 +19,9 @@
       "reactions": 2
     },
     "tanstack": {
-      "score": 3758,
-      "mergedPrs": 367,
-      "reviews": 570,
+      "score": 3769,
+      "mergedPrs": 368,
+      "reviews": 572,
       "reviewsReceived": 142,
       "issuesLinked": 31,
       "reactions": 89
@@ -56,16 +56,16 @@
     },
     "tanstack": {
       "ai": {
-        "score": 2496,
+        "score": 2499,
         "mergedPrs": 200,
-        "reviews": 446,
+        "reviews": 447,
         "reviewsReceived": 105,
         "issuesLinked": 23,
         "reactions": 73
       },
       "charts": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
@@ -108,6 +108,14 @@
         "mergedPrs": 2,
         "reviews": 6,
         "reviewsReceived": 1,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
+      "highlight": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       },
@@ -184,9 +192,9 @@
         "reactions": 0
       },
       "tanstack.com": {
-        "score": 152,
+        "score": 155,
         "mergedPrs": 20,
-        "reviews": 13,
+        "reviews": 14,
         "reviewsReceived": 13,
         "issuesLinked": 0,
         "reactions": 0

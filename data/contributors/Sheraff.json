@@ -1,13 +1,13 @@
 {
   "username": "Sheraff",
-  "lastUpdated": "2026-09-09T18:37:30.960Z",
+  "lastUpdated": "2026-09-10T16:17:33.994Z",
   "aggregatedStats": {
-    "score": 888,
-    "mergedPrs": 141,
-    "reviews": 22,
+    "score": 921,
+    "mergedPrs": 146,
+    "reviews": 24,
     "reviewsReceived": 72,
     "issuesLinked": 11,
-    "reactions": 238
+    "reactions": 254
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 4
     },
     "tanstack": {
-      "score": 888,
-      "mergedPrs": 141,
-      "reviews": 22,
+      "score": 921,
+      "mergedPrs": 146,
+      "reviews": 24,
       "reviewsReceived": 72,
       "issuesLinked": 11,
-      "reactions": 234
+      "reactions": 250
     }
   },
   "repoStats": {
@@ -128,12 +128,12 @@
         "reactions": 0
       },
       "router": {
-        "score": 406,
-        "mergedPrs": 67,
-        "reviews": 8,
+        "score": 438,
+        "mergedPrs": 72,
+        "reviews": 10,
         "reviewsReceived": 5,
         "issuesLinked": 10,
-        "reactions": 216
+        "reactions": 232
       },
       "store": {
         "score": 74,

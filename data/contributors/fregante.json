@@ -1,9 +1,9 @@
 {
   "username": "fregante",
-  "lastUpdated": "2026-09-07T05:50:51.186Z",
+  "lastUpdated": "2026-09-10T16:17:22.250Z",
   "aggregatedStats": {
-    "score": 1020,
-    "mergedPrs": 85,
+    "score": 1025,
+    "mergedPrs": 86,
     "reviews": 92,
     "reviewsReceived": 6,
     "issuesLinked": 26,
@@ -43,8 +43,8 @@
       "reactions": 0
     },
     "refined-github": {
-      "score": 1006,
-      "mergedPrs": 84,
+      "score": 1011,
+      "mergedPrs": 85,
       "reviews": 91,
       "reviewsReceived": 5,
       "issuesLinked": 25,
@@ -134,8 +134,8 @@
         "reactions": 30
       },
       "refined-github": {
-        "score": 254,
-        "mergedPrs": 0,
+        "score": 259,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

@@ -1,13 +1,13 @@
 {
   "username": "bcomnes",
-  "lastUpdated": "2026-09-04T23:17:10.198Z",
+  "lastUpdated": "2026-09-10T16:17:34.067Z",
   "aggregatedStats": {
-    "score": 2,
-    "mergedPrs": 0,
+    "score": 10,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
-    "reactions": 21
+    "reactions": 23
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 12
     },
     "zed-industries": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 9
+      "reactions": 11
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 1
       },
       "zed": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 8
+        "reactions": 10
       }
     }
   }
