@@ -1,22 +1,22 @@
 {
   "username": "martrapp",
-  "lastUpdated": "2026-09-09T10:06:08.886Z",
+  "lastUpdated": "2026-09-10T01:25:47.098Z",
   "aggregatedStats": {
-    "score": 512,
-    "mergedPrs": 52,
-    "reviews": 45,
-    "reviewsReceived": 69,
-    "issuesLinked": 22,
-    "reactions": 39
+    "score": 759,
+    "mergedPrs": 76,
+    "reviews": 72,
+    "reviewsReceived": 105,
+    "issuesLinked": 27,
+    "reactions": 43
   },
   "orgStats": {
     "withastro": {
-      "score": 512,
-      "mergedPrs": 52,
-      "reviews": 45,
-      "reviewsReceived": 69,
-      "issuesLinked": 22,
-      "reactions": 39
+      "score": 759,
+      "mergedPrs": 76,
+      "reviews": 72,
+      "reviewsReceived": 105,
+      "issuesLinked": 27,
+      "reactions": 43
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 329,
-        "mergedPrs": 33,
-        "reviews": 29,
-        "reviewsReceived": 40,
-        "issuesLinked": 17,
-        "reactions": 26
+        "score": 547,
+        "mergedPrs": 54,
+        "reviews": 53,
+        "reviewsReceived": 71,
+        "issuesLinked": 22,
+        "reactions": 30
       },
       "astro.build": {
         "score": 12,
@@ -54,10 +54,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 45,
-        "mergedPrs": 4,
-        "reviews": 4,
-        "reviewsReceived": 6,
+        "score": 74,
+        "mergedPrs": 7,
+        "reviews": 7,
+        "reviewsReceived": 11,
         "issuesLinked": 3,
         "reactions": 5
       },

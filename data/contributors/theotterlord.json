@@ -1,12 +1,12 @@
 {
   "username": "theotterlord",
-  "lastUpdated": "2026-09-09T10:05:36.874Z",
+  "lastUpdated": "2026-09-10T01:25:07.016Z",
   "aggregatedStats": {
-    "score": 890,
-    "mergedPrs": 73,
-    "reviews": 135,
-    "reviewsReceived": 90,
-    "issuesLinked": 10,
+    "score": 1007,
+    "mergedPrs": 80,
+    "reviews": 158,
+    "reviewsReceived": 99,
+    "issuesLinked": 12,
     "reactions": 94
   },
   "orgStats": {
@@ -51,11 +51,11 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 799,
-      "mergedPrs": 65,
-      "reviews": 120,
-      "reviewsReceived": 85,
-      "issuesLinked": 10,
+      "score": 916,
+      "mergedPrs": 72,
+      "reviews": 143,
+      "reviewsReceived": 94,
+      "issuesLinked": 12,
       "reactions": 88
     },
     "zen-browser": {
@@ -136,10 +136,10 @@
         "reactions": 0
       },
       "astro": {
-        "score": 135,
-        "mergedPrs": 9,
-        "reviews": 24,
-        "reviewsReceived": 13,
+        "score": 162,
+        "mergedPrs": 10,
+        "reviews": 31,
+        "reviewsReceived": 14,
         "issuesLinked": 2,
         "reactions": 13
       },
@@ -168,11 +168,11 @@
         "reactions": 0
       },
       "docs": {
-        "score": 149,
-        "mergedPrs": 11,
-        "reviews": 25,
-        "reviewsReceived": 11,
-        "issuesLinked": 1,
+        "score": 239,
+        "mergedPrs": 17,
+        "reviews": 41,
+        "reviewsReceived": 19,
+        "issuesLinked": 3,
         "reactions": 57
       },
       "language-tools": {

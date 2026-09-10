@@ -1,6 +1,6 @@
 {
   "username": "hashcube-dev",
-  "lastUpdated": "2026-08-18T04:50:29.232Z",
+  "lastUpdated": "2026-09-10T01:25:08.067Z",
   "aggregatedStats": {
     "score": 3,
     "mergedPrs": 0,
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "catppuccin": {
+      "catppuccin": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "nix": {
         "score": 0,
         "mergedPrs": 0,

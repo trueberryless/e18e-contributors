@@ -1,33 +1,33 @@
 {
   "username": "OliverSpeir",
-  "lastUpdated": "2026-09-09T10:06:08.187Z",
+  "lastUpdated": "2026-09-10T01:25:46.139Z",
   "aggregatedStats": {
-    "score": 157,
-    "mergedPrs": 12,
-    "reviews": 24,
-    "reviewsReceived": 21,
-    "issuesLinked": 1,
-    "reactions": 22
+    "score": 231,
+    "mergedPrs": 19,
+    "reviews": 30,
+    "reviewsReceived": 37,
+    "issuesLinked": 3,
+    "reactions": 25
   },
   "orgStats": {
     "withastro": {
-      "score": 157,
-      "mergedPrs": 12,
-      "reviews": 24,
-      "reviewsReceived": 21,
-      "issuesLinked": 1,
-      "reactions": 22
+      "score": 231,
+      "mergedPrs": 19,
+      "reviews": 30,
+      "reviewsReceived": 37,
+      "issuesLinked": 3,
+      "reactions": 25
     }
   },
   "repoStats": {
     "withastro": {
       "astro": {
-        "score": 101,
-        "mergedPrs": 8,
-        "reviews": 14,
-        "reviewsReceived": 15,
-        "issuesLinked": 1,
-        "reactions": 21
+        "score": 174,
+        "mergedPrs": 15,
+        "reviews": 20,
+        "reviewsReceived": 31,
+        "issuesLinked": 3,
+        "reactions": 24
       },
       "astro.build": {
         "score": 3,

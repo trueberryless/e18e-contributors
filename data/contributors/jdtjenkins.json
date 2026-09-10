@@ -1,19 +1,19 @@
 {
   "username": "jdtjenkins",
-  "lastUpdated": "2026-09-09T10:06:08.751Z",
+  "lastUpdated": "2026-09-10T01:25:46.894Z",
   "aggregatedStats": {
-    "score": 26,
+    "score": 32,
     "mergedPrs": 2,
-    "reviews": 4,
+    "reviews": 6,
     "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 3
   },
   "orgStats": {
     "withastro": {
-      "score": 26,
+      "score": 32,
       "mergedPrs": 2,
-      "reviews": 4,
+      "reviews": 6,
       "reviewsReceived": 4,
       "issuesLinked": 0,
       "reactions": 3
@@ -22,17 +22,17 @@
   "repoStats": {
     "withastro": {
       "astro": {
-        "score": 23,
+        "score": 26,
         "mergedPrs": 2,
-        "reviews": 3,
+        "reviews": 4,
         "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 3
       },
       "docs": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

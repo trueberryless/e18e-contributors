@@ -1,11 +1,11 @@
 {
   "username": "43081j",
-  "lastUpdated": "2026-09-08T22:45:22.435Z",
+  "lastUpdated": "2026-09-10T01:25:07.150Z",
   "aggregatedStats": {
-    "score": 5074,
-    "mergedPrs": 461,
-    "reviews": 799,
-    "reviewsReceived": 216,
+    "score": 5100,
+    "mergedPrs": 464,
+    "reviews": 801,
+    "reviewsReceived": 221,
     "issuesLinked": 54,
     "reactions": 489
   },
@@ -107,10 +107,10 @@
       "reactions": 12
     },
     "withastro": {
-      "score": 46,
-      "mergedPrs": 5,
-      "reviews": 3,
-      "reviewsReceived": 9,
+      "score": 72,
+      "mergedPrs": 8,
+      "reviews": 5,
+      "reviewsReceived": 14,
       "issuesLinked": 0,
       "reactions": 34
     }
@@ -406,10 +406,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 25,
-        "mergedPrs": 2,
-        "reviews": 2,
-        "reviewsReceived": 6,
+        "score": 51,
+        "mergedPrs": 5,
+        "reviews": 4,
+        "reviewsReceived": 11,
         "issuesLinked": 0,
         "reactions": 34
       },

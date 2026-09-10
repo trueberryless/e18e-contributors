@@ -1,13 +1,13 @@
 {
   "username": "woodruffw",
-  "lastUpdated": "2026-09-09T05:09:12.570Z",
+  "lastUpdated": "2026-09-10T01:25:53.164Z",
   "aggregatedStats": {
-    "score": 6877,
-    "mergedPrs": 1058,
-    "reviews": 349,
+    "score": 6896,
+    "mergedPrs": 1061,
+    "reviews": 350,
     "reviewsReceived": 7,
     "issuesLinked": 242,
-    "reactions": 491
+    "reactions": 497
   },
   "orgStats": {
     "zed-industries": {
@@ -19,12 +19,12 @@
       "reactions": 1
     },
     "zizmorcore": {
-      "score": 6877,
-      "mergedPrs": 1058,
-      "reviews": 349,
+      "score": 6896,
+      "mergedPrs": 1061,
+      "reviews": 350,
       "reviewsReceived": 7,
       "issuesLinked": 242,
-      "reactions": 490
+      "reactions": 496
     }
   },
   "repoStats": {
@@ -48,20 +48,20 @@
     },
     "zizmorcore": {
       "zizmor": {
-        "score": 6570,
-        "mergedPrs": 1016,
+        "score": 6580,
+        "mergedPrs": 1018,
         "reviews": 321,
         "reviewsReceived": 7,
         "issuesLinked": 237,
-        "reactions": 456
+        "reactions": 460
       },
       "zizmor-action": {
-        "score": 307,
-        "mergedPrs": 42,
-        "reviews": 28,
+        "score": 316,
+        "mergedPrs": 43,
+        "reviews": 29,
         "reviewsReceived": 0,
         "issuesLinked": 5,
-        "reactions": 34
+        "reactions": 36
       }
     }
   }

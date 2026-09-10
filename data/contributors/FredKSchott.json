@@ -1,13 +1,13 @@
 {
   "username": "FredKSchott",
-  "lastUpdated": "2026-09-09T10:05:42.098Z",
+  "lastUpdated": "2026-09-10T01:25:10.279Z",
   "aggregatedStats": {
-    "score": 964,
-    "mergedPrs": 105,
-    "reviews": 108,
-    "reviewsReceived": 52,
+    "score": 1073,
+    "mergedPrs": 120,
+    "reviews": 116,
+    "reviewsReceived": 61,
     "issuesLinked": 13,
-    "reactions": 377
+    "reactions": 378
   },
   "orgStats": {
     "changesets": {
@@ -59,12 +59,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 960,
-      "mergedPrs": 105,
-      "reviews": 107,
-      "reviewsReceived": 52,
+      "score": 1069,
+      "mergedPrs": 120,
+      "reviews": 115,
+      "reviewsReceived": 61,
       "issuesLinked": 13,
-      "reactions": 364
+      "reactions": 365
     }
   },
   "repoStats": {
@@ -154,12 +154,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 261,
-        "mergedPrs": 26,
-        "reviews": 25,
-        "reviewsReceived": 19,
+        "score": 369,
+        "mergedPrs": 41,
+        "reviews": 33,
+        "reviewsReceived": 28,
         "issuesLinked": 5,
-        "reactions": 272
+        "reactions": 273
       },
       "astro.build": {
         "score": 314,

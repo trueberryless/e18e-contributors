@@ -1,13 +1,13 @@
 {
   "username": "bluwy",
-  "lastUpdated": "2026-09-09T23:32:10.578Z",
+  "lastUpdated": "2026-09-10T01:25:07.182Z",
   "aggregatedStats": {
-    "score": 14082,
-    "mergedPrs": 864,
-    "reviews": 2740,
-    "reviewsReceived": 950,
-    "issuesLinked": 243,
-    "reactions": 1075
+    "score": 15140,
+    "mergedPrs": 939,
+    "reviews": 2911,
+    "reviewsReceived": 1065,
+    "issuesLinked": 270,
+    "reactions": 1088
   },
   "orgStats": {
     "bombshell-dev": {
@@ -107,12 +107,12 @@
       "reactions": 2
     },
     "withastro": {
-      "score": 2495,
-      "mergedPrs": 163,
-      "reviews": 449,
-      "reviewsReceived": 215,
-      "issuesLinked": 50,
-      "reactions": 180
+      "score": 3553,
+      "mergedPrs": 238,
+      "reviews": 620,
+      "reviewsReceived": 330,
+      "issuesLinked": 77,
+      "reactions": 193
     }
   },
   "repoStats": {
@@ -478,12 +478,12 @@
         "reactions": 8
       },
       "astro": {
-        "score": 2003,
-        "mergedPrs": 127,
-        "reviews": 366,
-        "reviewsReceived": 175,
-        "issuesLinked": 40,
-        "reactions": 148
+        "score": 3047,
+        "mergedPrs": 200,
+        "reviews": 536,
+        "reviewsReceived": 289,
+        "issuesLinked": 67,
+        "reactions": 161
       },
       "astro.build": {
         "score": 6,
@@ -502,10 +502,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 29,
-        "mergedPrs": 3,
-        "reviews": 3,
-        "reviewsReceived": 5,
+        "score": 43,
+        "mergedPrs": 5,
+        "reviews": 4,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
         "reactions": 4
       },

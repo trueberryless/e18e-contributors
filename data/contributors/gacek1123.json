@@ -1,10 +1,10 @@
 {
   "username": "gacek1123",
-  "lastUpdated": "2026-09-09T10:05:56.772Z",
+  "lastUpdated": "2026-09-10T01:25:32.150Z",
   "aggregatedStats": {
-    "score": 12,
+    "score": 18,
     "mergedPrs": 1,
-    "reviews": 2,
+    "reviews": 4,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 0
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 6,
+      "score": 12,
       "mergedPrs": 0,
-      "reviews": 2,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -40,17 +40,17 @@
     },
     "withastro": {
       "astro": {
-        "score": 3,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       },
       "docs": {
-        "score": 3,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

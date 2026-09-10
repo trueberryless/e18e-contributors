@@ -1,12 +1,12 @@
 {
   "username": "at-the-vr",
-  "lastUpdated": "2026-09-09T10:06:02.164Z",
+  "lastUpdated": "2026-09-10T01:25:37.781Z",
   "aggregatedStats": {
-    "score": 353,
-    "mergedPrs": 38,
-    "reviews": 41,
-    "reviewsReceived": 37,
-    "issuesLinked": 1,
+    "score": 508,
+    "mergedPrs": 52,
+    "reviews": 63,
+    "reviewsReceived": 52,
+    "issuesLinked": 3,
     "reactions": 14
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 353,
-      "mergedPrs": 38,
-      "reviews": 41,
-      "reviewsReceived": 37,
-      "issuesLinked": 1,
+      "score": 508,
+      "mergedPrs": 52,
+      "reviews": 63,
+      "reviewsReceived": 52,
+      "issuesLinked": 3,
       "reactions": 14
     }
   },
@@ -40,10 +40,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 46,
+        "mergedPrs": 6,
+        "reviews": 3,
+        "reviewsReceived": 7,
         "issuesLinked": 0,
         "reactions": 1
       },
@@ -64,11 +64,11 @@
         "reactions": 0
       },
       "docs": {
-        "score": 45,
-        "mergedPrs": 4,
-        "reviews": 6,
-        "reviewsReceived": 4,
-        "issuesLinked": 1,
+        "score": 157,
+        "mergedPrs": 12,
+        "reviews": 26,
+        "reviewsReceived": 12,
+        "issuesLinked": 3,
         "reactions": 9
       },
       "language-tools": {

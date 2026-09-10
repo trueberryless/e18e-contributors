@@ -1,10 +1,10 @@
 {
   "username": "dummdidumm",
-  "lastUpdated": "2026-09-09T23:32:25.504Z",
+  "lastUpdated": "2026-09-10T01:25:25.306Z",
   "aggregatedStats": {
-    "score": 22401,
+    "score": 22404,
     "mergedPrs": 1946,
-    "reviews": 3105,
+    "reviews": 3106,
     "reviewsReceived": 1063,
     "issuesLinked": 955,
     "reactions": 3829
@@ -33,6 +33,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
+    },
+    "withastro": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     }
   },
   "repoStats": {
@@ -296,6 +304,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1
+      }
+    },
+    "withastro": {
+      "astro": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     }
   }

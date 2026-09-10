@@ -1,10 +1,10 @@
 {
   "username": "Jarred-Sumner",
-  "lastUpdated": "2026-09-09T00:32:59.586Z",
+  "lastUpdated": "2026-09-10T01:25:31.198Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 6,
     "mergedPrs": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
@@ -17,11 +17,29 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
+    },
+    "withastro": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     }
   },
   "repoStats": {
     "vitejs": {
       "vite": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "withastro": {
+      "astro": {
         "score": 3,
         "mergedPrs": 0,
         "reviews": 1,

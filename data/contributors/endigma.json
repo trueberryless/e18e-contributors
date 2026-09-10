@@ -1,10 +1,10 @@
 {
   "username": "endigma",
-  "lastUpdated": "2026-09-06T18:37:22.787Z",
+  "lastUpdated": "2026-09-10T01:25:25.378Z",
   "aggregatedStats": {
-    "score": 21,
+    "score": 24,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 105
@@ -19,9 +19,9 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 21,
+      "score": 24,
       "mergedPrs": 2,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 102
@@ -78,6 +78,14 @@
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 102
+      },
+      "docs": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "zed-industries": {

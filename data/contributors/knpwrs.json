@@ -1,12 +1,12 @@
 {
   "username": "knpwrs",
-  "lastUpdated": "2026-09-08T06:25:04.886Z",
+  "lastUpdated": "2026-09-10T01:25:08.207Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
-    "reviews": 0,
-    "reviewsReceived": 1,
-    "issuesLinked": 0,
+    "score": 38,
+    "mergedPrs": 4,
+    "reviews": 2,
+    "reviewsReceived": 5,
+    "issuesLinked": 2,
     "reactions": 19
   },
   "orgStats": {
@@ -67,11 +67,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 24,
+      "mergedPrs": 2,
+      "reviews": 2,
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
       "reactions": 1
     }
   },
@@ -172,11 +172,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 24,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
         "reactions": 1
       },
       "docs": {

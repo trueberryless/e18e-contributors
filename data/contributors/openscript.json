@@ -1,12 +1,12 @@
 {
   "username": "openscript",
-  "lastUpdated": "2026-09-07T11:53:29.210Z",
+  "lastUpdated": "2026-09-10T01:25:10.548Z",
   "aggregatedStats": {
-    "score": 61,
-    "mergedPrs": 8,
-    "reviews": 2,
-    "reviewsReceived": 6,
-    "issuesLinked": 2,
+    "score": 78,
+    "mergedPrs": 10,
+    "reviews": 3,
+    "reviewsReceived": 8,
+    "issuesLinked": 3,
     "reactions": 47
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 40,
-      "mergedPrs": 5,
-      "reviews": 2,
-      "reviewsReceived": 6,
-      "issuesLinked": 1,
+      "score": 57,
+      "mergedPrs": 7,
+      "reviews": 3,
+      "reviewsReceived": 8,
+      "issuesLinked": 2,
       "reactions": 11
     }
   },
@@ -126,11 +126,11 @@
         "reactions": 2
       },
       "docs": {
-        "score": 21,
-        "mergedPrs": 3,
-        "reviews": 1,
-        "reviewsReceived": 3,
-        "issuesLinked": 0,
+        "score": 38,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 5,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "language-tools": {
