@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T23:28:10.925Z",
+    "lastRunAt": "2026-09-10T19:07:20.770Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wMy0xNVQyMjowMzo1OFrOFyz7vQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -55370,7 +55370,7 @@
     },
     "3107": {
       "number": 3107,
-      "updatedAt": "2026-09-03T01:32:38Z",
+      "updatedAt": "2026-09-10T12:34:01Z",
       "merged": false,
       "author": {
         "login": "github-actions",
@@ -55460,8 +55460,8 @@
     },
     "3114": {
       "number": 3114,
-      "updatedAt": "2026-09-08T14:32:01Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T12:33:39Z",
+      "merged": true,
       "author": {
         "login": "colecrouter",
         "__typename": "User"
@@ -55533,7 +55533,7 @@
     },
     "3117": {
       "number": 3117,
-      "updatedAt": "2026-09-03T14:34:52Z",
+      "updatedAt": "2026-09-10T12:46:21Z",
       "merged": false,
       "author": {
         "login": "dummdidumm",
@@ -55552,6 +55552,13 @@
             "author": {
               "login": "coderabbitai",
               "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "jasonlyu123",
+              "__typename": "User"
             }
           }
         ]

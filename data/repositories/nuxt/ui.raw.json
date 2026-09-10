@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T21:12:47.234Z",
+    "lastRunAt": "2026-09-10T19:04:25.935Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMS0xOFQxMzoxNTo0NlrOLraJ-A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -53079,6 +53079,23 @@
       "user": {
         "login": "dprockcreative",
         "type": "User"
+      }
+    },
+    "6932": {
+      "number": 6932,
+      "user": {
+        "login": "elisterken",
+        "type": "User"
+      }
+    },
+    "6933": {
+      "number": 6933,
+      "user": {
+        "login": "benjamincanac",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 2
       }
     }
   },
@@ -130105,7 +130122,7 @@
     },
     "6678": {
       "number": 6678,
-      "updatedAt": "2026-09-03T13:36:28Z",
+      "updatedAt": "2026-09-10T17:44:06Z",
       "merged": false,
       "author": {
         "login": "sandros94",
@@ -133140,8 +133157,8 @@
     },
     "6858": {
       "number": 6858,
-      "updatedAt": "2026-09-08T08:18:51Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T07:22:19Z",
+      "merged": true,
       "author": {
         "login": "61021",
         "__typename": "User"
@@ -133173,6 +133190,13 @@
             "author": {
               "login": "coderabbitai",
               "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "benjamincanac",
+              "__typename": "User"
             }
           }
         ]
@@ -134376,7 +134400,7 @@
     },
     "6915": {
       "number": 6915,
-      "updatedAt": "2026-09-09T20:28:50Z",
+      "updatedAt": "2026-09-10T12:28:56Z",
       "merged": false,
       "author": {
         "login": "benjamincanac",
@@ -134389,7 +134413,36 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     },
     "6917": {
@@ -134553,8 +134606,8 @@
     },
     "6923": {
       "number": 6923,
-      "updatedAt": "2026-09-06T16:40:53Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T10:27:30Z",
+      "merged": true,
       "author": {
         "login": "giaBaoJS",
         "__typename": "User"
@@ -134566,7 +134619,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "benjamincanac",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "6924": {
@@ -134662,6 +134723,50 @@
       },
       "reactions": {
         "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "6932": {
+      "number": 6932,
+      "updatedAt": "2026-09-10T06:52:48Z",
+      "merged": true,
+      "author": {
+        "login": "elisterken",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "benjamincanac",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "6933": {
+      "number": 6933,
+      "updatedAt": "2026-09-10T07:23:16Z",
+      "merged": true,
+      "author": {
+        "login": "benjamincanac",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 2
       },
       "reviews": {
         "nodes": []

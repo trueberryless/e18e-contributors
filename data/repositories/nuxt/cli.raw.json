@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T21:12:51.792Z",
+    "lastRunAt": "2026-09-10T19:04:30.279Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0xNVQxMzowNDoyOFrOSggPtw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -11821,6 +11821,20 @@
       "number": 1530,
       "user": {
         "login": "danielroe",
+        "type": "User"
+      }
+    },
+    "1531": {
+      "number": 1531,
+      "user": {
+        "login": "userquin",
+        "type": "User"
+      }
+    },
+    "1532": {
+      "number": 1532,
+      "user": {
+        "login": "userquin",
         "type": "User"
       }
     }
@@ -40260,7 +40274,7 @@
     },
     "1523": {
       "number": 1523,
-      "updatedAt": "2026-09-09T03:51:47Z",
+      "updatedAt": "2026-09-10T05:06:14Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40304,7 +40318,7 @@
     },
     "1526": {
       "number": 1526,
-      "updatedAt": "2026-09-09T08:01:12Z",
+      "updatedAt": "2026-09-09T22:02:11Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40366,7 +40380,7 @@
     },
     "1529": {
       "number": 1529,
-      "updatedAt": "2026-09-07T19:43:48Z",
+      "updatedAt": "2026-09-09T22:03:03Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -40413,6 +40427,24 @@
             }
           }
         ]
+      }
+    },
+    "1532": {
+      "number": 1532,
+      "updatedAt": "2026-09-10T18:32:01Z",
+      "merged": false,
+      "author": {
+        "login": "userquin",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }
