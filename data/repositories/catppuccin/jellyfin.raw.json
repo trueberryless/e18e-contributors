@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T01:22:35.117Z",
+    "lastRunAt": "2026-09-10T23:48:43.899Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wMy0wMVQxNzoxMDoyNlrOjQmd6g==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -408,6 +408,13 @@
       "number": 57,
       "user": {
         "login": "amaterasunomikoto",
+        "type": "User"
+      }
+    },
+    "58": {
+      "number": 58,
+      "user": {
+        "login": "fred8044",
         "type": "User"
       }
     }

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T01:23:26.881Z",
+    "lastRunAt": "2026-09-10T23:49:29.541Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0xNlQyMjozNzowOFrOxALlzQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3348,6 +3348,13 @@
       "number": 655,
       "user": {
         "login": "astrobot-houston",
+        "type": "User"
+      }
+    },
+    "657": {
+      "number": 657,
+      "user": {
+        "login": "viztor",
         "type": "User"
       }
     }

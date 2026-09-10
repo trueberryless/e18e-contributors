@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T06:26:12.286Z",
+    "lastRunAt": "2026-09-10T23:51:35.189Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0xMC0wNFQwMToxMDowNVrOE1b7RQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1017,6 +1017,13 @@
       "user": {
         "login": "Andarist",
         "type": "User"
+      }
+    },
+    "132": {
+      "number": 132,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -2943,6 +2950,24 @@
             }
           }
         ]
+      }
+    },
+    "132": {
+      "number": 132,
+      "updatedAt": "2026-09-10T22:11:21Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

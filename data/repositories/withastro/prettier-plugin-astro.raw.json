@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T01:23:20.819Z",
+    "lastRunAt": "2026-09-10T23:49:23.719Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wOS0wOFQxODozOTowOFrOK4EsGw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3564,6 +3564,13 @@
       "number": 482,
       "user": {
         "login": "Princesseuh",
+        "type": "User"
+      }
+    },
+    "483": {
+      "number": 483,
+      "user": {
+        "login": "LapPavel",
         "type": "User"
       }
     }
@@ -11112,7 +11119,7 @@
     },
     "482": {
       "number": 482,
-      "updatedAt": "2026-09-09T14:23:31Z",
+      "updatedAt": "2026-09-10T12:44:02Z",
       "merged": false,
       "author": {
         "login": "Princesseuh",

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T01:23:25.523Z",
+    "lastRunAt": "2026-09-10T23:49:28.134Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMy0yOVQwOToyNjo0N1rOTSTdTA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -27247,6 +27247,27 @@
       "number": 4190,
       "user": {
         "login": "delucis",
+        "type": "User"
+      }
+    },
+    "4191": {
+      "number": 4191,
+      "user": {
+        "login": "haddybhaiya",
+        "type": "User"
+      }
+    },
+    "4192": {
+      "number": 4192,
+      "user": {
+        "login": "HiDeoo",
+        "type": "User"
+      }
+    },
+    "4193": {
+      "number": 4193,
+      "user": {
+        "login": "mayank99",
         "type": "User"
       }
     }
@@ -132811,6 +132832,42 @@
       "merged": false,
       "author": {
         "login": "delucis",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "4191": {
+      "number": 4191,
+      "updatedAt": "2026-09-10T09:15:51Z",
+      "merged": false,
+      "author": {
+        "login": "haddybhaiya",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "4192": {
+      "number": 4192,
+      "updatedAt": "2026-09-10T13:36:42Z",
+      "merged": false,
+      "author": {
+        "login": "HiDeoo",
         "__typename": "User"
       },
       "closingIssuesReferences": {

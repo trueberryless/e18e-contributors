@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T06:26:12.286Z",
+    "lastRunAt": "2026-09-10T23:51:35.189Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0wNS0wM1QwMTozOTozMVrOEGfL8w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -16031,6 +16031,13 @@
       "number": 2295,
       "user": {
         "login": "benjie",
+        "type": "User"
+      }
+    },
+    "2297": {
+      "number": 2297,
+      "user": {
+        "login": "Andarist",
         "type": "User"
       }
     }
@@ -58098,7 +58105,7 @@
     },
     "2273": {
       "number": 2273,
-      "updatedAt": "2026-09-09T13:56:25Z",
+      "updatedAt": "2026-09-10T06:30:14Z",
       "merged": false,
       "author": {
         "login": "Andarist",
@@ -58116,7 +58123,7 @@
     },
     "2275": {
       "number": 2275,
-      "updatedAt": "2026-09-10T06:21:33Z",
+      "updatedAt": "2026-09-10T18:49:01Z",
       "merged": false,
       "author": {
         "login": "Andarist",
@@ -58162,6 +58169,34 @@
             "state": "COMMENTED",
             "author": {
               "login": "Andarist",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "Andarist",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "Andarist",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "Gonzamany",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "bluwy",
               "__typename": "User"
             }
           }
@@ -58697,6 +58732,24 @@
             }
           }
         ]
+      }
+    },
+    "2297": {
+      "number": 2297,
+      "updatedAt": "2026-09-10T10:34:32Z",
+      "merged": false,
+      "author": {
+        "login": "Andarist",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }
