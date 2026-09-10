@@ -1,22 +1,22 @@
 {
   "username": "maximepvrt",
-  "lastUpdated": "2026-09-09T21:14:51.786Z",
+  "lastUpdated": "2026-09-10T19:08:37.990Z",
   "aggregatedStats": {
-    "score": 817,
-    "mergedPrs": 128,
+    "score": 825,
+    "mergedPrs": 129,
     "reviews": 9,
-    "reviewsReceived": 113,
+    "reviewsReceived": 115,
     "issuesLinked": 9,
-    "reactions": 194
+    "reactions": 196
   },
   "orgStats": {
     "nuxt": {
-      "score": 817,
-      "mergedPrs": 128,
+      "score": 825,
+      "mergedPrs": 129,
       "reviews": 9,
-      "reviewsReceived": 113,
+      "reviewsReceived": 115,
       "issuesLinked": 9,
-      "reactions": 193
+      "reactions": 195
     },
     "vuejs": {
       "score": 0,
@@ -86,12 +86,12 @@
         "reactions": 4
       },
       "nuxt": {
-        "score": 115,
-        "mergedPrs": 17,
+        "score": 122,
+        "mergedPrs": 18,
         "reviews": 2,
-        "reviewsReceived": 20,
+        "reviewsReceived": 22,
         "issuesLinked": 0,
-        "reactions": 37
+        "reactions": 39
       },
       "nuxt.com": {
         "score": 68,

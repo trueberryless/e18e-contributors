@@ -1,22 +1,22 @@
 {
   "username": "nicolaspayot",
-  "lastUpdated": "2026-09-09T00:32:47.961Z",
+  "lastUpdated": "2026-09-10T19:08:38.273Z",
   "aggregatedStats": {
-    "score": 54,
-    "mergedPrs": 5,
-    "reviews": 3,
-    "reviewsReceived": 5,
-    "issuesLinked": 2,
-    "reactions": 112
+    "score": 78,
+    "mergedPrs": 7,
+    "reviews": 5,
+    "reviewsReceived": 7,
+    "issuesLinked": 4,
+    "reactions": 133
   },
   "orgStats": {
     "nuxt": {
-      "score": 54,
-      "mergedPrs": 5,
-      "reviews": 3,
-      "reviewsReceived": 5,
-      "issuesLinked": 2,
-      "reactions": 112
+      "score": 78,
+      "mergedPrs": 7,
+      "reviews": 5,
+      "reviewsReceived": 7,
+      "issuesLinked": 4,
+      "reactions": 133
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 4
       },
       "nuxt": {
-        "score": 45,
-        "mergedPrs": 4,
-        "reviews": 3,
-        "reviewsReceived": 4,
-        "issuesLinked": 1,
-        "reactions": 102
+        "score": 69,
+        "mergedPrs": 6,
+        "reviews": 5,
+        "reviewsReceived": 6,
+        "issuesLinked": 3,
+        "reactions": 123
       },
       "test-utils": {
         "score": 1,

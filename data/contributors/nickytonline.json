@@ -1,10 +1,10 @@
 {
   "username": "nickytonline",
-  "lastUpdated": "2026-09-05T00:34:28.728Z",
+  "lastUpdated": "2026-09-10T19:08:41.296Z",
   "aggregatedStats": {
-    "score": 9,
+    "score": 12,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 9
@@ -17,6 +17,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 7
+    },
+    "sveltejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "withastro": {
       "score": 0,
@@ -44,6 +52,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1
+      }
+    },
+    "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "withastro": {

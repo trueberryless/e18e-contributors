@@ -1,15 +1,23 @@
 {
   "username": "enjoythelive1",
-  "lastUpdated": "2026-09-05T00:34:39.912Z",
+  "lastUpdated": "2026-09-10T19:08:44.496Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "sveltejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vitejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "sveltejs": {
+      "svelte": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vitejs": {
       "vite": {
         "score": 0,

@@ -1,19 +1,19 @@
 {
   "username": "the-homeless-god",
-  "lastUpdated": "2026-09-05T00:34:33.676Z",
+  "lastUpdated": "2026-09-10T19:08:45.724Z",
   "aggregatedStats": {
-    "score": 16,
+    "score": 19,
     "mergedPrs": 3,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 3
   },
   "orgStats": {
     "sveltejs": {
-      "score": 16,
+      "score": 19,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
@@ -54,9 +54,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

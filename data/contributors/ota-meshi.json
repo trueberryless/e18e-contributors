@@ -1,22 +1,22 @@
 {
   "username": "ota-meshi",
-  "lastUpdated": "2026-09-09T23:32:26.354Z",
+  "lastUpdated": "2026-09-10T19:08:45.379Z",
   "aggregatedStats": {
-    "score": 7930,
-    "mergedPrs": 989,
-    "reviews": 677,
-    "reviewsReceived": 313,
-    "issuesLinked": 291,
-    "reactions": 586
+    "score": 7954,
+    "mergedPrs": 991,
+    "reviews": 678,
+    "reviewsReceived": 318,
+    "issuesLinked": 294,
+    "reactions": 587
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3324,
-      "mergedPrs": 437,
-      "reviews": 262,
-      "reviewsReceived": 132,
-      "issuesLinked": 105,
-      "reactions": 105
+      "score": 3348,
+      "mergedPrs": 439,
+      "reviews": 263,
+      "reviewsReceived": 137,
+      "issuesLinked": 108,
+      "reactions": 106
     },
     "vitejs": {
       "score": 0,
@@ -70,12 +70,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 9,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 3
+        "score": 33,
+        "mergedPrs": 3,
+        "reviews": 1,
+        "reviewsReceived": 7,
+        "issuesLinked": 4,
+        "reactions": 4
       },
       "svelte-eslint-parser": {
         "score": 1282,

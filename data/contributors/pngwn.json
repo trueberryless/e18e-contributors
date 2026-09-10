@@ -1,13 +1,13 @@
 {
   "username": "pngwn",
-  "lastUpdated": "2026-09-07T05:50:52.951Z",
+  "lastUpdated": "2026-09-10T19:08:33.880Z",
   "aggregatedStats": {
-    "score": 215,
-    "mergedPrs": 19,
-    "reviews": 21,
-    "reviewsReceived": 10,
-    "issuesLinked": 6,
-    "reactions": 349
+    "score": 308,
+    "mergedPrs": 28,
+    "reviews": 34,
+    "reviewsReceived": 15,
+    "issuesLinked": 8,
+    "reactions": 354
   },
   "orgStats": {
     "changesets": {
@@ -19,12 +19,12 @@
       "reactions": 4
     },
     "sveltejs": {
-      "score": 215,
-      "mergedPrs": 19,
-      "reviews": 21,
-      "reviewsReceived": 10,
-      "issuesLinked": 6,
-      "reactions": 345
+      "score": 308,
+      "mergedPrs": 28,
+      "reviews": 34,
+      "reviewsReceived": 15,
+      "issuesLinked": 8,
+      "reactions": 350
     }
   },
   "repoStats": {
@@ -72,9 +72,9 @@
         "reactions": 0
       },
       "kit": {
-        "score": 16,
+        "score": 25,
         "mergedPrs": 1,
-        "reviews": 2,
+        "reviews": 5,
         "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 16
@@ -144,12 +144,12 @@
         "reactions": 48
       },
       "svelte": {
-        "score": 47,
-        "mergedPrs": 1,
-        "reviews": 5,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 255
+        "score": 131,
+        "mergedPrs": 10,
+        "reviews": 15,
+        "reviewsReceived": 6,
+        "issuesLinked": 2,
+        "reactions": 260
       },
       "svelte-repl": {
         "score": 0,

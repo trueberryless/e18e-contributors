@@ -1,19 +1,19 @@
 {
   "username": "ThaUnknown",
-  "lastUpdated": "2026-09-09T23:32:24.976Z",
+  "lastUpdated": "2026-09-10T19:08:43.914Z",
   "aggregatedStats": {
-    "score": 16,
+    "score": 19,
     "mergedPrs": 2,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 2
   },
   "orgStats": {
     "sveltejs": {
-      "score": 16,
+      "score": 19,
       "mergedPrs": 2,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 2
@@ -30,9 +30,9 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 10,
+        "score": 13,
         "mergedPrs": 1,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0

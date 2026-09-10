@@ -1,22 +1,22 @@
 {
   "username": "pi0",
-  "lastUpdated": "2026-09-09T21:14:52.223Z",
+  "lastUpdated": "2026-09-10T19:08:38.475Z",
   "aggregatedStats": {
-    "score": 8600,
-    "mergedPrs": 462,
-    "reviews": 1786,
-    "reviewsReceived": 159,
-    "issuesLinked": 133,
-    "reactions": 5056
+    "score": 8906,
+    "mergedPrs": 470,
+    "reviews": 1870,
+    "reviewsReceived": 169,
+    "issuesLinked": 134,
+    "reactions": 5081
   },
   "orgStats": {
     "nuxt": {
-      "score": 8368,
-      "mergedPrs": 432,
-      "reviews": 1778,
-      "reviewsReceived": 147,
-      "issuesLinked": 127,
-      "reactions": 4725
+      "score": 8674,
+      "mergedPrs": 440,
+      "reviews": 1862,
+      "reviewsReceived": 157,
+      "issuesLinked": 128,
+      "reactions": 4750
     },
     "slidevjs": {
       "score": 0,
@@ -230,12 +230,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 644,
-        "mergedPrs": 14,
-        "reviews": 112,
-        "reviewsReceived": 15,
-        "issuesLinked": 2,
-        "reactions": 2185
+        "score": 950,
+        "mergedPrs": 22,
+        "reviews": 196,
+        "reviewsReceived": 25,
+        "issuesLinked": 3,
+        "reactions": 2210
       },
       "nuxt.com": {
         "score": 44,

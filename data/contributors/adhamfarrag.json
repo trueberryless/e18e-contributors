@@ -1,22 +1,22 @@
 {
   "username": "adhamfarrag",
-  "lastUpdated": "2026-09-05T17:41:20.667Z",
+  "lastUpdated": "2026-09-10T19:08:36.126Z",
   "aggregatedStats": {
-    "score": 6,
-    "mergedPrs": 1,
+    "score": 13,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 14
+    "reactions": 15
   },
   "orgStats": {
     "nuxt": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 13
+      "reactions": 14
     },
     "zed-industries": {
       "score": 0,
@@ -78,12 +78,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "telemetry": {
         "score": 5,

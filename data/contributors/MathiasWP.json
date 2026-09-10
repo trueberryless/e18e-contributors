@@ -1,13 +1,13 @@
 {
   "username": "MathiasWP",
-  "lastUpdated": "2026-09-09T23:32:11.585Z",
+  "lastUpdated": "2026-09-10T19:08:33.689Z",
   "aggregatedStats": {
-    "score": 375,
-    "mergedPrs": 52,
-    "reviews": 7,
-    "reviewsReceived": 55,
+    "score": 385,
+    "mergedPrs": 53,
+    "reviews": 8,
+    "reviewsReceived": 56,
     "issuesLinked": 6,
-    "reactions": 274
+    "reactions": 276
   },
   "orgStats": {
     "changesets": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 372,
-      "mergedPrs": 52,
-      "reviews": 6,
-      "reviewsReceived": 55,
+      "score": 382,
+      "mergedPrs": 53,
+      "reviews": 7,
+      "reviewsReceived": 56,
       "issuesLinked": 6,
-      "reactions": 273
+      "reactions": 275
     },
     "vitejs": {
       "score": 3,
@@ -88,12 +88,12 @@
         "reactions": 2
       },
       "kit": {
-        "score": 56,
-        "mergedPrs": 7,
+        "score": 62,
+        "mergedPrs": 8,
         "reviews": 2,
-        "reviewsReceived": 8,
+        "reviewsReceived": 9,
         "issuesLinked": 2,
-        "reactions": 29
+        "reactions": 31
       },
       "language-tools": {
         "score": 46,
@@ -128,9 +128,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 166,
+        "score": 169,
         "mergedPrs": 23,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 25,
         "issuesLinked": 2,
         "reactions": 223

@@ -1,20 +1,20 @@
 {
   "username": "nosovk",
-  "lastUpdated": "2026-09-08T06:25:18.764Z",
+  "lastUpdated": "2026-09-10T19:08:45.340Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 2,
-    "reviews": 2,
-    "reviewsReceived": 2,
+    "score": 47,
+    "mergedPrs": 5,
+    "reviews": 4,
+    "reviewsReceived": 3,
     "issuesLinked": 1,
     "reactions": 52
   },
   "orgStats": {
     "sveltejs": {
-      "score": 19,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 1,
+      "score": 41,
+      "mergedPrs": 4,
+      "reviews": 4,
+      "reviewsReceived": 2,
       "issuesLinked": 1,
       "reactions": 50
     },
@@ -38,10 +38,10 @@
         "reactions": 1
       },
       "kit": {
-        "score": 16,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 25,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 2,
         "issuesLinked": 1,
         "reactions": 45
       },
@@ -54,9 +54,9 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 13,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 3

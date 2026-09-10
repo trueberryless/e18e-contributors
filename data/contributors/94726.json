@@ -1,22 +1,22 @@
 {
   "username": "94726",
-  "lastUpdated": "2026-09-09T21:14:49.128Z",
+  "lastUpdated": "2026-09-10T19:08:34.988Z",
   "aggregatedStats": {
-    "score": 48,
-    "mergedPrs": 5,
-    "reviews": 2,
-    "reviewsReceived": 6,
-    "issuesLinked": 4,
-    "reactions": 25
+    "score": 65,
+    "mergedPrs": 7,
+    "reviews": 3,
+    "reviewsReceived": 8,
+    "issuesLinked": 5,
+    "reactions": 28
   },
   "orgStats": {
     "nuxt": {
-      "score": 41,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 4,
-      "reactions": 25
+      "score": 58,
+      "mergedPrs": 6,
+      "reviews": 3,
+      "reviewsReceived": 6,
+      "issuesLinked": 5,
+      "reactions": 28
     },
     "vitejs": {
       "score": 7,
@@ -38,12 +38,12 @@
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 41,
-        "mergedPrs": 4,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 4,
-        "reactions": 25
+        "score": 58,
+        "mergedPrs": 6,
+        "reviews": 3,
+        "reviewsReceived": 6,
+        "issuesLinked": 5,
+        "reactions": 28
       }
     },
     "vitejs": {

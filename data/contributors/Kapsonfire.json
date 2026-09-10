@@ -1,21 +1,21 @@
 {
   "username": "Kapsonfire",
-  "lastUpdated": "2026-09-09T23:32:24.770Z",
+  "lastUpdated": "2026-09-10T19:08:43.678Z",
   "aggregatedStats": {
-    "score": 4,
-    "mergedPrs": 0,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 26,
+    "mergedPrs": 2,
+    "reviews": 4,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 11
   },
   "orgStats": {
     "sveltejs": {
-      "score": 4,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 26,
+      "mergedPrs": 2,
+      "reviews": 4,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 11
     }
   },
@@ -38,11 +38,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 25,
+        "mergedPrs": 2,
+        "reviews": 4,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 4
       }
     }

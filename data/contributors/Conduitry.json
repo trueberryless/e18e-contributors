@@ -1,30 +1,30 @@
 {
   "username": "Conduitry",
-  "lastUpdated": "2026-09-09T23:32:21.208Z",
+  "lastUpdated": "2026-09-10T19:08:39.972Z",
   "aggregatedStats": {
-    "score": 2055,
-    "mergedPrs": 152,
-    "reviews": 352,
-    "reviewsReceived": 92,
-    "issuesLinked": 46,
-    "reactions": 553
+    "score": 2469,
+    "mergedPrs": 175,
+    "reviews": 440,
+    "reviewsReceived": 108,
+    "issuesLinked": 55,
+    "reactions": 555
   },
   "orgStats": {
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 4
     },
     "sveltejs": {
-      "score": 2052,
-      "mergedPrs": 152,
-      "reviews": 352,
-      "reviewsReceived": 92,
-      "issuesLinked": 46,
-      "reactions": 523
+      "score": 2461,
+      "mergedPrs": 174,
+      "reviews": 440,
+      "reviewsReceived": 108,
+      "issuesLinked": 55,
+      "reactions": 525
     },
     "vitejs": {
       "score": 3,
@@ -38,8 +38,8 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
@@ -112,12 +112,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 809,
-        "mergedPrs": 44,
-        "reviews": 161,
-        "reviewsReceived": 47,
-        "issuesLinked": 19,
-        "reactions": 206
+        "score": 1018,
+        "mergedPrs": 51,
+        "reviews": 215,
+        "reviewsReceived": 55,
+        "issuesLinked": 21,
+        "reactions": 207
       },
       "learn.svelte.dev": {
         "score": 6,
@@ -184,12 +184,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 390,
-        "mergedPrs": 20,
-        "reviews": 81,
-        "reviewsReceived": 20,
-        "issuesLinked": 4,
-        "reactions": 187
+        "score": 589,
+        "mergedPrs": 35,
+        "reviews": 115,
+        "reviewsReceived": 28,
+        "issuesLinked": 11,
+        "reactions": 188
       },
       "svelte-cli": {
         "score": 5,

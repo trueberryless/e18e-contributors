@@ -1,20 +1,20 @@
 {
   "username": "lidlanca",
-  "lastUpdated": "2026-09-09T23:32:26.079Z",
+  "lastUpdated": "2026-09-10T19:08:45.078Z",
   "aggregatedStats": {
-    "score": 86,
-    "mergedPrs": 9,
-    "reviews": 6,
-    "reviewsReceived": 4,
+    "score": 96,
+    "mergedPrs": 10,
+    "reviews": 7,
+    "reviewsReceived": 6,
     "issuesLinked": 9,
     "reactions": 12
   },
   "orgStats": {
     "sveltejs": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 1,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 6,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       }

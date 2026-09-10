@@ -1,10 +1,10 @@
 {
   "username": "Th0rN13",
-  "lastUpdated": "2026-09-05T20:07:04.394Z",
+  "lastUpdated": "2026-09-10T19:08:35.966Z",
   "aggregatedStats": {
-    "score": 8,
+    "score": 11,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 1
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
@@ -56,9 +56,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1

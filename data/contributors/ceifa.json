@@ -1,13 +1,13 @@
 {
   "username": "ceifa",
-  "lastUpdated": "2026-09-09T23:32:10.077Z",
+  "lastUpdated": "2026-09-10T19:08:32.013Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 1,
+    "score": 21,
+    "mergedPrs": 3,
     "reviews": 1,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 6
+    "reactions": 7
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 21,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 7
     }
   },
   "repoStats": {
@@ -64,12 +64,12 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 9,
-        "mergedPrs": 1,
+        "score": 21,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 5
       }
     }
   }

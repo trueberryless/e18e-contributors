@@ -1,22 +1,22 @@
 {
   "username": "dargmuesli",
-  "lastUpdated": "2026-09-07T01:06:02.804Z",
+  "lastUpdated": "2026-09-10T19:08:36.680Z",
   "aggregatedStats": {
-    "score": 268,
-    "mergedPrs": 27,
-    "reviews": 29,
-    "reviewsReceived": 24,
+    "score": 283,
+    "mergedPrs": 29,
+    "reviews": 30,
+    "reviewsReceived": 26,
     "issuesLinked": 8,
-    "reactions": 64
+    "reactions": 65
   },
   "orgStats": {
     "nuxt": {
-      "score": 259,
-      "mergedPrs": 26,
-      "reviews": 29,
-      "reviewsReceived": 22,
+      "score": 274,
+      "mergedPrs": 28,
+      "reviews": 30,
+      "reviewsReceived": 24,
       "issuesLinked": 7,
-      "reactions": 59
+      "reactions": 60
     },
     "pnpm": {
       "score": 0,
@@ -142,12 +142,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 21,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 3,
+        "score": 36,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 5,
         "issuesLinked": 1,
-        "reactions": 31
+        "reactions": 32
       },
       "scripts": {
         "score": 0,

@@ -1,19 +1,19 @@
 {
   "username": "ralyodio",
-  "lastUpdated": "2026-09-05T00:34:33.430Z",
+  "lastUpdated": "2026-09-10T19:08:45.467Z",
   "aggregatedStats": {
-    "score": 13,
+    "score": 16,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 24
   },
   "orgStats": {
     "sveltejs": {
-      "score": 12,
+      "score": 15,
       "mergedPrs": 2,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 14
@@ -86,9 +86,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 12

@@ -1,21 +1,21 @@
 {
   "username": "AdrianDuan",
-  "lastUpdated": "2026-09-09T21:14:53.673Z",
+  "lastUpdated": "2026-09-10T19:08:39.942Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 8,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 2
   },
   "orgStats": {
     "pnpm": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 2
     },
     "shadcn-ui": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "pnpm": {
       "pnpm": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 2
       }
     },

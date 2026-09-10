@@ -1,13 +1,13 @@
 {
   "username": "ascorbic",
-  "lastUpdated": "2026-09-10T11:46:20.121Z",
+  "lastUpdated": "2026-09-10T19:08:32.596Z",
   "aggregatedStats": {
-    "score": 8816,
-    "mergedPrs": 927,
-    "reviews": 1094,
-    "reviewsReceived": 474,
+    "score": 8825,
+    "mergedPrs": 928,
+    "reviews": 1095,
+    "reviewsReceived": 475,
     "issuesLinked": 191,
-    "reactions": 428
+    "reactions": 432
   },
   "orgStats": {
     "bombshell-dev": {
@@ -43,12 +43,12 @@
       "reactions": 18
     },
     "sveltejs": {
-      "score": 18,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 2,
+      "score": 27,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 1,
-      "reactions": 7
+      "reactions": 11
     },
     "vitest-dev": {
       "score": 0,
@@ -118,12 +118,12 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 13,
+        "mergedPrs": 1,
+        "reviews": 2,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 7
+        "reactions": 11
       },
       "svelte": {
         "score": 14,

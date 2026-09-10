@@ -1,12 +1,12 @@
 {
   "username": "Shinyaigeek",
-  "lastUpdated": "2026-09-09T23:32:09.954Z",
+  "lastUpdated": "2026-09-10T19:08:31.881Z",
   "aggregatedStats": {
-    "score": 133,
-    "mergedPrs": 14,
+    "score": 154,
+    "mergedPrs": 17,
     "reviews": 8,
     "reviewsReceived": 11,
-    "issuesLinked": 13,
+    "issuesLinked": 16,
     "reactions": 22
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 8,
-      "mergedPrs": 1,
+      "score": 29,
+      "mergedPrs": 4,
       "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 3,
       "reactions": 0
     },
     "vitest-dev": {
@@ -110,11 +110,11 @@
     },
     "sveltejs": {
       "svelte": {
-        "score": 8,
-        "mergedPrs": 1,
+        "score": 29,
+        "mergedPrs": 4,
         "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 3,
         "reactions": 0
       }
     },

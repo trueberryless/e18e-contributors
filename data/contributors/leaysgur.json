@@ -1,12 +1,12 @@
 {
   "username": "leaysgur",
-  "lastUpdated": "2026-09-10T11:46:19.664Z",
+  "lastUpdated": "2026-09-10T19:08:32.256Z",
   "aggregatedStats": {
-    "score": 3788,
-    "mergedPrs": 624,
+    "score": 3796,
+    "mergedPrs": 625,
     "reviews": 101,
-    "reviewsReceived": 63,
-    "issuesLinked": 120,
+    "reviewsReceived": 64,
+    "issuesLinked": 121,
     "reactions": 621
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 618
     },
     "sveltejs": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 14,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 2
     },
     "tanstack": {
@@ -154,11 +154,11 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

@@ -1,22 +1,22 @@
 {
   "username": "benjamincanac",
-  "lastUpdated": "2026-09-09T00:32:45.907Z",
+  "lastUpdated": "2026-09-10T19:08:36.392Z",
   "aggregatedStats": {
-    "score": 7011,
-    "mergedPrs": 413,
-    "reviews": 1401,
+    "score": 7028,
+    "mergedPrs": 414,
+    "reviews": 1404,
     "reviewsReceived": 111,
-    "issuesLinked": 205,
-    "reactions": 2223
+    "issuesLinked": 206,
+    "reactions": 2227
   },
   "orgStats": {
     "nuxt": {
-      "score": 6992,
-      "mergedPrs": 410,
-      "reviews": 1400,
+      "score": 7009,
+      "mergedPrs": 411,
+      "reviews": 1403,
       "reviewsReceived": 110,
-      "issuesLinked": 205,
-      "reactions": 2221
+      "issuesLinked": 206,
+      "reactions": 2225
     },
     "refined-github": {
       "score": 0,
@@ -158,12 +158,12 @@
         "reactions": 3
       },
       "ui": {
-        "score": 5159,
-        "mergedPrs": 267,
-        "reviews": 1097,
+        "score": 5175,
+        "mergedPrs": 268,
+        "reviews": 1100,
         "reviewsReceived": 21,
-        "issuesLinked": 156,
-        "reactions": 1999
+        "issuesLinked": 157,
+        "reactions": 2003
       },
       "website-v2": {
         "score": 20,

@@ -1,10 +1,10 @@
 {
   "username": "Wolfr",
-  "lastUpdated": "2026-09-08T19:36:31.540Z",
+  "lastUpdated": "2026-09-10T19:08:42.023Z",
   "aggregatedStats": {
-    "score": 64,
+    "score": 67,
     "mergedPrs": 10,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 4,
     "issuesLinked": 1,
     "reactions": 81
@@ -19,9 +19,9 @@
       "reactions": 63
     },
     "sveltejs": {
-      "score": 18,
+      "score": 21,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 18
@@ -88,9 +88,9 @@
         "reactions": 4
       },
       "svelte": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 7

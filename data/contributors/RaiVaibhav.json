@@ -1,22 +1,22 @@
 {
   "username": "RaiVaibhav",
-  "lastUpdated": "2026-09-09T23:32:24.908Z",
+  "lastUpdated": "2026-09-10T19:08:43.822Z",
   "aggregatedStats": {
-    "score": 33,
-    "mergedPrs": 4,
+    "score": 40,
+    "mergedPrs": 5,
     "reviews": 1,
     "reviewsReceived": 4,
-    "issuesLinked": 3,
-    "reactions": 3
+    "issuesLinked": 4,
+    "reactions": 4
   },
   "orgStats": {
     "sveltejs": {
-      "score": 33,
-      "mergedPrs": 4,
+      "score": 40,
+      "mergedPrs": 5,
       "reviews": 1,
       "reviewsReceived": 4,
-      "issuesLinked": 3,
-      "reactions": 3
+      "issuesLinked": 4,
+      "reactions": 4
     },
     "tanstack": {
       "score": 0,
@@ -46,12 +46,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 33,
-        "mergedPrs": 4,
+        "score": 40,
+        "mergedPrs": 5,
         "reviews": 1,
         "reviewsReceived": 4,
-        "issuesLinked": 3,
-        "reactions": 3
+        "issuesLinked": 4,
+        "reactions": 4
       },
       "svelte-repl": {
         "score": 0,

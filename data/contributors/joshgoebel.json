@@ -1,15 +1,23 @@
 {
   "username": "joshgoebel",
-  "lastUpdated": "2026-09-05T00:34:49.670Z",
+  "lastUpdated": "2026-09-10T19:08:44.923Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 3,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "sveltejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vuejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -28,6 +36,16 @@
     }
   },
   "repoStats": {
+    "sveltejs": {
+      "svelte": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vuejs": {
       "vue-syntax-highlight": {
         "score": 0,

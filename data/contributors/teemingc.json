@@ -1,12 +1,12 @@
 {
   "username": "teemingc",
-  "lastUpdated": "2026-09-09T23:32:11.830Z",
+  "lastUpdated": "2026-09-10T19:08:33.917Z",
   "aggregatedStats": {
-    "score": 6838,
-    "mergedPrs": 625,
-    "reviews": 834,
-    "reviewsReceived": 616,
-    "issuesLinked": 263,
+    "score": 6849,
+    "mergedPrs": 626,
+    "reviews": 835,
+    "reviewsReceived": 617,
+    "issuesLinked": 264,
     "reactions": 689
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 11
     },
     "sveltejs": {
-      "score": 6799,
-      "mergedPrs": 620,
-      "reviews": 831,
-      "reviewsReceived": 612,
-      "issuesLinked": 263,
+      "score": 6810,
+      "mergedPrs": 621,
+      "reviews": 832,
+      "reviewsReceived": 613,
+      "issuesLinked": 264,
       "reactions": 676
     },
     "vitejs": {
@@ -124,11 +124,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 5512,
-        "mergedPrs": 512,
+        "score": 5520,
+        "mergedPrs": 513,
         "reviews": 634,
-        "reviewsReceived": 507,
-        "issuesLinked": 241,
+        "reviewsReceived": 508,
+        "issuesLinked": 242,
         "reactions": 614
       },
       "language-tools": {
@@ -196,9 +196,9 @@
         "reactions": 11
       },
       "vite-plugin-svelte": {
-        "score": 244,
+        "score": 247,
         "mergedPrs": 15,
-        "reviews": 49,
+        "reviews": 50,
         "reviewsReceived": 15,
         "issuesLinked": 3,
         "reactions": 12

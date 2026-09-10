@@ -1,20 +1,20 @@
 {
   "username": "mvolfik",
-  "lastUpdated": "2026-09-05T08:58:18.178Z",
+  "lastUpdated": "2026-09-10T19:08:45.279Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
+    "score": 9,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 30
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 28
     },
@@ -38,10 +38,10 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 2,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 19
       },

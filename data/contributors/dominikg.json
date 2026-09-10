@@ -1,13 +1,13 @@
 {
   "username": "dominikg",
-  "lastUpdated": "2026-09-09T23:32:11.714Z",
+  "lastUpdated": "2026-09-10T19:08:33.762Z",
   "aggregatedStats": {
-    "score": 5512,
-    "mergedPrs": 546,
-    "reviews": 719,
-    "reviewsReceived": 413,
+    "score": 5699,
+    "mergedPrs": 561,
+    "reviews": 751,
+    "reviewsReceived": 429,
     "issuesLinked": 67,
-    "reactions": 779
+    "reactions": 781
   },
   "orgStats": {
     "changesets": {
@@ -59,12 +59,12 @@
       "reactions": 8
     },
     "sveltejs": {
-      "score": 4229,
-      "mergedPrs": 411,
-      "reviews": 573,
-      "reviewsReceived": 293,
+      "score": 4416,
+      "mergedPrs": 426,
+      "reviews": 605,
+      "reviewsReceived": 309,
       "issuesLinked": 54,
-      "reactions": 542
+      "reactions": 544
     },
     "vitejs": {
       "score": 1202,
@@ -226,12 +226,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 636,
-        "mergedPrs": 46,
-        "reviews": 108,
-        "reviewsReceived": 44,
+        "score": 789,
+        "mergedPrs": 57,
+        "reviews": 137,
+        "reviewsReceived": 55,
         "issuesLinked": 4,
-        "reactions": 301
+        "reactions": 302
       },
       "language-tools": {
         "score": 10,
@@ -282,12 +282,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 215,
-        "mergedPrs": 15,
-        "reviews": 41,
-        "reviewsReceived": 13,
+        "score": 249,
+        "mergedPrs": 19,
+        "reviews": 44,
+        "reviewsReceived": 18,
         "issuesLinked": 1,
-        "reactions": 17
+        "reactions": 18
       },
       "svelte-devtools": {
         "score": 3,

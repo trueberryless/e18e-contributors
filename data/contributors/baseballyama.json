@@ -1,13 +1,13 @@
 {
   "username": "baseballyama",
-  "lastUpdated": "2026-09-09T23:32:20.883Z",
+  "lastUpdated": "2026-09-10T19:08:39.601Z",
   "aggregatedStats": {
-    "score": 2367,
-    "mergedPrs": 240,
-    "reviews": 262,
-    "reviewsReceived": 168,
-    "issuesLinked": 91,
-    "reactions": 308
+    "score": 2659,
+    "mergedPrs": 272,
+    "reviews": 280,
+    "reviewsReceived": 197,
+    "issuesLinked": 113,
+    "reactions": 361
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 32
     },
     "sveltejs": {
-      "score": 2331,
-      "mergedPrs": 236,
-      "reviews": 261,
-      "reviewsReceived": 165,
-      "issuesLinked": 89,
-      "reactions": 248
+      "score": 2623,
+      "mergedPrs": 268,
+      "reviews": 279,
+      "reviewsReceived": 194,
+      "issuesLinked": 111,
+      "reactions": 301
     },
     "vitejs": {
       "score": 11,
@@ -96,12 +96,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 21,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 3,
-        "issuesLinked": 2,
-        "reactions": 12
+        "score": 115,
+        "mergedPrs": 14,
+        "reviews": 4,
+        "reviewsReceived": 14,
+        "issuesLinked": 9,
+        "reactions": 13
       },
       "language-tools": {
         "score": 12,
@@ -144,12 +144,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 567,
-        "mergedPrs": 42,
-        "reviews": 87,
-        "reviewsReceived": 38,
-        "issuesLinked": 24,
-        "reactions": 103
+        "score": 766,
+        "mergedPrs": 62,
+        "reviews": 102,
+        "reviewsReceived": 56,
+        "issuesLinked": 39,
+        "reactions": 155
       },
       "svelte-eslint-parser": {
         "score": 478,

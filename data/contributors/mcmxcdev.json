@@ -1,10 +1,10 @@
 {
   "username": "mcmxcdev",
-  "lastUpdated": "2026-09-09T23:32:10.304Z",
+  "lastUpdated": "2026-09-10T19:08:32.300Z",
   "aggregatedStats": {
-    "score": 133,
+    "score": 136,
     "mergedPrs": 17,
-    "reviews": 6,
+    "reviews": 7,
     "reviewsReceived": 16,
     "issuesLinked": 4,
     "reactions": 54
@@ -43,9 +43,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 47,
+      "score": 50,
       "mergedPrs": 5,
-      "reviews": 3,
+      "reviews": 4,
       "reviewsReceived": 7,
       "issuesLinked": 2,
       "reactions": 15
@@ -198,9 +198,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 10,
+        "score": 13,
         "mergedPrs": 1,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 2

@@ -1,9 +1,9 @@
 {
   "username": "neorth",
-  "lastUpdated": "2026-09-08T06:25:18.723Z",
+  "lastUpdated": "2026-09-10T19:08:45.302Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 1,
+    "score": 14,
+    "mergedPrs": 2,
     "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
@@ -11,8 +11,8 @@
   },
   "orgStats": {
     "sveltejs": {
-      "score": 9,
-      "mergedPrs": 1,
+      "score": 14,
+      "mergedPrs": 2,
       "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
@@ -22,8 +22,8 @@
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,

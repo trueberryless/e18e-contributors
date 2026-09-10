@@ -1,12 +1,12 @@
 {
   "username": "metonym",
-  "lastUpdated": "2026-09-09T23:32:10.308Z",
+  "lastUpdated": "2026-09-10T19:08:32.305Z",
   "aggregatedStats": {
-    "score": 75,
-    "mergedPrs": 11,
+    "score": 90,
+    "mergedPrs": 13,
     "reviews": 2,
-    "reviewsReceived": 10,
-    "issuesLinked": 1,
+    "reviewsReceived": 13,
+    "issuesLinked": 2,
     "reactions": 21
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 64,
-      "mergedPrs": 9,
+      "score": 79,
+      "mergedPrs": 11,
       "reviews": 2,
-      "reviewsReceived": 9,
-      "issuesLinked": 1,
+      "reviewsReceived": 12,
+      "issuesLinked": 2,
       "reactions": 20
     },
     "vitejs": {
@@ -114,11 +114,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 49,
-        "mergedPrs": 7,
+        "score": 64,
+        "mergedPrs": 9,
         "reviews": 1,
-        "reviewsReceived": 8,
-        "issuesLinked": 1,
+        "reviewsReceived": 11,
+        "issuesLinked": 2,
         "reactions": 12
       }
     },

@@ -1,10 +1,10 @@
 {
   "username": "sxzz",
-  "lastUpdated": "2026-09-09T23:32:11.902Z",
+  "lastUpdated": "2026-09-10T19:08:34.004Z",
   "aggregatedStats": {
-    "score": 2932,
+    "score": 2935,
     "mergedPrs": 195,
-    "reviews": 545,
+    "reviews": 546,
     "reviewsReceived": 92,
     "issuesLinked": 45,
     "reactions": 1411
@@ -27,9 +27,9 @@
       "reactions": 22
     },
     "nuxt": {
-      "score": 49,
+      "score": 52,
       "mergedPrs": 7,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 7,
       "issuesLinked": 0,
       "reactions": 13
@@ -170,9 +170,9 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 16,
+        "score": 19,
         "mergedPrs": 2,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 11

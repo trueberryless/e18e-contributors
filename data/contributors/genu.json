@@ -1,20 +1,20 @@
 {
   "username": "genu",
-  "lastUpdated": "2026-09-07T01:06:03.243Z",
+  "lastUpdated": "2026-09-10T19:08:37.119Z",
   "aggregatedStats": {
-    "score": 245,
-    "mergedPrs": 29,
+    "score": 251,
+    "mergedPrs": 30,
     "reviews": 10,
-    "reviewsReceived": 27,
+    "reviewsReceived": 28,
     "issuesLinked": 17,
     "reactions": 79
   },
   "orgStats": {
     "nuxt": {
-      "score": 219,
-      "mergedPrs": 26,
+      "score": 225,
+      "mergedPrs": 27,
       "reviews": 9,
-      "reviewsReceived": 23,
+      "reviewsReceived": 24,
       "issuesLinked": 16,
       "reactions": 65
     },
@@ -62,10 +62,10 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 7
       },

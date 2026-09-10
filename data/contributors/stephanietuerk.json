@@ -1,20 +1,20 @@
 {
   "username": "stephanietuerk",
-  "lastUpdated": "2026-09-05T00:34:33.616Z",
+  "lastUpdated": "2026-09-10T19:08:45.678Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 8,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 0
       }

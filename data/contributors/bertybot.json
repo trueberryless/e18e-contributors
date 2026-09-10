@@ -1,9 +1,9 @@
 {
   "username": "bertybot",
-  "lastUpdated": "2026-09-09T23:32:11.619Z",
+  "lastUpdated": "2026-09-10T19:08:33.731Z",
   "aggregatedStats": {
-    "score": 31,
-    "mergedPrs": 4,
+    "score": 36,
+    "mergedPrs": 5,
     "reviews": 1,
     "reviewsReceived": 4,
     "issuesLinked": 1,
@@ -19,8 +19,8 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 26,
-      "mergedPrs": 3,
+      "score": 31,
+      "mergedPrs": 4,
       "reviews": 1,
       "reviewsReceived": 4,
       "issuesLinked": 1,
@@ -48,8 +48,8 @@
         "reactions": 16
       },
       "svelte": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 11,
+        "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 1,
         "issuesLinked": 0,

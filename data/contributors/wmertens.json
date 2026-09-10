@@ -1,10 +1,10 @@
 {
   "username": "wmertens",
-  "lastUpdated": "2026-09-08T06:25:03.941Z",
+  "lastUpdated": "2026-09-10T19:08:32.548Z",
   "aggregatedStats": {
-    "score": 30,
+    "score": 33,
     "mergedPrs": 4,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 19
@@ -27,9 +27,9 @@
       "reactions": 3
     },
     "pnpm": {
-      "score": 11,
+      "score": 14,
       "mergedPrs": 2,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 12
@@ -98,9 +98,9 @@
         "reactions": 0
       },
       "pnpm": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 10

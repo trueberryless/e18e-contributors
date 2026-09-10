@@ -1,22 +1,22 @@
 {
   "username": "kevmodrome",
-  "lastUpdated": "2026-09-09T00:32:55.458Z",
+  "lastUpdated": "2026-09-10T19:08:44.991Z",
   "aggregatedStats": {
-    "score": 279,
-    "mergedPrs": 13,
-    "reviews": 62,
-    "reviewsReceived": 3,
+    "score": 307,
+    "mergedPrs": 16,
+    "reviews": 65,
+    "reviewsReceived": 7,
     "issuesLinked": 0,
-    "reactions": 246
+    "reactions": 251
   },
   "orgStats": {
     "sveltejs": {
-      "score": 279,
-      "mergedPrs": 13,
-      "reviews": 62,
-      "reviewsReceived": 3,
+      "score": 307,
+      "mergedPrs": 16,
+      "reviews": 65,
+      "reviewsReceived": 7,
       "issuesLinked": 0,
-      "reactions": 246
+      "reactions": 251
     }
   },
   "repoStats": {
@@ -62,12 +62,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 5,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 33,
+        "mergedPrs": 3,
+        "reviews": 4,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 15
+        "reactions": 20
       },
       "svelte-virtual-list": {
         "score": 0,

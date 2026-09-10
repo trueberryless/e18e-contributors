@@ -1,33 +1,33 @@
 {
   "username": "obulat",
-  "lastUpdated": "2026-09-09T21:14:52.098Z",
+  "lastUpdated": "2026-09-10T19:08:38.340Z",
   "aggregatedStats": {
-    "score": 18,
-    "mergedPrs": 2,
+    "score": 24,
+    "mergedPrs": 3,
     "reviews": 2,
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 4
   },
   "orgStats": {
     "nuxt": {
-      "score": 18,
-      "mergedPrs": 2,
+      "score": 24,
+      "mergedPrs": 3,
       "reviews": 2,
-      "reviewsReceived": 2,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     }
   },
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 18,
+        "mergedPrs": 2,
         "reviews": 2,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "test-utils": {
         "score": 0,

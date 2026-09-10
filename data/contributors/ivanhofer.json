@@ -1,22 +1,22 @@
 {
   "username": "ivanhofer",
-  "lastUpdated": "2026-09-09T23:32:25.862Z",
+  "lastUpdated": "2026-09-10T19:08:44.807Z",
   "aggregatedStats": {
-    "score": 168,
-    "mergedPrs": 18,
-    "reviews": 11,
-    "reviewsReceived": 15,
-    "issuesLinked": 4,
-    "reactions": 217
+    "score": 211,
+    "mergedPrs": 23,
+    "reviews": 14,
+    "reviewsReceived": 22,
+    "issuesLinked": 5,
+    "reactions": 220
   },
   "orgStats": {
     "sveltejs": {
-      "score": 161,
-      "mergedPrs": 17,
-      "reviews": 11,
-      "reviewsReceived": 13,
-      "issuesLinked": 4,
-      "reactions": 216
+      "score": 204,
+      "mergedPrs": 22,
+      "reviews": 14,
+      "reviewsReceived": 20,
+      "issuesLinked": 5,
+      "reactions": 219
     },
     "vitejs": {
       "score": 7,
@@ -54,12 +54,12 @@
         "reactions": 2
       },
       "kit": {
-        "score": 55,
-        "mergedPrs": 5,
-        "reviews": 4,
-        "reviewsReceived": 7,
+        "score": 86,
+        "mergedPrs": 9,
+        "reviews": 6,
+        "reviewsReceived": 12,
         "issuesLinked": 2,
-        "reactions": 67
+        "reactions": 70
       },
       "language-tools": {
         "score": 14,
@@ -86,11 +86,11 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 59,
-        "mergedPrs": 5,
-        "reviews": 6,
-        "reviewsReceived": 3,
-        "issuesLinked": 0,
+        "score": 71,
+        "mergedPrs": 6,
+        "reviews": 7,
+        "reviewsReceived": 5,
+        "issuesLinked": 1,
         "reactions": 132
       },
       "svelte-preprocess": {

@@ -1,21 +1,21 @@
 {
   "username": "hendrikheil",
-  "lastUpdated": "2026-09-09T21:14:51.113Z",
+  "lastUpdated": "2026-09-10T19:08:37.237Z",
   "aggregatedStats": {
-    "score": 78,
-    "mergedPrs": 10,
+    "score": 86,
+    "mergedPrs": 11,
     "reviews": 3,
-    "reviewsReceived": 11,
-    "issuesLinked": 3,
+    "reviewsReceived": 12,
+    "issuesLinked": 4,
     "reactions": 15
   },
   "orgStats": {
     "nuxt": {
-      "score": 66,
-      "mergedPrs": 9,
+      "score": 74,
+      "mergedPrs": 10,
       "reviews": 2,
-      "reviewsReceived": 9,
-      "issuesLinked": 2,
+      "reviewsReceived": 10,
+      "issuesLinked": 3,
       "reactions": 15
     },
     "vuejs": {
@@ -46,11 +46,11 @@
         "reactions": 8
       },
       "nuxt": {
-        "score": 29,
-        "mergedPrs": 3,
+        "score": 37,
+        "mergedPrs": 4,
         "reviews": 2,
-        "reviewsReceived": 3,
-        "issuesLinked": 2,
+        "reviewsReceived": 4,
+        "issuesLinked": 3,
         "reactions": 5
       },
       "ui": {

@@ -1,13 +1,13 @@
 {
   "username": "j3rem1e",
-  "lastUpdated": "2026-09-05T20:07:07.650Z",
+  "lastUpdated": "2026-09-10T19:08:40.419Z",
   "aggregatedStats": {
-    "score": 31,
+    "score": 34,
     "mergedPrs": 4,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 4,
     "issuesLinked": 3,
-    "reactions": 8
+    "reactions": 9
   },
   "orgStats": {
     "pnpm": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 31,
+      "score": 34,
       "mergedPrs": 4,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 4,
       "issuesLinked": 3,
-      "reactions": 8
+      "reactions": 9
     }
   },
   "repoStats": {
@@ -56,12 +56,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 8
+        "reactions": 9
       }
     }
   }

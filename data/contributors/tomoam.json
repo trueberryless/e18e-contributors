@@ -1,21 +1,21 @@
 {
   "username": "tomoam",
-  "lastUpdated": "2026-09-09T23:32:26.732Z",
+  "lastUpdated": "2026-09-10T19:08:45.771Z",
   "aggregatedStats": {
-    "score": 322,
-    "mergedPrs": 44,
+    "score": 341,
+    "mergedPrs": 47,
     "reviews": 5,
-    "reviewsReceived": 37,
-    "issuesLinked": 24,
+    "reviewsReceived": 39,
+    "issuesLinked": 25,
     "reactions": 24
   },
   "orgStats": {
     "sveltejs": {
-      "score": 321,
-      "mergedPrs": 44,
+      "score": 340,
+      "mergedPrs": 47,
       "reviews": 5,
-      "reviewsReceived": 37,
-      "issuesLinked": 24,
+      "reviewsReceived": 39,
+      "issuesLinked": 25,
       "reactions": 14
     },
     "vitejs": {
@@ -30,8 +30,8 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 14,
-        "mergedPrs": 2,
+        "score": 19,
+        "mergedPrs": 3,
         "reviews": 0,
         "reviewsReceived": 2,
         "issuesLinked": 1,
@@ -70,11 +70,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 22,
-        "mergedPrs": 3,
+        "score": 36,
+        "mergedPrs": 5,
         "reviews": 0,
-        "reviewsReceived": 4,
-        "issuesLinked": 1,
+        "reviewsReceived": 6,
+        "issuesLinked": 2,
         "reactions": 11
       },
       "svelte.dev": {

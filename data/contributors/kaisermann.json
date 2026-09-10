@@ -1,13 +1,13 @@
 {
   "username": "kaisermann",
-  "lastUpdated": "2026-09-09T00:32:43.071Z",
+  "lastUpdated": "2026-09-10T19:08:33.824Z",
   "aggregatedStats": {
-    "score": 520,
+    "score": 534,
     "mergedPrs": 48,
-    "reviews": 73,
+    "reviews": 77,
     "reviewsReceived": 8,
     "issuesLinked": 23,
-    "reactions": 68
+    "reactions": 82
   },
   "orgStats": {
     "changesets": {
@@ -19,12 +19,12 @@
       "reactions": 7
     },
     "sveltejs": {
-      "score": 501,
+      "score": 515,
       "mergedPrs": 46,
-      "reviews": 71,
+      "reviews": 75,
       "reviewsReceived": 7,
       "issuesLinked": 23,
-      "reactions": 52
+      "reactions": 66
     },
     "vitest-dev": {
       "score": 1,
@@ -88,12 +88,12 @@
         "reactions": 12
       },
       "svelte": {
-        "score": 3,
+        "score": 16,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 25
+        "reactions": 39
       },
       "svelte-loader": {
         "score": 16,

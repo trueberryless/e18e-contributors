@@ -1,22 +1,22 @@
 {
   "username": "skippednote",
-  "lastUpdated": "2026-09-05T20:07:11.441Z",
+  "lastUpdated": "2026-09-10T19:08:45.639Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 27,
+    "mergedPrs": 4,
+    "reviews": 1,
     "reviewsReceived": 1,
-    "issuesLinked": 0,
-    "reactions": 6
+    "issuesLinked": 1,
+    "reactions": 7
   },
   "orgStats": {
     "sveltejs": {
-      "score": 12,
-      "mergedPrs": 2,
-      "reviews": 0,
+      "score": 27,
+      "mergedPrs": 4,
+      "reviews": 1,
       "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 6
+      "issuesLinked": 1,
+      "reactions": 7
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 4
+        "issuesLinked": 1,
+        "reactions": 5
       },
       "svelte-preprocess": {
         "score": 0,

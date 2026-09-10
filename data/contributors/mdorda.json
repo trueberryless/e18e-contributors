@@ -1,15 +1,23 @@
 {
   "username": "mdorda",
-  "lastUpdated": "2026-08-19T08:34:06.547Z",
+  "lastUpdated": "2026-09-10T19:08:40.555Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 11,
+    "mergedPrs": 1,
+    "reviews": 1,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 0
   },
   "orgStats": {
+    "pnpm": {
+      "score": 11,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 0
+    },
     "sveltejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "pnpm": {
+      "pnpm": {
+        "score": 11,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 0
+      }
+    },
     "sveltejs": {
       "language-tools": {
         "score": 0,

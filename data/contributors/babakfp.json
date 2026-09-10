@@ -1,9 +1,9 @@
 {
   "username": "babakfp",
-  "lastUpdated": "2026-09-09T00:32:41.513Z",
+  "lastUpdated": "2026-09-10T19:08:32.598Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 3,
+    "score": 30,
+    "mergedPrs": 4,
     "reviews": 1,
     "reviewsReceived": 4,
     "issuesLinked": 0,
@@ -51,8 +51,8 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 2,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -160,8 +160,8 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 2,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

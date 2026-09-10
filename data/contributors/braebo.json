@@ -1,19 +1,19 @@
 {
   "username": "braebo",
-  "lastUpdated": "2026-09-09T23:32:25.219Z",
+  "lastUpdated": "2026-09-10T19:08:44.209Z",
   "aggregatedStats": {
-    "score": 52,
+    "score": 55,
     "mergedPrs": 6,
-    "reviews": 3,
+    "reviews": 4,
     "reviewsReceived": 8,
     "issuesLinked": 2,
     "reactions": 12
   },
   "orgStats": {
     "sveltejs": {
-      "score": 35,
+      "score": 38,
       "mergedPrs": 4,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 4,
       "issuesLinked": 2,
       "reactions": 12
@@ -70,9 +70,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

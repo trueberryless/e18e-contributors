@@ -1,13 +1,13 @@
 {
   "username": "benmccann",
-  "lastUpdated": "2026-09-09T23:32:10.055Z",
+  "lastUpdated": "2026-09-10T19:08:31.988Z",
   "aggregatedStats": {
-    "score": 10598,
-    "mergedPrs": 1029,
-    "reviews": 1381,
-    "reviewsReceived": 726,
-    "issuesLinked": 148,
-    "reactions": 2888
+    "score": 12343,
+    "mergedPrs": 1160,
+    "reviews": 1684,
+    "reviewsReceived": 846,
+    "issuesLinked": 173,
+    "reactions": 2993
   },
   "orgStats": {
     "biomejs": {
@@ -67,12 +67,12 @@
       "reactions": 111
     },
     "sveltejs": {
-      "score": 10041,
-      "mergedPrs": 976,
-      "reviews": 1313,
-      "reviewsReceived": 680,
-      "issuesLinked": 143,
-      "reactions": 2563
+      "score": 11786,
+      "mergedPrs": 1107,
+      "reviews": 1616,
+      "reviewsReceived": 800,
+      "issuesLinked": 168,
+      "reactions": 2668
     },
     "tanstack": {
       "score": 8,
@@ -364,12 +364,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 4924,
-        "mergedPrs": 460,
-        "reviews": 660,
-        "reviewsReceived": 354,
-        "issuesLinked": 66,
-        "reactions": 1576
+        "score": 5978,
+        "mergedPrs": 548,
+        "reviews": 823,
+        "reviewsReceived": 446,
+        "issuesLinked": 80,
+        "reactions": 1627
       },
       "language-tools": {
         "score": 77,
@@ -452,12 +452,12 @@
         "reactions": 3
       },
       "svelte": {
-        "score": 1584,
-        "mergedPrs": 151,
-        "reviews": 212,
-        "reviewsReceived": 121,
-        "issuesLinked": 8,
-        "reactions": 564
+        "score": 2275,
+        "mergedPrs": 194,
+        "reviews": 352,
+        "reviewsReceived": 149,
+        "issuesLinked": 19,
+        "reactions": 618
       },
       "svelte-devtools": {
         "score": 9,

@@ -1,10 +1,10 @@
 {
   "username": "merceyz",
-  "lastUpdated": "2026-09-09T23:32:11.781Z",
+  "lastUpdated": "2026-09-10T19:08:33.848Z",
   "aggregatedStats": {
-    "score": 112,
+    "score": 115,
     "mergedPrs": 14,
-    "reviews": 9,
+    "reviews": 10,
     "reviewsReceived": 9,
     "issuesLinked": 2,
     "reactions": 18
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 11,
+      "score": 14,
       "mergedPrs": 2,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 12
@@ -63,6 +63,14 @@
       }
     },
     "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "svelte-hmr": {
         "score": 5,
         "mergedPrs": 1,

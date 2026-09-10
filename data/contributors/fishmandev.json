@@ -1,20 +1,20 @@
 {
   "username": "fishmandev",
-  "lastUpdated": "2026-09-08T22:45:39.758Z",
+  "lastUpdated": "2026-09-10T19:08:44.559Z",
   "aggregatedStats": {
-    "score": 28,
-    "mergedPrs": 5,
+    "score": 39,
+    "mergedPrs": 7,
     "reviews": 0,
-    "reviewsReceived": 3,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 11,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -38,10 +38,10 @@
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 11,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

@@ -1,22 +1,22 @@
 {
   "username": "Mlocik97",
-  "lastUpdated": "2026-09-09T23:32:24.833Z",
+  "lastUpdated": "2026-09-10T19:08:43.754Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 2,
-    "reviews": 3,
-    "reviewsReceived": 2,
+    "score": 81,
+    "mergedPrs": 5,
+    "reviews": 15,
+    "reviewsReceived": 6,
     "issuesLinked": 0,
-    "reactions": 45
+    "reactions": 48
   },
   "orgStats": {
     "sveltejs": {
-      "score": 25,
-      "mergedPrs": 2,
-      "reviews": 3,
-      "reviewsReceived": 2,
+      "score": 81,
+      "mergedPrs": 5,
+      "reviews": 15,
+      "reviewsReceived": 6,
       "issuesLinked": 0,
-      "reactions": 44
+      "reactions": 47
     },
     "vitejs": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 14,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 1,
+        "score": 27,
+        "mergedPrs": 2,
+        "reviews": 4,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 23
+        "reactions": 26
       },
       "language-tools": {
         "score": 0,
@@ -86,10 +86,10 @@
         "reactions": 4
       },
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 46,
+        "mergedPrs": 2,
+        "reviews": 11,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 3
       },

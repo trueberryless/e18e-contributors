@@ -1,12 +1,12 @@
 {
   "username": "posva",
-  "lastUpdated": "2026-09-09T23:32:10.605Z",
+  "lastUpdated": "2026-09-10T19:08:32.638Z",
   "aggregatedStats": {
-    "score": 6675,
-    "mergedPrs": 324,
+    "score": 6689,
+    "mergedPrs": 326,
     "reviews": 1521,
-    "reviewsReceived": 92,
-    "issuesLinked": 74,
+    "reviewsReceived": 94,
+    "issuesLinked": 75,
     "reactions": 2534
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 2
     },
     "nuxt": {
-      "score": 190,
-      "mergedPrs": 19,
+      "score": 204,
+      "mergedPrs": 21,
       "reviews": 20,
-      "reviewsReceived": 10,
-      "issuesLinked": 4,
+      "reviewsReceived": 12,
+      "issuesLinked": 5,
       "reactions": 174
     },
     "oxc-project": {
@@ -146,11 +146,11 @@
         "reactions": 8
       },
       "nuxt": {
-        "score": 110,
-        "mergedPrs": 7,
+        "score": 124,
+        "mergedPrs": 9,
         "reviews": 16,
-        "reviewsReceived": 6,
-        "issuesLinked": 3,
+        "reviewsReceived": 8,
+        "issuesLinked": 4,
         "reactions": 154
       },
       "starter": {

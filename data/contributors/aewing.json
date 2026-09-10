@@ -1,19 +1,19 @@
 {
   "username": "aewing",
-  "lastUpdated": "2026-09-06T13:08:57.640Z",
+  "lastUpdated": "2026-09-10T19:08:44.017Z",
   "aggregatedStats": {
-    "score": 26,
+    "score": 29,
     "mergedPrs": 3,
-    "reviews": 3,
+    "reviews": 4,
     "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 2
   },
   "orgStats": {
     "sveltejs": {
-      "score": 26,
+      "score": 29,
       "mergedPrs": 3,
-      "reviews": 3,
+      "reviews": 4,
       "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 2
@@ -36,6 +36,14 @@
         "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 2
+      },
+      "svelte": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     }
   }

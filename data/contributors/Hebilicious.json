@@ -1,13 +1,13 @@
 {
   "username": "Hebilicious",
-  "lastUpdated": "2026-09-09T00:32:40.616Z",
+  "lastUpdated": "2026-09-10T19:08:31.804Z",
   "aggregatedStats": {
-    "score": 74,
-    "mergedPrs": 9,
-    "reviews": 2,
-    "reviewsReceived": 3,
-    "issuesLinked": 1,
-    "reactions": 179
+    "score": 183,
+    "mergedPrs": 22,
+    "reviews": 7,
+    "reviewsReceived": 21,
+    "issuesLinked": 5,
+    "reactions": 210
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "nuxt": {
-      "score": 68,
-      "mergedPrs": 8,
-      "reviews": 2,
-      "reviewsReceived": 3,
-      "issuesLinked": 1,
-      "reactions": 166
+      "score": 177,
+      "mergedPrs": 21,
+      "reviews": 7,
+      "reviewsReceived": 21,
+      "issuesLinked": 5,
+      "reactions": 197
     },
     "vuejs": {
       "score": 6,
@@ -88,12 +88,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 18,
-        "mergedPrs": 1,
-        "reviews": 0,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 122
+        "score": 127,
+        "mergedPrs": 14,
+        "reviews": 5,
+        "reviewsReceived": 19,
+        "issuesLinked": 4,
+        "reactions": 153
       },
       "nuxt.com": {
         "score": 2,

@@ -1,13 +1,13 @@
 {
   "username": "huseeiin",
-  "lastUpdated": "2026-09-09T10:05:36.559Z",
+  "lastUpdated": "2026-09-10T19:08:32.162Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 2,
-    "reviews": 0,
-    "reviewsReceived": 1,
+    "score": 21,
+    "mergedPrs": 3,
+    "reviews": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 13
+    "reactions": 15
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 9,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "oxc-project": {
       "score": 0,
@@ -88,12 +88,12 @@
     },
     "nuxt": {
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 9,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "oxc-project": {
