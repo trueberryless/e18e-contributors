@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T18:31:49.160Z",
+    "lastRunAt": "2026-09-10T16:06:21.049Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNi0xMi0xOVQwMTo1NjoxMFrOBd7kfg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -13138,7 +13138,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 2
+        "total_count": 3
       }
     },
     "2091": {
@@ -15029,6 +15029,20 @@
       "number": 2377,
       "user": {
         "login": "PMudra",
+        "type": "User"
+      }
+    },
+    "2378": {
+      "number": 2378,
+      "user": {
+        "login": "KevinVandy",
+        "type": "User"
+      }
+    },
+    "2379": {
+      "number": 2379,
+      "user": {
+        "login": "KevinVandy",
         "type": "User"
       }
     }
@@ -44362,6 +44376,42 @@
             }
           }
         ]
+      }
+    },
+    "2378": {
+      "number": 2378,
+      "updatedAt": "2026-09-10T11:00:23Z",
+      "merged": false,
+      "author": {
+        "login": "KevinVandy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2379": {
+      "number": 2379,
+      "updatedAt": "2026-09-10T11:00:43Z",
+      "merged": false,
+      "author": {
+        "login": "KevinVandy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

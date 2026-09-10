@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T18:31:51.669Z",
+    "lastRunAt": "2026-09-10T16:06:23.149Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wOS0xNFQyMjo0NToyN1rOHQP4rg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -7834,6 +7834,20 @@
       "number": 1274,
       "user": {
         "login": "ousamabenyounes",
+        "type": "User"
+      }
+    },
+    "1275": {
+      "number": 1275,
+      "user": {
+        "login": "KevinVandy",
+        "type": "User"
+      }
+    },
+    "1276": {
+      "number": 1276,
+      "user": {
+        "login": "dikshit-n",
         "type": "User"
       }
     }
@@ -21781,7 +21795,7 @@
     },
     "1263": {
       "number": 1263,
-      "updatedAt": "2026-09-07T12:57:42Z",
+      "updatedAt": "2026-09-10T11:14:59Z",
       "merged": false,
       "author": {
         "login": "dikshit-n",
@@ -21944,6 +21958,50 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "1275": {
+      "number": 1275,
+      "updatedAt": "2026-09-10T10:53:47Z",
+      "merged": false,
+      "author": {
+        "login": "KevinVandy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1276": {
+      "number": 1276,
+      "updatedAt": "2026-09-10T11:23:35Z",
+      "merged": false,
+      "author": {
+        "login": "dikshit-n",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     }
   }

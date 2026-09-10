@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T18:31:51.712Z",
+    "lastRunAt": "2026-09-10T16:06:23.195Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMi0wM1QwMzoyNDo0OFrOIJWaww==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8963,6 +8963,20 @@
       "user": {
         "login": "tannerlinsley",
         "type": "User"
+      }
+    },
+    "1241": {
+      "number": 1241,
+      "user": {
+        "login": "tannerlinsley",
+        "type": "User"
+      }
+    },
+    "1242": {
+      "number": 1242,
+      "user": {
+        "login": "sentry[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -30509,7 +30523,7 @@
     },
     "1123": {
       "number": 1123,
-      "updatedAt": "2026-09-09T01:39:29Z",
+      "updatedAt": "2026-09-10T04:50:31Z",
       "merged": false,
       "author": {
         "login": "sukvvon",
@@ -31473,7 +31487,7 @@
     },
     "1169": {
       "number": 1169,
-      "updatedAt": "2026-09-09T00:40:30Z",
+      "updatedAt": "2026-09-10T04:50:44Z",
       "merged": false,
       "author": {
         "login": "sukvvon",
@@ -32686,8 +32700,8 @@
     },
     "1232": {
       "number": 1232,
-      "updatedAt": "2026-09-09T09:10:20Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T09:51:33Z",
+      "merged": true,
       "author": {
         "login": "tombeckenham",
         "__typename": "User"
@@ -32775,6 +32789,13 @@
             "author": {
               "login": "coderabbitai",
               "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "AlemTuzlak",
+              "__typename": "User"
             }
           }
         ]
@@ -32944,6 +32965,42 @@
       "author": {
         "login": "tannerlinsley",
         "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1241": {
+      "number": 1241,
+      "updatedAt": "2026-09-10T16:01:14Z",
+      "merged": true,
+      "author": {
+        "login": "tannerlinsley",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1242": {
+      "number": 1242,
+      "updatedAt": "2026-09-10T11:16:22Z",
+      "merged": false,
+      "author": {
+        "login": "sentry",
+        "__typename": "Bot"
       },
       "closingIssuesReferences": {
         "totalCount": 0
