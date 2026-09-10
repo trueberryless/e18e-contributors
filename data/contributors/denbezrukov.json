@@ -1,22 +1,22 @@
 {
   "username": "denbezrukov",
-  "lastUpdated": "2026-09-09T14:49:59.185Z",
+  "lastUpdated": "2026-09-10T06:29:27.419Z",
   "aggregatedStats": {
-    "score": 1371,
-    "mergedPrs": 206,
-    "reviews": 56,
-    "reviewsReceived": 131,
-    "issuesLinked": 10,
-    "reactions": 214
+    "score": 1618,
+    "mergedPrs": 234,
+    "reviews": 74,
+    "reviewsReceived": 153,
+    "issuesLinked": 25,
+    "reactions": 229
   },
   "orgStats": {
     "biomejs": {
-      "score": 1356,
-      "mergedPrs": 204,
-      "reviews": 55,
-      "reviewsReceived": 130,
-      "issuesLinked": 10,
-      "reactions": 205
+      "score": 1603,
+      "mergedPrs": 232,
+      "reviews": 73,
+      "reviewsReceived": 152,
+      "issuesLinked": 25,
+      "reactions": 220
     },
     "oxc-project": {
       "score": 9,
@@ -38,12 +38,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 1175,
-        "mergedPrs": 176,
-        "reviews": 45,
-        "reviewsReceived": 124,
-        "issuesLinked": 8,
-        "reactions": 203
+        "score": 1423,
+        "mergedPrs": 204,
+        "reviews": 63,
+        "reviewsReceived": 146,
+        "issuesLinked": 23,
+        "reactions": 218
       },
       "biome-intellij": {
         "score": 161,

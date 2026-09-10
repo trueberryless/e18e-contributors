@@ -1,22 +1,22 @@
 {
   "username": "unvalley",
-  "lastUpdated": "2026-09-09T14:49:59.607Z",
+  "lastUpdated": "2026-09-10T06:29:28.081Z",
   "aggregatedStats": {
-    "score": 570,
-    "mergedPrs": 40,
-    "reviews": 100,
-    "reviewsReceived": 40,
-    "issuesLinked": 13,
-    "reactions": 42
+    "score": 715,
+    "mergedPrs": 50,
+    "reviews": 121,
+    "reviewsReceived": 54,
+    "issuesLinked": 21,
+    "reactions": 61
   },
   "orgStats": {
     "biomejs": {
-      "score": 570,
-      "mergedPrs": 40,
-      "reviews": 100,
-      "reviewsReceived": 40,
-      "issuesLinked": 13,
-      "reactions": 41
+      "score": 715,
+      "mergedPrs": 50,
+      "reviews": 121,
+      "reviewsReceived": 54,
+      "issuesLinked": 21,
+      "reactions": 60
     },
     "refined-github": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 253,
-        "mergedPrs": 23,
-        "reviews": 26,
-        "reviewsReceived": 32,
-        "issuesLinked": 12,
-        "reactions": 37
+        "score": 398,
+        "mergedPrs": 33,
+        "reviews": 47,
+        "reviewsReceived": 46,
+        "issuesLinked": 20,
+        "reactions": 56
       },
       "biome-vscode": {
         "score": 175,

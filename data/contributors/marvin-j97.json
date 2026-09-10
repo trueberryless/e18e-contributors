@@ -1,20 +1,20 @@
 {
   "username": "marvin-j97",
-  "lastUpdated": "2026-09-10T01:25:06.694Z",
+  "lastUpdated": "2026-09-10T06:29:27.750Z",
   "aggregatedStats": {
-    "score": 22,
-    "mergedPrs": 2,
-    "reviews": 1,
-    "reviewsReceived": 2,
+    "score": 32,
+    "mergedPrs": 3,
+    "reviews": 2,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 64
   },
   "orgStats": {
     "biomejs": {
-      "score": 6,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 16,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 55
     },
@@ -54,10 +54,10 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 6,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 16,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 55
       }

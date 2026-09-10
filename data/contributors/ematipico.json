@@ -1,22 +1,22 @@
 {
   "username": "ematipico",
-  "lastUpdated": "2026-09-10T01:25:06.432Z",
+  "lastUpdated": "2026-09-10T06:29:27.458Z",
   "aggregatedStats": {
-    "score": 24583,
-    "mergedPrs": 1738,
-    "reviews": 4423,
-    "reviewsReceived": 1553,
-    "issuesLinked": 399,
-    "reactions": 2722
+    "score": 26062,
+    "mergedPrs": 1831,
+    "reviews": 4715,
+    "reviewsReceived": 1628,
+    "issuesLinked": 428,
+    "reactions": 2774
   },
   "orgStats": {
     "biomejs": {
-      "score": 13339,
-      "mergedPrs": 1018,
-      "reviews": 2252,
-      "reviewsReceived": 733,
-      "issuesLinked": 266,
-      "reactions": 2278
+      "score": 14818,
+      "mergedPrs": 1111,
+      "reviews": 2544,
+      "reviewsReceived": 808,
+      "issuesLinked": 295,
+      "reactions": 2330
     },
     "bruits": {
       "score": 27,
@@ -126,12 +126,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 10887,
-        "mergedPrs": 797,
-        "reviews": 1845,
-        "reviewsReceived": 634,
-        "issuesLinked": 256,
-        "reactions": 2206
+        "score": 12366,
+        "mergedPrs": 890,
+        "reviews": 2137,
+        "reviewsReceived": 709,
+        "issuesLinked": 285,
+        "reactions": 2258
       },
       "biome-intellij": {
         "score": 124,

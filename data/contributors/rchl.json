@@ -1,19 +1,19 @@
 {
   "username": "rchl",
-  "lastUpdated": "2026-09-07T01:05:57.788Z",
+  "lastUpdated": "2026-09-10T06:29:27.928Z",
   "aggregatedStats": {
-    "score": 442,
+    "score": 445,
     "mergedPrs": 47,
-    "reviews": 43,
+    "reviews": 44,
     "reviewsReceived": 28,
     "issuesLinked": 17,
     "reactions": 165
   },
   "orgStats": {
     "biomejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
@@ -62,9 +62,9 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 1

@@ -1,33 +1,33 @@
 {
   "username": "defnot001",
-  "lastUpdated": "2026-09-05T12:34:16.933Z",
+  "lastUpdated": "2026-09-10T06:29:27.418Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
+    "score": 8,
+    "mergedPrs": 1,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "biomejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 8,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 8,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     }
   }

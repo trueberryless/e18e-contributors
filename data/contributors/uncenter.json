@@ -1,22 +1,22 @@
 {
   "username": "uncenter",
-  "lastUpdated": "2026-09-08T16:14:46.080Z",
+  "lastUpdated": "2026-09-10T06:29:28.078Z",
   "aggregatedStats": {
-    "score": 6025,
-    "mergedPrs": 709,
+    "score": 6039,
+    "mergedPrs": 711,
     "reviews": 567,
-    "reviewsReceived": 541,
+    "reviewsReceived": 544,
     "issuesLinked": 99,
-    "reactions": 395
+    "reactions": 402
   },
   "orgStats": {
     "biomejs": {
-      "score": 37,
-      "mergedPrs": 4,
+      "score": 51,
+      "mergedPrs": 6,
       "reviews": 3,
-      "reviewsReceived": 5,
+      "reviewsReceived": 8,
       "issuesLinked": 1,
-      "reactions": 9
+      "reactions": 16
     },
     "catppuccin": {
       "score": 5969,
@@ -102,12 +102,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 25,
-        "mergedPrs": 2,
+        "score": 39,
+        "mergedPrs": 4,
         "reviews": 3,
-        "reviewsReceived": 3,
+        "reviewsReceived": 6,
         "issuesLinked": 1,
-        "reactions": 9
+        "reactions": 16
       },
       "biome-vscode": {
         "score": 0,

@@ -1,19 +1,19 @@
 {
   "username": "kibertoad",
-  "lastUpdated": "2026-09-06T13:08:42.852Z",
+  "lastUpdated": "2026-09-10T06:29:27.672Z",
   "aggregatedStats": {
-    "score": 10,
+    "score": 13,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 1,
     "issuesLinked": 0,
     "reactions": 18
   },
   "orgStats": {
     "biomejs": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 14
@@ -38,9 +38,9 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 1,
+        "score": 4,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 14

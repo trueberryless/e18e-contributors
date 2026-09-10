@@ -1,20 +1,20 @@
 {
   "username": "Netail",
-  "lastUpdated": "2026-09-08T16:14:45.471Z",
+  "lastUpdated": "2026-09-10T06:29:27.166Z",
   "aggregatedStats": {
-    "score": 1610,
-    "mergedPrs": 170,
-    "reviews": 153,
-    "reviewsReceived": 203,
+    "score": 1632,
+    "mergedPrs": 172,
+    "reviews": 156,
+    "reviewsReceived": 206,
     "issuesLinked": 44,
     "reactions": 96
   },
   "orgStats": {
     "biomejs": {
-      "score": 1526,
-      "mergedPrs": 160,
-      "reviews": 147,
-      "reviewsReceived": 194,
+      "score": 1548,
+      "mergedPrs": 162,
+      "reviews": 150,
+      "reviewsReceived": 197,
       "issuesLinked": 41,
       "reactions": 88
     },
@@ -70,10 +70,10 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 1368,
-        "mergedPrs": 141,
-        "reviews": 136,
-        "reviewsReceived": 170,
+        "score": 1390,
+        "mergedPrs": 143,
+        "reviews": 139,
+        "reviewsReceived": 173,
         "issuesLinked": 38,
         "reactions": 87
       },

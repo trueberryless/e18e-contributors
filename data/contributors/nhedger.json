@@ -1,20 +1,20 @@
 {
   "username": "nhedger",
-  "lastUpdated": "2026-09-09T23:32:10.342Z",
+  "lastUpdated": "2026-09-10T06:29:27.835Z",
   "aggregatedStats": {
-    "score": 1080,
-    "mergedPrs": 132,
-    "reviews": 82,
-    "reviewsReceived": 62,
+    "score": 1098,
+    "mergedPrs": 133,
+    "reviews": 86,
+    "reviewsReceived": 63,
     "issuesLinked": 49,
     "reactions": 141
   },
   "orgStats": {
     "biomejs": {
-      "score": 1070,
-      "mergedPrs": 130,
-      "reviews": 82,
-      "reviewsReceived": 62,
+      "score": 1088,
+      "mergedPrs": 131,
+      "reviews": 86,
+      "reviewsReceived": 63,
       "issuesLinked": 49,
       "reactions": 138
     },
@@ -54,10 +54,10 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 135,
-        "mergedPrs": 14,
-        "reviews": 16,
-        "reviewsReceived": 9,
+        "score": 153,
+        "mergedPrs": 15,
+        "reviews": 20,
+        "reviewsReceived": 10,
         "issuesLinked": 3,
         "reactions": 16
       },

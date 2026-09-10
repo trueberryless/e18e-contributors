@@ -1,22 +1,22 @@
 {
   "username": "abidjappie",
-  "lastUpdated": "2026-09-10T01:25:06.235Z",
+  "lastUpdated": "2026-09-10T06:29:27.254Z",
   "aggregatedStats": {
-    "score": 34,
-    "mergedPrs": 4,
-    "reviews": 2,
-    "reviewsReceived": 6,
+    "score": 47,
+    "mergedPrs": 5,
+    "reviews": 4,
+    "reviewsReceived": 7,
     "issuesLinked": 1,
-    "reactions": 4
+    "reactions": 6
   },
   "orgStats": {
     "biomejs": {
-      "score": 17,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 2,
+      "score": 30,
+      "mergedPrs": 3,
+      "reviews": 3,
+      "reviewsReceived": 3,
       "issuesLinked": 1,
-      "reactions": 4
+      "reactions": 6
     },
     "withastro": {
       "score": 17,
@@ -30,12 +30,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 24,
+        "mergedPrs": 2,
+        "reviews": 3,
+        "reviewsReceived": 2,
         "issuesLinked": 1,
-        "reactions": 4
+        "reactions": 6
       },
       "gritql-stdlib": {
         "score": 6,
