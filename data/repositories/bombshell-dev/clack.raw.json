@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T01:21:25.117Z",
+    "lastRunAt": "2026-09-10T21:50:25.718Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0wOFQyMzo0NDo0M1rOSZHnmg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4720,6 +4720,20 @@
       "number": 601,
       "user": {
         "login": "gameroman",
+        "type": "User"
+      }
+    },
+    "602": {
+      "number": 602,
+      "user": {
+        "login": "mixto",
+        "type": "User"
+      }
+    },
+    "603": {
+      "number": 603,
+      "user": {
+        "login": "umfarah1406",
         "type": "User"
       }
     }
@@ -15440,7 +15454,7 @@
     },
     "567": {
       "number": 567,
-      "updatedAt": "2026-06-17T08:10:20Z",
+      "updatedAt": "2026-09-10T20:06:02Z",
       "merged": true,
       "author": {
         "login": "dreyfus92",
@@ -15535,6 +15549,20 @@
             "state": "APPROVED",
             "author": {
               "login": "43081j",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "umfarah1406",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "umfarah1406",
               "__typename": "User"
             }
           }
@@ -16381,7 +16409,7 @@
     },
     "601": {
       "number": 601,
-      "updatedAt": "2026-09-08T17:15:10Z",
+      "updatedAt": "2026-09-10T16:42:13Z",
       "merged": false,
       "author": {
         "login": "gameroman",
@@ -16399,6 +16427,53 @@
             "state": "APPROVED",
             "author": {
               "login": "dreyfus92",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "43081j",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "602": {
+      "number": 602,
+      "updatedAt": "2026-09-10T15:29:46Z",
+      "merged": false,
+      "author": {
+        "login": "mixto",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "43081j",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "mixto",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "43081j",
               "__typename": "User"
             }
           }

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T23:29:10.044Z",
+    "lastRunAt": "2026-09-10T21:46:45.250Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wMi0wNVQyMzozNzoxNlrOIeFqJw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -12261,6 +12261,20 @@
     },
     "1757": {
       "number": 1757,
+      "user": {
+        "login": "dogledogle",
+        "type": "User"
+      }
+    },
+    "1758": {
+      "number": 1758,
+      "user": {
+        "login": "dogledogle",
+        "type": "User"
+      }
+    },
+    "1759": {
+      "number": 1759,
       "user": {
         "login": "dogledogle",
         "type": "User"
@@ -46558,6 +46572,42 @@
     "1757": {
       "number": 1757,
       "updatedAt": "2026-09-07T14:55:49Z",
+      "merged": true,
+      "author": {
+        "login": "dogledogle",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1758": {
+      "number": 1758,
+      "updatedAt": "2026-09-10T15:14:10Z",
+      "merged": true,
+      "author": {
+        "login": "dogledogle",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1759": {
+      "number": 1759,
+      "updatedAt": "2026-09-10T15:16:07Z",
       "merged": true,
       "author": {
         "login": "dogledogle",

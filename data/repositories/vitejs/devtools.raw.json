@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T23:29:14.646Z",
+    "lastRunAt": "2026-09-10T21:46:51.108Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNC0xMFQwODo0Njo1MVrOkg6sAw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4308,6 +4308,20 @@
       "number": 568,
       "user": {
         "login": "webfansplz",
+        "type": "User"
+      }
+    },
+    "569": {
+      "number": 569,
+      "user": {
+        "login": "webfansplz",
+        "type": "User"
+      }
+    },
+    "570": {
+      "number": 570,
+      "user": {
+        "login": "elec7reify",
         "type": "User"
       }
     }
@@ -14419,8 +14433,8 @@
     },
     "565": {
       "number": 565,
-      "updatedAt": "2026-09-08T07:02:27Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T00:44:59Z",
+      "merged": true,
       "author": {
         "login": "webfansplz",
         "__typename": "User"
@@ -14445,8 +14459,8 @@
     },
     "566": {
       "number": 566,
-      "updatedAt": "2026-09-09T03:34:22Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T00:44:46Z",
+      "merged": true,
       "author": {
         "login": "webfansplz",
         "__typename": "User"
@@ -14471,8 +14485,8 @@
     },
     "567": {
       "number": 567,
-      "updatedAt": "2026-09-09T08:45:48Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T00:44:08Z",
+      "merged": true,
       "author": {
         "login": "yuyinws",
         "__typename": "User"
@@ -14489,8 +14503,34 @@
     },
     "568": {
       "number": 568,
-      "updatedAt": "2026-09-09T08:19:08Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T00:43:48Z",
+      "merged": true,
+      "author": {
+        "login": "webfansplz",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-pull-request-reviewer",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "569": {
+      "number": 569,
+      "updatedAt": "2026-09-10T02:32:46Z",
+      "merged": true,
       "author": {
         "login": "webfansplz",
         "__typename": "User"

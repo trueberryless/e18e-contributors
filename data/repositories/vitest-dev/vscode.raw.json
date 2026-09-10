@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T23:30:06.764Z",
+    "lastRunAt": "2026-09-10T21:47:44.138Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wNC0xOVQwNDo0Mjo0NVrONl6pkw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5820,6 +5820,13 @@
       "number": 820,
       "user": {
         "login": "N0SAFE",
+        "type": "User"
+      }
+    },
+    "821": {
+      "number": 821,
+      "user": {
+        "login": "Sup2point0",
         "type": "User"
       }
     }

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T23:29:11.080Z",
+    "lastRunAt": "2026-09-10T21:46:46.416Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wNy0yNlQxNTo1OTo1M1rOKY1ekA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -20044,6 +20044,20 @@
     },
     "2851": {
       "number": 2851,
+      "user": {
+        "login": "jay-es",
+        "type": "User"
+      }
+    },
+    "2852": {
+      "number": 2852,
+      "user": {
+        "login": "github-actions[bot]",
+        "type": "Bot"
+      }
+    },
+    "2853": {
+      "number": 2853,
       "user": {
         "login": "jay-es",
         "type": "User"
@@ -50683,6 +50697,24 @@
     "2851": {
       "number": 2851,
       "updatedAt": "2026-09-08T12:20:04Z",
+      "merged": true,
+      "author": {
+        "login": "jay-es",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2853": {
+      "number": 2853,
+      "updatedAt": "2026-09-10T10:07:05Z",
       "merged": true,
       "author": {
         "login": "jay-es",

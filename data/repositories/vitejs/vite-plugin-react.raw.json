@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T23:29:12.942Z",
+    "lastRunAt": "2026-09-10T21:46:49.189Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMi0wMlQxMjo1MjozM1rORCLjPw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -26498,7 +26498,7 @@
     },
     "1111": {
       "number": 1111,
-      "updatedAt": "2026-09-07T23:41:41Z",
+      "updatedAt": "2026-09-10T21:37:14Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -32317,7 +32317,7 @@
     },
     "1421": {
       "number": 1421,
-      "updatedAt": "2026-09-07T23:40:26Z",
+      "updatedAt": "2026-09-10T21:36:23Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -32335,7 +32335,7 @@
     },
     "1422": {
       "number": 1422,
-      "updatedAt": "2026-09-07T23:40:56Z",
+      "updatedAt": "2026-09-10T21:36:47Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -32566,7 +32566,7 @@
     },
     "1436": {
       "number": 1436,
-      "updatedAt": "2026-09-09T16:23:16Z",
+      "updatedAt": "2026-09-10T08:19:06Z",
       "merged": false,
       "author": {
         "login": "kklem0",
@@ -32740,7 +32740,7 @@
     },
     "1445": {
       "number": 1445,
-      "updatedAt": "2026-09-09T21:15:44Z",
+      "updatedAt": "2026-09-10T21:35:58Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -32758,8 +32758,8 @@
     },
     "1446": {
       "number": 1446,
-      "updatedAt": "2026-09-09T21:16:54Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T01:15:43Z",
+      "merged": true,
       "author": {
         "login": "renovate",
         "__typename": "Bot"
@@ -32776,7 +32776,7 @@
     },
     "1447": {
       "number": 1447,
-      "updatedAt": "2026-09-07T23:42:03Z",
+      "updatedAt": "2026-09-10T21:37:36Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -32794,8 +32794,8 @@
     },
     "1449": {
       "number": 1449,
-      "updatedAt": "2026-09-09T18:37:22Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T12:09:03Z",
+      "merged": true,
       "author": {
         "login": "ArnaudBarre",
         "__typename": "User"
@@ -32807,7 +32807,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "sapphi-red",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }

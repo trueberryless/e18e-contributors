@@ -1,6 +1,6 @@
 {
   "id": "bombshell-dev",
-  "updatedAt": "2026-09-10T01:21:27.016Z",
+  "updatedAt": "2026-09-10T21:50:28.519Z",
   "stats": {
     "43081j": {
       "score": 861,
@@ -835,10 +835,10 @@
       "reactions": 0
     },
     "dreyfus92": {
-      "score": 495,
+      "score": 496,
       "mergedPrs": 27,
       "reviews": 97,
-      "reviewsReceived": 34,
+      "reviewsReceived": 35,
       "issuesLinked": 15,
       "reactions": 53
     },
@@ -1370,6 +1370,14 @@
       "issuesLinked": 0,
       "reactions": 1
     },
+    "mixto": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "moniuch": {
       "score": 0,
       "mergedPrs": 0,
@@ -1739,9 +1747,9 @@
       "reactions": 14
     },
     "umfarah1406": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0

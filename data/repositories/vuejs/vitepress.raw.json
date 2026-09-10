@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T23:31:21.168Z",
+    "lastRunAt": "2026-09-10T21:48:52.969Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMS0yMVQxNDoxNzoxN1rORui15Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -34327,6 +34327,13 @@
       "number": 5425,
       "user": {
         "login": "yuraoak",
+        "type": "User"
+      }
+    },
+    "5426": {
+      "number": 5426,
+      "user": {
+        "login": "ChisakaKanako",
         "type": "User"
       }
     }
@@ -75813,7 +75820,7 @@
     },
     "5390": {
       "number": 5390,
-      "updatedAt": "2026-08-30T03:58:28Z",
+      "updatedAt": "2026-09-10T16:56:46Z",
       "merged": false,
       "author": {
         "login": "dev-itsheng",

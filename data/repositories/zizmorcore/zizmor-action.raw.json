@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T01:20:43.703Z",
+    "lastRunAt": "2026-09-10T21:49:45.126Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNS0xOFQxNDo1MDoyMFrOlphYXg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1251,6 +1251,20 @@
       },
       "reactions": {
         "total_count": 1
+      }
+    },
+    "168": {
+      "number": 168,
+      "user": {
+        "login": "potiuk",
+        "type": "User"
+      }
+    },
+    "169": {
+      "number": 169,
+      "user": {
+        "login": "potiuk",
+        "type": "User"
       }
     }
   },
@@ -3903,6 +3917,99 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "168": {
+      "number": 168,
+      "updatedAt": "2026-09-10T11:20:59Z",
+      "merged": false,
+      "author": {
+        "login": "potiuk",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "169": {
+      "number": 169,
+      "updatedAt": "2026-09-10T14:58:21Z",
+      "merged": false,
+      "author": {
+        "login": "potiuk",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "kusari-inspector",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "potiuk",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "potiuk",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "woodruffw",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "potiuk",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "potiuk",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "potiuk",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "potiuk",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }
