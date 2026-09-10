@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T10:04:04.014Z",
+    "lastRunAt": "2026-09-10T06:26:12.286Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0wNS0wM1QwMTozOTozMVrOEGfL8w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -58098,7 +58098,7 @@
     },
     "2273": {
       "number": 2273,
-      "updatedAt": "2026-08-28T17:01:14Z",
+      "updatedAt": "2026-09-09T13:56:25Z",
       "merged": false,
       "author": {
         "login": "Andarist",
@@ -58116,7 +58116,7 @@
     },
     "2275": {
       "number": 2275,
-      "updatedAt": "2026-09-09T09:47:16Z",
+      "updatedAt": "2026-09-10T06:21:33Z",
       "merged": false,
       "author": {
         "login": "Andarist",
@@ -58129,7 +58129,43 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "beeequeue",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "bluwy",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "bluwy",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "bluwy",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "Andarist",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "2276": {
@@ -58473,8 +58509,8 @@
     },
     "2289": {
       "number": 2289,
-      "updatedAt": "2026-09-09T09:03:20Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T13:30:34Z",
+      "merged": true,
       "author": {
         "login": "43081j",
         "__typename": "User"
@@ -58514,6 +58550,13 @@
               "login": "bluwy",
               "__typename": "User"
             }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "Andarist",
+              "__typename": "User"
+            }
           }
         ]
       }
@@ -58546,7 +58589,7 @@
     },
     "2291": {
       "number": 2291,
-      "updatedAt": "2026-09-07T12:21:47Z",
+      "updatedAt": "2026-09-10T01:27:38Z",
       "merged": false,
       "author": {
         "login": "changesets-org-version-bot",
@@ -58618,8 +58661,8 @@
     },
     "2295": {
       "number": 2295,
-      "updatedAt": "2026-09-09T09:54:53Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T01:21:10Z",
+      "merged": true,
       "author": {
         "login": "benjie",
         "__typename": "User"

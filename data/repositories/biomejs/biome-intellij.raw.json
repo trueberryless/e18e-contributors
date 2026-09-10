@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T14:45:06.563Z",
+    "lastRunAt": "2026-09-10T06:27:36.542Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMi0xNlQxMDoxNjo1N1rOYiNCaQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1828,6 +1828,13 @@
       "number": 237,
       "user": {
         "login": "polczak-itt",
+        "type": "User"
+      }
+    },
+    "238": {
+      "number": 238,
+      "user": {
+        "login": "andrzej-early",
         "type": "User"
       }
     }
