@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T10:01:33.252Z",
+    "lastRunAt": "2026-09-10T01:23:20.819Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wOS0wOFQxODozOTowOFrOK4EsGw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3548,6 +3548,20 @@
     },
     "480": {
       "number": 480,
+      "user": {
+        "login": "Princesseuh",
+        "type": "User"
+      }
+    },
+    "481": {
+      "number": 481,
+      "user": {
+        "login": "meysam81",
+        "type": "User"
+      }
+    },
+    "482": {
+      "number": 482,
       "user": {
         "login": "Princesseuh",
         "type": "User"
@@ -11094,6 +11108,24 @@
             }
           }
         ]
+      }
+    },
+    "482": {
+      "number": 482,
+      "updatedAt": "2026-09-09T14:23:31Z",
+      "merged": false,
+      "author": {
+        "login": "Princesseuh",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T05:07:17.165Z",
+    "lastRunAt": "2026-09-10T01:22:11.140Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMS0wNlQwNDo0NToyM1rOMJRkaw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8759,6 +8759,13 @@
       "number": 3119,
       "user": {
         "login": "makeev",
+        "type": "User"
+      }
+    },
+    "3121": {
+      "number": 3121,
+      "user": {
+        "login": "hashcube-dev",
         "type": "User"
       }
     }

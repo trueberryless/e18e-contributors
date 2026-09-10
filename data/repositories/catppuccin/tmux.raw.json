@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T05:07:17.165Z",
+    "lastRunAt": "2026-09-10T01:22:11.140Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMi0xMFQwNDoyNjo0NVrOL6K_zg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3962,6 +3962,13 @@
       },
       "reactions": {
         "total_count": 2
+      }
+    },
+    "603": {
+      "number": 603,
+      "user": {
+        "login": "sebastianschauenburg",
+        "type": "User"
       }
     }
   },
@@ -10827,6 +10834,24 @@
       },
       "reactions": {
         "totalCount": 2
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "603": {
+      "number": 603,
+      "updatedAt": "2026-09-09T10:23:58Z",
+      "merged": false,
+      "author": {
+        "login": "sebastianschauenburg",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
       },
       "reviews": {
         "nodes": []

@@ -1,6 +1,6 @@
 {
   "id": "zizmorcore/zizmor",
-  "updatedAt": "2026-09-09T05:05:47.226Z",
+  "updatedAt": "2026-09-10T01:20:43.703Z",
   "stats": {
     "0xCyr": {
       "score": 0,
@@ -1426,6 +1426,14 @@
       "issuesLinked": 0,
       "reactions": 0
     },
+    "hh1941698-design": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "homeworkprod": {
       "score": 6,
       "mergedPrs": 1,
@@ -1920,7 +1928,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 0
+      "reactions": 2
     },
     "mcpherrinm": {
       "score": 0,
@@ -2041,6 +2049,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
+    },
+    "neutrinoceros": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 1
     },
     "nicholasjng": {
       "score": 0,
@@ -2723,12 +2739,12 @@
       "reactions": 0
     },
     "woodruffw": {
-      "score": 6570,
-      "mergedPrs": 1016,
+      "score": 6580,
+      "mergedPrs": 1018,
       "reviews": 321,
       "reviewsReceived": 7,
       "issuesLinked": 237,
-      "reactions": 456
+      "reactions": 460
     },
     "woodruffw-bot": {
       "score": 15,

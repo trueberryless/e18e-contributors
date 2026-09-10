@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T05:05:47.226Z",
+    "lastRunAt": "2026-09-10T01:20:43.703Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wOC0yMlQwMTozMzo1MFrOeRATbA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -15303,6 +15303,9 @@
       "user": {
         "login": "mchevestrier",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "2167": {
@@ -17069,6 +17072,50 @@
       "number": 2374,
       "user": {
         "login": "woodruffw",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "2375": {
+      "number": 2375,
+      "user": {
+        "login": "woodruffw",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "2376": {
+      "number": 2376,
+      "user": {
+        "login": "woodruffw",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "2377": {
+      "number": 2377,
+      "user": {
+        "login": "hh1941698-design",
+        "type": "User"
+      }
+    },
+    "2378": {
+      "number": 2378,
+      "user": {
+        "login": "alexander-kjall-hafslundeco",
+        "type": "User"
+      }
+    },
+    "2379": {
+      "number": 2379,
+      "user": {
+        "login": "neutrinoceros",
         "type": "User"
       },
       "reactions": {
@@ -48783,7 +48830,7 @@
     },
     "1963": {
       "number": 1963,
-      "updatedAt": "2026-05-01T06:28:07Z",
+      "updatedAt": "2026-09-09T09:15:51Z",
       "merged": false,
       "author": {
         "login": "vmvarela",
@@ -51877,7 +51924,7 @@
     },
     "2166": {
       "number": 2166,
-      "updatedAt": "2026-08-30T21:02:44Z",
+      "updatedAt": "2026-09-09T22:48:05Z",
       "merged": false,
       "author": {
         "login": "mchevestrier",
@@ -51887,7 +51934,7 @@
         "totalCount": 1
       },
       "reactions": {
-        "totalCount": 0
+        "totalCount": 1
       },
       "reviews": {
         "nodes": [
@@ -54865,7 +54912,7 @@
     },
     "2369": {
       "number": 2369,
-      "updatedAt": "2026-09-07T13:35:51Z",
+      "updatedAt": "2026-09-09T05:17:30Z",
       "merged": false,
       "author": {
         "login": "dependabot",
@@ -54883,8 +54930,8 @@
     },
     "2370": {
       "number": 2370,
-      "updatedAt": "2026-09-07T13:36:28Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T05:36:33Z",
+      "merged": true,
       "author": {
         "login": "dependabot",
         "__typename": "Bot"
@@ -54930,6 +54977,60 @@
       },
       "reactions": {
         "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2375": {
+      "number": 2375,
+      "updatedAt": "2026-09-09T05:12:57Z",
+      "merged": true,
+      "author": {
+        "login": "woodruffw",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2376": {
+      "number": 2376,
+      "updatedAt": "2026-09-09T05:46:42Z",
+      "merged": true,
+      "author": {
+        "login": "woodruffw",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2377": {
+      "number": 2377,
+      "updatedAt": "2026-09-09T16:55:20Z",
+      "merged": false,
+      "author": {
+        "login": "hh1941698-design",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
       },
       "reviews": {
         "nodes": []

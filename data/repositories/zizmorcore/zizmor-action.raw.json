@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-09T05:05:47.226Z",
+    "lastRunAt": "2026-09-10T01:20:43.703Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNS0xOFQxNDo1MDoyMFrOlphYXg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1228,6 +1228,26 @@
       "user": {
         "login": "dependabot[bot]",
         "type": "Bot"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "166": {
+      "number": 166,
+      "user": {
+        "login": "github-actions[bot]",
+        "type": "Bot"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "167": {
+      "number": 167,
+      "user": {
+        "login": "woodruffw",
+        "type": "User"
       },
       "reactions": {
         "total_count": 1
@@ -3279,7 +3299,7 @@
     },
     "144": {
       "number": 144,
-      "updatedAt": "2026-08-28T05:40:16Z",
+      "updatedAt": "2026-09-09T05:10:10Z",
       "merged": false,
       "author": {
         "login": "kruskall",
@@ -3825,11 +3845,55 @@
     },
     "165": {
       "number": 165,
-      "updatedAt": "2026-09-07T00:44:45Z",
-      "merged": false,
+      "updatedAt": "2026-09-09T05:09:43Z",
+      "merged": true,
       "author": {
         "login": "dependabot",
         "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "166": {
+      "number": 166,
+      "updatedAt": "2026-09-09T05:38:51Z",
+      "merged": true,
+      "author": {
+        "login": "github-actions",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "woodruffw",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "167": {
+      "number": 167,
+      "updatedAt": "2026-09-09T05:42:23Z",
+      "merged": true,
+      "author": {
+        "login": "woodruffw",
+        "__typename": "User"
       },
       "closingIssuesReferences": {
         "totalCount": 0
