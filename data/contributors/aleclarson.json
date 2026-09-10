@@ -1,13 +1,13 @@
 {
   "username": "aleclarson",
-  "lastUpdated": "2026-09-09T23:32:10.011Z",
+  "lastUpdated": "2026-09-10T21:51:27.747Z",
   "aggregatedStats": {
-    "score": 174,
+    "score": 220,
     "mergedPrs": 18,
-    "reviews": 16,
+    "reviews": 31,
     "reviewsReceived": 10,
     "issuesLinked": 3,
-    "reactions": 201
+    "reactions": 208
   },
   "orgStats": {
     "biomejs": {
@@ -43,12 +43,12 @@
       "reactions": 11
     },
     "vitejs": {
-      "score": 146,
+      "score": 192,
       "mergedPrs": 15,
-      "reviews": 14,
+      "reviews": 29,
       "reviewsReceived": 7,
       "issuesLinked": 2,
-      "reactions": 178
+      "reactions": 185
     },
     "vitest-dev": {
       "score": 26,
@@ -134,12 +134,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 68,
+        "score": 114,
         "mergedPrs": 4,
-        "reviews": 7,
+        "reviews": 22,
         "reviewsReceived": 6,
         "issuesLinked": 2,
-        "reactions": 172
+        "reactions": 179
       },
       "vite-plugin-react": {
         "score": 6,

@@ -1,12 +1,12 @@
 {
   "username": "btea",
-  "lastUpdated": "2026-09-10T19:08:32.602Z",
+  "lastUpdated": "2026-09-10T21:51:28.528Z",
   "aggregatedStats": {
-    "score": 4727,
-    "mergedPrs": 625,
-    "reviews": 233,
-    "reviewsReceived": 654,
-    "issuesLinked": 108,
+    "score": 4772,
+    "mergedPrs": 630,
+    "reviews": 236,
+    "reviewsReceived": 661,
+    "issuesLinked": 110,
     "reactions": 339
   },
   "orgStats": {
@@ -91,11 +91,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 1555,
-      "mergedPrs": 189,
-      "reviews": 97,
-      "reviewsReceived": 246,
-      "issuesLinked": 31,
+      "score": 1600,
+      "mergedPrs": 194,
+      "reviews": 100,
+      "reviewsReceived": 253,
+      "issuesLinked": 33,
       "reactions": 109
     },
     "vitest-dev": {
@@ -282,11 +282,11 @@
         "reactions": 0
       },
       "vite": {
-        "score": 1462,
-        "mergedPrs": 174,
-        "reviews": 94,
-        "reviewsReceived": 238,
-        "issuesLinked": 31,
+        "score": 1507,
+        "mergedPrs": 179,
+        "reviews": 97,
+        "reviewsReceived": 245,
+        "issuesLinked": 33,
         "reactions": 103
       },
       "vite-ecosystem-ci": {

@@ -1,13 +1,13 @@
 {
   "username": "sapphi-red",
-  "lastUpdated": "2026-09-10T19:08:32.643Z",
+  "lastUpdated": "2026-09-10T21:51:28.560Z",
   "aggregatedStats": {
-    "score": 15725,
-    "mergedPrs": 1588,
-    "reviews": 1855,
-    "reviewsReceived": 1239,
-    "issuesLinked": 410,
-    "reactions": 1611
+    "score": 17326,
+    "mergedPrs": 1746,
+    "reviews": 2018,
+    "reviewsReceived": 1425,
+    "issuesLinked": 475,
+    "reactions": 1665
   },
   "orgStats": {
     "bombshell-dev": {
@@ -67,12 +67,12 @@
       "reactions": 9
     },
     "vitejs": {
-      "score": 14506,
-      "mergedPrs": 1438,
-      "reviews": 1742,
-      "reviewsReceived": 1166,
-      "issuesLinked": 394,
-      "reactions": 1364
+      "score": 16107,
+      "mergedPrs": 1596,
+      "reviews": 1905,
+      "reviewsReceived": 1352,
+      "issuesLinked": 459,
+      "reactions": 1418
     },
     "vitest-dev": {
       "score": 161,
@@ -268,12 +268,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 11922,
-        "mergedPrs": 1104,
-        "reviews": 1569,
-        "reviewsReceived": 961,
-        "issuesLinked": 302,
-        "reactions": 1299
+        "score": 13519,
+        "mergedPrs": 1262,
+        "reviews": 1731,
+        "reviewsReceived": 1147,
+        "issuesLinked": 367,
+        "reactions": 1353
       },
       "vite-ecosystem-ci": {
         "score": 548,
@@ -292,9 +292,9 @@
         "reactions": 0
       },
       "vite-plugin-react": {
-        "score": 791,
+        "score": 794,
         "mergedPrs": 96,
-        "reviews": 67,
+        "reviews": 68,
         "reviewsReceived": 80,
         "issuesLinked": 13,
         "reactions": 36

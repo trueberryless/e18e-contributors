@@ -1,11 +1,11 @@
 {
   "username": "davidmyersdev",
-  "lastUpdated": "2026-09-09T05:08:44.331Z",
+  "lastUpdated": "2026-09-10T21:51:33.184Z",
   "aggregatedStats": {
-    "score": 27,
-    "mergedPrs": 3,
+    "score": 34,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 2,
+    "reviewsReceived": 4,
     "issuesLinked": 3,
     "reactions": 8
   },
@@ -19,10 +19,10 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -64,10 +64,10 @@
         "reactions": 0
       },
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

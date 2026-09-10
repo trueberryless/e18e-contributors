@@ -1,11 +1,11 @@
 {
   "username": "Tal500",
-  "lastUpdated": "2026-09-10T19:08:43.908Z",
+  "lastUpdated": "2026-09-10T21:51:41.388Z",
   "aggregatedStats": {
-    "score": 102,
-    "mergedPrs": 9,
-    "reviews": 4,
-    "reviewsReceived": 15,
+    "score": 112,
+    "mergedPrs": 10,
+    "reviews": 5,
+    "reviewsReceived": 17,
     "issuesLinked": 5,
     "reactions": 196
   },
@@ -19,10 +19,10 @@
       "reactions": 170
     },
     "vitejs": {
-      "score": 21,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 3,
+      "score": 31,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 5,
       "issuesLinked": 1,
       "reactions": 26
     },
@@ -72,10 +72,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 21,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 3,
+        "score": 31,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 5,
         "issuesLinked": 1,
         "reactions": 26
       }

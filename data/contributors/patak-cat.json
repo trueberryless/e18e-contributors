@@ -1,13 +1,13 @@
 {
   "username": "patak-cat",
-  "lastUpdated": "2026-09-09T23:32:11.896Z",
+  "lastUpdated": "2026-09-10T21:51:30.139Z",
   "aggregatedStats": {
-    "score": 9584,
-    "mergedPrs": 541,
-    "reviews": 2076,
-    "reviewsReceived": 403,
-    "issuesLinked": 68,
-    "reactions": 1113
+    "score": 11306,
+    "mergedPrs": 607,
+    "reviews": 2511,
+    "reviewsReceived": 451,
+    "issuesLinked": 85,
+    "reactions": 1166
   },
   "orgStats": {
     "e18e": {
@@ -35,12 +35,12 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 8047,
-      "mergedPrs": 412,
-      "reviews": 1812,
-      "reviewsReceived": 347,
-      "issuesLinked": 55,
-      "reactions": 938
+      "score": 9769,
+      "mergedPrs": 478,
+      "reviews": 2247,
+      "reviewsReceived": 395,
+      "issuesLinked": 72,
+      "reactions": 991
     },
     "vitest-dev": {
       "score": 949,
@@ -132,12 +132,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 7123,
-        "mergedPrs": 361,
-        "reviews": 1599,
-        "reviewsReceived": 319,
-        "issuesLinked": 55,
-        "reactions": 917
+        "score": 8845,
+        "mergedPrs": 427,
+        "reviews": 2034,
+        "reviewsReceived": 367,
+        "issuesLinked": 72,
+        "reactions": 970
       },
       "vite-ecosystem-ci": {
         "score": 580,

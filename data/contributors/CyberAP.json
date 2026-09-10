@@ -1,13 +1,13 @@
 {
   "username": "CyberAP",
-  "lastUpdated": "2026-09-09T23:32:12.958Z",
+  "lastUpdated": "2026-09-10T21:51:31.550Z",
   "aggregatedStats": {
-    "score": 232,
-    "mergedPrs": 29,
-    "reviews": 6,
+    "score": 249,
+    "mergedPrs": 31,
+    "reviews": 8,
     "reviewsReceived": 13,
     "issuesLinked": 4,
-    "reactions": 475
+    "reactions": 487
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 29
     },
     "vuejs": {
-      "score": 203,
-      "mergedPrs": 25,
-      "reviews": 6,
+      "score": 220,
+      "mergedPrs": 27,
+      "reviews": 8,
       "reviewsReceived": 9,
       "issuesLinked": 3,
-      "reactions": 446
+      "reactions": 458
     },
     "zed-industries": {
       "score": 0,
@@ -116,12 +116,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 36,
-        "mergedPrs": 5,
-        "reviews": 0,
+        "score": 53,
+        "mergedPrs": 7,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 3,
-        "reactions": 52
+        "reactions": 64
       },
       "docs": {
         "score": 80,

@@ -1,13 +1,13 @@
 {
   "username": "hareku",
-  "lastUpdated": "2026-09-05T20:07:05.218Z",
+  "lastUpdated": "2026-09-10T21:51:33.661Z",
   "aggregatedStats": {
-    "score": 13,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 65,
+    "mergedPrs": 11,
+    "reviews": 1,
     "reviewsReceived": 2,
-    "issuesLinked": 0,
-    "reactions": 12
+    "issuesLinked": 2,
+    "reactions": 13
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 9
     },
     "vuejs": {
-      "score": 12,
-      "mergedPrs": 2,
-      "reviews": 0,
+      "score": 64,
+      "mergedPrs": 11,
+      "reviews": 1,
       "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 3
+      "issuesLinked": 2,
+      "reactions": 4
     }
   },
   "repoStats": {
@@ -64,12 +64,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 52,
+        "mergedPrs": 9,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
+        "issuesLinked": 2,
+        "reactions": 2
       },
       "vue": {
         "score": 6,

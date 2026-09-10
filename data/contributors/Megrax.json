@@ -1,21 +1,21 @@
 {
   "username": "Megrax",
-  "lastUpdated": "2026-09-09T23:32:29.496Z",
+  "lastUpdated": "2026-09-10T21:51:46.568Z",
   "aggregatedStats": {
-    "score": 32,
-    "mergedPrs": 4,
-    "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 1,
+    "score": 44,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 6,
+    "issuesLinked": 2,
     "reactions": 0
   },
   "orgStats": {
     "vitejs": {
-      "score": 15,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 2,
-      "issuesLinked": 1,
+      "score": 27,
+      "mergedPrs": 2,
+      "reviews": 3,
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
       "reactions": 0
     },
     "vuejs": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 15,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
+        "score": 27,
+        "mergedPrs": 2,
+        "reviews": 3,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
         "reactions": 0
       }
     },

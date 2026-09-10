@@ -1,9 +1,9 @@
 {
   "username": "clarkdo",
-  "lastUpdated": "2026-09-10T19:08:36.581Z",
+  "lastUpdated": "2026-09-10T21:51:33.033Z",
   "aggregatedStats": {
-    "score": 1456,
-    "mergedPrs": 124,
+    "score": 1461,
+    "mergedPrs": 125,
     "reviews": 213,
     "reviewsReceived": 73,
     "issuesLinked": 31,
@@ -43,8 +43,8 @@
       "reactions": 1
     },
     "vuejs": {
-      "score": 122,
-      "mergedPrs": 19,
+      "score": 127,
+      "mergedPrs": 20,
       "reviews": 1,
       "reviewsReceived": 10,
       "issuesLinked": 4,
@@ -206,8 +206,8 @@
         "reactions": 0
       },
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

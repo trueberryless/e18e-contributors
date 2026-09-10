@@ -1,12 +1,12 @@
 {
   "username": "jonaskuske",
-  "lastUpdated": "2026-09-07T11:53:50.869Z",
+  "lastUpdated": "2026-09-10T21:51:47.368Z",
   "aggregatedStats": {
-    "score": 59,
-    "mergedPrs": 8,
+    "score": 66,
+    "mergedPrs": 9,
     "reviews": 0,
     "reviewsReceived": 5,
-    "issuesLinked": 6,
+    "issuesLinked": 7,
     "reactions": 21
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 50,
-      "mergedPrs": 7,
+      "score": 57,
+      "mergedPrs": 8,
       "reviews": 0,
       "reviewsReceived": 3,
-      "issuesLinked": 5,
+      "issuesLinked": 6,
       "reactions": 21
     }
   },
@@ -48,11 +48,11 @@
     },
     "vuejs": {
       "core": {
-        "score": 9,
-        "mergedPrs": 1,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 0,
-        "issuesLinked": 1,
+        "issuesLinked": 2,
         "reactions": 16
       },
       "eslint-plugin-vue": {

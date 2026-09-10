@@ -1,10 +1,10 @@
 {
   "username": "merceyz",
-  "lastUpdated": "2026-09-10T19:08:33.848Z",
+  "lastUpdated": "2026-09-10T21:51:30.005Z",
   "aggregatedStats": {
-    "score": 115,
+    "score": 118,
     "mergedPrs": 14,
-    "reviews": 10,
+    "reviews": 11,
     "reviewsReceived": 9,
     "issuesLinked": 2,
     "reactions": 18
@@ -27,9 +27,9 @@
       "reactions": 12
     },
     "vitejs": {
-      "score": 7,
+      "score": 10,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
@@ -98,9 +98,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 7,
+        "score": 10,
         "mergedPrs": 1,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0

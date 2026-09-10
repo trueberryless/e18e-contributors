@@ -1,13 +1,13 @@
 {
   "username": "HcySunYang",
-  "lastUpdated": "2026-09-09T23:32:27.074Z",
+  "lastUpdated": "2026-09-10T21:51:43.864Z",
   "aggregatedStats": {
-    "score": 886,
-    "mergedPrs": 101,
+    "score": 901,
+    "mergedPrs": 104,
     "reviews": 51,
     "reviewsReceived": 41,
     "issuesLinked": 81,
-    "reactions": 249
+    "reactions": 250
   },
   "orgStats": {
     "tanstack": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 879,
-      "mergedPrs": 100,
+      "score": 894,
+      "mergedPrs": 103,
       "reviews": 51,
       "reviewsReceived": 39,
       "issuesLinked": 81,
-      "reactions": 249
+      "reactions": 250
     }
   },
   "repoStats": {
@@ -82,12 +82,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 782,
-        "mergedPrs": 85,
+        "score": 797,
+        "mergedPrs": 88,
         "reviews": 48,
         "reviewsReceived": 31,
         "issuesLinked": 80,
-        "reactions": 217
+        "reactions": 218
       },
       "docs": {
         "score": 7,

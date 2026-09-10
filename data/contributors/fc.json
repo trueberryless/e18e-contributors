@@ -1,12 +1,12 @@
 {
   "username": "fc",
-  "lastUpdated": "2026-09-09T23:32:27.994Z",
+  "lastUpdated": "2026-09-10T21:51:44.832Z",
   "aggregatedStats": {
-    "score": 20,
-    "mergedPrs": 2,
+    "score": 35,
+    "mergedPrs": 4,
     "reviews": 2,
-    "reviewsReceived": 3,
-    "issuesLinked": 0,
+    "reviewsReceived": 6,
+    "issuesLinked": 1,
     "reactions": 11
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 20,
-      "mergedPrs": 2,
+      "score": 35,
+      "mergedPrs": 4,
       "reviews": 2,
-      "reviewsReceived": 3,
-      "issuesLinked": 0,
+      "reviewsReceived": 6,
+      "issuesLinked": 1,
       "reactions": 11
     },
     "vitest-dev": {
@@ -56,11 +56,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 20,
-        "mergedPrs": 2,
+        "score": 35,
+        "mergedPrs": 4,
         "reviews": 2,
-        "reviewsReceived": 3,
-        "issuesLinked": 0,
+        "reviewsReceived": 6,
+        "issuesLinked": 1,
         "reactions": 11
       }
     },

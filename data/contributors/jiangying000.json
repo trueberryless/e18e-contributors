@@ -1,20 +1,20 @@
 {
   "username": "jiangying000",
-  "lastUpdated": "2026-09-05T05:01:16.716Z",
+  "lastUpdated": "2026-09-10T21:51:53.899Z",
   "aggregatedStats": {
-    "score": 11,
-    "mergedPrs": 2,
-    "reviews": 0,
-    "reviewsReceived": 1,
+    "score": 85,
+    "mergedPrs": 16,
+    "reviews": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "vuejs": {
-      "score": 11,
-      "mergedPrs": 2,
-      "reviews": 0,
-      "reviewsReceived": 1,
+      "score": 85,
+      "mergedPrs": 16,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 74,
+        "mergedPrs": 14,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       },

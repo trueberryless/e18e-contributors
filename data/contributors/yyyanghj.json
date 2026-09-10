@@ -1,12 +1,12 @@
 {
   "username": "yyyanghj",
-  "lastUpdated": "2026-09-07T01:06:05.845Z",
+  "lastUpdated": "2026-09-10T21:51:36.141Z",
   "aggregatedStats": {
-    "score": 30,
-    "mergedPrs": 5,
+    "score": 47,
+    "mergedPrs": 8,
     "reviews": 0,
     "reviewsReceived": 3,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 17
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 11
     },
     "vuejs": {
-      "score": 24,
-      "mergedPrs": 4,
+      "score": 41,
+      "mergedPrs": 7,
       "reviews": 0,
       "reviewsReceived": 3,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 5
     }
   },
@@ -92,11 +92,11 @@
     },
     "vuejs": {
       "core": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 17,
+        "mergedPrs": 3,
         "reviews": 0,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "docs": {

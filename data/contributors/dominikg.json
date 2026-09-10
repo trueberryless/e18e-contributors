@@ -1,13 +1,13 @@
 {
   "username": "dominikg",
-  "lastUpdated": "2026-09-10T19:08:33.762Z",
+  "lastUpdated": "2026-09-10T21:51:29.906Z",
   "aggregatedStats": {
-    "score": 5699,
-    "mergedPrs": 561,
-    "reviews": 751,
-    "reviewsReceived": 429,
-    "issuesLinked": 67,
-    "reactions": 781
+    "score": 5729,
+    "mergedPrs": 564,
+    "reviews": 754,
+    "reviewsReceived": 433,
+    "issuesLinked": 68,
+    "reactions": 782
   },
   "orgStats": {
     "changesets": {
@@ -67,12 +67,12 @@
       "reactions": 544
     },
     "vitejs": {
-      "score": 1202,
-      "mergedPrs": 127,
-      "reviews": 137,
-      "reviewsReceived": 115,
-      "issuesLinked": 12,
-      "reactions": 169
+      "score": 1232,
+      "mergedPrs": 130,
+      "reviews": 140,
+      "reviewsReceived": 119,
+      "issuesLinked": 13,
+      "reactions": 170
     },
     "vitest-dev": {
       "score": 58,
@@ -348,12 +348,12 @@
         "reactions": 2
       },
       "vite": {
-        "score": 294,
-        "mergedPrs": 26,
-        "reviews": 35,
-        "reviewsReceived": 37,
-        "issuesLinked": 6,
-        "reactions": 98
+        "score": 324,
+        "mergedPrs": 29,
+        "reviews": 38,
+        "reviewsReceived": 41,
+        "issuesLinked": 7,
+        "reactions": 99
       },
       "vite-ecosystem-ci": {
         "score": 881,

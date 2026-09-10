@@ -1,13 +1,13 @@
 {
   "username": "benmccann",
-  "lastUpdated": "2026-09-10T19:08:31.988Z",
+  "lastUpdated": "2026-09-10T21:51:27.798Z",
   "aggregatedStats": {
-    "score": 12343,
-    "mergedPrs": 1160,
-    "reviews": 1684,
-    "reviewsReceived": 846,
-    "issuesLinked": 173,
-    "reactions": 2993
+    "score": 12510,
+    "mergedPrs": 1174,
+    "reviews": 1708,
+    "reviewsReceived": 868,
+    "issuesLinked": 174,
+    "reactions": 2996
   },
   "orgStats": {
     "biomejs": {
@@ -83,12 +83,12 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 237,
-      "mergedPrs": 15,
-      "reviews": 42,
-      "reviewsReceived": 17,
-      "issuesLinked": 4,
-      "reactions": 112
+      "score": 404,
+      "mergedPrs": 29,
+      "reviews": 66,
+      "reviewsReceived": 39,
+      "issuesLinked": 5,
+      "reactions": 115
     },
     "vitest-dev": {
       "score": 56,
@@ -600,12 +600,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 205,
-        "mergedPrs": 11,
-        "reviews": 40,
-        "reviewsReceived": 13,
-        "issuesLinked": 3,
-        "reactions": 112
+        "score": 372,
+        "mergedPrs": 25,
+        "reviews": 64,
+        "reviewsReceived": 35,
+        "issuesLinked": 4,
+        "reactions": 115
       },
       "vite-ecosystem-ci": {
         "score": 9,

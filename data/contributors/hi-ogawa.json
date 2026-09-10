@@ -1,11 +1,11 @@
 {
   "username": "hi-ogawa",
-  "lastUpdated": "2026-09-09T23:32:20.951Z",
+  "lastUpdated": "2026-09-10T21:51:36.486Z",
   "aggregatedStats": {
-    "score": 9319,
-    "mergedPrs": 1023,
-    "reviews": 857,
-    "reviewsReceived": 776,
+    "score": 9328,
+    "mergedPrs": 1024,
+    "reviews": 858,
+    "reviewsReceived": 777,
     "issuesLinked": 401,
     "reactions": 558
   },
@@ -43,10 +43,10 @@
       "reactions": 288
     },
     "vitest-dev": {
-      "score": 5736,
-      "mergedPrs": 568,
-      "reviews": 573,
-      "reviewsReceived": 579,
+      "score": 5745,
+      "mergedPrs": 569,
+      "reviews": 574,
+      "reviewsReceived": 580,
       "issuesLinked": 286,
       "reactions": 262
     },
@@ -150,10 +150,10 @@
     },
     "vitest-dev": {
       "vitest": {
-        "score": 5620,
-        "mergedPrs": 554,
-        "reviews": 563,
-        "reviewsReceived": 569,
+        "score": 5629,
+        "mergedPrs": 555,
+        "reviews": 564,
+        "reviewsReceived": 570,
         "issuesLinked": 283,
         "reactions": 260
       },

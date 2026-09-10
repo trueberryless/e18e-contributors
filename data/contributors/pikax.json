@@ -1,13 +1,13 @@
 {
   "username": "pikax",
-  "lastUpdated": "2026-09-09T23:32:30.511Z",
+  "lastUpdated": "2026-09-10T21:51:47.754Z",
   "aggregatedStats": {
-    "score": 1532,
-    "mergedPrs": 139,
-    "reviews": 150,
-    "reviewsReceived": 80,
-    "issuesLinked": 60,
-    "reactions": 1871
+    "score": 1616,
+    "mergedPrs": 150,
+    "reviews": 157,
+    "reviewsReceived": 82,
+    "issuesLinked": 63,
+    "reactions": 1874
   },
   "orgStats": {
     "vitejs": {
@@ -27,12 +27,12 @@
       "reactions": 2
     },
     "vuejs": {
-      "score": 1515,
-      "mergedPrs": 137,
-      "reviews": 149,
-      "reviewsReceived": 78,
-      "issuesLinked": 59,
-      "reactions": 1868
+      "score": 1599,
+      "mergedPrs": 148,
+      "reviews": 156,
+      "reviewsReceived": 80,
+      "issuesLinked": 62,
+      "reactions": 1871
     }
   },
   "repoStats": {
@@ -98,12 +98,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 621,
-        "mergedPrs": 61,
-        "reviews": 56,
-        "reviewsReceived": 17,
-        "issuesLinked": 29,
-        "reactions": 734
+        "score": 706,
+        "mergedPrs": 72,
+        "reviews": 63,
+        "reviewsReceived": 19,
+        "issuesLinked": 32,
+        "reactions": 737
       },
       "devtools": {
         "score": 0,

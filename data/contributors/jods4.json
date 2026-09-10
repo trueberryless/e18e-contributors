@@ -1,13 +1,13 @@
 {
   "username": "jods4",
-  "lastUpdated": "2026-09-09T23:32:30.198Z",
+  "lastUpdated": "2026-09-10T21:51:47.360Z",
   "aggregatedStats": {
-    "score": 36,
-    "mergedPrs": 1,
+    "score": 55,
+    "mergedPrs": 4,
     "reviews": 2,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 242
+    "issuesLinked": 2,
+    "reactions": 249
   },
   "orgStats": {
     "vitejs": {
@@ -19,12 +19,12 @@
       "reactions": 27
     },
     "vuejs": {
-      "score": 33,
-      "mergedPrs": 1,
+      "score": 52,
+      "mergedPrs": 4,
       "reviews": 2,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 215
+      "issuesLinked": 2,
+      "reactions": 222
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 24,
-        "mergedPrs": 1,
+        "score": 44,
+        "mergedPrs": 4,
         "reviews": 2,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 131
+        "issuesLinked": 2,
+        "reactions": 138
       },
       "devtools": {
         "score": 0,

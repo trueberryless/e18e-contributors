@@ -1,13 +1,13 @@
 {
   "username": "cexbrayat",
-  "lastUpdated": "2026-09-09T23:32:14.183Z",
+  "lastUpdated": "2026-09-10T21:51:32.957Z",
   "aggregatedStats": {
-    "score": 3669,
-    "mergedPrs": 327,
+    "score": 3750,
+    "mergedPrs": 343,
     "reviews": 583,
-    "reviewsReceived": 173,
+    "reviewsReceived": 174,
     "issuesLinked": 34,
-    "reactions": 435
+    "reactions": 437
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 5
     },
     "vuejs": {
-      "score": 3528,
-      "mergedPrs": 307,
+      "score": 3609,
+      "mergedPrs": 323,
       "reviews": 579,
-      "reviewsReceived": 160,
+      "reviewsReceived": 161,
       "issuesLinked": 30,
-      "reactions": 357
+      "reactions": 359
     }
   },
   "repoStats": {
@@ -134,12 +134,12 @@
         "reactions": 8
       },
       "core": {
-        "score": 212,
-        "mergedPrs": 33,
+        "score": 293,
+        "mergedPrs": 49,
         "reviews": 7,
-        "reviewsReceived": 20,
+        "reviewsReceived": 21,
         "issuesLinked": 2,
-        "reactions": 20
+        "reactions": 22
       },
       "create-vue": {
         "score": 1141,

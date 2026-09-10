@@ -1,12 +1,12 @@
 {
   "username": "jeffydc",
-  "lastUpdated": "2026-09-10T19:08:37.467Z",
+  "lastUpdated": "2026-09-10T21:51:33.943Z",
   "aggregatedStats": {
-    "score": 121,
-    "mergedPrs": 13,
-    "reviews": 13,
-    "reviewsReceived": 12,
-    "issuesLinked": 1,
+    "score": 224,
+    "mergedPrs": 17,
+    "reviews": 38,
+    "reviewsReceived": 16,
+    "issuesLinked": 3,
     "reactions": 28
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 38,
-      "mergedPrs": 0,
-      "reviews": 12,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 141,
+      "mergedPrs": 4,
+      "reviews": 37,
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
       "reactions": 19
     },
     "vitest-dev": {
@@ -108,11 +108,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 38,
-        "mergedPrs": 0,
-        "reviews": 12,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 141,
+        "mergedPrs": 4,
+        "reviews": 37,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
         "reactions": 19
       }
     },

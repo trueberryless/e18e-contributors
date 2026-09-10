@@ -1,13 +1,13 @@
 {
   "username": "schummar",
-  "lastUpdated": "2026-09-05T20:07:07.863Z",
+  "lastUpdated": "2026-09-10T21:51:37.686Z",
   "aggregatedStats": {
-    "score": 30,
-    "mergedPrs": 1,
+    "score": 52,
+    "mergedPrs": 3,
     "reviews": 0,
-    "reviewsReceived": 1,
-    "issuesLinked": 0,
-    "reactions": 245
+    "reviewsReceived": 5,
+    "issuesLinked": 1,
+    "reactions": 302
   },
   "orgStats": {
     "pnpm": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 24,
-      "mergedPrs": 0,
+      "score": 46,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 241
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
+      "reactions": 298
     },
     "vitest-dev": {
       "score": 0,
@@ -74,12 +74,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 24,
-        "mergedPrs": 0,
+        "score": 46,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 241
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
+        "reactions": 298
       }
     },
     "vitest-dev": {

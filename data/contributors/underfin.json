@@ -1,13 +1,13 @@
 {
   "username": "underfin",
-  "lastUpdated": "2026-09-09T23:32:20.460Z",
+  "lastUpdated": "2026-09-10T21:51:35.835Z",
   "aggregatedStats": {
-    "score": 282,
-    "mergedPrs": 36,
-    "reviews": 13,
-    "reviewsReceived": 12,
-    "issuesLinked": 21,
-    "reactions": 96
+    "score": 630,
+    "mergedPrs": 89,
+    "reviews": 24,
+    "reviewsReceived": 15,
+    "issuesLinked": 44,
+    "reactions": 105
   },
   "orgStats": {
     "nuxt": {
@@ -27,20 +27,20 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 65,
+      "score": 68,
       "mergedPrs": 4,
-      "reviews": 8,
+      "reviews": 9,
       "reviewsReceived": 7,
       "issuesLinked": 5,
       "reactions": 42
     },
     "vuejs": {
-      "score": 210,
-      "mergedPrs": 31,
-      "reviews": 5,
-      "reviewsReceived": 5,
-      "issuesLinked": 16,
-      "reactions": 34
+      "score": 555,
+      "mergedPrs": 84,
+      "reviews": 15,
+      "reviewsReceived": 8,
+      "issuesLinked": 39,
+      "reactions": 43
     }
   },
   "repoStats": {
@@ -82,9 +82,9 @@
         "reactions": 0
       },
       "vite": {
-        "score": 37,
+        "score": 40,
         "mergedPrs": 2,
-        "reviews": 3,
+        "reviews": 4,
         "reviewsReceived": 4,
         "issuesLinked": 5,
         "reactions": 42
@@ -116,12 +116,12 @@
         "reactions": 0
       },
       "core": {
-        "score": 176,
-        "mergedPrs": 25,
-        "reviews": 5,
-        "reviewsReceived": 2,
-        "issuesLinked": 16,
-        "reactions": 23
+        "score": 521,
+        "mergedPrs": 78,
+        "reviews": 15,
+        "reviewsReceived": 5,
+        "issuesLinked": 39,
+        "reactions": 32
       },
       "docs": {
         "score": 5,

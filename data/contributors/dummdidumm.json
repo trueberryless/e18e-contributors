@@ -1,12 +1,12 @@
 {
   "username": "dummdidumm",
-  "lastUpdated": "2026-09-10T19:08:44.451Z",
+  "lastUpdated": "2026-09-10T21:51:42.004Z",
   "aggregatedStats": {
-    "score": 23117,
-    "mergedPrs": 1971,
-    "reviews": 3290,
-    "reviewsReceived": 1081,
-    "issuesLinked": 963,
+    "score": 23129,
+    "mergedPrs": 1972,
+    "reviews": 3291,
+    "reviewsReceived": 1083,
+    "issuesLinked": 964,
     "reactions": 3845
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 46
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 12,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 1
     },
     "withastro": {
@@ -298,11 +298,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 12,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 1
       }
     },

@@ -1,6 +1,6 @@
 {
   "username": "cainrus",
-  "lastUpdated": "2026-08-19T09:38:58.593Z",
+  "lastUpdated": "2026-09-10T21:51:46.929Z",
   "aggregatedStats": {
     "score": 0,
     "mergedPrs": 0,
@@ -10,6 +10,14 @@
     "reactions": 0
   },
   "orgStats": {
+    "vitejs": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vuejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,7 +28,25 @@
     }
   },
   "repoStats": {
+    "vitejs": {
+      "vite-plugin-vue": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vuejs": {
+      "core": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vue-cli": {
         "score": 0,
         "mergedPrs": 0,

@@ -1,13 +1,13 @@
 {
   "username": "haoqunjiang",
-  "lastUpdated": "2026-09-09T23:32:20.949Z",
+  "lastUpdated": "2026-09-10T21:51:36.482Z",
   "aggregatedStats": {
-    "score": 6763,
-    "mergedPrs": 554,
-    "reviews": 1117,
-    "reviewsReceived": 159,
-    "issuesLinked": 201,
-    "reactions": 808
+    "score": 6855,
+    "mergedPrs": 562,
+    "reviews": 1128,
+    "reviewsReceived": 171,
+    "issuesLinked": 204,
+    "reactions": 816
   },
   "orgStats": {
     "oxc-project": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 330,
-      "mergedPrs": 13,
-      "reviews": 77,
-      "reviewsReceived": 16,
-      "issuesLinked": 7,
-      "reactions": 41
+      "score": 419,
+      "mergedPrs": 21,
+      "reviews": 87,
+      "reviewsReceived": 28,
+      "issuesLinked": 10,
+      "reactions": 49
     },
     "vitest-dev": {
       "score": 15,
@@ -51,9 +51,9 @@
       "reactions": 4
     },
     "vuejs": {
-      "score": 6391,
+      "score": 6394,
       "mergedPrs": 537,
-      "reviews": 1035,
+      "reviews": 1036,
       "reviewsReceived": 140,
       "issuesLinked": 193,
       "reactions": 745
@@ -132,12 +132,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 64,
-        "mergedPrs": 5,
-        "reviews": 6,
-        "reviewsReceived": 9,
-        "issuesLinked": 4,
-        "reactions": 39
+        "score": 153,
+        "mergedPrs": 13,
+        "reviews": 16,
+        "reviewsReceived": 21,
+        "issuesLinked": 7,
+        "reactions": 47
       },
       "vite-ecosystem-ci": {
         "score": 18,
@@ -216,9 +216,9 @@
         "reactions": 0
       },
       "core": {
-        "score": 497,
+        "score": 500,
         "mergedPrs": 32,
-        "reviews": 103,
+        "reviews": 104,
         "reviewsReceived": 10,
         "issuesLinked": 7,
         "reactions": 37

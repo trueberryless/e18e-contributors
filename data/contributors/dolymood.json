@@ -1,33 +1,33 @@
 {
   "username": "dolymood",
-  "lastUpdated": "2026-09-05T20:07:17.351Z",
+  "lastUpdated": "2026-09-10T21:51:52.665Z",
   "aggregatedStats": {
-    "score": 8,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 16,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 16
+    "reactions": 23
   },
   "orgStats": {
     "vuejs": {
-      "score": 8,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 16
+      "reactions": 23
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 2,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 16
+        "reactions": 23
       },
       "router": {
         "score": 0,

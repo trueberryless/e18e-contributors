@@ -1,21 +1,21 @@
 {
   "username": "rigor789",
-  "lastUpdated": "2026-09-08T06:25:33.683Z",
+  "lastUpdated": "2026-09-10T21:51:56.137Z",
   "aggregatedStats": {
-    "score": 84,
-    "mergedPrs": 11,
+    "score": 96,
+    "mergedPrs": 13,
     "reviews": 2,
     "reviewsReceived": 7,
-    "issuesLinked": 1,
+    "issuesLinked": 2,
     "reactions": 137
   },
   "orgStats": {
     "vuejs": {
-      "score": 84,
-      "mergedPrs": 11,
+      "score": 96,
+      "mergedPrs": 13,
       "reviews": 2,
       "reviewsReceived": 7,
-      "issuesLinked": 1,
+      "issuesLinked": 2,
       "reactions": 137
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 0
       },
       "core": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 8
       },
       "devtools-v6": {

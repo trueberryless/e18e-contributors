@@ -1,10 +1,10 @@
 {
   "username": "juzhiyuan",
-  "lastUpdated": "2026-09-10T19:08:44.955Z",
+  "lastUpdated": "2026-09-10T21:51:42.497Z",
   "aggregatedStats": {
-    "score": 5,
+    "score": 8,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -39,6 +39,14 @@
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "vue": {
         "score": 0,
         "mergedPrs": 0,

@@ -1,33 +1,33 @@
 {
   "username": "frangio",
-  "lastUpdated": "2026-09-05T05:01:15.907Z",
+  "lastUpdated": "2026-09-10T21:51:53.080Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 1,
     "mergedPrs": 0,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 6
   },
   "orgStats": {
     "vuejs": {
-      "score": 0,
+      "score": 1,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 6
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 0,
+        "score": 1,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 6
       },
       "vue-loader": {
         "score": 0,

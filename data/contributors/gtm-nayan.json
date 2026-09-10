@@ -1,12 +1,12 @@
 {
   "username": "gtm-nayan",
-  "lastUpdated": "2026-09-10T19:08:40.378Z",
+  "lastUpdated": "2026-09-10T21:51:37.301Z",
   "aggregatedStats": {
-    "score": 1711,
-    "mergedPrs": 179,
+    "score": 1720,
+    "mergedPrs": 180,
     "reviews": 163,
-    "reviewsReceived": 173,
-    "issuesLinked": 73,
+    "reviewsReceived": 175,
+    "issuesLinked": 74,
     "reactions": 84
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 79
     },
     "vitejs": {
-      "score": 35,
-      "mergedPrs": 4,
+      "score": 44,
+      "mergedPrs": 5,
       "reviews": 1,
-      "reviewsReceived": 6,
-      "issuesLinked": 3,
+      "reviewsReceived": 8,
+      "issuesLinked": 4,
       "reactions": 4
     },
     "vitest-dev": {
@@ -130,11 +130,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 35,
-        "mergedPrs": 4,
+        "score": 44,
+        "mergedPrs": 5,
         "reviews": 1,
-        "reviewsReceived": 6,
-        "issuesLinked": 3,
+        "reviewsReceived": 8,
+        "issuesLinked": 4,
         "reactions": 4
       }
     },

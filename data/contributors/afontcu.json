@@ -1,9 +1,9 @@
 {
   "username": "afontcu",
-  "lastUpdated": "2026-09-09T23:32:13.739Z",
+  "lastUpdated": "2026-09-10T21:51:32.528Z",
   "aggregatedStats": {
-    "score": 675,
-    "mergedPrs": 39,
+    "score": 680,
+    "mergedPrs": 40,
     "reviews": 137,
     "reviewsReceived": 28,
     "issuesLinked": 15,
@@ -19,8 +19,8 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 675,
-      "mergedPrs": 39,
+      "score": 680,
+      "mergedPrs": 40,
       "reviews": 137,
       "reviewsReceived": 28,
       "issuesLinked": 15,
@@ -48,8 +48,8 @@
         "reactions": 4
       },
       "core": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,

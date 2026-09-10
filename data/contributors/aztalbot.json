@@ -1,33 +1,33 @@
 {
   "username": "aztalbot",
-  "lastUpdated": "2026-09-09T05:09:01.989Z",
+  "lastUpdated": "2026-09-10T21:51:51.749Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 1,
+    "score": 14,
+    "mergedPrs": 2,
     "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 6
+    "reactions": 10
   },
   "orgStats": {
     "vuejs": {
-      "score": 9,
-      "mergedPrs": 1,
+      "score": 14,
+      "mergedPrs": 2,
       "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 10
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 8,
-        "mergedPrs": 1,
+        "score": 14,
+        "mergedPrs": 2,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 8
       },
       "docs": {
         "score": 0,

@@ -1,15 +1,23 @@
 {
   "username": "ducan-ne",
-  "lastUpdated": "2026-09-05T05:01:24.023Z",
+  "lastUpdated": "2026-09-10T21:51:52.732Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 9,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
+    "vuejs": {
+      "score": 9,
+      "mergedPrs": 0,
+      "reviews": 3,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "zed-industries": {
       "score": 0,
       "mergedPrs": 0,
@@ -20,6 +28,16 @@
     }
   },
   "repoStats": {
+    "vuejs": {
+      "core": {
+        "score": 9,
+        "mergedPrs": 0,
+        "reviews": 3,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "zed-industries": {
       "zed": {
         "score": 0,

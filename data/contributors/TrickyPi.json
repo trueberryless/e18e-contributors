@@ -1,13 +1,13 @@
 {
   "username": "TrickyPi",
-  "lastUpdated": "2026-09-09T23:32:29.658Z",
+  "lastUpdated": "2026-09-10T21:51:46.720Z",
   "aggregatedStats": {
     "score": 20,
     "mergedPrs": 2,
     "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 2,
-    "reactions": 7
+    "reactions": 8
   },
   "orgStats": {
     "vitejs": {
@@ -16,7 +16,7 @@
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "vitest-dev": {
       "score": 20,
@@ -35,7 +35,7 @@
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "vitest-dev": {

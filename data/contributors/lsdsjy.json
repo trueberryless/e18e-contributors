@@ -1,22 +1,22 @@
 {
   "username": "lsdsjy",
-  "lastUpdated": "2026-09-09T23:32:30.310Z",
+  "lastUpdated": "2026-09-10T21:51:47.517Z",
   "aggregatedStats": {
-    "score": 123,
-    "mergedPrs": 14,
+    "score": 132,
+    "mergedPrs": 15,
     "reviews": 5,
-    "reviewsReceived": 18,
-    "issuesLinked": 8,
-    "reactions": 39
+    "reviewsReceived": 20,
+    "issuesLinked": 9,
+    "reactions": 40
   },
   "orgStats": {
     "vitejs": {
-      "score": 56,
-      "mergedPrs": 6,
+      "score": 65,
+      "mergedPrs": 7,
       "reviews": 2,
-      "reviewsReceived": 10,
-      "issuesLinked": 3,
-      "reactions": 39
+      "reviewsReceived": 12,
+      "issuesLinked": 4,
+      "reactions": 40
     },
     "vuejs": {
       "score": 60,
@@ -38,12 +38,12 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 56,
-        "mergedPrs": 6,
+        "score": 65,
+        "mergedPrs": 7,
         "reviews": 2,
-        "reviewsReceived": 10,
-        "issuesLinked": 3,
-        "reactions": 39
+        "reviewsReceived": 12,
+        "issuesLinked": 4,
+        "reactions": 40
       }
     },
     "vuejs": {
