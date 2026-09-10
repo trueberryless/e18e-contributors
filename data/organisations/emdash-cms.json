@@ -1,6 +1,6 @@
 {
   "id": "emdash-cms",
-  "updatedAt": "2026-09-09T14:48:00.645Z",
+  "updatedAt": "2026-09-10T11:42:57.898Z",
   "stats": {
     "005001": {
       "score": 0,
@@ -923,9 +923,9 @@
       "reactions": 5
     },
     "ascorbic": {
-      "score": 4817,
-      "mergedPrs": 562,
-      "reviews": 614,
+      "score": 4851,
+      "mergedPrs": 567,
+      "reviews": 617,
       "reviewsReceived": 1,
       "issuesLinked": 78,
       "reactions": 78
@@ -1283,10 +1283,10 @@
       "reactions": 4
     },
     "danielmlr": {
-      "score": 198,
-      "mergedPrs": 26,
-      "reviews": 7,
-      "reviewsReceived": 27,
+      "score": 207,
+      "mergedPrs": 27,
+      "reviews": 8,
+      "reviewsReceived": 28,
       "issuesLinked": 10,
       "reactions": 2
     },
@@ -1907,11 +1907,11 @@
       "reactions": 0
     },
     "jakevis": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "jamesqquick": {
@@ -2770,6 +2770,14 @@
       "issuesLinked": 0,
       "reactions": 0
     },
+    "palockocz": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "pangerlkr": {
       "score": 5,
       "mergedPrs": 1,
@@ -3184,7 +3192,7 @@
       "reviews": 24,
       "reviewsReceived": 48,
       "issuesLinked": 33,
-      "reactions": 22
+      "reactions": 24
     },
     "syhily": {
       "score": 0,
