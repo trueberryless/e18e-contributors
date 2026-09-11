@@ -1,13 +1,13 @@
 {
   "username": "camc314",
-  "lastUpdated": "2026-09-10T11:46:22.210Z",
+  "lastUpdated": "2026-09-11T08:25:13.845Z",
   "aggregatedStats": {
-    "score": 12355,
-    "mergedPrs": 1240,
-    "reviews": 1759,
-    "reviewsReceived": 117,
-    "issuesLinked": 302,
-    "reactions": 1569
+    "score": 13830,
+    "mergedPrs": 1391,
+    "reviews": 1968,
+    "reviewsReceived": 143,
+    "issuesLinked": 334,
+    "reactions": 1599
   },
   "orgStats": {
     "emdash-cms": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 12306,
-      "mergedPrs": 1233,
-      "reviews": 1757,
-      "reviewsReceived": 113,
-      "issuesLinked": 301,
-      "reactions": 1547
+      "score": 13781,
+      "mergedPrs": 1384,
+      "reviews": 1966,
+      "reviewsReceived": 139,
+      "issuesLinked": 333,
+      "reactions": 1577
     },
     "tanstack": {
       "score": 9,
@@ -114,12 +114,12 @@
         "reactions": 2
       },
       "oxc": {
-        "score": 9556,
-        "mergedPrs": 954,
-        "reviews": 1376,
-        "reviewsReceived": 94,
-        "issuesLinked": 212,
-        "reactions": 1399
+        "score": 11028,
+        "mergedPrs": 1105,
+        "reviews": 1584,
+        "reviewsReceived": 120,
+        "issuesLinked": 244,
+        "reactions": 1429
       },
       "oxc-resolver": {
         "score": 0,
@@ -170,9 +170,9 @@
         "reactions": 120
       },
       "website": {
-        "score": 415,
+        "score": 418,
         "mergedPrs": 24,
-        "reviews": 95,
+        "reviews": 96,
         "reviewsReceived": 3,
         "issuesLinked": 3,
         "reactions": 14

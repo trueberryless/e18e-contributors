@@ -1,22 +1,22 @@
 {
   "username": "Sysix",
-  "lastUpdated": "2026-09-10T11:46:29.342Z",
+  "lastUpdated": "2026-09-11T08:25:21.641Z",
   "aggregatedStats": {
-    "score": 3333,
-    "mergedPrs": 493,
-    "reviews": 171,
-    "reviewsReceived": 184,
-    "issuesLinked": 71,
-    "reactions": 294
+    "score": 3702,
+    "mergedPrs": 544,
+    "reviews": 193,
+    "reviewsReceived": 219,
+    "issuesLinked": 77,
+    "reactions": 297
   },
   "orgStats": {
     "oxc-project": {
-      "score": 3315,
-      "mergedPrs": 490,
-      "reviews": 171,
-      "reviewsReceived": 181,
-      "issuesLinked": 71,
-      "reactions": 294
+      "score": 3684,
+      "mergedPrs": 541,
+      "reviews": 193,
+      "reviewsReceived": 216,
+      "issuesLinked": 77,
+      "reactions": 297
     },
     "vitejs": {
       "score": 0,
@@ -54,12 +54,12 @@
         "reactions": 13
       },
       "oxc": {
-        "score": 1747,
-        "mergedPrs": 245,
-        "reviews": 91,
-        "reviewsReceived": 165,
-        "issuesLinked": 30,
-        "reactions": 244
+        "score": 2116,
+        "mergedPrs": 296,
+        "reviews": 113,
+        "reviewsReceived": 200,
+        "issuesLinked": 36,
+        "reactions": 247
       },
       "oxc-intellij-plugin": {
         "score": 0,

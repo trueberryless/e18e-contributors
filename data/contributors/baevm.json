@@ -1,20 +1,20 @@
 {
   "username": "baevm",
-  "lastUpdated": "2026-09-10T11:46:29.401Z",
+  "lastUpdated": "2026-09-11T08:25:21.708Z",
   "aggregatedStats": {
-    "score": 692,
-    "mergedPrs": 89,
-    "reviews": 44,
-    "reviewsReceived": 94,
+    "score": 750,
+    "mergedPrs": 97,
+    "reviews": 47,
+    "reviewsReceived": 103,
     "issuesLinked": 9,
     "reactions": 29
   },
   "orgStats": {
     "oxc-project": {
-      "score": 692,
-      "mergedPrs": 89,
-      "reviews": 44,
-      "reviewsReceived": 94,
+      "score": 750,
+      "mergedPrs": 97,
+      "reviews": 47,
+      "reviewsReceived": 103,
       "issuesLinked": 9,
       "reactions": 28
     },
@@ -38,10 +38,10 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 686,
-        "mergedPrs": 88,
-        "reviews": 44,
-        "reviewsReceived": 93,
+        "score": 744,
+        "mergedPrs": 96,
+        "reviews": 47,
+        "reviewsReceived": 102,
         "issuesLinked": 9,
         "reactions": 28
       },

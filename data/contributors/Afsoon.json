@@ -1,21 +1,21 @@
 {
   "username": "Afsoon",
-  "lastUpdated": "2026-09-10T11:46:29.232Z",
+  "lastUpdated": "2026-09-11T08:25:21.512Z",
   "aggregatedStats": {
-    "score": 289,
-    "mergedPrs": 43,
-    "reviews": 4,
-    "reviewsReceived": 42,
-    "issuesLinked": 7,
+    "score": 309,
+    "mergedPrs": 45,
+    "reviews": 5,
+    "reviewsReceived": 47,
+    "issuesLinked": 8,
     "reactions": 64
   },
   "orgStats": {
     "oxc-project": {
-      "score": 289,
-      "mergedPrs": 43,
-      "reviews": 4,
-      "reviewsReceived": 42,
-      "issuesLinked": 7,
+      "score": 309,
+      "mergedPrs": 45,
+      "reviews": 5,
+      "reviewsReceived": 47,
+      "issuesLinked": 8,
       "reactions": 64
     },
     "sveltejs": {
@@ -38,11 +38,11 @@
         "reactions": 0
       },
       "oxc": {
-        "score": 254,
-        "mergedPrs": 37,
-        "reviews": 4,
-        "reviewsReceived": 37,
-        "issuesLinked": 7,
+        "score": 274,
+        "mergedPrs": 39,
+        "reviews": 5,
+        "reviewsReceived": 42,
+        "issuesLinked": 8,
         "reactions": 64
       },
       "oxlint-migrate": {

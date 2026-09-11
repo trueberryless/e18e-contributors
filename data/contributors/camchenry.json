@@ -1,33 +1,33 @@
 {
   "username": "camchenry",
-  "lastUpdated": "2026-09-09T18:37:31.051Z",
+  "lastUpdated": "2026-09-11T08:25:21.730Z",
   "aggregatedStats": {
-    "score": 1152,
-    "mergedPrs": 161,
-    "reviews": 82,
-    "reviewsReceived": 46,
-    "issuesLinked": 16,
-    "reactions": 228
+    "score": 1312,
+    "mergedPrs": 172,
+    "reviews": 114,
+    "reviewsReceived": 53,
+    "issuesLinked": 17,
+    "reactions": 229
   },
   "orgStats": {
     "oxc-project": {
-      "score": 1152,
-      "mergedPrs": 161,
-      "reviews": 82,
-      "reviewsReceived": 46,
-      "issuesLinked": 16,
-      "reactions": 228
+      "score": 1312,
+      "mergedPrs": 172,
+      "reviews": 114,
+      "reviewsReceived": 53,
+      "issuesLinked": 17,
+      "reactions": 229
     }
   },
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 644,
-        "mergedPrs": 80,
-        "reviews": 64,
-        "reviewsReceived": 18,
-        "issuesLinked": 8,
-        "reactions": 180
+        "score": 804,
+        "mergedPrs": 91,
+        "reviews": 96,
+        "reviewsReceived": 25,
+        "issuesLinked": 9,
+        "reactions": 181
       },
       "oxlint-migrate": {
         "score": 5,

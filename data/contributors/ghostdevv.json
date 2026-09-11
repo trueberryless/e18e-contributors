@@ -1,10 +1,10 @@
 {
   "username": "ghostdevv",
-  "lastUpdated": "2026-09-10T19:08:32.613Z",
+  "lastUpdated": "2026-09-11T08:25:11.835Z",
   "aggregatedStats": {
-    "score": 2103,
+    "score": 2106,
     "mergedPrs": 85,
-    "reviews": 518,
+    "reviews": 519,
     "reviewsReceived": 88,
     "issuesLinked": 13,
     "reactions": 105
@@ -65,6 +65,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 4
+    },
+    "oxc-project": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "pnpm": {
       "score": 0,
@@ -224,6 +232,16 @@
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 4
+      }
+    },
+    "oxc-project": {
+      "oxc": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "pnpm": {

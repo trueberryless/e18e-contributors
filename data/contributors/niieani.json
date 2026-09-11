@@ -1,22 +1,22 @@
 {
   "username": "niieani",
-  "lastUpdated": "2026-09-09T18:37:31.317Z",
+  "lastUpdated": "2026-09-11T08:25:22.011Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 1,
+    "score": 16,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 9
+    "reactions": 13
   },
   "orgStats": {
     "oxc-project": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 6
+      "reactions": 10
     },
     "zed-industries": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 6
+        "reactions": 10
       }
     },
     "zed-industries": {

@@ -1,33 +1,33 @@
 {
   "username": "overlookmotel",
-  "lastUpdated": "2026-09-10T11:46:29.668Z",
+  "lastUpdated": "2026-09-11T08:25:22.034Z",
   "aggregatedStats": {
-    "score": 5224,
-    "mergedPrs": 779,
-    "reviews": 362,
-    "reviewsReceived": 179,
-    "issuesLinked": 9,
-    "reactions": 463
+    "score": 6167,
+    "mergedPrs": 908,
+    "reviews": 443,
+    "reviewsReceived": 221,
+    "issuesLinked": 15,
+    "reactions": 469
   },
   "orgStats": {
     "oxc-project": {
-      "score": 5224,
-      "mergedPrs": 779,
-      "reviews": 362,
-      "reviewsReceived": 179,
-      "issuesLinked": 9,
-      "reactions": 463
+      "score": 6167,
+      "mergedPrs": 908,
+      "reviews": 443,
+      "reviewsReceived": 221,
+      "issuesLinked": 15,
+      "reactions": 469
     }
   },
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 5020,
-        "mergedPrs": 751,
-        "reviews": 347,
-        "reviewsReceived": 162,
-        "issuesLinked": 8,
-        "reactions": 461
+        "score": 5963,
+        "mergedPrs": 880,
+        "reviews": 428,
+        "reviewsReceived": 204,
+        "issuesLinked": 14,
+        "reactions": 467
       },
       "oxc-node": {
         "score": 0,

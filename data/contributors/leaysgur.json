@@ -1,13 +1,13 @@
 {
   "username": "leaysgur",
-  "lastUpdated": "2026-09-10T19:08:32.256Z",
+  "lastUpdated": "2026-09-11T08:25:11.318Z",
   "aggregatedStats": {
-    "score": 3796,
-    "mergedPrs": 625,
-    "reviews": 101,
-    "reviewsReceived": 64,
-    "issuesLinked": 121,
-    "reactions": 621
+    "score": 4241,
+    "mergedPrs": 676,
+    "reviews": 145,
+    "reviewsReceived": 91,
+    "issuesLinked": 136,
+    "reactions": 630
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 3766,
-      "mergedPrs": 621,
-      "reviews": 99,
-      "reviewsReceived": 62,
-      "issuesLinked": 120,
-      "reactions": 618
+      "score": 4211,
+      "mergedPrs": 672,
+      "reviews": 143,
+      "reviewsReceived": 89,
+      "issuesLinked": 135,
+      "reactions": 627
     },
     "sveltejs": {
       "score": 14,
@@ -88,12 +88,12 @@
         "reactions": 0
       },
       "oxc": {
-        "score": 3435,
-        "mergedPrs": 575,
-        "reviews": 75,
-        "reviewsReceived": 57,
-        "issuesLinked": 108,
-        "reactions": 615
+        "score": 3879,
+        "mergedPrs": 626,
+        "reviews": 119,
+        "reviewsReceived": 84,
+        "issuesLinked": 123,
+        "reactions": 624
       },
       "oxc-intellij-plugin": {
         "score": 7,
