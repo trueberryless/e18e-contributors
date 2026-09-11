@@ -1,20 +1,20 @@
 {
   "username": "warflash",
-  "lastUpdated": "2026-09-10T19:08:39.242Z",
+  "lastUpdated": "2026-09-11T13:10:42.013Z",
   "aggregatedStats": {
-    "score": 53,
-    "mergedPrs": 6,
+    "score": 59,
+    "mergedPrs": 7,
     "reviews": 2,
-    "reviewsReceived": 7,
+    "reviewsReceived": 8,
     "issuesLinked": 3,
     "reactions": 47
   },
   "orgStats": {
     "nuxt": {
-      "score": 53,
-      "mergedPrs": 6,
+      "score": 59,
+      "mergedPrs": 7,
       "reviews": 2,
-      "reviewsReceived": 7,
+      "reviewsReceived": 8,
       "issuesLinked": 3,
       "reactions": 44
     },
@@ -78,10 +78,10 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 43,
-        "mergedPrs": 5,
+        "score": 49,
+        "mergedPrs": 6,
         "reviews": 2,
-        "reviewsReceived": 6,
+        "reviewsReceived": 7,
         "issuesLinked": 2,
         "reactions": 24
       },

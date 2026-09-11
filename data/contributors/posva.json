@@ -1,13 +1,13 @@
 {
   "username": "posva",
-  "lastUpdated": "2026-09-10T21:51:28.556Z",
+  "lastUpdated": "2026-09-11T13:10:31.384Z",
   "aggregatedStats": {
-    "score": 6759,
-    "mergedPrs": 330,
-    "reviews": 1536,
-    "reviewsReceived": 95,
+    "score": 6775,
+    "mergedPrs": 331,
+    "reviews": 1539,
+    "reviewsReceived": 96,
     "issuesLinked": 77,
-    "reactions": 2534
+    "reactions": 2542
   },
   "orgStats": {
     "bombshell-dev": {
@@ -27,12 +27,12 @@
       "reactions": 2
     },
     "nuxt": {
-      "score": 204,
-      "mergedPrs": 21,
-      "reviews": 20,
-      "reviewsReceived": 12,
+      "score": 220,
+      "mergedPrs": 22,
+      "reviews": 23,
+      "reviewsReceived": 13,
       "issuesLinked": 5,
-      "reactions": 174
+      "reactions": 182
     },
     "oxc-project": {
       "score": 0,
@@ -146,12 +146,12 @@
         "reactions": 8
       },
       "nuxt": {
-        "score": 124,
-        "mergedPrs": 9,
-        "reviews": 16,
-        "reviewsReceived": 8,
+        "score": 140,
+        "mergedPrs": 10,
+        "reviews": 19,
+        "reviewsReceived": 9,
         "issuesLinked": 4,
-        "reactions": 154
+        "reactions": 162
       },
       "starter": {
         "score": 5,

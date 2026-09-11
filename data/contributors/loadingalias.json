@@ -1,32 +1,32 @@
 {
   "username": "loadingalias",
-  "lastUpdated": "2026-09-08T22:46:07.209Z",
+  "lastUpdated": "2026-09-11T13:11:04.237Z",
   "aggregatedStats": {
-    "score": 26,
-    "mergedPrs": 3,
-    "reviews": 0,
-    "reviewsReceived": 3,
-    "issuesLinked": 3,
+    "score": 45,
+    "mergedPrs": 5,
+    "reviews": 1,
+    "reviewsReceived": 5,
+    "issuesLinked": 5,
     "reactions": 18
   },
   "orgStats": {
     "zed-industries": {
-      "score": 26,
-      "mergedPrs": 3,
-      "reviews": 0,
-      "reviewsReceived": 3,
-      "issuesLinked": 3,
+      "score": 45,
+      "mergedPrs": 5,
+      "reviews": 1,
+      "reviewsReceived": 5,
+      "issuesLinked": 5,
       "reactions": 18
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 26,
-        "mergedPrs": 3,
-        "reviews": 0,
-        "reviewsReceived": 3,
-        "issuesLinked": 3,
+        "score": 45,
+        "mergedPrs": 5,
+        "reviews": 1,
+        "reviewsReceived": 5,
+        "issuesLinked": 5,
         "reactions": 18
       }
     }

@@ -1,22 +1,22 @@
 {
   "username": "ozum",
-  "lastUpdated": "2026-09-05T20:07:06.137Z",
+  "lastUpdated": "2026-09-11T13:10:41.331Z",
   "aggregatedStats": {
-    "score": 2,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
+    "score": 18,
+    "mergedPrs": 2,
+    "reviews": 1,
+    "reviewsReceived": 3,
     "issuesLinked": 0,
-    "reactions": 26
+    "reactions": 27
   },
   "orgStats": {
     "nuxt": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     },
     "pnpm": {
       "score": 0,
@@ -46,12 +46,12 @@
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       },
       "typescript": {
         "score": 0,

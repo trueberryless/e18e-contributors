@@ -1,22 +1,22 @@
 {
   "username": "alexdln",
-  "lastUpdated": "2026-09-06T13:08:47.217Z",
+  "lastUpdated": "2026-09-11T13:10:38.367Z",
   "aggregatedStats": {
-    "score": 1064,
-    "mergedPrs": 102,
+    "score": 1070,
+    "mergedPrs": 103,
     "reviews": 111,
-    "reviewsReceived": 119,
+    "reviewsReceived": 120,
     "issuesLinked": 43,
-    "reactions": 158
+    "reactions": 160
   },
   "orgStats": {
     "npmx-dev": {
-      "score": 1043,
-      "mergedPrs": 99,
+      "score": 1049,
+      "mergedPrs": 100,
       "reviews": 110,
-      "reviewsReceived": 116,
+      "reviewsReceived": 117,
       "issuesLinked": 43,
-      "reactions": 156
+      "reactions": 158
     },
     "vitejs": {
       "score": 21,
@@ -30,12 +30,12 @@
   "repoStats": {
     "npmx-dev": {
       "npmx.dev": {
-        "score": 1043,
-        "mergedPrs": 99,
+        "score": 1049,
+        "mergedPrs": 100,
         "reviews": 110,
-        "reviewsReceived": 116,
+        "reviewsReceived": 117,
         "issuesLinked": 43,
-        "reactions": 156
+        "reactions": 158
       }
     },
     "vitejs": {

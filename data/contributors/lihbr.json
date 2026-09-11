@@ -1,13 +1,13 @@
 {
   "username": "lihbr",
-  "lastUpdated": "2026-09-10T19:08:34.957Z",
+  "lastUpdated": "2026-09-11T13:10:38.402Z",
   "aggregatedStats": {
-    "score": 137,
-    "mergedPrs": 15,
-    "reviews": 11,
-    "reviewsReceived": 14,
-    "issuesLinked": 2,
-    "reactions": 112
+    "score": 166,
+    "mergedPrs": 17,
+    "reviews": 15,
+    "reviewsReceived": 18,
+    "issuesLinked": 3,
+    "reactions": 115
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 131,
-      "mergedPrs": 14,
-      "reviews": 11,
-      "reviewsReceived": 13,
-      "issuesLinked": 2,
-      "reactions": 112
+      "score": 160,
+      "mergedPrs": 16,
+      "reviews": 15,
+      "reviewsReceived": 17,
+      "issuesLinked": 3,
+      "reactions": 115
     },
     "slidevjs": {
       "score": 0,
@@ -96,12 +96,12 @@
         "reactions": 6
       },
       "nuxt": {
-        "score": 55,
-        "mergedPrs": 4,
-        "reviews": 7,
-        "reviewsReceived": 6,
-        "issuesLinked": 0,
-        "reactions": 78
+        "score": 83,
+        "mergedPrs": 6,
+        "reviews": 11,
+        "reviewsReceived": 10,
+        "issuesLinked": 1,
+        "reactions": 81
       },
       "nuxt.com": {
         "score": 6,

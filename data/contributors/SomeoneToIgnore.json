@@ -1,22 +1,22 @@
 {
   "username": "SomeoneToIgnore",
-  "lastUpdated": "2026-09-10T16:18:03.936Z",
+  "lastUpdated": "2026-09-11T13:11:02.802Z",
   "aggregatedStats": {
-    "score": 2007,
-    "mergedPrs": 138,
-    "reviews": 313,
-    "reviewsReceived": 134,
-    "issuesLinked": 54,
-    "reactions": 1359
+    "score": 2162,
+    "mergedPrs": 144,
+    "reviews": 353,
+    "reviewsReceived": 136,
+    "issuesLinked": 55,
+    "reactions": 1365
   },
   "orgStats": {
     "zed-industries": {
-      "score": 2007,
-      "mergedPrs": 138,
-      "reviews": 313,
-      "reviewsReceived": 134,
-      "issuesLinked": 54,
-      "reactions": 1359
+      "score": 2162,
+      "mergedPrs": 144,
+      "reviews": 353,
+      "reviewsReceived": 136,
+      "issuesLinked": 55,
+      "reactions": 1365
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 2002,
-        "mergedPrs": 137,
-        "reviews": 313,
-        "reviewsReceived": 134,
-        "issuesLinked": 54,
-        "reactions": 1359
+        "score": 2157,
+        "mergedPrs": 143,
+        "reviews": 353,
+        "reviewsReceived": 136,
+        "issuesLinked": 55,
+        "reactions": 1365
       }
     }
   }

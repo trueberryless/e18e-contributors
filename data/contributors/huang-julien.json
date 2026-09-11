@@ -1,13 +1,13 @@
 {
   "username": "huang-julien",
-  "lastUpdated": "2026-09-10T19:08:34.945Z",
+  "lastUpdated": "2026-09-11T13:10:38.391Z",
   "aggregatedStats": {
-    "score": 3650,
-    "mergedPrs": 434,
-    "reviews": 256,
-    "reviewsReceived": 286,
-    "issuesLinked": 160,
-    "reactions": 1067
+    "score": 3827,
+    "mergedPrs": 451,
+    "reviews": 270,
+    "reviewsReceived": 306,
+    "issuesLinked": 173,
+    "reactions": 1104
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "nuxt": {
-      "score": 3591,
-      "mergedPrs": 425,
-      "reviews": 255,
-      "reviewsReceived": 280,
-      "issuesLinked": 159,
-      "reactions": 1032
+      "score": 3768,
+      "mergedPrs": 442,
+      "reviews": 269,
+      "reviewsReceived": 300,
+      "issuesLinked": 172,
+      "reactions": 1069
     },
     "tanstack": {
       "score": 5,
@@ -136,12 +136,12 @@
         "reactions": 12
       },
       "nuxt": {
-        "score": 2014,
-        "mergedPrs": 194,
-        "reviews": 193,
-        "reviewsReceived": 201,
-        "issuesLinked": 101,
-        "reactions": 615
+        "score": 2190,
+        "mergedPrs": 211,
+        "reviews": 207,
+        "reviewsReceived": 221,
+        "issuesLinked": 114,
+        "reactions": 652
       },
       "nuxt.com": {
         "score": 33,

@@ -1,33 +1,33 @@
 {
   "username": "xrkaz",
-  "lastUpdated": "2026-08-20T00:55:46.271Z",
+  "lastUpdated": "2026-09-11T13:11:06.900Z",
   "aggregatedStats": {
-    "score": 0,
+    "score": 1,
     "mergedPrs": 0,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 4
+    "reactions": 5
   },
   "orgStats": {
     "zen-browser": {
-      "score": 0,
+      "score": 1,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 4
+      "reactions": 5
     }
   },
   "repoStats": {
     "zen-browser": {
       "desktop": {
-        "score": 0,
+        "score": 1,
         "mergedPrs": 0,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 5
       }
     }
   }

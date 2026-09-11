@@ -1,22 +1,22 @@
 {
   "username": "HigherOrderLogic",
-  "lastUpdated": "2026-09-10T19:08:35.399Z",
+  "lastUpdated": "2026-09-11T13:10:38.775Z",
   "aggregatedStats": {
-    "score": 201,
-    "mergedPrs": 19,
-    "reviews": 20,
-    "reviewsReceived": 21,
+    "score": 213,
+    "mergedPrs": 20,
+    "reviews": 22,
+    "reviewsReceived": 22,
     "issuesLinked": 7,
-    "reactions": 112
+    "reactions": 113
   },
   "orgStats": {
     "nuxt": {
-      "score": 184,
-      "mergedPrs": 16,
-      "reviews": 20,
-      "reviewsReceived": 19,
+      "score": 196,
+      "mergedPrs": 17,
+      "reviews": 22,
+      "reviewsReceived": 20,
       "issuesLinked": 7,
-      "reactions": 112
+      "reactions": 113
     },
     "tanstack": {
       "score": 6,
@@ -86,12 +86,12 @@
         "reactions": 6
       },
       "nuxt": {
-        "score": 129,
-        "mergedPrs": 10,
-        "reviews": 16,
-        "reviewsReceived": 13,
+        "score": 141,
+        "mergedPrs": 11,
+        "reviews": 18,
+        "reviewsReceived": 14,
         "issuesLinked": 5,
-        "reactions": 79
+        "reactions": 80
       },
       "telemetry": {
         "score": 6,

@@ -1,22 +1,22 @@
 {
   "username": "cppcoffee",
-  "lastUpdated": "2026-09-10T16:18:04.902Z",
+  "lastUpdated": "2026-09-11T13:11:03.368Z",
   "aggregatedStats": {
-    "score": 216,
-    "mergedPrs": 31,
+    "score": 266,
+    "mergedPrs": 39,
     "reviews": 3,
-    "reviewsReceived": 28,
-    "issuesLinked": 5,
-    "reactions": 139
+    "reviewsReceived": 35,
+    "issuesLinked": 6,
+    "reactions": 148
   },
   "orgStats": {
     "zed-industries": {
-      "score": 216,
-      "mergedPrs": 31,
+      "score": 266,
+      "mergedPrs": 39,
       "reviews": 3,
-      "reviewsReceived": 28,
-      "issuesLinked": 5,
-      "reactions": 139
+      "reviewsReceived": 35,
+      "issuesLinked": 6,
+      "reactions": 148
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 216,
-        "mergedPrs": 31,
+        "score": 266,
+        "mergedPrs": 39,
         "reviews": 3,
-        "reviewsReceived": 28,
-        "issuesLinked": 5,
-        "reactions": 139
+        "reviewsReceived": 35,
+        "issuesLinked": 6,
+        "reactions": 148
       }
     }
   }

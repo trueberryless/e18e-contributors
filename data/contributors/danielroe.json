@@ -1,13 +1,13 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-10T21:51:28.532Z",
+  "lastUpdated": "2026-09-11T13:10:31.364Z",
   "aggregatedStats": {
-    "score": 59493,
-    "mergedPrs": 3239,
-    "reviews": 12628,
-    "reviewsReceived": 1282,
-    "issuesLinked": 1367,
-    "reactions": 13976
+    "score": 61978,
+    "mergedPrs": 3479,
+    "reviews": 12908,
+    "reviewsReceived": 1457,
+    "issuesLinked": 1480,
+    "reactions": 14410
   },
   "orgStats": {
     "bombshell-dev": {
@@ -35,12 +35,12 @@
       "reactions": 370
     },
     "nuxt": {
-      "score": 54990,
-      "mergedPrs": 3049,
-      "reviews": 11524,
-      "reviewsReceived": 1190,
-      "issuesLinked": 1334,
-      "reactions": 13154
+      "score": 57475,
+      "mergedPrs": 3289,
+      "reviews": 11804,
+      "reviewsReceived": 1365,
+      "issuesLinked": 1447,
+      "reactions": 13588
     },
     "oxc-project": {
       "score": 317,
@@ -340,12 +340,12 @@
         "reactions": 1
       },
       "nuxt": {
-        "score": 19681,
-        "mergedPrs": 1214,
-        "reviews": 3783,
-        "reviewsReceived": 360,
-        "issuesLinked": 554,
-        "reactions": 7937
+        "score": 22165,
+        "mergedPrs": 1454,
+        "reviews": 4063,
+        "reviewsReceived": 535,
+        "issuesLinked": 667,
+        "reactions": 8371
       },
       "nuxt.com": {
         "score": 1313,

@@ -1,33 +1,33 @@
 {
   "username": "eholk",
-  "lastUpdated": "2026-09-10T16:18:05.198Z",
+  "lastUpdated": "2026-09-11T13:11:03.556Z",
   "aggregatedStats": {
-    "score": 485,
-    "mergedPrs": 51,
-    "reviews": 60,
-    "reviewsReceived": 40,
+    "score": 551,
+    "mergedPrs": 59,
+    "reviews": 66,
+    "reviewsReceived": 48,
     "issuesLinked": 4,
-    "reactions": 19
+    "reactions": 23
   },
   "orgStats": {
     "zed-industries": {
-      "score": 485,
-      "mergedPrs": 51,
-      "reviews": 60,
-      "reviewsReceived": 40,
+      "score": 551,
+      "mergedPrs": 59,
+      "reviews": 66,
+      "reviewsReceived": 48,
       "issuesLinked": 4,
-      "reactions": 19
+      "reactions": 23
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 485,
-        "mergedPrs": 51,
-        "reviews": 60,
-        "reviewsReceived": 40,
+        "score": 551,
+        "mergedPrs": 59,
+        "reviews": 66,
+        "reviewsReceived": 48,
         "issuesLinked": 4,
-        "reactions": 19
+        "reactions": 23
       }
     }
   }

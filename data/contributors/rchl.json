@@ -1,11 +1,11 @@
 {
   "username": "rchl",
-  "lastUpdated": "2026-09-11T03:29:17.230Z",
+  "lastUpdated": "2026-09-11T13:10:31.207Z",
   "aggregatedStats": {
-    "score": 466,
-    "mergedPrs": 50,
-    "reviews": 45,
-    "reviewsReceived": 31,
+    "score": 506,
+    "mergedPrs": 55,
+    "reviews": 48,
+    "reviewsReceived": 37,
     "issuesLinked": 17,
     "reactions": 165
   },
@@ -19,10 +19,10 @@
       "reactions": 1
     },
     "nuxt": {
-      "score": 278,
-      "mergedPrs": 33,
-      "reviews": 20,
-      "reviewsReceived": 22,
+      "score": 318,
+      "mergedPrs": 38,
+      "reviews": 23,
+      "reviewsReceived": 28,
       "issuesLinked": 11,
       "reactions": 92
     },
@@ -136,10 +136,10 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 32,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 4,
+        "score": 72,
+        "mergedPrs": 8,
+        "reviews": 5,
+        "reviewsReceived": 10,
         "issuesLinked": 0,
         "reactions": 65
       },

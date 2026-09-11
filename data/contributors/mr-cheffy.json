@@ -1,33 +1,33 @@
 {
   "username": "mr-cheffy",
-  "lastUpdated": "2026-09-10T16:18:09.943Z",
+  "lastUpdated": "2026-09-11T13:11:06.592Z",
   "aggregatedStats": {
-    "score": 6835,
-    "mergedPrs": 819,
-    "reviews": 681,
+    "score": 6870,
+    "mergedPrs": 823,
+    "reviews": 683,
     "reviewsReceived": 15,
-    "issuesLinked": 234,
-    "reactions": 2142
+    "issuesLinked": 238,
+    "reactions": 2147
   },
   "orgStats": {
     "zen-browser": {
-      "score": 6835,
-      "mergedPrs": 819,
-      "reviews": 681,
+      "score": 6870,
+      "mergedPrs": 823,
+      "reviews": 683,
       "reviewsReceived": 15,
-      "issuesLinked": 234,
-      "reactions": 2142
+      "issuesLinked": 238,
+      "reactions": 2147
     }
   },
   "repoStats": {
     "zen-browser": {
       "desktop": {
-        "score": 5064,
-        "mergedPrs": 600,
-        "reviews": 463,
+        "score": 5099,
+        "mergedPrs": 604,
+        "reviews": 465,
         "reviewsReceived": 7,
-        "issuesLinked": 233,
-        "reactions": 2022
+        "issuesLinked": 237,
+        "reactions": 2027
       },
       "docs": {
         "score": 80,

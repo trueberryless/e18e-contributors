@@ -1,13 +1,13 @@
 {
   "username": "bobbymannino",
-  "lastUpdated": "2026-09-04T23:17:16.838Z",
+  "lastUpdated": "2026-09-11T13:10:46.467Z",
   "aggregatedStats": {
-    "score": 8,
-    "mergedPrs": 0,
+    "score": 16,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 80
+    "reactions": 105
   },
   "orgStats": {
     "sveltejs": {
@@ -19,12 +19,12 @@
       "reactions": 14
     },
     "zed-industries": {
-      "score": 7,
-      "mergedPrs": 0,
+      "score": 15,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 66
+      "reactions": 91
     },
     "zen-browser": {
       "score": 0,
@@ -72,12 +72,12 @@
         "reactions": 10
       },
       "zed": {
-        "score": 6,
-        "mergedPrs": 0,
+        "score": 14,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 56
+        "reactions": 81
       }
     },
     "zen-browser": {

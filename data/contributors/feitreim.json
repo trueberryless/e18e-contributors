@@ -1,33 +1,33 @@
 {
   "username": "feitreim",
-  "lastUpdated": "2026-09-10T16:18:05.302Z",
+  "lastUpdated": "2026-09-11T13:11:03.623Z",
   "aggregatedStats": {
-    "score": 155,
-    "mergedPrs": 19,
+    "score": 259,
+    "mergedPrs": 32,
     "reviews": 2,
-    "reviewsReceived": 16,
-    "issuesLinked": 14,
-    "reactions": 101
+    "reviewsReceived": 29,
+    "issuesLinked": 26,
+    "reactions": 116
   },
   "orgStats": {
     "zed-industries": {
-      "score": 155,
-      "mergedPrs": 19,
+      "score": 259,
+      "mergedPrs": 32,
       "reviews": 2,
-      "reviewsReceived": 16,
-      "issuesLinked": 14,
-      "reactions": 101
+      "reviewsReceived": 29,
+      "issuesLinked": 26,
+      "reactions": 116
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 155,
-        "mergedPrs": 19,
+        "score": 259,
+        "mergedPrs": 32,
         "reviews": 2,
-        "reviewsReceived": 16,
-        "issuesLinked": 14,
-        "reactions": 101
+        "reviewsReceived": 29,
+        "issuesLinked": 26,
+        "reactions": 116
       }
     }
   }

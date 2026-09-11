@@ -1,13 +1,13 @@
 {
   "username": "ExEr7um",
-  "lastUpdated": "2026-09-10T19:08:33.958Z",
+  "lastUpdated": "2026-09-11T13:10:37.011Z",
   "aggregatedStats": {
-    "score": 50,
-    "mergedPrs": 7,
+    "score": 56,
+    "mergedPrs": 8,
     "reviews": 1,
-    "reviewsReceived": 6,
+    "reviewsReceived": 7,
     "issuesLinked": 2,
-    "reactions": 24
+    "reactions": 25
   },
   "orgStats": {
     "e18e": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "nuxt": {
-      "score": 50,
-      "mergedPrs": 7,
+      "score": 56,
+      "mergedPrs": 8,
       "reviews": 1,
-      "reviewsReceived": 6,
+      "reviewsReceived": 7,
       "issuesLinked": 2,
-      "reactions": 22
+      "reactions": 23
     },
     "zed-industries": {
       "score": 0,
@@ -72,12 +72,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 24,
-        "mergedPrs": 3,
+        "score": 30,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 4,
         "issuesLinked": 1,
-        "reactions": 13
+        "reactions": 14
       },
       "test-utils": {
         "score": 15,

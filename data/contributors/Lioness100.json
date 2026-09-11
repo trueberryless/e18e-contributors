@@ -1,22 +1,22 @@
 {
   "username": "Lioness100",
-  "lastUpdated": "2026-09-09T23:32:13.269Z",
+  "lastUpdated": "2026-09-11T13:10:38.922Z",
   "aggregatedStats": {
-    "score": 37,
-    "mergedPrs": 5,
+    "score": 43,
+    "mergedPrs": 6,
     "reviews": 1,
-    "reviewsReceived": 9,
+    "reviewsReceived": 10,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "nuxt": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "sveltejs": {
       "score": 6,
@@ -54,12 +54,12 @@
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "sveltejs": {

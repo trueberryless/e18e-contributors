@@ -1,21 +1,21 @@
 {
   "username": "Saeid-Za",
-  "lastUpdated": "2026-09-08T01:24:05.080Z",
+  "lastUpdated": "2026-09-11T13:10:39.318Z",
   "aggregatedStats": {
-    "score": 69,
-    "mergedPrs": 9,
+    "score": 77,
+    "mergedPrs": 10,
     "reviews": 0,
-    "reviewsReceived": 8,
-    "issuesLinked": 6,
+    "reviewsReceived": 9,
+    "issuesLinked": 7,
     "reactions": 43
   },
   "orgStats": {
     "nuxt": {
-      "score": 64,
-      "mergedPrs": 8,
+      "score": 72,
+      "mergedPrs": 9,
       "reviews": 0,
-      "reviewsReceived": 8,
-      "issuesLinked": 6,
+      "reviewsReceived": 9,
+      "issuesLinked": 7,
       "reactions": 42
     },
     "oxc-project": {
@@ -46,11 +46,11 @@
         "reactions": 4
       },
       "nuxt": {
-        "score": 48,
-        "mergedPrs": 6,
+        "score": 56,
+        "mergedPrs": 7,
         "reviews": 0,
-        "reviewsReceived": 6,
-        "issuesLinked": 4,
+        "reviewsReceived": 7,
+        "issuesLinked": 5,
         "reactions": 38
       }
     },

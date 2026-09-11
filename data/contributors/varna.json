@@ -1,22 +1,22 @@
 {
   "username": "varna",
-  "lastUpdated": "2026-09-06T13:08:51.974Z",
+  "lastUpdated": "2026-09-11T13:10:41.953Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 5,
+    "score": 31,
+    "mergedPrs": 6,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "nuxt": {
-      "score": 20,
-      "mergedPrs": 4,
+      "score": 26,
+      "mergedPrs": 5,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "oxc-project": {
       "score": 0,
@@ -62,12 +62,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "vercel-builder": {
         "score": 0,

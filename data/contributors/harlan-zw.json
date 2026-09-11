@@ -1,13 +1,13 @@
 {
   "username": "harlan-zw",
-  "lastUpdated": "2026-09-10T19:08:34.945Z",
+  "lastUpdated": "2026-09-11T13:10:38.390Z",
   "aggregatedStats": {
-    "score": 2109,
-    "mergedPrs": 280,
-    "reviews": 114,
-    "reviewsReceived": 107,
-    "issuesLinked": 75,
-    "reactions": 1099
+    "score": 2208,
+    "mergedPrs": 292,
+    "reviews": 121,
+    "reviewsReceived": 120,
+    "issuesLinked": 76,
+    "reactions": 1129
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 14
     },
     "nuxt": {
-      "score": 2073,
-      "mergedPrs": 275,
-      "reviews": 112,
-      "reviewsReceived": 103,
-      "issuesLinked": 75,
-      "reactions": 1085
+      "score": 2172,
+      "mergedPrs": 287,
+      "reviews": 119,
+      "reviewsReceived": 116,
+      "issuesLinked": 76,
+      "reactions": 1115
     },
     "oxc-project": {
       "score": 5,
@@ -160,12 +160,12 @@
         "reactions": 14
       },
       "nuxt": {
-        "score": 436,
-        "mergedPrs": 43,
-        "reviews": 37,
-        "reviewsReceived": 47,
-        "issuesLinked": 8,
-        "reactions": 471
+        "score": 535,
+        "mergedPrs": 55,
+        "reviews": 44,
+        "reviewsReceived": 60,
+        "issuesLinked": 9,
+        "reactions": 501
       },
       "nuxt.com": {
         "score": 21,

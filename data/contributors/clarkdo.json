@@ -1,22 +1,22 @@
 {
   "username": "clarkdo",
-  "lastUpdated": "2026-09-10T21:51:33.033Z",
+  "lastUpdated": "2026-09-11T13:10:39.924Z",
   "aggregatedStats": {
-    "score": 1461,
-    "mergedPrs": 125,
-    "reviews": 213,
-    "reviewsReceived": 73,
-    "issuesLinked": 31,
-    "reactions": 620
+    "score": 1512,
+    "mergedPrs": 130,
+    "reviews": 218,
+    "reviewsReceived": 78,
+    "issuesLinked": 34,
+    "reactions": 626
   },
   "orgStats": {
     "nuxt": {
-      "score": 1334,
-      "mergedPrs": 105,
-      "reviews": 212,
-      "reviewsReceived": 63,
-      "issuesLinked": 27,
-      "reactions": 557
+      "score": 1385,
+      "mergedPrs": 110,
+      "reviews": 217,
+      "reviewsReceived": 68,
+      "issuesLinked": 30,
+      "reactions": 563
     },
     "sveltejs": {
       "score": 0,
@@ -118,12 +118,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 66,
-        "mergedPrs": 3,
-        "reviews": 1,
-        "reviewsReceived": 3,
-        "issuesLinked": 0,
-        "reactions": 448
+        "score": 117,
+        "mergedPrs": 8,
+        "reviews": 6,
+        "reviewsReceived": 8,
+        "issuesLinked": 3,
+        "reactions": 454
       },
       "nuxt.com": {
         "score": 5,

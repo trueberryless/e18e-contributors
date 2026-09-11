@@ -1,22 +1,22 @@
 {
   "username": "Mini-ghost",
-  "lastUpdated": "2026-09-10T19:08:35.677Z",
+  "lastUpdated": "2026-09-11T13:10:38.995Z",
   "aggregatedStats": {
-    "score": 953,
-    "mergedPrs": 121,
-    "reviews": 40,
-    "reviewsReceived": 99,
+    "score": 981,
+    "mergedPrs": 125,
+    "reviews": 41,
+    "reviewsReceived": 104,
     "issuesLinked": 43,
-    "reactions": 428
+    "reactions": 430
   },
   "orgStats": {
     "nuxt": {
-      "score": 690,
-      "mergedPrs": 80,
-      "reviews": 35,
-      "reviewsReceived": 87,
+      "score": 718,
+      "mergedPrs": 84,
+      "reviews": 36,
+      "reviewsReceived": 92,
       "issuesLinked": 32,
-      "reactions": 335
+      "reactions": 337
     },
     "slidevjs": {
       "score": 6,
@@ -94,12 +94,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 590,
-        "mergedPrs": 65,
-        "reviews": 33,
-        "reviewsReceived": 75,
+        "score": 618,
+        "mergedPrs": 69,
+        "reviews": 34,
+        "reviewsReceived": 80,
         "issuesLinked": 31,
-        "reactions": 288
+        "reactions": 290
       },
       "nuxt.com": {
         "score": 6,

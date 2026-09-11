@@ -1,19 +1,19 @@
 {
   "username": "mercs600",
-  "lastUpdated": "2026-09-06T16:29:09.015Z",
+  "lastUpdated": "2026-09-11T13:10:41.077Z",
   "aggregatedStats": {
-    "score": 32,
+    "score": 35,
     "mergedPrs": 4,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 3,
     "issuesLinked": 2,
     "reactions": 24
   },
   "orgStats": {
     "nuxt": {
-      "score": 26,
+      "score": 29,
       "mergedPrs": 3,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 2,
       "issuesLinked": 2,
       "reactions": 23
@@ -54,9 +54,9 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 2,
+        "score": 5,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 23

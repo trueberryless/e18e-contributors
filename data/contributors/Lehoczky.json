@@ -1,13 +1,13 @@
 {
   "username": "Lehoczky",
-  "lastUpdated": "2026-09-10T19:08:33.962Z",
+  "lastUpdated": "2026-09-11T13:10:37.060Z",
   "aggregatedStats": {
-    "score": 163,
-    "mergedPrs": 20,
-    "reviews": 11,
-    "reviewsReceived": 18,
-    "issuesLinked": 4,
-    "reactions": 47
+    "score": 192,
+    "mergedPrs": 24,
+    "reviews": 12,
+    "reviewsReceived": 22,
+    "issuesLinked": 5,
+    "reactions": 48
   },
   "orgStats": {
     "e18e": {
@@ -19,12 +19,12 @@
       "reactions": 4
     },
     "nuxt": {
-      "score": 111,
-      "mergedPrs": 13,
-      "reviews": 8,
-      "reviewsReceived": 12,
-      "issuesLinked": 3,
-      "reactions": 42
+      "score": 140,
+      "mergedPrs": 17,
+      "reviews": 9,
+      "reviewsReceived": 16,
+      "issuesLinked": 4,
+      "reactions": 43
     },
     "sveltejs": {
       "score": 6,
@@ -88,12 +88,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 82,
-        "mergedPrs": 8,
-        "reviews": 8,
-        "reviewsReceived": 9,
-        "issuesLinked": 3,
-        "reactions": 28
+        "score": 111,
+        "mergedPrs": 12,
+        "reviews": 9,
+        "reviewsReceived": 13,
+        "issuesLinked": 4,
+        "reactions": 29
       }
     },
     "sveltejs": {

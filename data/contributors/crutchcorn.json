@@ -1,13 +1,13 @@
 {
   "username": "crutchcorn",
-  "lastUpdated": "2026-09-09T18:37:20.173Z",
+  "lastUpdated": "2026-09-11T13:10:30.926Z",
   "aggregatedStats": {
-    "score": 1984,
-    "mergedPrs": 227,
+    "score": 1991,
+    "mergedPrs": 228,
     "reviews": 221,
-    "reviewsReceived": 47,
+    "reviewsReceived": 49,
     "issuesLinked": 30,
-    "reactions": 789
+    "reactions": 791
   },
   "orgStats": {
     "biomejs": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 1965,
-      "mergedPrs": 225,
+      "score": 1972,
+      "mergedPrs": 226,
       "reviews": 221,
-      "reviewsReceived": 45,
+      "reviewsReceived": 47,
       "issuesLinked": 30,
-      "reactions": 715
+      "reactions": 717
     },
     "vitejs": {
       "score": 0,
@@ -170,12 +170,12 @@
         "reactions": 0
       },
       "router": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 3
       },
       "store": {
         "score": 242,

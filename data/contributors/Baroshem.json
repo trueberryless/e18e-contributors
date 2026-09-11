@@ -1,22 +1,22 @@
 {
   "username": "Baroshem",
-  "lastUpdated": "2026-09-07T01:06:01.115Z",
+  "lastUpdated": "2026-09-11T13:10:38.545Z",
   "aggregatedStats": {
-    "score": 231,
-    "mergedPrs": 22,
-    "reviews": 26,
-    "reviewsReceived": 18,
-    "issuesLinked": 2,
-    "reactions": 209
+    "score": 266,
+    "mergedPrs": 24,
+    "reviews": 31,
+    "reviewsReceived": 22,
+    "issuesLinked": 5,
+    "reactions": 210
   },
   "orgStats": {
     "nuxt": {
-      "score": 221,
-      "mergedPrs": 20,
-      "reviews": 26,
-      "reviewsReceived": 18,
-      "issuesLinked": 2,
-      "reactions": 209
+      "score": 256,
+      "mergedPrs": 22,
+      "reviews": 31,
+      "reviewsReceived": 22,
+      "issuesLinked": 5,
+      "reactions": 210
     },
     "vuejs": {
       "score": 10,
@@ -110,12 +110,12 @@
         "reactions": 20
       },
       "nuxt": {
-        "score": 33,
-        "mergedPrs": 2,
-        "reviews": 3,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 102
+        "score": 68,
+        "mergedPrs": 4,
+        "reviews": 8,
+        "reviewsReceived": 6,
+        "issuesLinked": 4,
+        "reactions": 103
       },
       "nuxt.com": {
         "score": 0,

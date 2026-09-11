@@ -1,13 +1,13 @@
 {
   "username": "ryan-m-walker",
-  "lastUpdated": "2026-09-07T17:28:17.096Z",
+  "lastUpdated": "2026-09-11T13:10:31.222Z",
   "aggregatedStats": {
-    "score": 136,
-    "mergedPrs": 16,
+    "score": 144,
+    "mergedPrs": 17,
     "reviews": 8,
-    "reviewsReceived": 22,
-    "issuesLinked": 5,
-    "reactions": 6
+    "reviewsReceived": 23,
+    "issuesLinked": 6,
+    "reactions": 8
   },
   "orgStats": {
     "biomejs": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 2
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 4
     }
   },
   "repoStats": {
@@ -66,12 +66,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 8,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 4
       }
     }
   }

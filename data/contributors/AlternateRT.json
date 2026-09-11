@@ -1,22 +1,22 @@
 {
   "username": "AlternateRT",
-  "lastUpdated": "2026-09-10T16:18:02.906Z",
+  "lastUpdated": "2026-09-11T13:11:02.151Z",
   "aggregatedStats": {
-    "score": 40,
-    "mergedPrs": 6,
+    "score": 52,
+    "mergedPrs": 8,
     "reviews": 2,
-    "reviewsReceived": 3,
+    "reviewsReceived": 5,
     "issuesLinked": 0,
-    "reactions": 15
+    "reactions": 16
   },
   "orgStats": {
     "zed-industries": {
-      "score": 21,
-      "mergedPrs": 3,
+      "score": 33,
+      "mergedPrs": 5,
       "reviews": 1,
-      "reviewsReceived": 3,
+      "reviewsReceived": 5,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     },
     "zen-browser": {
       "score": 19,
@@ -30,12 +30,12 @@
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 21,
-        "mergedPrs": 3,
+        "score": 33,
+        "mergedPrs": 5,
         "reviews": 1,
-        "reviewsReceived": 3,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "zen-browser": {

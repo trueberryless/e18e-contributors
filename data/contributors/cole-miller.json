@@ -1,22 +1,22 @@
 {
   "username": "cole-miller",
-  "lastUpdated": "2026-09-10T16:18:04.882Z",
+  "lastUpdated": "2026-09-11T13:11:03.353Z",
   "aggregatedStats": {
-    "score": 761,
-    "mergedPrs": 58,
-    "reviews": 122,
-    "reviewsReceived": 46,
+    "score": 790,
+    "mergedPrs": 60,
+    "reviews": 128,
+    "reviewsReceived": 47,
     "issuesLinked": 2,
-    "reactions": 553
+    "reactions": 554
   },
   "orgStats": {
     "zed-industries": {
-      "score": 761,
-      "mergedPrs": 58,
-      "reviews": 122,
-      "reviewsReceived": 46,
+      "score": 790,
+      "mergedPrs": 60,
+      "reviews": 128,
+      "reviewsReceived": 47,
       "issuesLinked": 2,
-      "reactions": 553
+      "reactions": 554
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 761,
-        "mergedPrs": 58,
-        "reviews": 122,
-        "reviewsReceived": 46,
+        "score": 790,
+        "mergedPrs": 60,
+        "reviews": 128,
+        "reviewsReceived": 47,
         "issuesLinked": 2,
-        "reactions": 553
+        "reactions": 554
       }
     }
   }

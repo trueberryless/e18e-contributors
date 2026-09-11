@@ -1,33 +1,33 @@
 {
   "username": "prertik",
-  "lastUpdated": "2026-09-10T16:18:06.914Z",
+  "lastUpdated": "2026-09-11T13:11:04.689Z",
   "aggregatedStats": {
-    "score": 40,
-    "mergedPrs": 4,
+    "score": 48,
+    "mergedPrs": 5,
     "reviews": 3,
-    "reviewsReceived": 5,
-    "issuesLinked": 3,
-    "reactions": 1
+    "reviewsReceived": 6,
+    "issuesLinked": 4,
+    "reactions": 2
   },
   "orgStats": {
     "zed-industries": {
-      "score": 40,
-      "mergedPrs": 4,
+      "score": 48,
+      "mergedPrs": 5,
       "reviews": 3,
-      "reviewsReceived": 5,
-      "issuesLinked": 3,
-      "reactions": 1
+      "reviewsReceived": 6,
+      "issuesLinked": 4,
+      "reactions": 2
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 40,
-        "mergedPrs": 4,
+        "score": 48,
+        "mergedPrs": 5,
         "reviews": 3,
-        "reviewsReceived": 5,
-        "issuesLinked": 3,
-        "reactions": 1
+        "reviewsReceived": 6,
+        "issuesLinked": 4,
+        "reactions": 2
       }
     }
   }

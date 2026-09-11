@@ -1,10 +1,10 @@
 {
   "username": "patak-cat",
-  "lastUpdated": "2026-09-10T21:51:30.139Z",
+  "lastUpdated": "2026-09-11T13:10:37.310Z",
   "aggregatedStats": {
-    "score": 11306,
+    "score": 11309,
     "mergedPrs": 607,
-    "reviews": 2511,
+    "reviews": 2512,
     "reviewsReceived": 451,
     "issuesLinked": 85,
     "reactions": 1166
@@ -25,6 +25,14 @@
       "reviewsReceived": 21,
       "issuesLinked": 0,
       "reactions": 87
+    },
+    "nuxt": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "pnpm": {
       "score": 5,
@@ -78,6 +86,16 @@
         "reviewsReceived": 21,
         "issuesLinked": 0,
         "reactions": 87
+      }
+    },
+    "nuxt": {
+      "nuxt": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
       }
     },
     "pnpm": {
