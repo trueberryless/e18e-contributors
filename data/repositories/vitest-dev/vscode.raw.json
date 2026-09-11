@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T21:47:44.138Z",
+    "lastRunAt": "2026-09-11T17:03:01.588Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wNC0xOVQwNDo0Mjo0NVrONl6pkw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5827,6 +5827,13 @@
       "number": 821,
       "user": {
         "login": "Sup2point0",
+        "type": "User"
+      }
+    },
+    "822": {
+      "number": 822,
+      "user": {
+        "login": "hi-ogawa",
         "type": "User"
       }
     }

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T19:05:23.072Z",
+    "lastRunAt": "2026-09-11T16:58:55.942Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNS0xMVQxNjo0NTozOVrO2k91Kg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -289,7 +289,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 11
+        "total_count": 12
       }
     },
     "35": {
@@ -413,7 +413,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 4
+        "total_count": 8
       }
     },
     "48": {

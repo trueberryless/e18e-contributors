@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T19:05:20.300Z",
+    "lastRunAt": "2026-09-11T16:58:53.246Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNy0wNy0wNlQyMDo0MjowOFrOB7QF9A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -6780,6 +6780,16 @@
       "number": 926,
       "user": {
         "login": "tats-u",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "927": {
+      "number": 927,
+      "user": {
+        "login": "zkochan",
         "type": "User"
       },
       "reactions": {
@@ -26788,8 +26798,8 @@
     },
     "923": {
       "number": 923,
-      "updatedAt": "2026-09-09T18:20:56Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T19:25:09Z",
+      "merged": true,
       "author": {
         "login": "TrevorBurnham",
         "__typename": "User"
@@ -26835,6 +26845,13 @@
             "author": {
               "login": "coderabbitai",
               "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "zkochan",
+              "__typename": "User"
             }
           }
         ]
@@ -26889,8 +26906,8 @@
     },
     "925": {
       "number": 925,
-      "updatedAt": "2026-09-10T10:28:49Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T19:26:08Z",
+      "merged": true,
       "author": {
         "login": "zkochan",
         "__typename": "User"
@@ -26922,8 +26939,8 @@
     },
     "926": {
       "number": 926,
-      "updatedAt": "2026-09-10T15:09:47Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T21:35:18Z",
+      "merged": true,
       "author": {
         "login": "tats-u",
         "__typename": "User"
@@ -26975,6 +26992,67 @@
             "state": "APPROVED",
             "author": {
               "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "927": {
+      "number": 927,
+      "updatedAt": "2026-09-10T20:17:02Z",
+      "merged": true,
+      "author": {
+        "login": "zkochan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "greptile-apps",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "zkochan",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "zkochan",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "zkochan",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "greptile-apps",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "greptile-apps",
               "__typename": "Bot"
             }
           }

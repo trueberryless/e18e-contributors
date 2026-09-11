@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T21:46:51.108Z",
+    "lastRunAt": "2026-09-11T17:01:57.613Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNC0xMFQwODo0Njo1MVrOkg6sAw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -14389,7 +14389,7 @@
     },
     "563": {
       "number": 563,
-      "updatedAt": "2026-09-05T09:30:06Z",
+      "updatedAt": "2026-09-11T12:21:30Z",
       "merged": false,
       "author": {
         "login": "SaKaNa-Y",

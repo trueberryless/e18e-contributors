@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T19:07:17.011Z",
+    "lastRunAt": "2026-09-11T17:00:37.059Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0wNS0wNVQxMTowNjo1MFrOEFZa7A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4199,6 +4199,13 @@
       "number": 547,
       "user": {
         "login": "blaumeise20",
+        "type": "User"
+      }
+    },
+    "548": {
+      "number": 548,
+      "user": {
+        "login": "cpruijsen",
         "type": "User"
       }
     }
@@ -9534,6 +9541,24 @@
       },
       "closingIssuesReferences": {
         "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "548": {
+      "number": 548,
+      "updatedAt": "2026-09-11T08:27:42Z",
+      "merged": false,
+      "author": {
+        "login": "cpruijsen",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0

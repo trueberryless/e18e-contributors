@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T19:07:20.770Z",
+    "lastRunAt": "2026-09-11T17:00:40.696Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wMy0xNVQyMjowMzo1OFrOFyz7vQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -23256,7 +23256,7 @@
         "type": "User"
       },
       "reactions": {
-        "total_count": 12
+        "total_count": 15
       }
     },
     "3112": {
@@ -23312,6 +23312,20 @@
       "number": 3119,
       "user": {
         "login": "that-richan",
+        "type": "User"
+      }
+    },
+    "3120": {
+      "number": 3120,
+      "user": {
+        "login": "gusalecar",
+        "type": "User"
+      }
+    },
+    "3121": {
+      "number": 3121,
+      "user": {
+        "login": "rubin55",
         "type": "User"
       }
     }
@@ -55406,7 +55420,7 @@
     },
     "3111": {
       "number": 3111,
-      "updatedAt": "2026-09-04T04:57:51Z",
+      "updatedAt": "2026-09-11T09:27:34Z",
       "merged": false,
       "author": {
         "login": "jasonlyu123",
@@ -55416,10 +55430,18 @@
         "totalCount": 0
       },
       "reactions": {
-        "totalCount": 12
+        "totalCount": 15
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "jasonlyu123",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "3112": {
@@ -55570,6 +55592,24 @@
       "merged": false,
       "author": {
         "login": "that-richan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "3121": {
+      "number": 3121,
+      "updatedAt": "2026-09-11T08:06:32Z",
+      "merged": false,
+      "author": {
+        "login": "rubin55",
         "__typename": "User"
       },
       "closingIssuesReferences": {
