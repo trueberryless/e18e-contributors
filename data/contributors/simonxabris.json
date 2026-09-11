@@ -1,21 +1,21 @@
 {
   "username": "simonxabris",
-  "lastUpdated": "2026-09-11T03:29:17.294Z",
+  "lastUpdated": "2026-09-11T22:22:56.297Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 1,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 26,
+    "mergedPrs": 3,
+    "reviews": 2,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 12
   },
   "orgStats": {
     "biomejs": {
-      "score": 8,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 25,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 2
     },
     "changesets": {
@@ -38,11 +38,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 8,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 25,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 2
       }
     },

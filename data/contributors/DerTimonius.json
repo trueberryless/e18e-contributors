@@ -1,21 +1,21 @@
 {
   "username": "DerTimonius",
-  "lastUpdated": "2026-09-11T19:38:40.343Z",
+  "lastUpdated": "2026-09-11T22:22:54.488Z",
   "aggregatedStats": {
-    "score": 169,
-    "mergedPrs": 20,
-    "reviews": 11,
-    "reviewsReceived": 22,
-    "issuesLinked": 7,
+    "score": 195,
+    "mergedPrs": 23,
+    "reviews": 12,
+    "reviewsReceived": 24,
+    "issuesLinked": 10,
     "reactions": 10
   },
   "orgStats": {
     "biomejs": {
-      "score": 50,
-      "mergedPrs": 6,
-      "reviews": 2,
-      "reviewsReceived": 6,
-      "issuesLinked": 4,
+      "score": 76,
+      "mergedPrs": 9,
+      "reviews": 3,
+      "reviewsReceived": 8,
+      "issuesLinked": 7,
       "reactions": 1
     },
     "expressive-code": {
@@ -54,11 +54,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 50,
-        "mergedPrs": 6,
-        "reviews": 2,
-        "reviewsReceived": 6,
-        "issuesLinked": 4,
+        "score": 76,
+        "mergedPrs": 9,
+        "reviews": 3,
+        "reviewsReceived": 8,
+        "issuesLinked": 7,
         "reactions": 1
       }
     },

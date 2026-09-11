@@ -1,33 +1,33 @@
 {
   "username": "seitarof",
-  "lastUpdated": "2026-09-11T03:29:17.274Z",
+  "lastUpdated": "2026-09-11T22:22:56.276Z",
   "aggregatedStats": {
-    "score": 47,
-    "mergedPrs": 4,
+    "score": 55,
+    "mergedPrs": 5,
     "reviews": 4,
-    "reviewsReceived": 5,
-    "issuesLinked": 5,
-    "reactions": 1
+    "reviewsReceived": 6,
+    "issuesLinked": 6,
+    "reactions": 2
   },
   "orgStats": {
     "biomejs": {
-      "score": 47,
-      "mergedPrs": 4,
+      "score": 55,
+      "mergedPrs": 5,
       "reviews": 4,
-      "reviewsReceived": 5,
-      "issuesLinked": 5,
-      "reactions": 1
+      "reviewsReceived": 6,
+      "issuesLinked": 6,
+      "reactions": 2
     }
   },
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 47,
-        "mergedPrs": 4,
+        "score": 55,
+        "mergedPrs": 5,
         "reviews": 4,
-        "reviewsReceived": 5,
-        "issuesLinked": 5,
-        "reactions": 1
+        "reviewsReceived": 6,
+        "issuesLinked": 6,
+        "reactions": 2
       }
     }
   }

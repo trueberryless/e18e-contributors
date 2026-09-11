@@ -1,33 +1,33 @@
 {
   "username": "faultyserver",
-  "lastUpdated": "2026-09-11T03:29:16.845Z",
+  "lastUpdated": "2026-09-11T22:22:55.824Z",
   "aggregatedStats": {
-    "score": 517,
-    "mergedPrs": 64,
-    "reviews": 34,
-    "reviewsReceived": 52,
+    "score": 594,
+    "mergedPrs": 75,
+    "reviews": 36,
+    "reviewsReceived": 66,
     "issuesLinked": 13,
-    "reactions": 169
+    "reactions": 189
   },
   "orgStats": {
     "biomejs": {
-      "score": 517,
-      "mergedPrs": 64,
-      "reviews": 34,
-      "reviewsReceived": 52,
+      "score": 594,
+      "mergedPrs": 75,
+      "reviews": 36,
+      "reviewsReceived": 66,
       "issuesLinked": 13,
-      "reactions": 169
+      "reactions": 189
     }
   },
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 517,
-        "mergedPrs": 64,
-        "reviews": 34,
-        "reviewsReceived": 52,
+        "score": 594,
+        "mergedPrs": 75,
+        "reviews": 36,
+        "reviewsReceived": 66,
         "issuesLinked": 13,
-        "reactions": 169
+        "reactions": 189
       }
     }
   }

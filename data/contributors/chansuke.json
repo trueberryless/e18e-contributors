@@ -1,32 +1,32 @@
 {
   "username": "chansuke",
-  "lastUpdated": "2026-09-11T03:29:16.740Z",
+  "lastUpdated": "2026-09-11T22:22:55.706Z",
   "aggregatedStats": {
-    "score": 652,
-    "mergedPrs": 31,
+    "score": 666,
+    "mergedPrs": 33,
     "reviews": 143,
-    "reviewsReceived": 38,
-    "issuesLinked": 15,
+    "reviewsReceived": 40,
+    "issuesLinked": 16,
     "reactions": 4
   },
   "orgStats": {
     "biomejs": {
-      "score": 652,
-      "mergedPrs": 31,
+      "score": 666,
+      "mergedPrs": 33,
       "reviews": 143,
-      "reviewsReceived": 38,
-      "issuesLinked": 15,
+      "reviewsReceived": 40,
+      "issuesLinked": 16,
       "reactions": 4
     }
   },
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 519,
-        "mergedPrs": 29,
+        "score": 533,
+        "mergedPrs": 31,
         "reviews": 102,
-        "reviewsReceived": 38,
-        "issuesLinked": 15,
+        "reviewsReceived": 40,
+        "issuesLinked": 16,
         "reactions": 4
       },
       "biome-vscode": {

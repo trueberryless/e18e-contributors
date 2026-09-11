@@ -1,21 +1,21 @@
 {
   "username": "saberoueslati",
-  "lastUpdated": "2026-09-10T16:17:22.681Z",
+  "lastUpdated": "2026-09-11T22:22:56.260Z",
   "aggregatedStats": {
-    "score": 313,
-    "mergedPrs": 35,
-    "reviews": 9,
-    "reviewsReceived": 30,
-    "issuesLinked": 34,
+    "score": 325,
+    "mergedPrs": 36,
+    "reviews": 10,
+    "reviewsReceived": 32,
+    "issuesLinked": 35,
     "reactions": 132
   },
   "orgStats": {
     "biomejs": {
-      "score": 71,
-      "mergedPrs": 7,
-      "reviews": 5,
-      "reviewsReceived": 7,
-      "issuesLinked": 7,
+      "score": 83,
+      "mergedPrs": 8,
+      "reviews": 6,
+      "reviewsReceived": 9,
+      "issuesLinked": 8,
       "reactions": 0
     },
     "oxc-project": {
@@ -46,11 +46,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 71,
-        "mergedPrs": 7,
-        "reviews": 5,
-        "reviewsReceived": 7,
-        "issuesLinked": 7,
+        "score": 83,
+        "mergedPrs": 8,
+        "reviews": 6,
+        "reviewsReceived": 9,
+        "issuesLinked": 8,
         "reactions": 0
       }
     },

@@ -1,22 +1,22 @@
 {
   "username": "nissy-dev",
-  "lastUpdated": "2026-09-11T03:29:17.154Z",
+  "lastUpdated": "2026-09-11T22:22:56.151Z",
   "aggregatedStats": {
-    "score": 84,
-    "mergedPrs": 4,
-    "reviews": 19,
-    "reviewsReceived": 4,
-    "issuesLinked": 1,
-    "reactions": 13
+    "score": 300,
+    "mergedPrs": 30,
+    "reviews": 38,
+    "reviewsReceived": 23,
+    "issuesLinked": 6,
+    "reactions": 18
   },
   "orgStats": {
     "biomejs": {
-      "score": 65,
-      "mergedPrs": 2,
-      "reviews": 17,
-      "reviewsReceived": 3,
-      "issuesLinked": 0,
-      "reactions": 9
+      "score": 281,
+      "mergedPrs": 28,
+      "reviews": 36,
+      "reviewsReceived": 22,
+      "issuesLinked": 5,
+      "reactions": 14
     },
     "oxc-project": {
       "score": 8,
@@ -38,12 +38,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 62,
-        "mergedPrs": 2,
-        "reviews": 16,
-        "reviewsReceived": 3,
-        "issuesLinked": 0,
-        "reactions": 9
+        "score": 278,
+        "mergedPrs": 28,
+        "reviews": 35,
+        "reviewsReceived": 22,
+        "issuesLinked": 5,
+        "reactions": 14
       },
       "website": {
         "score": 3,
