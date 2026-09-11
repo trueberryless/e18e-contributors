@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T16:06:24.093Z",
+    "lastRunAt": "2026-09-11T12:57:57.535Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wOC0zMVQyMTozNzo0OFrOWUfnYQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2446,6 +2446,13 @@
       "user": {
         "login": "KevinVandy",
         "type": "User"
+      }
+    },
+    "361": {
+      "number": 361,
+      "user": {
+        "login": "renovate[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -8631,7 +8638,7 @@
     },
     "337": {
       "number": 337,
-      "updatedAt": "2026-09-09T19:04:14Z",
+      "updatedAt": "2026-09-11T06:11:51Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -9065,8 +9072,8 @@
     },
     "359": {
       "number": 359,
-      "updatedAt": "2026-09-10T02:38:12Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T03:54:14Z",
+      "merged": true,
       "author": {
         "login": "renovate",
         "__typename": "Bot"
@@ -9088,6 +9095,24 @@
       "author": {
         "login": "KevinVandy",
         "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "361": {
+      "number": 361,
+      "updatedAt": "2026-09-11T04:02:21Z",
+      "merged": false,
+      "author": {
+        "login": "renovate",
+        "__typename": "Bot"
       },
       "closingIssuesReferences": {
         "totalCount": 0

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T16:06:21.049Z",
+    "lastRunAt": "2026-09-11T12:57:54.369Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNi0xMi0xOVQwMTo1NjoxMFrOBd7kfg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -15043,6 +15043,48 @@
       "number": 2379,
       "user": {
         "login": "KevinVandy",
+        "type": "User"
+      }
+    },
+    "2380": {
+      "number": 2380,
+      "user": {
+        "login": "dikshit-n",
+        "type": "User"
+      }
+    },
+    "2381": {
+      "number": 2381,
+      "user": {
+        "login": "lunaxislu",
+        "type": "User"
+      }
+    },
+    "2382": {
+      "number": 2382,
+      "user": {
+        "login": "lunaxislu",
+        "type": "User"
+      }
+    },
+    "2383": {
+      "number": 2383,
+      "user": {
+        "login": "CodeAndParty",
+        "type": "User"
+      }
+    },
+    "2384": {
+      "number": 2384,
+      "user": {
+        "login": "lunaxislu",
+        "type": "User"
+      }
+    },
+    "2385": {
+      "number": 2385,
+      "user": {
+        "login": "lunaxislu",
         "type": "User"
       }
     }
@@ -44412,6 +44454,129 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "2380": {
+      "number": 2380,
+      "updatedAt": "2026-09-11T02:45:27Z",
+      "merged": false,
+      "author": {
+        "login": "dikshit-n",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2382": {
+      "number": 2382,
+      "updatedAt": "2026-09-11T09:19:13Z",
+      "merged": false,
+      "author": {
+        "login": "lunaxislu",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "lunaxislu",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "lunaxislu",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "2383": {
+      "number": 2383,
+      "updatedAt": "2026-09-11T09:08:20Z",
+      "merged": false,
+      "author": {
+        "login": "CodeAndParty",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2385": {
+      "number": 2385,
+      "updatedAt": "2026-09-11T10:13:51Z",
+      "merged": false,
+      "author": {
+        "login": "lunaxislu",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     }
   }

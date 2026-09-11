@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T16:11:28.784Z",
+    "lastRunAt": "2026-09-11T13:03:01.566Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMi0wMVQyMDoyNjo0N1rOZb_Whg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -707,6 +707,20 @@
       "number": 95,
       "user": {
         "login": "zkillua00",
+        "type": "User"
+      }
+    },
+    "96": {
+      "number": 96,
+      "user": {
+        "login": "behzade",
+        "type": "User"
+      }
+    },
+    "97": {
+      "number": 97,
+      "user": {
+        "login": "nolight132",
         "type": "User"
       }
     }
@@ -2328,6 +2342,42 @@
       "merged": true,
       "author": {
         "login": "zkillua00",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "96": {
+      "number": 96,
+      "updatedAt": "2026-09-11T04:14:09Z",
+      "merged": true,
+      "author": {
+        "login": "behzade",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "97": {
+      "number": 97,
+      "updatedAt": "2026-09-11T08:13:26Z",
+      "merged": false,
+      "author": {
+        "login": "nolight132",
         "__typename": "User"
       },
       "closingIssuesReferences": {

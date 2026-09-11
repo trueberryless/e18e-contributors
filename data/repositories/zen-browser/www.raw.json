@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T16:16:33.276Z",
+    "lastRunAt": "2026-09-11T13:08:00.291Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNy0xNFQxNTowMTo0N1rOdVEJrQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17788,7 +17788,7 @@
     },
     "717": {
       "number": 717,
-      "updatedAt": "2026-02-28T20:11:32Z",
+      "updatedAt": "2026-09-10T16:35:32Z",
       "merged": false,
       "author": {
         "login": "ttdsgms",
@@ -17801,7 +17801,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "Johann-Goncalves-Pereira",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "718": {
