@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T23:51:35.189Z",
+    "lastRunAt": "2026-09-11T22:20:28.052Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxOS0wNS0wM1QwMTozOTozMVrOEGfL8w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -16039,6 +16039,20 @@
       "user": {
         "login": "Andarist",
         "type": "User"
+      }
+    },
+    "2299": {
+      "number": 2299,
+      "user": {
+        "login": "cpruijsen",
+        "type": "User"
+      }
+    },
+    "2300": {
+      "number": 2300,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -58105,7 +58119,7 @@
     },
     "2273": {
       "number": 2273,
-      "updatedAt": "2026-09-10T06:30:14Z",
+      "updatedAt": "2026-09-11T21:41:28Z",
       "merged": false,
       "author": {
         "login": "Andarist",
@@ -58123,8 +58137,8 @@
     },
     "2275": {
       "number": 2275,
-      "updatedAt": "2026-09-10T18:49:01Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T21:39:43Z",
+      "merged": true,
       "author": {
         "login": "Andarist",
         "__typename": "User"
@@ -58624,7 +58638,7 @@
     },
     "2291": {
       "number": 2291,
-      "updatedAt": "2026-09-10T01:27:38Z",
+      "updatedAt": "2026-09-11T21:42:57Z",
       "merged": false,
       "author": {
         "login": "changesets-org-version-bot",
@@ -58642,7 +58656,7 @@
     },
     "2292": {
       "number": 2292,
-      "updatedAt": "2026-09-07T12:09:50Z",
+      "updatedAt": "2026-09-11T21:43:49Z",
       "merged": false,
       "author": {
         "login": "dependabot",
@@ -58696,7 +58710,7 @@
     },
     "2295": {
       "number": 2295,
-      "updatedAt": "2026-09-10T01:21:10Z",
+      "updatedAt": "2026-09-11T19:26:26Z",
       "merged": true,
       "author": {
         "login": "benjie",
@@ -58744,6 +58758,42 @@
       },
       "closingIssuesReferences": {
         "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2299": {
+      "number": 2299,
+      "updatedAt": "2026-09-11T07:43:32Z",
+      "merged": false,
+      "author": {
+        "login": "cpruijsen",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "2300": {
+      "number": 2300,
+      "updatedAt": "2026-09-11T21:44:38Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
       },
       "reactions": {
         "totalCount": 0

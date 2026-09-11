@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T23:50:15.582Z",
+    "lastRunAt": "2026-09-11T22:19:14.073Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNC0wNVQxMzo0NToxMlrO0AsyQw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -2134,6 +2134,13 @@
       "number": 298,
       "user": {
         "login": "odysseus0",
+        "type": "User"
+      }
+    },
+    "299": {
+      "number": 299,
+      "user": {
+        "login": "Princesseuh",
         "type": "User"
       }
     }
@@ -6349,6 +6356,24 @@
       "merged": false,
       "author": {
         "login": "odysseus0",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "299": {
+      "number": 299,
+      "updatedAt": "2026-09-11T16:47:51Z",
+      "merged": false,
+      "author": {
+        "login": "Princesseuh",
         "__typename": "User"
       },
       "closingIssuesReferences": {

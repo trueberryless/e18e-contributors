@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T03:26:24.233Z",
+    "lastRunAt": "2026-09-11T22:21:48.684Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNC0wOFQxOTozOToyMlrObAzomw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -120932,7 +120932,7 @@
     },
     "4510": {
       "number": 4510,
-      "updatedAt": "2026-09-09T15:09:46Z",
+      "updatedAt": "2026-09-11T20:09:11Z",
       "merged": false,
       "author": {
         "login": "ematipico",
@@ -120972,6 +120972,13 @@
             "author": {
               "login": "coderabbitai",
               "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "yanthomasdev",
+              "__typename": "User"
             }
           }
         ]
@@ -121571,7 +121578,7 @@
     },
     "4543": {
       "number": 4543,
-      "updatedAt": "2026-09-10T16:47:07Z",
+      "updatedAt": "2026-09-11T20:57:11Z",
       "merged": false,
       "author": {
         "login": "dyc3",
@@ -121584,7 +121591,43 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "ematipico",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "dyc3",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "ematipico",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "yanthomasdev",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "4544": {
@@ -121607,7 +121650,7 @@
     },
     "4545": {
       "number": 4545,
-      "updatedAt": "2026-09-11T03:23:08Z",
+      "updatedAt": "2026-09-11T03:27:08Z",
       "merged": true,
       "author": {
         "login": "github-actions",

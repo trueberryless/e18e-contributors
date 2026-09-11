@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T03:26:24.098Z",
+    "lastRunAt": "2026-09-11T22:21:48.587Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMy0wOVQxNjoxOTozMFrOaSX4Ew==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -5407,6 +5407,13 @@
       "number": 707,
       "user": {
         "login": "siketyan",
+        "type": "User"
+      }
+    },
+    "708": {
+      "number": 708,
+      "user": {
+        "login": "kubijo",
         "type": "User"
       }
     }
@@ -21039,6 +21046,24 @@
       "merged": false,
       "author": {
         "login": "siketyan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "708": {
+      "number": 708,
+      "updatedAt": "2026-09-11T10:27:44Z",
+      "merged": false,
+      "author": {
+        "login": "kubijo",
         "__typename": "User"
       },
       "closingIssuesReferences": {
