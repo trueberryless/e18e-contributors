@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T23:49:28.134Z",
+    "lastRunAt": "2026-09-11T19:37:21.478Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMy0yOVQwOToyNjo0N1rOTSTdTA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -27268,6 +27268,13 @@
       "number": 4193,
       "user": {
         "login": "mayank99",
+        "type": "User"
+      }
+    },
+    "4194": {
+      "number": 4194,
+      "user": {
+        "login": "314systems",
         "type": "User"
       }
     }
@@ -132864,7 +132871,7 @@
     },
     "4192": {
       "number": 4192,
-      "updatedAt": "2026-09-10T13:36:42Z",
+      "updatedAt": "2026-09-11T10:50:57Z",
       "merged": false,
       "author": {
         "login": "HiDeoo",
@@ -132877,7 +132884,29 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "delucis",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "delucis",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "delucis",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }

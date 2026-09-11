@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T21:48:52.969Z",
+    "lastRunAt": "2026-09-11T19:33:37.644Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMS0yMVQxNDoxNzoxN1rORui15Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -34335,6 +34335,27 @@
       "user": {
         "login": "ChisakaKanako",
         "type": "User"
+      }
+    },
+    "5427": {
+      "number": 5427,
+      "user": {
+        "login": "thedannywahl",
+        "type": "User"
+      }
+    },
+    "5428": {
+      "number": 5428,
+      "user": {
+        "login": "ChisakaKanako",
+        "type": "User"
+      }
+    },
+    "5429": {
+      "number": 5429,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
       }
     }
   },
@@ -76253,7 +76274,7 @@
     },
     "5419": {
       "number": 5419,
-      "updatedAt": "2026-09-03T06:03:35Z",
+      "updatedAt": "2026-09-11T04:45:04Z",
       "merged": true,
       "author": {
         "login": "btea",
@@ -76330,6 +76351,24 @@
       "author": {
         "login": "yuraoak",
         "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "5429": {
+      "number": 5429,
+      "updatedAt": "2026-09-11T01:26:15Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
       },
       "closingIssuesReferences": {
         "totalCount": 0

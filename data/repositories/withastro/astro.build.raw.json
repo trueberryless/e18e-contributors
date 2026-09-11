@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T23:49:25.681Z",
+    "lastRunAt": "2026-09-11T19:37:18.799Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMS0xMFQxODoyODoxMFrOMLT_KA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -19774,6 +19774,20 @@
       "user": {
         "login": "renovate[bot]",
         "type": "Bot"
+      }
+    },
+    "2697": {
+      "number": 2697,
+      "user": {
+        "login": "AVP-Dev",
+        "type": "User"
+      }
+    },
+    "2698": {
+      "number": 2698,
+      "user": {
+        "login": "delucis",
+        "type": "User"
       }
     }
   },
@@ -85169,7 +85183,7 @@
     },
     "2683": {
       "number": 2683,
-      "updatedAt": "2026-09-10T21:14:30Z",
+      "updatedAt": "2026-09-11T16:17:09Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -85577,8 +85591,8 @@
     },
     "2696": {
       "number": 2696,
-      "updatedAt": "2026-09-10T20:59:58Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T09:47:43Z",
+      "merged": true,
       "author": {
         "login": "renovate",
         "__typename": "Bot"
@@ -85590,7 +85604,59 @@
         "totalCount": 0
       },
       "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "delucis",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "2697": {
+      "number": 2697,
+      "updatedAt": "2026-09-11T12:31:12Z",
+      "merged": false,
+      "author": {
+        "login": "AVP-Dev",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
         "nodes": []
+      }
+    },
+    "2698": {
+      "number": 2698,
+      "updatedAt": "2026-09-11T15:57:03Z",
+      "merged": true,
+      "author": {
+        "login": "delucis",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "sarah11918",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }

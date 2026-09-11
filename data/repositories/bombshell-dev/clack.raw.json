@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T21:50:25.718Z",
+    "lastRunAt": "2026-09-11T19:35:08.550Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0wOFQyMzo0NDo0M1rOSZHnmg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -4721,6 +4721,9 @@
       "user": {
         "login": "gameroman",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "602": {
@@ -16409,7 +16412,7 @@
     },
     "601": {
       "number": 601,
-      "updatedAt": "2026-09-10T16:42:13Z",
+      "updatedAt": "2026-09-11T07:36:36Z",
       "merged": false,
       "author": {
         "login": "gameroman",
@@ -16419,7 +16422,7 @@
         "totalCount": 1
       },
       "reactions": {
-        "totalCount": 0
+        "totalCount": 1
       },
       "reviews": {
         "nodes": [
@@ -16442,8 +16445,8 @@
     },
     "602": {
       "number": 602,
-      "updatedAt": "2026-09-10T15:29:46Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T18:45:08Z",
+      "merged": true,
       "author": {
         "login": "mixto",
         "__typename": "User"
@@ -16474,6 +16477,34 @@
             "state": "APPROVED",
             "author": {
               "login": "43081j",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "dreyfus92",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "mixto",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "mixto",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "dreyfus92",
               "__typename": "User"
             }
           }

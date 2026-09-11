@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T21:48:33.777Z",
+    "lastRunAt": "2026-09-11T19:33:19.802Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNS0xMC0yMFQwMDo1OToxMVrOAt6fpw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -30676,6 +30676,13 @@
       "number": 4543,
       "user": {
         "login": "50rayn",
+        "type": "User"
+      }
+    },
+    "4545": {
+      "number": 4545,
+      "user": {
+        "login": "the-beating-light-of-the-nail",
         "type": "User"
       }
     }
@@ -132141,6 +132148,24 @@
       "merged": false,
       "author": {
         "login": "50rayn",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "4545": {
+      "number": 4545,
+      "updatedAt": "2026-09-10T22:36:13Z",
+      "merged": false,
+      "author": {
+        "login": "the-beating-light-of-the-nail",
         "__typename": "User"
       },
       "closingIssuesReferences": {

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T23:49:29.541Z",
+    "lastRunAt": "2026-09-11T19:37:22.845Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0xNlQyMjozNzowOFrOxALlzQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -3355,6 +3355,111 @@
       "number": 657,
       "user": {
         "login": "viztor",
+        "type": "User"
+      }
+    },
+    "658": {
+      "number": 658,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "659": {
+      "number": 659,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "660": {
+      "number": 660,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "661": {
+      "number": 661,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "662": {
+      "number": 662,
+      "user": {
+        "login": "rikbrown",
+        "type": "User"
+      }
+    },
+    "663": {
+      "number": 663,
+      "user": {
+        "login": "rikbrown",
+        "type": "User"
+      }
+    },
+    "664": {
+      "number": 664,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "665": {
+      "number": 665,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "666": {
+      "number": 666,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "667": {
+      "number": 667,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "668": {
+      "number": 668,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "669": {
+      "number": 669,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "670": {
+      "number": 670,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "671": {
+      "number": 671,
+      "user": {
+        "login": "shoot16625",
+        "type": "User"
+      }
+    },
+    "672": {
+      "number": 672,
+      "user": {
+        "login": "zvsdev",
         "type": "User"
       }
     }
@@ -7322,6 +7427,24 @@
       "merged": false,
       "author": {
         "login": "feliperyan",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "672": {
+      "number": 672,
+      "updatedAt": "2026-09-11T19:12:53Z",
+      "merged": false,
+      "author": {
+        "login": "zvsdev",
         "__typename": "User"
       },
       "closingIssuesReferences": {

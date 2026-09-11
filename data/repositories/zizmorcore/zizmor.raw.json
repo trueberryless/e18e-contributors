@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T21:49:45.126Z",
+    "lastRunAt": "2026-09-11T19:34:25.403Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wOC0yMlQwMTozMzo1MFrOeRATbA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17120,6 +17120,30 @@
       },
       "reactions": {
         "total_count": 1
+      }
+    },
+    "2380": {
+      "number": 2380,
+      "user": {
+        "login": "woodruffw",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 3
+      }
+    },
+    "2381": {
+      "number": 2381,
+      "user": {
+        "login": "alihamdan",
+        "type": "User"
+      }
+    },
+    "2382": {
+      "number": 2382,
+      "user": {
+        "login": "SzilvasiPeter",
+        "type": "User"
       }
     }
   },
@@ -54623,8 +54647,8 @@
     },
     "2350": {
       "number": 2350,
-      "updatedAt": "2026-09-04T04:36:27Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T01:14:38Z",
+      "merged": true,
       "author": {
         "login": "ubiratansoares",
         "__typename": "User"
@@ -54683,6 +54707,27 @@
             "state": "COMMENTED",
             "author": {
               "login": "ubiratansoares",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "woodruffw",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "woodruffw",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "woodruffw",
               "__typename": "User"
             }
           }
