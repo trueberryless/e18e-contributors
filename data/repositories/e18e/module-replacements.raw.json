@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T11:42:06.445Z",
+    "lastRunAt": "2026-09-11T03:27:49.188Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMy0xMFQxNDozMDoxMVrOaSua6w==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8554,6 +8554,13 @@
       "number": 1108,
       "user": {
         "login": "dreyfus92",
+        "type": "User"
+      }
+    },
+    "1109": {
+      "number": 1109,
+      "user": {
+        "login": "Creatixpy",
         "type": "User"
       }
     }
@@ -27334,8 +27341,8 @@
     },
     "1105": {
       "number": 1105,
-      "updatedAt": "2026-09-09T19:57:50Z",
-      "merged": false,
+      "updatedAt": "2026-09-10T23:27:49Z",
+      "merged": true,
       "author": {
         "login": "Creatixpy",
         "__typename": "User"
@@ -27352,6 +27359,13 @@
             "state": "COMMENTED",
             "author": {
               "login": "dreyfus92",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "43081j",
               "__typename": "User"
             }
           }
@@ -27426,6 +27440,24 @@
             }
           }
         ]
+      }
+    },
+    "1109": {
+      "number": 1109,
+      "updatedAt": "2026-09-11T01:04:47Z",
+      "merged": false,
+      "author": {
+        "login": "Creatixpy",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
       }
     }
   }

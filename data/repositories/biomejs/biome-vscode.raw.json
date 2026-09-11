@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T06:27:35.052Z",
+    "lastRunAt": "2026-09-11T03:26:22.613Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMS0wNVQxNzowMjo1NFrOXm0cPA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -21816,7 +21816,7 @@
     },
     "1079": {
       "number": 1079,
-      "updatedAt": "2026-09-09T12:34:49Z",
+      "updatedAt": "2026-09-10T17:33:14Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -23060,7 +23060,7 @@
     },
     "1153": {
       "number": 1153,
-      "updatedAt": "2026-09-09T12:19:08Z",
+      "updatedAt": "2026-09-10T17:32:58Z",
       "merged": false,
       "author": {
         "login": "renovate",
@@ -23073,7 +23073,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "chansuke",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }

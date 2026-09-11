@@ -1,11 +1,11 @@
 {
   "id": "e18e/module-replacements",
-  "updatedAt": "2026-09-10T11:42:06.445Z",
+  "updatedAt": "2026-09-11T03:27:49.188Z",
   "stats": {
     "43081j": {
-      "score": 1348,
+      "score": 1351,
       "mergedPrs": 58,
-      "reviews": 344,
+      "reviews": 345,
       "reviewsReceived": 11,
       "issuesLinked": 4,
       "reactions": 70
@@ -91,11 +91,11 @@
       "reactions": 0
     },
     "Creatixpy": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 8,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "Cross-sama": {
@@ -547,9 +547,9 @@
       "reactions": 0
     },
     "dreyfus92": {
-      "score": 687,
+      "score": 690,
       "mergedPrs": 62,
-      "reviews": 67,
+      "reviews": 68,
       "reviewsReceived": 54,
       "issuesLinked": 60,
       "reactions": 15
