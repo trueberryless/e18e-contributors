@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T15:58:02.143Z",
+    "lastRunAt": "2026-09-11T08:17:14.099Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMS0yNVQxNTo0MjoxOFrOSHX_HQ==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -72539,6 +72539,69 @@
         "login": "dependabot[bot]",
         "type": "Bot"
       }
+    },
+    "11842": {
+      "number": 11842,
+      "user": {
+        "login": "abdurrahmanski",
+        "type": "User"
+      }
+    },
+    "11843": {
+      "number": 11843,
+      "user": {
+        "login": "Riyadh-Muradi",
+        "type": "User"
+      }
+    },
+    "11844": {
+      "number": 11844,
+      "user": {
+        "login": "abdurrahmanski",
+        "type": "User"
+      }
+    },
+    "11845": {
+      "number": 11845,
+      "user": {
+        "login": "haaarshsingh",
+        "type": "User"
+      }
+    },
+    "11846": {
+      "number": 11846,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
+      }
+    },
+    "11848": {
+      "number": 11848,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
+      }
+    },
+    "11849": {
+      "number": 11849,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
+      }
+    },
+    "11850": {
+      "number": 11850,
+      "user": {
+        "login": "dependabot[bot]",
+        "type": "Bot"
+      }
+    },
+    "11851": {
+      "number": 11851,
+      "user": {
+        "login": "MohamedSayed0573",
+        "type": "User"
+      }
     }
   },
   "prs": {
@@ -114928,7 +114991,7 @@
     },
     "6373": {
       "number": 6373,
-      "updatedAt": "2026-09-02T23:44:53Z",
+      "updatedAt": "2026-09-10T23:42:47Z",
       "merged": false,
       "author": {
         "login": "ahmedmayara",
@@ -128196,7 +128259,7 @@
     },
     "8118": {
       "number": 8118,
-      "updatedAt": "2025-09-10T06:51:27Z",
+      "updatedAt": "2026-09-10T23:42:50Z",
       "merged": false,
       "author": {
         "login": "max-programming",
@@ -173967,7 +174030,7 @@
     },
     "11669": {
       "number": 11669,
-      "updatedAt": "2026-09-05T17:11:23Z",
+      "updatedAt": "2026-09-10T16:00:29Z",
       "merged": false,
       "author": {
         "login": "viniciuscsr",
@@ -175398,7 +175461,7 @@
     },
     "11756": {
       "number": 11756,
-      "updatedAt": "2026-09-03T17:59:36Z",
+      "updatedAt": "2026-09-10T16:49:26Z",
       "merged": false,
       "author": {
         "login": "NoahGdev",
@@ -176713,6 +176776,176 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "11842": {
+      "number": 11842,
+      "updatedAt": "2026-09-10T18:41:41Z",
+      "merged": false,
+      "author": {
+        "login": "abdurrahmanski",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11843": {
+      "number": 11843,
+      "updatedAt": "2026-09-10T18:51:02Z",
+      "merged": false,
+      "author": {
+        "login": "Riyadh-Muradi",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11844": {
+      "number": 11844,
+      "updatedAt": "2026-09-10T19:04:51Z",
+      "merged": false,
+      "author": {
+        "login": "abdurrahmanski",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11845": {
+      "number": 11845,
+      "updatedAt": "2026-09-10T19:15:55Z",
+      "merged": false,
+      "author": {
+        "login": "haaarshsingh",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11846": {
+      "number": 11846,
+      "updatedAt": "2026-09-10T21:02:44Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11848": {
+      "number": 11848,
+      "updatedAt": "2026-09-11T05:12:28Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11849": {
+      "number": 11849,
+      "updatedAt": "2026-09-11T05:12:53Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11850": {
+      "number": 11850,
+      "updatedAt": "2026-09-11T05:12:52Z",
+      "merged": false,
+      "author": {
+        "login": "dependabot",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "11851": {
+      "number": 11851,
+      "updatedAt": "2026-09-11T07:51:55Z",
+      "merged": false,
+      "author": {
+        "login": "MohamedSayed0573",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "copilot-pull-request-reviewer",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     }
   }

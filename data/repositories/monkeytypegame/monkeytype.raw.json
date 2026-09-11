@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-10T11:43:46.061Z",
+    "lastRunAt": "2026-09-11T08:14:56.130Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wNS0xNlQxMDowMDo1MFrOGPbq3Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -50919,6 +50919,9 @@
       "user": {
         "login": "florian-13",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "8387": {
@@ -51002,6 +51005,13 @@
       "number": 8398,
       "user": {
         "login": "Pothish69",
+        "type": "User"
+      }
+    },
+    "8399": {
+      "number": 8399,
+      "user": {
+        "login": "Sjmarf",
         "type": "User"
       }
     }
@@ -183583,6 +183593,24 @@
       "merged": false,
       "author": {
         "login": "Pothish69",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "8399": {
+      "number": 8399,
+      "updatedAt": "2026-09-10T13:36:43Z",
+      "merged": false,
+      "author": {
+        "login": "Sjmarf",
         "__typename": "User"
       },
       "closingIssuesReferences": {
