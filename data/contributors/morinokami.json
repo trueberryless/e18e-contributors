@@ -1,22 +1,22 @@
 {
   "username": "morinokami",
-  "lastUpdated": "2026-09-10T23:52:25.103Z",
+  "lastUpdated": "2026-09-11T03:29:17.116Z",
   "aggregatedStats": {
-    "score": 1784,
-    "mergedPrs": 247,
-    "reviews": 94,
-    "reviewsReceived": 260,
+    "score": 1823,
+    "mergedPrs": 253,
+    "reviews": 95,
+    "reviewsReceived": 266,
     "issuesLinked": 1,
-    "reactions": 47
+    "reactions": 49
   },
   "orgStats": {
     "biomejs": {
-      "score": 5,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 44,
+      "mergedPrs": 7,
+      "reviews": 1,
+      "reviewsReceived": 6,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "bruits": {
       "score": 6,
@@ -78,12 +78,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 39,
+        "mergedPrs": 6,
+        "reviews": 1,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       },
       "biome-vscode": {
         "score": 5,

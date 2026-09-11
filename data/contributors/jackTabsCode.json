@@ -1,19 +1,19 @@
 {
   "username": "jackTabsCode",
-  "lastUpdated": "2026-09-05T12:34:17.047Z",
+  "lastUpdated": "2026-09-11T03:29:16.944Z",
   "aggregatedStats": {
-    "score": 10,
+    "score": 13,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 1,
     "reactions": 32
   },
   "orgStats": {
     "biomejs": {
-      "score": 7,
+      "score": 10,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 1,
       "reactions": 1
@@ -29,6 +29,14 @@
   },
   "repoStats": {
     "biomejs": {
+      "biome": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "biome-zed": {
         "score": 7,
         "mergedPrs": 1,

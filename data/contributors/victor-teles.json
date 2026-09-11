@@ -1,22 +1,22 @@
 {
   "username": "victor-teles",
-  "lastUpdated": "2026-09-10T06:29:28.092Z",
+  "lastUpdated": "2026-09-11T03:29:17.389Z",
   "aggregatedStats": {
-    "score": 102,
-    "mergedPrs": 13,
-    "reviews": 6,
-    "reviewsReceived": 2,
-    "issuesLinked": 6,
-    "reactions": 49
+    "score": 190,
+    "mergedPrs": 17,
+    "reviews": 24,
+    "reviewsReceived": 10,
+    "issuesLinked": 9,
+    "reactions": 54
   },
   "orgStats": {
     "biomejs": {
-      "score": 102,
-      "mergedPrs": 13,
-      "reviews": 6,
-      "reviewsReceived": 2,
-      "issuesLinked": 6,
-      "reactions": 49
+      "score": 190,
+      "mergedPrs": 17,
+      "reviews": 24,
+      "reviewsReceived": 10,
+      "issuesLinked": 9,
+      "reactions": 54
     },
     "zed-industries": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 7,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 36
+        "score": 95,
+        "mergedPrs": 4,
+        "reviews": 19,
+        "reviewsReceived": 8,
+        "issuesLinked": 3,
+        "reactions": 41
       },
       "biome-intellij": {
         "score": 95,

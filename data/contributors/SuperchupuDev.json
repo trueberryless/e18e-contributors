@@ -1,22 +1,22 @@
 {
   "username": "SuperchupuDev",
-  "lastUpdated": "2026-09-10T06:29:27.210Z",
+  "lastUpdated": "2026-09-11T03:29:16.572Z",
   "aggregatedStats": {
-    "score": 192,
-    "mergedPrs": 14,
-    "reviews": 31,
-    "reviewsReceived": 16,
+    "score": 299,
+    "mergedPrs": 25,
+    "reviews": 42,
+    "reviewsReceived": 29,
     "issuesLinked": 2,
-    "reactions": 98
+    "reactions": 154
   },
   "orgStats": {
     "biomejs": {
-      "score": 112,
-      "mergedPrs": 8,
-      "reviews": 18,
-      "reviewsReceived": 10,
+      "score": 219,
+      "mergedPrs": 19,
+      "reviews": 29,
+      "reviewsReceived": 23,
       "issuesLinked": 1,
-      "reactions": 63
+      "reactions": 119
     },
     "e18e": {
       "score": 53,
@@ -62,12 +62,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 81,
-        "mergedPrs": 5,
-        "reviews": 14,
-        "reviewsReceived": 6,
+        "score": 188,
+        "mergedPrs": 16,
+        "reviews": 25,
+        "reviewsReceived": 19,
         "issuesLinked": 1,
-        "reactions": 63
+        "reactions": 119
       },
       "biome-vscode": {
         "score": 3,

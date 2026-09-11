@@ -1,22 +1,22 @@
 {
   "username": "pattrickrice",
-  "lastUpdated": "2026-09-09T23:32:10.373Z",
+  "lastUpdated": "2026-09-11T03:29:17.187Z",
   "aggregatedStats": {
-    "score": 16,
-    "mergedPrs": 2,
+    "score": 26,
+    "mergedPrs": 3,
     "reviews": 1,
-    "reviewsReceived": 3,
-    "issuesLinked": 0,
-    "reactions": 8
+    "reviewsReceived": 5,
+    "issuesLinked": 1,
+    "reactions": 11
   },
   "orgStats": {
     "biomejs": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 20,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 4
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
+      "reactions": 7
     },
     "vitejs": {
       "score": 6,
@@ -38,12 +38,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 20,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
-        "reactions": 4
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
+        "reactions": 7
       },
       "website": {
         "score": 0,

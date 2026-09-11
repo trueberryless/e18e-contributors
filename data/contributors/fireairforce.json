@@ -1,22 +1,22 @@
 {
   "username": "fireairforce",
-  "lastUpdated": "2026-09-10T21:51:27.933Z",
+  "lastUpdated": "2026-09-11T03:29:16.851Z",
   "aggregatedStats": {
-    "score": 709,
-    "mergedPrs": 64,
-    "reviews": 79,
-    "reviewsReceived": 66,
-    "issuesLinked": 41,
-    "reactions": 45
+    "score": 749,
+    "mergedPrs": 68,
+    "reviews": 82,
+    "reviewsReceived": 70,
+    "issuesLinked": 44,
+    "reactions": 47
   },
   "orgStats": {
     "biomejs": {
-      "score": 557,
-      "mergedPrs": 48,
-      "reviews": 65,
-      "reviewsReceived": 52,
-      "issuesLinked": 34,
-      "reactions": 24
+      "score": 597,
+      "mergedPrs": 52,
+      "reviews": 68,
+      "reviewsReceived": 56,
+      "issuesLinked": 37,
+      "reactions": 26
     },
     "changesets": {
       "score": 0,
@@ -62,12 +62,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 490,
-        "mergedPrs": 45,
-        "reviews": 48,
-        "reviewsReceived": 51,
-        "issuesLinked": 34,
-        "reactions": 24
+        "score": 530,
+        "mergedPrs": 49,
+        "reviews": 51,
+        "reviewsReceived": 55,
+        "issuesLinked": 37,
+        "reactions": 26
       },
       "biome-vscode": {
         "score": 15,

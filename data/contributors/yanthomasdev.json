@@ -1,22 +1,22 @@
 {
   "username": "yanthomasdev",
-  "lastUpdated": "2026-09-10T23:52:25.439Z",
+  "lastUpdated": "2026-09-11T03:29:17.429Z",
   "aggregatedStats": {
-    "score": 9778,
-    "mergedPrs": 85,
-    "reviews": 3077,
-    "reviewsReceived": 110,
-    "issuesLinked": 1,
-    "reactions": 100
+    "score": 9859,
+    "mergedPrs": 96,
+    "reviews": 3081,
+    "reviewsReceived": 119,
+    "issuesLinked": 3,
+    "reactions": 109
   },
   "orgStats": {
     "biomejs": {
-      "score": 99,
-      "mergedPrs": 8,
-      "reviews": 16,
-      "reviewsReceived": 8,
-      "issuesLinked": 1,
-      "reactions": 13
+      "score": 180,
+      "mergedPrs": 19,
+      "reviews": 20,
+      "reviewsReceived": 17,
+      "issuesLinked": 3,
+      "reactions": 22
     },
     "emdash-cms": {
       "score": 11,
@@ -54,12 +54,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 34,
-        "mergedPrs": 4,
-        "reviews": 3,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
-        "reactions": 13
+        "score": 115,
+        "mergedPrs": 15,
+        "reviews": 7,
+        "reviewsReceived": 13,
+        "issuesLinked": 2,
+        "reactions": 22
       },
       "website": {
         "score": 65,

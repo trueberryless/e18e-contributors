@@ -1,21 +1,21 @@
 {
   "username": "mdm317",
-  "lastUpdated": "2026-09-10T06:29:27.766Z",
+  "lastUpdated": "2026-09-11T03:29:17.091Z",
   "aggregatedStats": {
-    "score": 65,
-    "mergedPrs": 7,
-    "reviews": 3,
-    "reviewsReceived": 10,
-    "issuesLinked": 5,
+    "score": 90,
+    "mergedPrs": 10,
+    "reviews": 4,
+    "reviewsReceived": 13,
+    "issuesLinked": 7,
     "reactions": 7
   },
   "orgStats": {
     "biomejs": {
-      "score": 57,
-      "mergedPrs": 6,
-      "reviews": 3,
-      "reviewsReceived": 9,
-      "issuesLinked": 4,
+      "score": 82,
+      "mergedPrs": 9,
+      "reviews": 4,
+      "reviewsReceived": 12,
+      "issuesLinked": 6,
       "reactions": 7
     },
     "tanstack": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 57,
-        "mergedPrs": 6,
-        "reviews": 3,
-        "reviewsReceived": 9,
-        "issuesLinked": 4,
+        "score": 82,
+        "mergedPrs": 9,
+        "reviews": 4,
+        "reviewsReceived": 12,
+        "issuesLinked": 6,
         "reactions": 7
       }
     },

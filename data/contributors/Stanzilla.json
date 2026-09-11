@@ -1,19 +1,19 @@
 {
   "username": "Stanzilla",
-  "lastUpdated": "2026-09-09T21:14:46.157Z",
+  "lastUpdated": "2026-09-11T03:29:16.572Z",
   "aggregatedStats": {
-    "score": 230,
+    "score": 233,
     "mergedPrs": 24,
-    "reviews": 15,
+    "reviews": 16,
     "reviewsReceived": 19,
     "issuesLinked": 19,
     "reactions": 83
   },
   "orgStats": {
     "biomejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -78,9 +78,9 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

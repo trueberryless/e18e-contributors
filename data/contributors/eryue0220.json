@@ -1,22 +1,22 @@
 {
   "username": "eryue0220",
-  "lastUpdated": "2026-09-10T01:25:06.440Z",
+  "lastUpdated": "2026-09-11T03:29:16.833Z",
   "aggregatedStats": {
-    "score": 112,
-    "mergedPrs": 14,
-    "reviews": 3,
+    "score": 132,
+    "mergedPrs": 17,
+    "reviews": 4,
     "reviewsReceived": 15,
-    "issuesLinked": 9,
-    "reactions": 10
+    "issuesLinked": 10,
+    "reactions": 12
   },
   "orgStats": {
     "biomejs": {
-      "score": 25,
-      "mergedPrs": 3,
-      "reviews": 1,
+      "score": 45,
+      "mergedPrs": 6,
+      "reviews": 2,
       "reviewsReceived": 3,
-      "issuesLinked": 2,
-      "reactions": 2
+      "issuesLinked": 3,
+      "reactions": 4
     },
     "npmx-dev": {
       "score": 44,
@@ -54,12 +54,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 25,
-        "mergedPrs": 3,
-        "reviews": 1,
+        "score": 45,
+        "mergedPrs": 6,
+        "reviews": 2,
         "reviewsReceived": 3,
-        "issuesLinked": 2,
-        "reactions": 2
+        "issuesLinked": 3,
+        "reactions": 4
       }
     },
     "npmx-dev": {

@@ -1,20 +1,20 @@
 {
   "username": "danielmlr",
-  "lastUpdated": "2026-09-10T11:46:22.219Z",
+  "lastUpdated": "2026-09-11T03:29:19.511Z",
   "aggregatedStats": {
-    "score": 242,
-    "mergedPrs": 32,
+    "score": 264,
+    "mergedPrs": 36,
     "reviews": 9,
-    "reviewsReceived": 35,
+    "reviewsReceived": 37,
     "issuesLinked": 10,
     "reactions": 4
   },
   "orgStats": {
     "emdash-cms": {
-      "score": 207,
-      "mergedPrs": 27,
+      "score": 229,
+      "mergedPrs": 31,
       "reviews": 8,
-      "reviewsReceived": 28,
+      "reviewsReceived": 30,
       "issuesLinked": 10,
       "reactions": 2
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "emdash-cms": {
       "emdash": {
-        "score": 207,
-        "mergedPrs": 27,
+        "score": 229,
+        "mergedPrs": 31,
         "reviews": 8,
-        "reviewsReceived": 28,
+        "reviewsReceived": 30,
         "issuesLinked": 10,
         "reactions": 2
       }

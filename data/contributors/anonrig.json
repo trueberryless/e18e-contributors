@@ -1,22 +1,22 @@
 {
   "username": "anonrig",
-  "lastUpdated": "2026-09-10T06:29:27.294Z",
+  "lastUpdated": "2026-09-11T03:29:16.659Z",
   "aggregatedStats": {
-    "score": 454,
-    "mergedPrs": 35,
-    "reviews": 85,
-    "reviewsReceived": 7,
+    "score": 575,
+    "mergedPrs": 40,
+    "reviews": 114,
+    "reviewsReceived": 15,
     "issuesLinked": 3,
-    "reactions": 107
+    "reactions": 123
   },
   "orgStats": {
     "biomejs": {
-      "score": 88,
-      "mergedPrs": 2,
-      "reviews": 24,
-      "reviewsReceived": 2,
+      "score": 209,
+      "mergedPrs": 7,
+      "reviews": 53,
+      "reviewsReceived": 10,
       "issuesLinked": 0,
-      "reactions": 36
+      "reactions": 52
     },
     "oxc-project": {
       "score": 22,
@@ -70,12 +70,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 70,
-        "mergedPrs": 0,
-        "reviews": 22,
-        "reviewsReceived": 0,
+        "score": 191,
+        "mergedPrs": 5,
+        "reviews": 51,
+        "reviewsReceived": 8,
         "issuesLinked": 0,
-        "reactions": 36
+        "reactions": 52
       },
       "pre-commit": {
         "score": 6,

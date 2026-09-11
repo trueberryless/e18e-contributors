@@ -1,22 +1,22 @@
 {
   "username": "keita-hino",
-  "lastUpdated": "2026-09-10T06:29:27.665Z",
+  "lastUpdated": "2026-09-11T03:29:17.008Z",
   "aggregatedStats": {
-    "score": 21,
-    "mergedPrs": 2,
+    "score": 29,
+    "mergedPrs": 3,
     "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 3,
-    "reactions": 1
+    "reviewsReceived": 3,
+    "issuesLinked": 4,
+    "reactions": 2
   },
   "orgStats": {
     "biomejs": {
-      "score": 11,
-      "mergedPrs": 1,
+      "score": 19,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 1
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 2
     },
     "oxc-project": {
       "score": 0,
@@ -38,12 +38,12 @@
   "repoStats": {
     "biomejs": {
       "biome": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 19,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 1
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
+        "reactions": 2
       }
     },
     "oxc-project": {
