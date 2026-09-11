@@ -1,12 +1,12 @@
 {
   "username": "ArmandPhilippot",
-  "lastUpdated": "2026-09-10T01:25:07.244Z",
+  "lastUpdated": "2026-09-11T19:38:41.536Z",
   "aggregatedStats": {
-    "score": 10723,
-    "mergedPrs": 1222,
+    "score": 10737,
+    "mergedPrs": 1224,
     "reviews": 1035,
-    "reviewsReceived": 1440,
-    "issuesLinked": 28,
+    "reviewsReceived": 1442,
+    "issuesLinked": 29,
     "reactions": 124
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 10649,
-      "mergedPrs": 1212,
+      "score": 10663,
+      "mergedPrs": 1214,
       "reviews": 1030,
-      "reviewsReceived": 1431,
-      "issuesLinked": 28,
+      "reviewsReceived": 1433,
+      "issuesLinked": 29,
       "reactions": 122
     }
   },
@@ -76,11 +76,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 537,
-        "mergedPrs": 37,
+        "score": 545,
+        "mergedPrs": 38,
         "reviews": 98,
-        "reviewsReceived": 49,
-        "issuesLinked": 4,
+        "reviewsReceived": 50,
+        "issuesLinked": 5,
         "reactions": 10
       },
       "astro.build": {
@@ -108,10 +108,10 @@
         "reactions": 1
       },
       "docs": {
-        "score": 9195,
-        "mergedPrs": 1084,
+        "score": 9201,
+        "mergedPrs": 1085,
         "reviews": 810,
-        "reviewsReceived": 1287,
+        "reviewsReceived": 1288,
         "issuesLinked": 24,
         "reactions": 103
       },

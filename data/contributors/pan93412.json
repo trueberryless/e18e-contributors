@@ -1,10 +1,10 @@
 {
   "username": "pan93412",
-  "lastUpdated": "2026-09-09T00:32:48.083Z",
+  "lastUpdated": "2026-09-11T19:38:49.609Z",
   "aggregatedStats": {
-    "score": 14,
+    "score": 17,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 2,
     "issuesLinked": 2,
     "reactions": 1
@@ -17,6 +17,14 @@
       "reviewsReceived": 2,
       "issuesLinked": 2,
       "reactions": 1
+    },
+    "withastro": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "zed-industries": {
       "score": 0,
@@ -43,6 +51,16 @@
         "reviews": 1,
         "reviewsReceived": 2,
         "issuesLinked": 2,
+        "reactions": 0
+      }
+    },
+    "withastro": {
+      "docs": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
         "reactions": 0
       }
     },

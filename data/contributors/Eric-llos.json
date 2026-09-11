@@ -1,33 +1,33 @@
 {
   "username": "Eric-llos",
-  "lastUpdated": "2026-09-10T23:53:03.723Z",
+  "lastUpdated": "2026-09-11T19:39:18.981Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 1,
+    "score": 68,
+    "mergedPrs": 9,
     "reviews": 1,
-    "reviewsReceived": 2,
+    "reviewsReceived": 20,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "withastro": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 68,
+      "mergedPrs": 9,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 20,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
     "withastro": {
       "docs": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 68,
+        "mergedPrs": 9,
         "reviews": 1,
-        "reviewsReceived": 2,
+        "reviewsReceived": 20,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     }
   }

@@ -1,22 +1,22 @@
 {
   "username": "100gle",
-  "lastUpdated": "2026-09-10T23:53:03.605Z",
+  "lastUpdated": "2026-09-11T19:39:18.842Z",
   "aggregatedStats": {
-    "score": 105,
-    "mergedPrs": 13,
+    "score": 236,
+    "mergedPrs": 34,
     "reviews": 8,
-    "reviewsReceived": 16,
+    "reviewsReceived": 41,
     "issuesLinked": 0,
-    "reactions": 4
+    "reactions": 5
   },
   "orgStats": {
     "withastro": {
-      "score": 105,
-      "mergedPrs": 13,
+      "score": 236,
+      "mergedPrs": 34,
       "reviews": 8,
-      "reviewsReceived": 16,
+      "reviewsReceived": 41,
       "issuesLinked": 0,
-      "reactions": 4
+      "reactions": 5
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 71,
-        "mergedPrs": 11,
+        "score": 202,
+        "mergedPrs": 32,
         "reviews": 1,
-        "reviewsReceived": 13,
+        "reviewsReceived": 38,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 5
       },
       "starlight": {
         "score": 34,

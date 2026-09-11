@@ -1,10 +1,10 @@
 {
   "username": "dsseng",
-  "lastUpdated": "2026-09-10T21:51:33.319Z",
+  "lastUpdated": "2026-09-11T19:38:47.405Z",
   "aggregatedStats": {
-    "score": 288,
-    "mergedPrs": 42,
-    "reviews": 18,
+    "score": 341,
+    "mergedPrs": 49,
+    "reviews": 24,
     "reviewsReceived": 12,
     "issuesLinked": 5,
     "reactions": 19
@@ -35,9 +35,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 258,
-      "mergedPrs": 37,
-      "reviews": 18,
+      "score": 311,
+      "mergedPrs": 44,
+      "reviews": 24,
       "reviewsReceived": 7,
       "issuesLinked": 5,
       "reactions": 17
@@ -76,9 +76,9 @@
     },
     "vuejs": {
       "core": {
-        "score": 177,
-        "mergedPrs": 26,
-        "reviews": 14,
+        "score": 230,
+        "mergedPrs": 33,
+        "reviews": 20,
         "reviewsReceived": 0,
         "issuesLinked": 2,
         "reactions": 6

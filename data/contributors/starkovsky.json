@@ -1,10 +1,10 @@
 {
   "username": "starkovsky",
-  "lastUpdated": "2026-09-05T05:01:10.890Z",
+  "lastUpdated": "2026-09-11T19:39:06.346Z",
   "aggregatedStats": {
-    "score": 18,
+    "score": 21,
     "mergedPrs": 3,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 3,
     "issuesLinked": 0,
     "reactions": 0
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 18,
+      "score": 21,
       "mergedPrs": 3,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 0
@@ -39,6 +39,14 @@
       }
     },
     "vuejs": {
+      "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "test-utils": {
         "score": 6,
         "mergedPrs": 1,

@@ -1,19 +1,19 @@
 {
   "username": "xanf",
-  "lastUpdated": "2026-09-09T05:09:07.663Z",
+  "lastUpdated": "2026-09-11T19:39:18.136Z",
   "aggregatedStats": {
-    "score": 520,
-    "mergedPrs": 73,
-    "reviews": 22,
+    "score": 538,
+    "mergedPrs": 76,
+    "reviews": 23,
     "reviewsReceived": 65,
     "issuesLinked": 8,
     "reactions": 77
   },
   "orgStats": {
     "vuejs": {
-      "score": 520,
-      "mergedPrs": 73,
-      "reviews": 22,
+      "score": 538,
+      "mergedPrs": 76,
+      "reviews": 23,
       "reviewsReceived": 65,
       "issuesLinked": 8,
       "reactions": 77
@@ -30,9 +30,9 @@
         "reactions": 0
       },
       "core": {
-        "score": 12,
-        "mergedPrs": 2,
-        "reviews": 0,
+        "score": 30,
+        "mergedPrs": 5,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 14

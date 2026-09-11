@@ -1,13 +1,13 @@
 {
   "username": "MoustaphaDev",
-  "lastUpdated": "2026-09-10T23:52:29.934Z",
+  "lastUpdated": "2026-09-11T19:38:45.896Z",
   "aggregatedStats": {
-    "score": 560,
-    "mergedPrs": 41,
-    "reviews": 83,
-    "reviewsReceived": 52,
-    "issuesLinked": 26,
-    "reactions": 24
+    "score": 674,
+    "mergedPrs": 50,
+    "reviews": 99,
+    "reviewsReceived": 63,
+    "issuesLinked": 31,
+    "reactions": 26
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 545,
-      "mergedPrs": 39,
-      "reviews": 82,
-      "reviewsReceived": 50,
-      "issuesLinked": 26,
-      "reactions": 22
+      "score": 659,
+      "mergedPrs": 48,
+      "reviews": 98,
+      "reviewsReceived": 61,
+      "issuesLinked": 31,
+      "reactions": 24
     }
   },
   "repoStats": {
@@ -74,12 +74,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 105,
-        "mergedPrs": 2,
-        "reviews": 31,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
-        "reactions": 4
+        "score": 220,
+        "mergedPrs": 11,
+        "reviews": 47,
+        "reviewsReceived": 13,
+        "issuesLinked": 5,
+        "reactions": 6
       },
       "astro.build": {
         "score": 3,

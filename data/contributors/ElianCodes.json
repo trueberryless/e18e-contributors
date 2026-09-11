@@ -1,12 +1,12 @@
 {
   "username": "ElianCodes",
-  "lastUpdated": "2026-09-11T03:29:16.425Z",
+  "lastUpdated": "2026-09-11T19:38:40.351Z",
   "aggregatedStats": {
-    "score": 732,
-    "mergedPrs": 67,
-    "reviews": 112,
-    "reviewsReceived": 54,
-    "issuesLinked": 2,
+    "score": 809,
+    "mergedPrs": 72,
+    "reviews": 126,
+    "reviewsReceived": 58,
+    "issuesLinked": 5,
     "reactions": 30
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 706,
-      "mergedPrs": 63,
-      "reviews": 111,
-      "reviewsReceived": 51,
-      "issuesLinked": 2,
+      "score": 783,
+      "mergedPrs": 68,
+      "reviews": 125,
+      "reviewsReceived": 55,
+      "issuesLinked": 5,
       "reactions": 30
     }
   },
@@ -102,11 +102,11 @@
         "reactions": 0
       },
       "astro": {
-        "score": 127,
-        "mergedPrs": 8,
-        "reviews": 26,
-        "reviewsReceived": 8,
-        "issuesLinked": 0,
+        "score": 198,
+        "mergedPrs": 13,
+        "reviews": 38,
+        "reviewsReceived": 12,
+        "issuesLinked": 3,
         "reactions": 8
       },
       "astro.build": {
@@ -126,9 +126,9 @@
         "reactions": 0
       },
       "docs": {
-        "score": 11,
+        "score": 17,
         "mergedPrs": 1,
-        "reviews": 1,
+        "reviews": 3,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 16

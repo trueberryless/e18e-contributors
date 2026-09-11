@@ -1,22 +1,22 @@
 {
   "username": "kana-sama",
-  "lastUpdated": "2026-09-05T05:01:16.938Z",
+  "lastUpdated": "2026-09-11T19:39:13.889Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
-    "reviews": 0,
+    "score": 12,
+    "mergedPrs": 1,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 31
+    "reactions": 43
   },
   "orgStats": {
     "vuejs": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 12
+      "reactions": 24
     },
     "zed-industries": {
       "score": 2,
@@ -30,12 +30,12 @@
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 12
+        "reactions": 24
       }
     },
     "zed-industries": {

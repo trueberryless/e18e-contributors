@@ -1,27 +1,27 @@
 {
   "username": "mixto",
-  "lastUpdated": "2026-09-10T21:51:28.552Z",
+  "lastUpdated": "2026-09-11T19:38:41.516Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 0,
-    "reviews": 3,
-    "reviewsReceived": 0,
+    "score": 22,
+    "mergedPrs": 1,
+    "reviews": 5,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "bombshell-dev": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
     "withastro": {
-      "score": 9,
+      "score": 12,
       "mergedPrs": 0,
-      "reviews": 3,
+      "reviews": 4,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -30,19 +30,19 @@
   "repoStats": {
     "bombshell-dev": {
       "clack": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }
     },
     "withastro": {
       "docs": {
-        "score": 9,
+        "score": 12,
         "mergedPrs": 0,
-        "reviews": 3,
+        "reviews": 4,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

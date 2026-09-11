@@ -1,12 +1,12 @@
 {
   "username": "hirasso",
-  "lastUpdated": "2026-09-05T08:58:05.200Z",
+  "lastUpdated": "2026-09-11T19:38:43.213Z",
   "aggregatedStats": {
-    "score": 17,
-    "mergedPrs": 2,
-    "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 0,
+    "score": 28,
+    "mergedPrs": 3,
+    "reviews": 2,
+    "reviewsReceived": 3,
+    "issuesLinked": 1,
     "reactions": 25
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 13
     },
     "withastro": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 11,
+      "mergedPrs": 1,
+      "reviews": 1,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 0
     }
   },
@@ -102,11 +102,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 11,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "docs": {

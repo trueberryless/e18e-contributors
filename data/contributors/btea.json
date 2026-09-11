@@ -1,11 +1,11 @@
 {
   "username": "btea",
-  "lastUpdated": "2026-09-11T17:03:56.890Z",
+  "lastUpdated": "2026-09-11T19:38:41.482Z",
   "aggregatedStats": {
-    "score": 4781,
-    "mergedPrs": 631,
-    "reviews": 237,
-    "reviewsReceived": 662,
+    "score": 4797,
+    "mergedPrs": 633,
+    "reviews": 238,
+    "reviewsReceived": 665,
     "issuesLinked": 110,
     "reactions": 339
   },
@@ -115,10 +115,10 @@
       "reactions": 64
     },
     "withastro": {
-      "score": 22,
-      "mergedPrs": 3,
-      "reviews": 1,
-      "reviewsReceived": 4,
+      "score": 38,
+      "mergedPrs": 5,
+      "reviews": 2,
+      "reviewsReceived": 7,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -416,10 +416,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 22,
-        "mergedPrs": 3,
-        "reviews": 1,
-        "reviewsReceived": 4,
+        "score": 38,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 7,
         "issuesLinked": 0,
         "reactions": 0
       }

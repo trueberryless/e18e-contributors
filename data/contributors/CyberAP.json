@@ -1,10 +1,10 @@
 {
   "username": "CyberAP",
-  "lastUpdated": "2026-09-11T17:04:00.598Z",
+  "lastUpdated": "2026-09-11T19:38:45.336Z",
   "aggregatedStats": {
-    "score": 256,
-    "mergedPrs": 32,
-    "reviews": 8,
+    "score": 285,
+    "mergedPrs": 36,
+    "reviews": 11,
     "reviewsReceived": 15,
     "issuesLinked": 4,
     "reactions": 487
@@ -35,9 +35,9 @@
       "reactions": 29
     },
     "vuejs": {
-      "score": 220,
-      "mergedPrs": 27,
-      "reviews": 8,
+      "score": 249,
+      "mergedPrs": 31,
+      "reviews": 11,
       "reviewsReceived": 9,
       "issuesLinked": 3,
       "reactions": 458
@@ -116,9 +116,9 @@
         "reactions": 0
       },
       "core": {
-        "score": 53,
-        "mergedPrs": 7,
-        "reviews": 2,
+        "score": 82,
+        "mergedPrs": 11,
+        "reviews": 5,
         "reviewsReceived": 0,
         "issuesLinked": 3,
         "reactions": 64

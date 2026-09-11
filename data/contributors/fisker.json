@@ -1,13 +1,13 @@
 {
   "username": "fisker",
-  "lastUpdated": "2026-09-09T05:08:41.602Z",
+  "lastUpdated": "2026-09-11T19:38:43.454Z",
   "aggregatedStats": {
-    "score": 59,
-    "mergedPrs": 8,
-    "reviews": 2,
+    "score": 115,
+    "mergedPrs": 18,
+    "reviews": 4,
     "reviewsReceived": 7,
     "issuesLinked": 1,
-    "reactions": 36
+    "reactions": 41
   },
   "orgStats": {
     "e18e": {
@@ -51,12 +51,12 @@
       "reactions": 0
     },
     "vuejs": {
-      "score": 50,
-      "mergedPrs": 7,
-      "reviews": 1,
+      "score": 106,
+      "mergedPrs": 17,
+      "reviews": 3,
       "reviewsReceived": 7,
       "issuesLinked": 1,
-      "reactions": 25
+      "reactions": 30
     }
   },
   "repoStats": {
@@ -120,12 +120,12 @@
     },
     "vuejs": {
       "core": {
-        "score": 13,
-        "mergedPrs": 2,
-        "reviews": 0,
+        "score": 69,
+        "mergedPrs": 12,
+        "reviews": 2,
         "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 5
+        "reactions": 10
       },
       "eslint-plugin-vue": {
         "score": 14,

@@ -1,13 +1,13 @@
 {
   "username": "thomasbnt",
-  "lastUpdated": "2026-09-10T23:52:34.961Z",
+  "lastUpdated": "2026-09-11T19:38:50.491Z",
   "aggregatedStats": {
-    "score": 2671,
-    "mergedPrs": 185,
-    "reviews": 479,
-    "reviewsReceived": 304,
+    "score": 2947,
+    "mergedPrs": 224,
+    "reviews": 491,
+    "reviewsReceived": 349,
     "issuesLinked": 1,
-    "reactions": 28
+    "reactions": 30
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 3
     },
     "withastro": {
-      "score": 2648,
-      "mergedPrs": 182,
-      "reviews": 478,
-      "reviewsReceived": 301,
+      "score": 2924,
+      "mergedPrs": 221,
+      "reviews": 490,
+      "reviewsReceived": 346,
       "issuesLinked": 0,
-      "reactions": 25
+      "reactions": 27
     },
     "zen-browser": {
       "score": 0,
@@ -96,12 +96,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 2289,
-        "mergedPrs": 145,
-        "reviews": 440,
-        "reviewsReceived": 243,
+        "score": 2565,
+        "mergedPrs": 184,
+        "reviews": 452,
+        "reviewsReceived": 288,
         "issuesLinked": 0,
-        "reactions": 9
+        "reactions": 11
       },
       "starlight": {
         "score": 356,

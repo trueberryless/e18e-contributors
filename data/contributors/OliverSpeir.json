@@ -1,20 +1,20 @@
 {
   "username": "OliverSpeir",
-  "lastUpdated": "2026-09-10T01:25:46.139Z",
+  "lastUpdated": "2026-09-11T19:39:19.174Z",
   "aggregatedStats": {
-    "score": 231,
-    "mergedPrs": 19,
-    "reviews": 30,
-    "reviewsReceived": 37,
+    "score": 255,
+    "mergedPrs": 22,
+    "reviews": 32,
+    "reviewsReceived": 40,
     "issuesLinked": 3,
     "reactions": 25
   },
   "orgStats": {
     "withastro": {
-      "score": 231,
-      "mergedPrs": 19,
-      "reviews": 30,
-      "reviewsReceived": 37,
+      "score": 255,
+      "mergedPrs": 22,
+      "reviews": 32,
+      "reviewsReceived": 40,
       "issuesLinked": 3,
       "reactions": 25
     }
@@ -22,10 +22,10 @@
   "repoStats": {
     "withastro": {
       "astro": {
-        "score": 174,
-        "mergedPrs": 15,
+        "score": 180,
+        "mergedPrs": 16,
         "reviews": 20,
-        "reviewsReceived": 31,
+        "reviewsReceived": 32,
         "issuesLinked": 3,
         "reactions": 24
       },
@@ -38,10 +38,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 34,
-        "mergedPrs": 2,
-        "reviews": 7,
-        "reviewsReceived": 3,
+        "score": 52,
+        "mergedPrs": 4,
+        "reviews": 9,
+        "reviewsReceived": 5,
         "issuesLinked": 0,
         "reactions": 1
       },

@@ -1,13 +1,13 @@
 {
   "username": "liruifengv",
-  "lastUpdated": "2026-09-10T23:52:27.611Z",
+  "lastUpdated": "2026-09-11T19:38:43.594Z",
   "aggregatedStats": {
-    "score": 4190,
-    "mergedPrs": 414,
-    "reviews": 551,
-    "reviewsReceived": 450,
+    "score": 4775,
+    "mergedPrs": 427,
+    "reviews": 718,
+    "reviewsReceived": 468,
     "issuesLinked": 6,
-    "reactions": 59
+    "reactions": 64
   },
   "orgStats": {
     "emdash-cms": {
@@ -43,12 +43,12 @@
       "reactions": 3
     },
     "withastro": {
-      "score": 4142,
-      "mergedPrs": 406,
-      "reviews": 551,
-      "reviewsReceived": 444,
+      "score": 4727,
+      "mergedPrs": 419,
+      "reviews": 718,
+      "reviewsReceived": 462,
       "issuesLinked": 5,
-      "reactions": 54
+      "reactions": 59
     },
     "zed-industries": {
       "score": 0,
@@ -142,10 +142,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 115,
-        "mergedPrs": 16,
+        "score": 121,
+        "mergedPrs": 17,
         "reviews": 3,
-        "reviewsReceived": 20,
+        "reviewsReceived": 21,
         "issuesLinked": 2,
         "reactions": 18
       },
@@ -158,12 +158,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 3087,
-        "mergedPrs": 275,
-        "reviews": 470,
-        "reviewsReceived": 298,
+        "score": 3666,
+        "mergedPrs": 287,
+        "reviews": 637,
+        "reviewsReceived": 315,
         "issuesLinked": 1,
-        "reactions": 23
+        "reactions": 28
       },
       "houston.astro.build": {
         "score": 0,

@@ -1,11 +1,11 @@
 {
   "username": "paulrudy",
-  "lastUpdated": "2026-09-09T10:05:36.738Z",
+  "lastUpdated": "2026-09-11T19:38:41.172Z",
   "aggregatedStats": {
-    "score": 15,
-    "mergedPrs": 2,
+    "score": 27,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 2,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
     "reactions": 1
   },
@@ -27,10 +27,10 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 15,
-      "mergedPrs": 2,
+      "score": 27,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
       "reactions": 1
     }
@@ -58,10 +58,10 @@
     },
     "withastro": {
       "astro": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 1
       },

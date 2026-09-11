@@ -1,33 +1,33 @@
 {
   "username": "andremralves",
-  "lastUpdated": "2026-09-10T23:53:04.108Z",
+  "lastUpdated": "2026-09-11T19:39:19.409Z",
   "aggregatedStats": {
-    "score": 61,
-    "mergedPrs": 7,
-    "reviews": 2,
-    "reviewsReceived": 9,
-    "issuesLinked": 5,
-    "reactions": 13
+    "score": 150,
+    "mergedPrs": 17,
+    "reviews": 4,
+    "reviewsReceived": 23,
+    "issuesLinked": 14,
+    "reactions": 18
   },
   "orgStats": {
     "withastro": {
-      "score": 61,
-      "mergedPrs": 7,
-      "reviews": 2,
-      "reviewsReceived": 9,
-      "issuesLinked": 5,
-      "reactions": 13
+      "score": 150,
+      "mergedPrs": 17,
+      "reviews": 4,
+      "reviewsReceived": 23,
+      "issuesLinked": 14,
+      "reactions": 18
     }
   },
   "repoStats": {
     "withastro": {
       "astro": {
-        "score": 36,
-        "mergedPrs": 4,
-        "reviews": 1,
-        "reviewsReceived": 6,
-        "issuesLinked": 3,
-        "reactions": 13
+        "score": 125,
+        "mergedPrs": 14,
+        "reviews": 3,
+        "reviewsReceived": 20,
+        "issuesLinked": 12,
+        "reactions": 18
       },
       "compiler": {
         "score": 14,

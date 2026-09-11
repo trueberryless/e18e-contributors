@@ -1,13 +1,13 @@
 {
   "username": "Because789",
-  "lastUpdated": "2026-09-10T23:52:24.330Z",
+  "lastUpdated": "2026-09-11T19:38:40.312Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 1,
-    "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 0,
-    "reactions": 2
+    "score": 56,
+    "mergedPrs": 4,
+    "reviews": 9,
+    "reviewsReceived": 7,
+    "issuesLinked": 1,
+    "reactions": 3
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 9,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 2
+      "score": 56,
+      "mergedPrs": 4,
+      "reviews": 9,
+      "reviewsReceived": 7,
+      "issuesLinked": 1,
+      "reactions": 3
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 1
       },
       "docs": {
-        "score": 9,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 1
+        "score": 56,
+        "mergedPrs": 4,
+        "reviews": 9,
+        "reviewsReceived": 7,
+        "issuesLinked": 1,
+        "reactions": 2
       }
     }
   }

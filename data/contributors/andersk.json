@@ -1,12 +1,12 @@
 {
   "username": "andersk",
-  "lastUpdated": "2026-09-09T00:32:49.363Z",
+  "lastUpdated": "2026-09-11T19:38:51.275Z",
   "aggregatedStats": {
-    "score": 34,
-    "mergedPrs": 5,
-    "reviews": 1,
-    "reviewsReceived": 5,
-    "issuesLinked": 0,
+    "score": 45,
+    "mergedPrs": 6,
+    "reviews": 2,
+    "reviewsReceived": 6,
+    "issuesLinked": 1,
     "reactions": 11
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 25,
-      "mergedPrs": 4,
-      "reviews": 0,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "score": 36,
+      "mergedPrs": 5,
+      "reviews": 1,
+      "reviewsReceived": 5,
+      "issuesLinked": 1,
       "reactions": 10
     }
   },
@@ -66,11 +66,11 @@
     },
     "withastro": {
       "astro": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 12,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 10
       },
       "docs": {

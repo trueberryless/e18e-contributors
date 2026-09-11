@@ -1,33 +1,33 @@
 {
   "username": "a631807682",
-  "lastUpdated": "2026-09-10T21:51:51.294Z",
+  "lastUpdated": "2026-09-11T19:39:10.223Z",
   "aggregatedStats": {
-    "score": 72,
-    "mergedPrs": 9,
-    "reviews": 8,
-    "reviewsReceived": 3,
+    "score": 106,
+    "mergedPrs": 15,
+    "reviews": 9,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 4
   },
   "orgStats": {
     "vuejs": {
-      "score": 72,
-      "mergedPrs": 9,
-      "reviews": 8,
-      "reviewsReceived": 3,
+      "score": 106,
+      "mergedPrs": 15,
+      "reviews": 9,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     }
   },
   "repoStats": {
     "vuejs": {
       "core": {
-        "score": 66,
-        "mergedPrs": 8,
-        "reviews": 8,
-        "reviewsReceived": 2,
+        "score": 100,
+        "mergedPrs": 14,
+        "reviews": 9,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       },
       "vue-router": {
         "score": 6,

@@ -1,13 +1,13 @@
 {
   "username": "y-nk",
-  "lastUpdated": "2026-09-10T23:52:25.437Z",
+  "lastUpdated": "2026-09-11T19:38:41.425Z",
   "aggregatedStats": {
-    "score": 19,
+    "score": 20,
     "mergedPrs": 2,
     "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 48
+    "reactions": 50
   },
   "orgStats": {
     "biomejs": {
@@ -75,12 +75,12 @@
       "reactions": 1
     },
     "withastro": {
-      "score": 11,
+      "score": 12,
       "mergedPrs": 1,
       "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 24
+      "reactions": 26
     }
   },
   "repoStats": {
@@ -214,12 +214,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 11,
+        "score": 12,
         "mergedPrs": 1,
         "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 24
+        "reactions": 26
       },
       "compiler": {
         "score": 0,
