@@ -1,12 +1,12 @@
 {
   "username": "agriffis",
-  "lastUpdated": "2026-09-05T00:34:26.855Z",
+  "lastUpdated": "2026-09-11T17:04:06.618Z",
   "aggregatedStats": {
-    "score": 1,
-    "mergedPrs": 0,
+    "score": 17,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 4,
+    "issuesLinked": 1,
     "reactions": 6
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 6
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vuejs": {
@@ -48,11 +48,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
         "reactions": 0
       }
     },

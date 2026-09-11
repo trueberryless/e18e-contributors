@@ -1,21 +1,21 @@
 {
   "username": "jesseskinner",
-  "lastUpdated": "2026-09-10T19:08:44.868Z",
+  "lastUpdated": "2026-09-11T17:04:14.222Z",
   "aggregatedStats": {
-    "score": 46,
-    "mergedPrs": 5,
-    "reviews": 3,
+    "score": 66,
+    "mergedPrs": 8,
+    "reviews": 4,
     "reviewsReceived": 5,
-    "issuesLinked": 2,
+    "issuesLinked": 3,
     "reactions": 30
   },
   "orgStats": {
     "sveltejs": {
-      "score": 46,
-      "mergedPrs": 5,
-      "reviews": 3,
+      "score": 66,
+      "mergedPrs": 8,
+      "reviews": 4,
       "reviewsReceived": 5,
-      "issuesLinked": 2,
+      "issuesLinked": 3,
       "reactions": 30
     }
   },
@@ -46,11 +46,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 13,
-        "mergedPrs": 2,
-        "reviews": 0,
+        "score": 33,
+        "mergedPrs": 5,
+        "reviews": 1,
         "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "issuesLinked": 2,
         "reactions": 4
       },
       "svelte-loader": {

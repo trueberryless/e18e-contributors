@@ -1,11 +1,11 @@
 {
   "username": "otakustay",
-  "lastUpdated": "2026-09-05T00:34:27.066Z",
+  "lastUpdated": "2026-09-11T17:04:06.950Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 7,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 4
   },
@@ -27,10 +27,10 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -74,10 +74,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

@@ -1,28 +1,28 @@
 {
   "username": "mrkishi",
-  "lastUpdated": "2026-09-10T19:08:45.263Z",
+  "lastUpdated": "2026-09-11T17:04:14.761Z",
   "aggregatedStats": {
-    "score": 458,
-    "mergedPrs": 49,
-    "reviews": 44,
-    "reviewsReceived": 35,
-    "issuesLinked": 19,
+    "score": 487,
+    "mergedPrs": 53,
+    "reviews": 45,
+    "reviewsReceived": 37,
+    "issuesLinked": 21,
     "reactions": 75
   },
   "orgStats": {
     "sveltejs": {
-      "score": 452,
-      "mergedPrs": 48,
-      "reviews": 44,
-      "reviewsReceived": 34,
-      "issuesLinked": 19,
+      "score": 475,
+      "mergedPrs": 51,
+      "reviews": 45,
+      "reviewsReceived": 35,
+      "issuesLinked": 21,
       "reactions": 75
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -78,11 +78,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 56,
-        "mergedPrs": 6,
-        "reviews": 3,
-        "reviewsReceived": 5,
-        "issuesLinked": 4,
+        "score": 79,
+        "mergedPrs": 9,
+        "reviews": 4,
+        "reviewsReceived": 6,
+        "issuesLinked": 6,
         "reactions": 35
       },
       "svelte-loader": {
@@ -104,10 +104,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

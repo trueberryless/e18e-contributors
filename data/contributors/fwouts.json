@@ -1,13 +1,13 @@
 {
   "username": "fwouts",
-  "lastUpdated": "2026-09-09T23:32:22.491Z",
+  "lastUpdated": "2026-09-11T17:04:08.806Z",
   "aggregatedStats": {
-    "score": 26,
-    "mergedPrs": 3,
-    "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 0,
-    "reactions": 12
+    "score": 58,
+    "mergedPrs": 7,
+    "reviews": 3,
+    "reviewsReceived": 10,
+    "issuesLinked": 1,
+    "reactions": 16
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 26,
-      "mergedPrs": 3,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
-      "reactions": 12
+      "score": 58,
+      "mergedPrs": 7,
+      "reviews": 3,
+      "reviewsReceived": 10,
+      "issuesLinked": 1,
+      "reactions": 16
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 2
       },
       "vite": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
-        "reactions": 10
+        "score": 42,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 8,
+        "issuesLinked": 1,
+        "reactions": 14
       },
       "vite-ecosystem-ci": {
         "score": 9,

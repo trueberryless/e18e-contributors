@@ -1,19 +1,19 @@
 {
   "username": "trbrc",
-  "lastUpdated": "2026-09-05T00:34:33.729Z",
+  "lastUpdated": "2026-09-11T17:04:15.575Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 0,
-    "reviews": 0,
+    "score": 17,
+    "mergedPrs": 1,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 87
   },
   "orgStats": {
     "sveltejs": {
-      "score": 9,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 17,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 87
@@ -38,9 +38,9 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 8,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 16,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 84

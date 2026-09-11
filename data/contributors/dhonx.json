@@ -1,19 +1,19 @@
 {
   "username": "dhonx",
-  "lastUpdated": "2026-09-05T20:07:10.560Z",
+  "lastUpdated": "2026-09-11T17:04:13.668Z",
   "aggregatedStats": {
-    "score": 8,
+    "score": 11,
     "mergedPrs": 1,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 2
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 2
@@ -29,6 +29,14 @@
   },
   "repoStats": {
     "sveltejs": {
+      "svelte": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "svelte-repl": {
         "score": 3,
         "mergedPrs": 0,

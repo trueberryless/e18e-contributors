@@ -1,13 +1,13 @@
 {
   "username": "orta",
-  "lastUpdated": "2026-09-10T19:08:33.874Z",
+  "lastUpdated": "2026-09-11T17:03:58.737Z",
   "aggregatedStats": {
-    "score": 211,
-    "mergedPrs": 19,
-    "reviews": 16,
-    "reviewsReceived": 8,
+    "score": 231,
+    "mergedPrs": 21,
+    "reviews": 18,
+    "reviewsReceived": 11,
     "issuesLinked": 3,
-    "reactions": 545
+    "reactions": 549
   },
   "orgStats": {
     "changesets": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 205,
-      "mergedPrs": 18,
-      "reviews": 16,
-      "reviewsReceived": 7,
+      "score": 225,
+      "mergedPrs": 20,
+      "reviews": 18,
+      "reviewsReceived": 10,
       "issuesLinked": 3,
-      "reactions": 543
+      "reactions": 547
     }
   },
   "repoStats": {
@@ -92,12 +92,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 64,
-        "mergedPrs": 1,
-        "reviews": 2,
-        "reviewsReceived": 3,
+        "score": 84,
+        "mergedPrs": 3,
+        "reviews": 4,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
-        "reactions": 504
+        "reactions": 508
       },
       "template": {
         "score": 8,

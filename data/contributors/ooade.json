@@ -1,13 +1,13 @@
 {
   "username": "ooade",
-  "lastUpdated": "2026-09-07T11:53:35.410Z",
+  "lastUpdated": "2026-09-11T17:04:04.860Z",
   "aggregatedStats": {
-    "score": 22,
-    "mergedPrs": 4,
+    "score": 27,
+    "mergedPrs": 5,
     "reviews": 0,
     "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 4
+    "reactions": 6
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 2
+      "reactions": 4
     },
     "vuejs": {
       "score": 17,
@@ -64,12 +64,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 2
+        "reactions": 4
       }
     },
     "vuejs": {

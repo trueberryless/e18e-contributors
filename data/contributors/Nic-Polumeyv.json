@@ -1,20 +1,20 @@
 {
   "username": "Nic-Polumeyv",
-  "lastUpdated": "2026-09-09T23:32:24.863Z",
+  "lastUpdated": "2026-09-11T17:04:12.800Z",
   "aggregatedStats": {
-    "score": 1410,
-    "mergedPrs": 184,
+    "score": 1434,
+    "mergedPrs": 188,
     "reviews": 63,
-    "reviewsReceived": 181,
+    "reviewsReceived": 185,
     "issuesLinked": 57,
     "reactions": 64
   },
   "orgStats": {
     "sveltejs": {
-      "score": 1399,
-      "mergedPrs": 183,
+      "score": 1423,
+      "mergedPrs": 187,
       "reviews": 62,
-      "reviewsReceived": 180,
+      "reviewsReceived": 184,
       "issuesLinked": 56,
       "reactions": 64
     },
@@ -78,10 +78,10 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 150,
-        "mergedPrs": 20,
+        "score": 174,
+        "mergedPrs": 24,
         "reviews": 4,
-        "reviewsReceived": 18,
+        "reviewsReceived": 22,
         "issuesLinked": 9,
         "reactions": 18
       },

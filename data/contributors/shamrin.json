@@ -1,13 +1,13 @@
 {
   "username": "shamrin",
-  "lastUpdated": "2026-09-05T00:34:33.532Z",
+  "lastUpdated": "2026-09-11T17:04:15.256Z",
   "aggregatedStats": {
-    "score": 5,
-    "mergedPrs": 1,
+    "score": 15,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 4
+    "reviewsReceived": 1,
+    "issuesLinked": 2,
+    "reactions": 5
   },
   "orgStats": {
     "sveltejs": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 2
+      "reviewsReceived": 1,
+      "issuesLinked": 2,
+      "reactions": 3
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2
+        "reviewsReceived": 1,
+        "issuesLinked": 2,
+        "reactions": 3
       }
     }
   }

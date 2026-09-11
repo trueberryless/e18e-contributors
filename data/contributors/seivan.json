@@ -1,19 +1,19 @@
 {
   "username": "seivan",
-  "lastUpdated": "2026-09-08T06:25:24.928Z",
+  "lastUpdated": "2026-09-11T17:04:21.886Z",
   "aggregatedStats": {
-    "score": 1,
+    "score": 4,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 5
   },
   "orgStats": {
     "vitejs": {
-      "score": 1,
+      "score": 4,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 5
@@ -38,9 +38,9 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 2

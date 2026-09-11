@@ -1,21 +1,21 @@
 {
   "username": "rixo",
-  "lastUpdated": "2026-09-09T23:32:26.489Z",
+  "lastUpdated": "2026-09-11T17:04:15.111Z",
   "aggregatedStats": {
-    "score": 132,
-    "mergedPrs": 17,
-    "reviews": 8,
+    "score": 147,
+    "mergedPrs": 19,
+    "reviews": 9,
     "reviewsReceived": 8,
-    "issuesLinked": 1,
+    "issuesLinked": 2,
     "reactions": 132
   },
   "orgStats": {
     "sveltejs": {
-      "score": 123,
-      "mergedPrs": 16,
-      "reviews": 7,
+      "score": 138,
+      "mergedPrs": 18,
+      "reviews": 8,
       "reviewsReceived": 7,
-      "issuesLinked": 1,
+      "issuesLinked": 2,
       "reactions": 130
     },
     "vitejs": {
@@ -86,11 +86,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 11,
-        "mergedPrs": 0,
-        "reviews": 1,
+        "score": 26,
+        "mergedPrs": 2,
+        "reviews": 2,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 83
       },
       "svelte-hmr": {

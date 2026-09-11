@@ -1,9 +1,9 @@
 {
   "username": "ryanatkn",
-  "lastUpdated": "2026-09-07T05:51:03.942Z",
+  "lastUpdated": "2026-09-11T17:04:15.161Z",
   "aggregatedStats": {
-    "score": 313,
-    "mergedPrs": 47,
+    "score": 318,
+    "mergedPrs": 48,
     "reviews": 14,
     "reviewsReceived": 34,
     "issuesLinked": 0,
@@ -11,8 +11,8 @@
   },
   "orgStats": {
     "sveltejs": {
-      "score": 308,
-      "mergedPrs": 46,
+      "score": 313,
+      "mergedPrs": 47,
       "reviews": 14,
       "reviewsReceived": 34,
       "issuesLinked": 0,
@@ -70,8 +70,8 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 16,
-        "mergedPrs": 2,
+        "score": 21,
+        "mergedPrs": 3,
         "reviews": 1,
         "reviewsReceived": 2,
         "issuesLinked": 0,

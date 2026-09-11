@@ -1,10 +1,10 @@
 {
   "username": "fnune",
-  "lastUpdated": "2026-09-08T22:45:23.267Z",
+  "lastUpdated": "2026-09-11T17:03:57.725Z",
   "aggregatedStats": {
-    "score": 32,
+    "score": 35,
     "mergedPrs": 4,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsReceived": 2,
     "issuesLinked": 2,
     "reactions": 4
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 18,
+      "score": 21,
       "mergedPrs": 2,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 2,
       "reactions": 4
@@ -56,9 +56,9 @@
         "reactions": 4
       },
       "svelte": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

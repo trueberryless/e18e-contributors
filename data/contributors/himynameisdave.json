@@ -1,13 +1,13 @@
 {
   "username": "himynameisdave",
-  "lastUpdated": "2026-09-09T23:32:20.952Z",
+  "lastUpdated": "2026-09-11T17:04:06.793Z",
   "aggregatedStats": {
-    "score": 29,
-    "mergedPrs": 4,
-    "reviews": 1,
+    "score": 39,
+    "mergedPrs": 5,
+    "reviews": 2,
     "reviewsReceived": 2,
-    "issuesLinked": 1,
-    "reactions": 21
+    "issuesLinked": 2,
+    "reactions": 22
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 29,
-      "mergedPrs": 4,
-      "reviews": 1,
+      "score": 39,
+      "mergedPrs": 5,
+      "reviews": 2,
       "reviewsReceived": 2,
-      "issuesLinked": 1,
-      "reactions": 21
+      "issuesLinked": 2,
+      "reactions": 22
     }
   },
   "repoStats": {
@@ -64,12 +64,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 12,
-        "mergedPrs": 1,
-        "reviews": 1,
+        "score": 22,
+        "mergedPrs": 2,
+        "reviews": 2,
         "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 11
+        "issuesLinked": 2,
+        "reactions": 12
       },
       "template": {
         "score": 0,

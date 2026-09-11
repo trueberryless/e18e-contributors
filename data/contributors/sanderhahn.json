@@ -1,22 +1,22 @@
 {
   "username": "sanderhahn",
-  "lastUpdated": "2026-09-05T00:34:33.505Z",
+  "lastUpdated": "2026-09-11T17:04:15.198Z",
   "aggregatedStats": {
-    "score": 16,
-    "mergedPrs": 2,
+    "score": 21,
+    "mergedPrs": 3,
     "reviews": 0,
     "reviewsReceived": 1,
     "issuesLinked": 1,
-    "reactions": 26
+    "reactions": 28
   },
   "orgStats": {
     "sveltejs": {
-      "score": 16,
-      "mergedPrs": 2,
+      "score": 21,
+      "mergedPrs": 3,
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 1,
-      "reactions": 26
+      "reactions": 28
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 2,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 16
+        "reactions": 18
       }
     }
   }

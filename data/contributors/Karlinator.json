@@ -1,13 +1,13 @@
 {
   "username": "Karlinator",
-  "lastUpdated": "2026-09-09T00:32:40.642Z",
+  "lastUpdated": "2026-09-11T17:03:55.874Z",
   "aggregatedStats": {
-    "score": 12,
-    "mergedPrs": 1,
-    "reviews": 1,
+    "score": 27,
+    "mergedPrs": 3,
+    "reviews": 2,
     "reviewsReceived": 1,
-    "issuesLinked": 0,
-    "reactions": 35
+    "issuesLinked": 1,
+    "reactions": 36
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 12,
-      "mergedPrs": 1,
-      "reviews": 1,
+      "score": 27,
+      "mergedPrs": 3,
+      "reviews": 2,
       "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 33
+      "issuesLinked": 1,
+      "reactions": 34
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "issuesLinked": 1,
+        "reactions": 8
       },
       "svelte": {
         "score": 12,

@@ -1,13 +1,13 @@
 {
   "username": "sanyuan0704",
-  "lastUpdated": "2026-09-10T21:51:36.683Z",
+  "lastUpdated": "2026-09-11T17:04:07.012Z",
   "aggregatedStats": {
-    "score": 35,
-    "mergedPrs": 4,
-    "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 1,
-    "reactions": 28
+    "score": 47,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 6,
+    "issuesLinked": 2,
+    "reactions": 29
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 6
     },
     "vitejs": {
-      "score": 34,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 1,
-      "reactions": 22
+      "score": 46,
+      "mergedPrs": 5,
+      "reviews": 3,
+      "reviewsReceived": 6,
+      "issuesLinked": 2,
+      "reactions": 23
     },
     "vuejs": {
       "score": 0,
@@ -56,12 +56,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 22,
-        "mergedPrs": 2,
-        "reviews": 2,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 22
+        "score": 34,
+        "mergedPrs": 3,
+        "reviews": 3,
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
+        "reactions": 23
       }
     },
     "vuejs": {

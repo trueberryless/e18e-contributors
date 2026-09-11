@@ -1,13 +1,13 @@
 {
   "username": "colincasey",
-  "lastUpdated": "2026-09-10T19:08:40.269Z",
+  "lastUpdated": "2026-09-11T17:04:07.617Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 3,
-    "reviews": 1,
+    "score": 40,
+    "mergedPrs": 5,
+    "reviews": 2,
     "reviewsReceived": 2,
-    "issuesLinked": 2,
-    "reactions": 8
+    "issuesLinked": 3,
+    "reactions": 14
   },
   "orgStats": {
     "pnpm": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 8,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 23,
+      "mergedPrs": 3,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 1,
-      "reactions": 8
+      "issuesLinked": 2,
+      "reactions": 14
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "sveltejs": {
       "svelte": {
-        "score": 8,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 23,
+        "mergedPrs": 3,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 1,
-        "reactions": 8
+        "issuesLinked": 2,
+        "reactions": 14
       }
     }
   }

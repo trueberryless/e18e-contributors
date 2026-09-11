@@ -1,21 +1,21 @@
 {
   "username": "geoffrich",
-  "lastUpdated": "2026-09-10T19:08:44.634Z",
+  "lastUpdated": "2026-09-11T17:04:13.953Z",
   "aggregatedStats": {
-    "score": 693,
-    "mergedPrs": 64,
-    "reviews": 91,
-    "reviewsReceived": 58,
-    "issuesLinked": 11,
+    "score": 743,
+    "mergedPrs": 69,
+    "reviews": 95,
+    "reviewsReceived": 61,
+    "issuesLinked": 16,
     "reactions": 202
   },
   "orgStats": {
     "sveltejs": {
-      "score": 693,
-      "mergedPrs": 64,
-      "reviews": 91,
-      "reviewsReceived": 58,
-      "issuesLinked": 11,
+      "score": 743,
+      "mergedPrs": 69,
+      "reviews": 95,
+      "reviewsReceived": 61,
+      "issuesLinked": 16,
       "reactions": 202
     }
   },
@@ -30,11 +30,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 217,
-        "mergedPrs": 19,
-        "reviews": 26,
-        "reviewsReceived": 22,
-        "issuesLinked": 3,
+        "score": 267,
+        "mergedPrs": 24,
+        "reviews": 30,
+        "reviewsReceived": 25,
+        "issuesLinked": 8,
         "reactions": 161
       },
       "language-tools": {

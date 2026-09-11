@@ -1,13 +1,13 @@
 {
   "username": "benmccann",
-  "lastUpdated": "2026-09-10T21:51:27.798Z",
+  "lastUpdated": "2026-09-11T17:03:56.100Z",
   "aggregatedStats": {
-    "score": 12510,
-    "mergedPrs": 1174,
-    "reviews": 1708,
-    "reviewsReceived": 868,
-    "issuesLinked": 174,
-    "reactions": 2996
+    "score": 13907,
+    "mergedPrs": 1311,
+    "reviews": 1879,
+    "reviewsReceived": 985,
+    "issuesLinked": 213,
+    "reactions": 3041
   },
   "orgStats": {
     "biomejs": {
@@ -67,12 +67,12 @@
       "reactions": 111
     },
     "sveltejs": {
-      "score": 11786,
-      "mergedPrs": 1107,
-      "reviews": 1616,
-      "reviewsReceived": 800,
-      "issuesLinked": 168,
-      "reactions": 2668
+      "score": 13027,
+      "mergedPrs": 1230,
+      "reviews": 1769,
+      "reviewsReceived": 897,
+      "issuesLinked": 201,
+      "reactions": 2709
     },
     "tanstack": {
       "score": 8,
@@ -83,12 +83,12 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 404,
-      "mergedPrs": 29,
-      "reviews": 66,
-      "reviewsReceived": 39,
-      "issuesLinked": 5,
-      "reactions": 115
+      "score": 560,
+      "mergedPrs": 43,
+      "reviews": 84,
+      "reviewsReceived": 59,
+      "issuesLinked": 11,
+      "reactions": 119
     },
     "vitest-dev": {
       "score": 56,
@@ -364,12 +364,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 5978,
-        "mergedPrs": 548,
-        "reviews": 823,
-        "reviewsReceived": 446,
-        "issuesLinked": 80,
-        "reactions": 1627
+        "score": 7070,
+        "mergedPrs": 654,
+        "reviews": 960,
+        "reviewsReceived": 529,
+        "issuesLinked": 112,
+        "reactions": 1668
       },
       "language-tools": {
         "score": 77,
@@ -452,11 +452,11 @@
         "reactions": 3
       },
       "svelte": {
-        "score": 2275,
-        "mergedPrs": 194,
-        "reviews": 352,
-        "reviewsReceived": 149,
-        "issuesLinked": 19,
+        "score": 2424,
+        "mergedPrs": 211,
+        "reviews": 368,
+        "reviewsReceived": 163,
+        "issuesLinked": 20,
         "reactions": 618
       },
       "svelte-devtools": {
@@ -600,12 +600,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 372,
-        "mergedPrs": 25,
-        "reviews": 64,
-        "reviewsReceived": 35,
-        "issuesLinked": 4,
-        "reactions": 115
+        "score": 528,
+        "mergedPrs": 39,
+        "reviews": 82,
+        "reviewsReceived": 55,
+        "issuesLinked": 10,
+        "reactions": 119
       },
       "vite-ecosystem-ci": {
         "score": 9,

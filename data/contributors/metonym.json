@@ -1,11 +1,11 @@
 {
   "username": "metonym",
-  "lastUpdated": "2026-09-10T21:51:28.127Z",
+  "lastUpdated": "2026-09-11T17:03:56.475Z",
   "aggregatedStats": {
-    "score": 97,
-    "mergedPrs": 14,
+    "score": 103,
+    "mergedPrs": 15,
     "reviews": 2,
-    "reviewsReceived": 15,
+    "reviewsReceived": 16,
     "issuesLinked": 2,
     "reactions": 21
   },
@@ -27,10 +27,10 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 79,
-      "mergedPrs": 11,
+      "score": 85,
+      "mergedPrs": 12,
       "reviews": 2,
-      "reviewsReceived": 12,
+      "reviewsReceived": 13,
       "issuesLinked": 2,
       "reactions": 20
     },
@@ -90,10 +90,10 @@
         "reactions": 0
       },
       "kit": {
-        "score": 9,
-        "mergedPrs": 1,
+        "score": 15,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 5
       },

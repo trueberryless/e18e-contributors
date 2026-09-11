@@ -1,13 +1,13 @@
 {
   "username": "poyoho",
-  "lastUpdated": "2026-09-10T21:51:35.108Z",
+  "lastUpdated": "2026-09-11T17:04:05.066Z",
   "aggregatedStats": {
-    "score": 517,
-    "mergedPrs": 53,
-    "reviews": 36,
-    "reviewsReceived": 50,
-    "issuesLinked": 40,
-    "reactions": 146
+    "score": 1127,
+    "mergedPrs": 111,
+    "reviews": 78,
+    "reviewsReceived": 141,
+    "issuesLinked": 90,
+    "reactions": 174
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 220,
-      "mergedPrs": 17,
-      "reviews": 27,
-      "reviewsReceived": 20,
-      "issuesLinked": 12,
-      "reactions": 99
+      "score": 830,
+      "mergedPrs": 75,
+      "reviews": 69,
+      "reviewsReceived": 111,
+      "issuesLinked": 62,
+      "reactions": 127
     },
     "vitest-dev": {
       "score": 269,
@@ -126,12 +126,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 215,
-        "mergedPrs": 16,
-        "reviews": 27,
-        "reviewsReceived": 20,
-        "issuesLinked": 12,
-        "reactions": 99
+        "score": 825,
+        "mergedPrs": 74,
+        "reviews": 69,
+        "reviewsReceived": 111,
+        "issuesLinked": 62,
+        "reactions": 127
       }
     },
     "vitest-dev": {

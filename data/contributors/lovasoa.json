@@ -1,22 +1,22 @@
 {
   "username": "lovasoa",
-  "lastUpdated": "2026-09-10T19:08:45.098Z",
+  "lastUpdated": "2026-09-11T17:04:14.514Z",
   "aggregatedStats": {
-    "score": 21,
-    "mergedPrs": 1,
+    "score": 29,
+    "mergedPrs": 2,
     "reviews": 3,
-    "reviewsReceived": 0,
-    "issuesLinked": 1,
-    "reactions": 54
+    "reviewsReceived": 1,
+    "issuesLinked": 2,
+    "reactions": 55
   },
   "orgStats": {
     "sveltejs": {
-      "score": 16,
-      "mergedPrs": 1,
+      "score": 24,
+      "mergedPrs": 2,
       "reviews": 2,
-      "reviewsReceived": 0,
-      "issuesLinked": 1,
-      "reactions": 27
+      "reviewsReceived": 1,
+      "issuesLinked": 2,
+      "reactions": 28
     },
     "vitejs": {
       "score": 0,
@@ -46,12 +46,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 8,
-        "mergedPrs": 0,
+        "score": 16,
+        "mergedPrs": 1,
         "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 15
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 16
       },
       "language-tools": {
         "score": 0,

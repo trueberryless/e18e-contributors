@@ -1,22 +1,22 @@
 {
   "username": "Niputi",
-  "lastUpdated": "2026-09-10T21:51:46.599Z",
+  "lastUpdated": "2026-09-11T17:04:20.094Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 0,
-    "reviews": 3,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 13
+    "score": 78,
+    "mergedPrs": 3,
+    "reviews": 19,
+    "reviewsReceived": 3,
+    "issuesLinked": 1,
+    "reactions": 15
   },
   "orgStats": {
     "vitejs": {
-      "score": 7,
-      "mergedPrs": 0,
-      "reviews": 2,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 12
+      "score": 75,
+      "mergedPrs": 3,
+      "reviews": 18,
+      "reviewsReceived": 3,
+      "issuesLinked": 1,
+      "reactions": 14
     },
     "vuejs": {
       "score": 3,
@@ -30,12 +30,12 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 7,
-        "mergedPrs": 0,
-        "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 12
+        "score": 75,
+        "mergedPrs": 3,
+        "reviews": 18,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
+        "reactions": 14
       }
     },
     "vuejs": {

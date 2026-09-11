@@ -1,33 +1,33 @@
 {
   "username": "georgecrawford",
-  "lastUpdated": "2026-09-10T19:08:44.635Z",
+  "lastUpdated": "2026-09-11T17:04:13.955Z",
   "aggregatedStats": {
-    "score": 7,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 65
+    "score": 26,
+    "mergedPrs": 2,
+    "reviews": 1,
+    "reviewsReceived": 2,
+    "issuesLinked": 2,
+    "reactions": 72
   },
   "orgStats": {
     "sveltejs": {
-      "score": 7,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 65
+      "score": 26,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 2,
+      "reactions": 72
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 6,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 61
+        "score": 26,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
+        "reactions": 68
       },
       "language-tools": {
         "score": 0,

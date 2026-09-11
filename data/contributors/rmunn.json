@@ -1,22 +1,22 @@
 {
   "username": "rmunn",
-  "lastUpdated": "2026-09-10T19:08:45.508Z",
+  "lastUpdated": "2026-09-11T17:04:15.116Z",
   "aggregatedStats": {
-    "score": 74,
-    "mergedPrs": 7,
+    "score": 96,
+    "mergedPrs": 10,
     "reviews": 6,
-    "reviewsReceived": 8,
-    "issuesLinked": 5,
-    "reactions": 28
+    "reviewsReceived": 9,
+    "issuesLinked": 8,
+    "reactions": 30
   },
   "orgStats": {
     "sveltejs": {
-      "score": 74,
-      "mergedPrs": 7,
+      "score": 96,
+      "mergedPrs": 10,
       "reviews": 6,
-      "reviewsReceived": 8,
-      "issuesLinked": 5,
-      "reactions": 28
+      "reviewsReceived": 9,
+      "issuesLinked": 8,
+      "reactions": 30
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 38,
-        "mergedPrs": 4,
+        "score": 60,
+        "mergedPrs": 7,
         "reviews": 3,
-        "reviewsReceived": 5,
-        "issuesLinked": 1,
-        "reactions": 16
+        "reviewsReceived": 6,
+        "issuesLinked": 4,
+        "reactions": 18
       },
       "sites": {
         "score": 0,

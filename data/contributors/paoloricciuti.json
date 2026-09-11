@@ -1,13 +1,13 @@
 {
   "username": "paoloricciuti",
-  "lastUpdated": "2026-09-09T23:32:11.896Z",
+  "lastUpdated": "2026-09-11T17:03:58.889Z",
   "aggregatedStats": {
-    "score": 4090,
+    "score": 4093,
     "mergedPrs": 410,
-    "reviews": 346,
+    "reviews": 347,
     "reviewsReceived": 372,
     "issuesLinked": 263,
-    "reactions": 1045
+    "reactions": 1047
   },
   "orgStats": {
     "e18e": {
@@ -27,12 +27,12 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 3901,
+      "score": 3904,
       "mergedPrs": 387,
-      "reviews": 333,
+      "reviews": 334,
       "reviewsReceived": 350,
       "issuesLinked": 257,
-      "reactions": 1032
+      "reactions": 1034
     },
     "tanstack": {
       "score": 3,
@@ -154,12 +154,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 2612,
+        "score": 2615,
         "mergedPrs": 252,
-        "reviews": 190,
+        "reviews": 191,
         "reviewsReceived": 252,
         "issuesLinked": 222,
-        "reactions": 858
+        "reactions": 860
       },
       "svelte.dev": {
         "score": 226,

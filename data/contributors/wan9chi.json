@@ -1,13 +1,13 @@
 {
   "username": "wan9chi",
-  "lastUpdated": "2026-09-05T15:57:08.839Z",
+  "lastUpdated": "2026-09-11T17:04:07.090Z",
   "aggregatedStats": {
-    "score": 25,
+    "score": 27,
     "mergedPrs": 3,
     "reviews": 2,
     "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 22
+    "reactions": 40
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 25,
+      "score": 27,
       "mergedPrs": 3,
       "reviews": 2,
       "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 22
+      "reactions": 40
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 25,
+        "score": 27,
         "mergedPrs": 3,
         "reviews": 2,
         "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 22
+        "reactions": 40
       }
     }
   }

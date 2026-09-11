@@ -1,11 +1,11 @@
 {
   "username": "zyyv",
-  "lastUpdated": "2026-09-09T05:08:39.969Z",
+  "lastUpdated": "2026-09-11T17:03:56.951Z",
   "aggregatedStats": {
-    "score": 96,
-    "mergedPrs": 16,
-    "reviews": 2,
-    "reviewsReceived": 8,
+    "score": 105,
+    "mergedPrs": 17,
+    "reviews": 3,
+    "reviewsReceived": 9,
     "issuesLinked": 0,
     "reactions": 19
   },
@@ -43,10 +43,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 1,
+      "score": 15,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -182,10 +182,10 @@
         "reactions": 0
       },
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 9,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 0
       }

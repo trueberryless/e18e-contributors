@@ -1,13 +1,13 @@
 {
   "username": "pzuraq",
-  "lastUpdated": "2026-09-10T19:08:41.328Z",
+  "lastUpdated": "2026-09-11T17:04:09.080Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 1,
+    "score": 32,
+    "mergedPrs": 4,
     "reviews": 2,
-    "reviewsReceived": 1,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 17
+    "reactions": 18
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 14,
-      "mergedPrs": 1,
+      "score": 32,
+      "mergedPrs": 4,
       "reviews": 2,
-      "reviewsReceived": 1,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
-      "reactions": 17
+      "reactions": 18
     },
     "vitejs": {
       "score": 0,
@@ -48,12 +48,12 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 14,
-        "mergedPrs": 1,
+        "score": 32,
+        "mergedPrs": 4,
         "reviews": 2,
-        "reviewsReceived": 1,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 17
+        "reactions": 18
       }
     },
     "vitejs": {

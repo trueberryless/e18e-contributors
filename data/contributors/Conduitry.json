@@ -1,13 +1,13 @@
 {
   "username": "Conduitry",
-  "lastUpdated": "2026-09-10T19:08:39.972Z",
+  "lastUpdated": "2026-09-11T17:04:07.187Z",
   "aggregatedStats": {
-    "score": 2469,
-    "mergedPrs": 175,
-    "reviews": 440,
-    "reviewsReceived": 108,
-    "issuesLinked": 55,
-    "reactions": 555
+    "score": 3377,
+    "mergedPrs": 266,
+    "reviews": 535,
+    "reviewsReceived": 131,
+    "issuesLinked": 127,
+    "reactions": 571
   },
   "orgStats": {
     "pnpm": {
@@ -19,17 +19,17 @@
       "reactions": 4
     },
     "sveltejs": {
-      "score": 2461,
-      "mergedPrs": 174,
-      "reviews": 440,
-      "reviewsReceived": 108,
-      "issuesLinked": 55,
-      "reactions": 525
+      "score": 3366,
+      "mergedPrs": 265,
+      "reviews": 534,
+      "reviewsReceived": 131,
+      "issuesLinked": 127,
+      "reactions": 541
     },
     "vitejs": {
-      "score": 3,
+      "score": 6,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 26
@@ -112,12 +112,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 1018,
-        "mergedPrs": 51,
-        "reviews": 215,
-        "reviewsReceived": 55,
-        "issuesLinked": 21,
-        "reactions": 207
+        "score": 1204,
+        "mergedPrs": 63,
+        "reviews": 248,
+        "reviewsReceived": 70,
+        "issuesLinked": 27,
+        "reactions": 208
       },
       "learn.svelte.dev": {
         "score": 6,
@@ -184,12 +184,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 589,
-        "mergedPrs": 35,
-        "reviews": 115,
-        "reviewsReceived": 28,
-        "issuesLinked": 11,
-        "reactions": 188
+        "score": 1308,
+        "mergedPrs": 114,
+        "reviews": 176,
+        "reviewsReceived": 36,
+        "issuesLinked": 77,
+        "reactions": 203
       },
       "svelte-cli": {
         "score": 5,
@@ -274,9 +274,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 3,
+        "score": 6,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 26

@@ -1,11 +1,11 @@
 {
   "username": "isaac-mcfadyen",
-  "lastUpdated": "2026-09-10T19:08:40.413Z",
+  "lastUpdated": "2026-09-11T17:04:07.805Z",
   "aggregatedStats": {
-    "score": 29,
-    "mergedPrs": 3,
-    "reviews": 2,
-    "reviewsReceived": 3,
+    "score": 40,
+    "mergedPrs": 4,
+    "reviews": 3,
+    "reviewsReceived": 6,
     "issuesLinked": 2,
     "reactions": 15
   },
@@ -19,10 +19,10 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 23,
-      "mergedPrs": 2,
-      "reviews": 2,
-      "reviewsReceived": 2,
+      "score": 34,
+      "mergedPrs": 3,
+      "reviews": 3,
+      "reviewsReceived": 5,
       "issuesLinked": 2,
       "reactions": 12
     },
@@ -48,10 +48,10 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 23,
-        "mergedPrs": 2,
-        "reviews": 2,
-        "reviewsReceived": 2,
+        "score": 34,
+        "mergedPrs": 3,
+        "reviews": 3,
+        "reviewsReceived": 5,
         "issuesLinked": 2,
         "reactions": 12
       }

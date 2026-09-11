@@ -1,20 +1,20 @@
 {
   "username": "tomoam",
-  "lastUpdated": "2026-09-10T19:08:45.771Z",
+  "lastUpdated": "2026-09-11T17:04:15.560Z",
   "aggregatedStats": {
-    "score": 341,
-    "mergedPrs": 47,
+    "score": 353,
+    "mergedPrs": 49,
     "reviews": 5,
-    "reviewsReceived": 39,
+    "reviewsReceived": 41,
     "issuesLinked": 25,
     "reactions": 24
   },
   "orgStats": {
     "sveltejs": {
-      "score": 340,
-      "mergedPrs": 47,
+      "score": 352,
+      "mergedPrs": 49,
       "reviews": 5,
-      "reviewsReceived": 39,
+      "reviewsReceived": 41,
       "issuesLinked": 25,
       "reactions": 14
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 19,
-        "mergedPrs": 3,
+        "score": 31,
+        "mergedPrs": 5,
         "reviews": 0,
-        "reviewsReceived": 2,
+        "reviewsReceived": 4,
         "issuesLinked": 1,
         "reactions": 0
       },

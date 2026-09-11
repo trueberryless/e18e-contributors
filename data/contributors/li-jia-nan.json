@@ -1,11 +1,11 @@
 {
   "username": "li-jia-nan",
-  "lastUpdated": "2026-09-05T20:07:12.810Z",
+  "lastUpdated": "2026-09-11T17:04:18.414Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
+    "score": 20,
+    "mergedPrs": 3,
     "reviews": 1,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
     "reactions": 0
   },
@@ -19,10 +19,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 9,
-      "mergedPrs": 1,
+      "score": 15,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     }
@@ -40,10 +40,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 9,
-        "mergedPrs": 1,
+        "score": 15,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

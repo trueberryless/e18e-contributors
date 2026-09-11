@@ -1,13 +1,13 @@
 {
   "username": "lukeed",
-  "lastUpdated": "2026-09-10T19:08:33.992Z",
+  "lastUpdated": "2026-09-11T17:03:58.883Z",
   "aggregatedStats": {
-    "score": 413,
-    "mergedPrs": 41,
-    "reviews": 51,
-    "reviewsReceived": 22,
-    "issuesLinked": 8,
-    "reactions": 172
+    "score": 475,
+    "mergedPrs": 47,
+    "reviews": 60,
+    "reviewsReceived": 25,
+    "issuesLinked": 9,
+    "reactions": 174
   },
   "orgStats": {
     "e18e": {
@@ -35,17 +35,17 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 388,
-      "mergedPrs": 39,
-      "reviews": 51,
-      "reviewsReceived": 19,
-      "issuesLinked": 7,
-      "reactions": 67
+      "score": 447,
+      "mergedPrs": 45,
+      "reviews": 59,
+      "reviewsReceived": 22,
+      "issuesLinked": 8,
+      "reactions": 69
     },
     "vitejs": {
-      "score": 17,
+      "score": 20,
       "mergedPrs": 2,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 3,
       "issuesLinked": 1,
       "reactions": 23
@@ -92,12 +92,12 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 30,
-        "mergedPrs": 2,
-        "reviews": 5,
-        "reviewsReceived": 3,
+        "score": 58,
+        "mergedPrs": 4,
+        "reviews": 10,
+        "reviewsReceived": 5,
         "issuesLinked": 1,
-        "reactions": 4
+        "reactions": 6
       },
       "language-tools": {
         "score": 0,
@@ -140,11 +140,11 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 28,
-        "mergedPrs": 2,
-        "reviews": 4,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "score": 60,
+        "mergedPrs": 6,
+        "reviews": 7,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 25
       },
       "svelte-loader": {
@@ -190,9 +190,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 17,
+        "score": 20,
         "mergedPrs": 2,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 3,
         "issuesLinked": 1,
         "reactions": 23

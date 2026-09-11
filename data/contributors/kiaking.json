@@ -1,22 +1,22 @@
 {
   "username": "kiaking",
-  "lastUpdated": "2026-09-10T21:51:47.421Z",
+  "lastUpdated": "2026-09-11T17:04:21.262Z",
   "aggregatedStats": {
-    "score": 1547,
-    "mergedPrs": 155,
-    "reviews": 146,
-    "reviewsReceived": 46,
+    "score": 1593,
+    "mergedPrs": 161,
+    "reviews": 148,
+    "reviewsReceived": 53,
     "issuesLinked": 100,
-    "reactions": 883
+    "reactions": 909
   },
   "orgStats": {
     "vitejs": {
-      "score": 612,
-      "mergedPrs": 86,
-      "reviews": 1,
-      "reviewsReceived": 8,
+      "score": 658,
+      "mergedPrs": 92,
+      "reviews": 3,
+      "reviewsReceived": 15,
       "issuesLinked": 83,
-      "reactions": 53
+      "reactions": 79
     },
     "vuejs": {
       "score": 935,
@@ -38,12 +38,12 @@
         "reactions": 3
       },
       "vite": {
-        "score": 20,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 2,
+        "score": 66,
+        "mergedPrs": 8,
+        "reviews": 3,
+        "reviewsReceived": 9,
         "issuesLinked": 0,
-        "reactions": 50
+        "reactions": 76
       }
     },
     "vuejs": {

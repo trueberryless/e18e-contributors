@@ -1,13 +1,13 @@
 {
   "username": "mindrones",
-  "lastUpdated": "2026-09-09T23:32:22.610Z",
+  "lastUpdated": "2026-09-11T17:04:08.976Z",
   "aggregatedStats": {
-    "score": 42,
-    "mergedPrs": 6,
-    "reviews": 2,
+    "score": 69,
+    "mergedPrs": 9,
+    "reviews": 4,
     "reviewsReceived": 0,
-    "issuesLinked": 2,
-    "reactions": 24
+    "issuesLinked": 5,
+    "reactions": 25
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 42,
-      "mergedPrs": 6,
-      "reviews": 2,
+      "score": 69,
+      "mergedPrs": 9,
+      "reviews": 4,
       "reviewsReceived": 0,
-      "issuesLinked": 2,
-      "reactions": 23
+      "issuesLinked": 5,
+      "reactions": 24
     }
   },
   "repoStats": {
@@ -80,12 +80,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 5,
-        "mergedPrs": 0,
-        "reviews": 1,
+        "score": 32,
+        "mergedPrs": 3,
+        "reviews": 3,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 16
+        "issuesLinked": 3,
+        "reactions": 17
       },
       "template": {
         "score": 0,

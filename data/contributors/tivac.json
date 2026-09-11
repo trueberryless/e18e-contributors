@@ -1,13 +1,13 @@
 {
   "username": "tivac",
-  "lastUpdated": "2026-09-10T19:08:33.924Z",
+  "lastUpdated": "2026-09-11T17:03:58.796Z",
   "aggregatedStats": {
-    "score": 106,
-    "mergedPrs": 10,
-    "reviews": 13,
-    "reviewsReceived": 8,
-    "issuesLinked": 3,
-    "reactions": 29
+    "score": 131,
+    "mergedPrs": 13,
+    "reviews": 14,
+    "reviewsReceived": 9,
+    "issuesLinked": 6,
+    "reactions": 33
   },
   "orgStats": {
     "changesets": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 103,
-      "mergedPrs": 10,
-      "reviews": 12,
-      "reviewsReceived": 8,
-      "issuesLinked": 3,
-      "reactions": 29
+      "score": 128,
+      "mergedPrs": 13,
+      "reviews": 13,
+      "reviewsReceived": 9,
+      "issuesLinked": 6,
+      "reactions": 33
     },
     "vuejs": {
       "score": 3,
@@ -96,12 +96,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 28,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 1,
-        "issuesLinked": 2,
-        "reactions": 19
+        "score": 53,
+        "mergedPrs": 6,
+        "reviews": 3,
+        "reviewsReceived": 2,
+        "issuesLinked": 5,
+        "reactions": 23
       },
       "svelte-eslint-parser": {
         "score": 0,

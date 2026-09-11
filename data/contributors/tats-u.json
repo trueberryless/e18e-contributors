@@ -1,10 +1,10 @@
 {
   "username": "tats-u",
-  "lastUpdated": "2026-09-10T19:08:32.490Z",
+  "lastUpdated": "2026-09-11T17:03:56.708Z",
   "aggregatedStats": {
-    "score": 104,
-    "mergedPrs": 15,
-    "reviews": 3,
+    "score": 112,
+    "mergedPrs": 16,
+    "reviews": 4,
     "reviewsReceived": 9,
     "issuesLinked": 3,
     "reactions": 48
@@ -43,9 +43,9 @@
       "reactions": 1
     },
     "pnpm": {
-      "score": 54,
-      "mergedPrs": 8,
-      "reviews": 1,
+      "score": 62,
+      "mergedPrs": 9,
+      "reviews": 2,
       "reviewsReceived": 5,
       "issuesLinked": 1,
       "reactions": 36
@@ -126,9 +126,9 @@
         "reactions": 28
       },
       "pnpm.io": {
-        "score": 33,
-        "mergedPrs": 6,
-        "reviews": 0,
+        "score": 41,
+        "mergedPrs": 7,
+        "reviews": 1,
         "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 2

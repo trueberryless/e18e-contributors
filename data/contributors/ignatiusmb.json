@@ -1,33 +1,33 @@
 {
   "username": "ignatiusmb",
-  "lastUpdated": "2026-09-10T19:08:44.768Z",
+  "lastUpdated": "2026-09-11T17:04:14.108Z",
   "aggregatedStats": {
-    "score": 1202,
-    "mergedPrs": 164,
-    "reviews": 62,
-    "reviewsReceived": 87,
-    "issuesLinked": 50,
-    "reactions": 85
+    "score": 1685,
+    "mergedPrs": 214,
+    "reviews": 110,
+    "reviewsReceived": 134,
+    "issuesLinked": 71,
+    "reactions": 94
   },
   "orgStats": {
     "sveltejs": {
-      "score": 1202,
-      "mergedPrs": 164,
-      "reviews": 62,
-      "reviewsReceived": 87,
-      "issuesLinked": 50,
-      "reactions": 85
+      "score": 1685,
+      "mergedPrs": 214,
+      "reviews": 110,
+      "reviewsReceived": 134,
+      "issuesLinked": 71,
+      "reactions": 94
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 442,
-        "mergedPrs": 52,
-        "reviews": 35,
-        "reviewsReceived": 54,
-        "issuesLinked": 10,
-        "reactions": 25
+        "score": 925,
+        "mergedPrs": 102,
+        "reviews": 83,
+        "reviewsReceived": 101,
+        "issuesLinked": 31,
+        "reactions": 34
       },
       "language-tools": {
         "score": 5,

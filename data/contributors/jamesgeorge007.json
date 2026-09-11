@@ -1,9 +1,9 @@
 {
   "username": "jamesgeorge007",
-  "lastUpdated": "2026-09-10T21:51:27.431Z",
+  "lastUpdated": "2026-09-11T17:03:55.637Z",
   "aggregatedStats": {
-    "score": 284,
-    "mergedPrs": 40,
+    "score": 289,
+    "mergedPrs": 41,
     "reviews": 9,
     "reviewsReceived": 42,
     "issuesLinked": 6,
@@ -43,8 +43,8 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -142,8 +142,8 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

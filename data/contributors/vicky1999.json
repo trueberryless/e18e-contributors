@@ -1,32 +1,32 @@
 {
   "username": "vicky1999",
-  "lastUpdated": "2026-09-10T19:08:45.835Z",
+  "lastUpdated": "2026-09-11T17:04:15.657Z",
   "aggregatedStats": {
-    "score": 7,
-    "mergedPrs": 1,
-    "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 1,
+    "score": 26,
+    "mergedPrs": 3,
+    "reviews": 1,
+    "reviewsReceived": 2,
+    "issuesLinked": 3,
     "reactions": 0
   },
   "orgStats": {
     "sveltejs": {
-      "score": 7,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 1,
+      "score": 26,
+      "mergedPrs": 3,
+      "reviews": 1,
+      "reviewsReceived": 2,
+      "issuesLinked": 3,
       "reactions": 0
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 19,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 0
       },
       "svelte": {

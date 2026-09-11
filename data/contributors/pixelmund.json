@@ -1,22 +1,22 @@
 {
   "username": "pixelmund",
-  "lastUpdated": "2026-09-05T00:34:33.390Z",
+  "lastUpdated": "2026-09-11T17:04:15.000Z",
   "aggregatedStats": {
-    "score": 11,
-    "mergedPrs": 1,
+    "score": 30,
+    "mergedPrs": 3,
     "reviews": 0,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 27
+    "reviewsReceived": 4,
+    "issuesLinked": 3,
+    "reactions": 49
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
-      "mergedPrs": 0,
+      "score": 22,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 27
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
+      "reactions": 49
     },
     "tanstack": {
       "score": 8,
@@ -30,12 +30,12 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 22,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 27
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
+        "reactions": 49
       },
       "svelte": {
         "score": 0,

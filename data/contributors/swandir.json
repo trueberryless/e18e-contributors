@@ -1,10 +1,10 @@
 {
   "username": "swandir",
-  "lastUpdated": "2026-09-10T21:51:36.714Z",
+  "lastUpdated": "2026-09-11T17:04:07.049Z",
   "aggregatedStats": {
-    "score": 25,
+    "score": 31,
     "mergedPrs": 3,
-    "reviews": 1,
+    "reviews": 3,
     "reviewsReceived": 3,
     "issuesLinked": 1,
     "reactions": 19
@@ -27,9 +27,9 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 14,
+      "score": 20,
       "mergedPrs": 1,
-      "reviews": 1,
+      "reviews": 3,
       "reviewsReceived": 2,
       "issuesLinked": 1,
       "reactions": 17
@@ -58,9 +58,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 14,
+        "score": 20,
         "mergedPrs": 1,
-        "reviews": 1,
+        "reviews": 3,
         "reviewsReceived": 2,
         "issuesLinked": 1,
         "reactions": 17

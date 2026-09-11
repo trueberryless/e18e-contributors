@@ -1,19 +1,19 @@
 {
   "username": "dennisjlee",
-  "lastUpdated": "2026-09-05T20:07:10.551Z",
+  "lastUpdated": "2026-09-11T17:04:13.648Z",
   "aggregatedStats": {
-    "score": 8,
+    "score": 11,
     "mergedPrs": 1,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 1,
     "reactions": 0
   },
   "orgStats": {
     "sveltejs": {
-      "score": 8,
+      "score": 11,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 0
@@ -21,6 +21,14 @@
   },
   "repoStats": {
     "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "language-tools": {
         "score": 8,
         "mergedPrs": 1,

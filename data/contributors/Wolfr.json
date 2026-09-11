@@ -1,13 +1,13 @@
 {
   "username": "Wolfr",
-  "lastUpdated": "2026-09-10T19:08:42.023Z",
+  "lastUpdated": "2026-09-11T17:04:10.158Z",
   "aggregatedStats": {
-    "score": 67,
-    "mergedPrs": 10,
+    "score": 92,
+    "mergedPrs": 14,
     "reviews": 1,
-    "reviewsReceived": 4,
-    "issuesLinked": 1,
-    "reactions": 81
+    "reviewsReceived": 7,
+    "issuesLinked": 2,
+    "reactions": 83
   },
   "orgStats": {
     "shadcn-ui": {
@@ -19,12 +19,12 @@
       "reactions": 63
     },
     "sveltejs": {
-      "score": 21,
-      "mergedPrs": 3,
+      "score": 46,
+      "mergedPrs": 7,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 18
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
+      "reactions": 20
     },
     "zed-industries": {
       "score": 0,
@@ -88,12 +88,12 @@
         "reactions": 4
       },
       "svelte": {
-        "score": 4,
-        "mergedPrs": 0,
+        "score": 29,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
+        "reactions": 9
       },
       "svelte-hmr": {
         "score": 5,

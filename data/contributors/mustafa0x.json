@@ -1,13 +1,13 @@
 {
   "username": "mustafa0x",
-  "lastUpdated": "2026-09-09T23:32:21.047Z",
+  "lastUpdated": "2026-09-11T17:04:06.925Z",
   "aggregatedStats": {
-    "score": 60,
-    "mergedPrs": 7,
+    "score": 70,
+    "mergedPrs": 9,
     "reviews": 2,
     "reviewsReceived": 8,
     "issuesLinked": 4,
-    "reactions": 27
+    "reactions": 28
   },
   "orgStats": {
     "oxc-project": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 41,
-      "mergedPrs": 5,
+      "score": 51,
+      "mergedPrs": 7,
       "reviews": 1,
       "reviewsReceived": 6,
       "issuesLinked": 3,
-      "reactions": 9
+      "reactions": 10
     },
     "vitejs": {
       "score": 8,
@@ -122,12 +122,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 13,
+        "mergedPrs": 2,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       },
       "svelte-preprocess": {
         "score": 0,

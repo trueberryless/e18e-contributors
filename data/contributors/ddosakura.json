@@ -1,21 +1,21 @@
 {
   "username": "ddosakura",
-  "lastUpdated": "2026-09-05T00:34:39.846Z",
+  "lastUpdated": "2026-09-11T17:04:20.665Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 9,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 2,
+    "issuesLinked": 1,
     "reactions": 3
   },
   "orgStats": {
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 3
     },
     "vuejs": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 3
       }
     },

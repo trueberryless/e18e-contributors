@@ -1,33 +1,33 @@
 {
   "username": "julian-kuroiwa",
-  "lastUpdated": "2026-09-05T00:34:32.859Z",
+  "lastUpdated": "2026-09-11T17:04:14.321Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 6,
+    "mergedPrs": 1,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 6
   },
   "orgStats": {
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 6,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 6
     }
   },
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 6,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 6
       }
     }
   }

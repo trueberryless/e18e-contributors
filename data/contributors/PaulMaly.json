@@ -1,22 +1,22 @@
 {
   "username": "PaulMaly",
-  "lastUpdated": "2026-09-05T00:34:31.878Z",
+  "lastUpdated": "2026-09-11T17:04:12.842Z",
   "aggregatedStats": {
-    "score": 63,
-    "mergedPrs": 2,
+    "score": 69,
+    "mergedPrs": 3,
     "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 493
+    "reactions": 501
   },
   "orgStats": {
     "sveltejs": {
-      "score": 63,
-      "mergedPrs": 2,
+      "score": 69,
+      "mergedPrs": 3,
       "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 493
+      "reactions": 501
     },
     "vuejs": {
       "score": 0,
@@ -70,12 +70,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 49,
-        "mergedPrs": 0,
+        "score": 55,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 491
+        "reactions": 499
       },
       "svelte-preprocess": {
         "score": 0,

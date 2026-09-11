@@ -1,22 +1,22 @@
 {
   "username": "timacdonald",
-  "lastUpdated": "2026-09-10T21:51:48.021Z",
+  "lastUpdated": "2026-09-11T17:04:22.059Z",
   "aggregatedStats": {
-    "score": 35,
-    "mergedPrs": 4,
-    "reviews": 2,
-    "reviewsReceived": 5,
+    "score": 44,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 6,
     "issuesLinked": 1,
-    "reactions": 21
+    "reactions": 24
   },
   "orgStats": {
     "vitejs": {
-      "score": 35,
-      "mergedPrs": 4,
-      "reviews": 2,
-      "reviewsReceived": 5,
+      "score": 44,
+      "mergedPrs": 5,
+      "reviews": 3,
+      "reviewsReceived": 6,
       "issuesLinked": 1,
-      "reactions": 21
+      "reactions": 24
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 29,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 4,
+        "score": 38,
+        "mergedPrs": 4,
+        "reviews": 3,
+        "reviewsReceived": 5,
         "issuesLinked": 1,
-        "reactions": 21
+        "reactions": 24
       }
     }
   }

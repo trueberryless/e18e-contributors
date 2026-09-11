@@ -1,12 +1,12 @@
 {
   "username": "hugoattal",
-  "lastUpdated": "2026-09-09T05:08:54.736Z",
+  "lastUpdated": "2026-09-11T17:04:18.008Z",
   "aggregatedStats": {
-    "score": 29,
-    "mergedPrs": 3,
-    "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 3,
+    "score": 40,
+    "mergedPrs": 4,
+    "reviews": 2,
+    "reviewsReceived": 3,
+    "issuesLinked": 4,
     "reactions": 30
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 21,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 2,
+      "score": 32,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 3,
       "reactions": 24
     },
     "vitest-dev": {
@@ -56,11 +56,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 13,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
+        "score": 24,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 2,
+        "issuesLinked": 2,
         "reactions": 24
       },
       "vite-plugin-basic-ssl": {

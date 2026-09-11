@@ -1,13 +1,13 @@
 {
   "username": "Th0rN13",
-  "lastUpdated": "2026-09-10T19:08:35.966Z",
+  "lastUpdated": "2026-09-11T17:04:01.603Z",
   "aggregatedStats": {
-    "score": 11,
-    "mergedPrs": 1,
+    "score": 26,
+    "mergedPrs": 3,
     "reviews": 2,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 1
+    "reviewsReceived": 1,
+    "issuesLinked": 2,
+    "reactions": 2
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 6,
-      "mergedPrs": 0,
+      "score": 21,
+      "mergedPrs": 2,
       "reviews": 2,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "reviewsReceived": 1,
+      "issuesLinked": 2,
+      "reactions": 2
     },
     "vuejs": {
       "score": 0,
@@ -56,12 +56,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
+        "score": 18,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
+        "reviewsReceived": 1,
+        "issuesLinked": 2,
+        "reactions": 2
       }
     },
     "vuejs": {

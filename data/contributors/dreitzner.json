@@ -1,10 +1,10 @@
 {
   "username": "dreitzner",
-  "lastUpdated": "2026-09-10T19:08:36.819Z",
+  "lastUpdated": "2026-09-11T17:04:02.742Z",
   "aggregatedStats": {
-    "score": 251,
+    "score": 269,
     "mergedPrs": 18,
-    "reviews": 39,
+    "reviews": 45,
     "reviewsReceived": 11,
     "issuesLinked": 11,
     "reactions": 111
@@ -19,9 +19,9 @@
       "reactions": 31
     },
     "sveltejs": {
-      "score": 207,
+      "score": 225,
       "mergedPrs": 14,
-      "reviews": 37,
+      "reviews": 43,
       "reviewsReceived": 6,
       "issuesLinked": 6,
       "reactions": 80
@@ -64,9 +64,9 @@
         "reactions": 10
       },
       "kit": {
-        "score": 23,
+        "score": 41,
         "mergedPrs": 1,
-        "reviews": 3,
+        "reviews": 9,
         "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 63
