@@ -1,33 +1,33 @@
 {
   "username": "marcocondrache",
-  "lastUpdated": "2026-09-12T05:18:58.984Z",
+  "lastUpdated": "2026-09-12T23:30:11.702Z",
   "aggregatedStats": {
-    "score": 146,
-    "mergedPrs": 7,
+    "score": 196,
+    "mergedPrs": 15,
     "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 3,
-    "reactions": 953
+    "reviewsReceived": 9,
+    "issuesLinked": 4,
+    "reactions": 979
   },
   "orgStats": {
     "zed-industries": {
-      "score": 146,
-      "mergedPrs": 7,
+      "score": 196,
+      "mergedPrs": 15,
       "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 3,
-      "reactions": 953
+      "reviewsReceived": 9,
+      "issuesLinked": 4,
+      "reactions": 979
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 146,
-        "mergedPrs": 7,
+        "score": 196,
+        "mergedPrs": 15,
         "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 3,
-        "reactions": 953
+        "reviewsReceived": 9,
+        "issuesLinked": 4,
+        "reactions": 979
       }
     }
   }

@@ -1,22 +1,22 @@
 {
   "username": "itsfuad",
-  "lastUpdated": "2026-09-12T05:18:58.285Z",
+  "lastUpdated": "2026-09-12T23:30:11.060Z",
   "aggregatedStats": {
-    "score": 38,
-    "mergedPrs": 4,
-    "reviews": 1,
-    "reviewsReceived": 5,
+    "score": 47,
+    "mergedPrs": 5,
+    "reviews": 2,
+    "reviewsReceived": 6,
     "issuesLinked": 2,
-    "reactions": 62
+    "reactions": 63
   },
   "orgStats": {
     "zed-industries": {
-      "score": 38,
-      "mergedPrs": 4,
-      "reviews": 1,
-      "reviewsReceived": 5,
+      "score": 47,
+      "mergedPrs": 5,
+      "reviews": 2,
+      "reviewsReceived": 6,
       "issuesLinked": 2,
-      "reactions": 62
+      "reactions": 63
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 13
       },
       "zed": {
-        "score": 37,
-        "mergedPrs": 4,
-        "reviews": 1,
-        "reviewsReceived": 5,
+        "score": 46,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 6,
         "issuesLinked": 2,
-        "reactions": 49
+        "reactions": 50
       }
     }
   }

@@ -1,22 +1,22 @@
 {
   "username": "as-cii",
-  "lastUpdated": "2026-09-07T23:39:50.267Z",
+  "lastUpdated": "2026-09-12T23:30:09.695Z",
   "aggregatedStats": {
-    "score": 44,
-    "mergedPrs": 1,
+    "score": 49,
+    "mergedPrs": 2,
     "reviews": 9,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 115
+    "reactions": 116
   },
   "orgStats": {
     "zed-industries": {
-      "score": 44,
-      "mergedPrs": 1,
+      "score": 49,
+      "mergedPrs": 2,
       "reviews": 9,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 115
+      "reactions": 116
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 33,
-        "mergedPrs": 0,
+        "score": 38,
+        "mergedPrs": 1,
         "reviews": 7,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 115
+        "reactions": 116
       }
     }
   }

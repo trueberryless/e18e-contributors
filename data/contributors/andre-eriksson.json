@@ -1,32 +1,32 @@
 {
   "username": "andre-eriksson",
-  "lastUpdated": "2026-09-12T05:18:56.756Z",
+  "lastUpdated": "2026-09-12T23:30:09.599Z",
   "aggregatedStats": {
-    "score": 4,
-    "mergedPrs": 0,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "score": 15,
+    "mergedPrs": 1,
+    "reviews": 2,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
     "reactions": 6
   },
   "orgStats": {
     "zed-industries": {
-      "score": 4,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "score": 15,
+      "mergedPrs": 1,
+      "reviews": 2,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
       "reactions": 6
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 4,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 15,
+        "mergedPrs": 1,
+        "reviews": 2,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
         "reactions": 6
       }
     }

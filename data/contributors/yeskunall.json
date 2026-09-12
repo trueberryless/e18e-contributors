@@ -1,13 +1,13 @@
 {
   "username": "yeskunall",
-  "lastUpdated": "2026-09-12T05:18:24.971Z",
+  "lastUpdated": "2026-09-12T23:29:37.952Z",
   "aggregatedStats": {
-    "score": 416,
-    "mergedPrs": 45,
-    "reviews": 30,
-    "reviewsReceived": 33,
-    "issuesLinked": 32,
-    "reactions": 45
+    "score": 472,
+    "mergedPrs": 50,
+    "reviews": 37,
+    "reviewsReceived": 35,
+    "issuesLinked": 36,
+    "reactions": 49
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 2
     },
     "zed-industries": {
-      "score": 416,
-      "mergedPrs": 45,
-      "reviews": 30,
-      "reviewsReceived": 33,
-      "issuesLinked": 32,
-      "reactions": 36
+      "score": 472,
+      "mergedPrs": 50,
+      "reviews": 37,
+      "reviewsReceived": 35,
+      "issuesLinked": 36,
+      "reactions": 40
     }
   },
   "repoStats": {
@@ -102,12 +102,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 416,
-        "mergedPrs": 45,
-        "reviews": 30,
-        "reviewsReceived": 33,
-        "issuesLinked": 32,
-        "reactions": 36
+        "score": 472,
+        "mergedPrs": 50,
+        "reviews": 37,
+        "reviewsReceived": 35,
+        "issuesLinked": 36,
+        "reactions": 40
       }
     }
   }

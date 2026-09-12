@@ -1,22 +1,22 @@
 {
   "username": "elmarco",
-  "lastUpdated": "2026-09-10T16:18:05.217Z",
+  "lastUpdated": "2026-09-12T23:30:10.423Z",
   "aggregatedStats": {
-    "score": 11,
-    "mergedPrs": 1,
+    "score": 18,
+    "mergedPrs": 2,
     "reviews": 1,
     "reviewsReceived": 0,
-    "issuesLinked": 1,
-    "reactions": 12
+    "issuesLinked": 2,
+    "reactions": 13
   },
   "orgStats": {
     "zed-industries": {
-      "score": 11,
-      "mergedPrs": 1,
+      "score": 18,
+      "mergedPrs": 2,
       "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 1,
-      "reactions": 12
+      "issuesLinked": 2,
+      "reactions": 13
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 1
       },
       "zed": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 18,
+        "mergedPrs": 2,
         "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 1,
-        "reactions": 11
+        "issuesLinked": 2,
+        "reactions": 12
       }
     }
   }

@@ -1,32 +1,32 @@
 {
   "username": "CCXLV",
-  "lastUpdated": "2026-09-11T13:11:02.225Z",
+  "lastUpdated": "2026-09-12T23:30:08.236Z",
   "aggregatedStats": {
-    "score": 17,
-    "mergedPrs": 2,
+    "score": 25,
+    "mergedPrs": 3,
     "reviews": 1,
-    "reviewsReceived": 2,
-    "issuesLinked": 1,
+    "reviewsReceived": 3,
+    "issuesLinked": 2,
     "reactions": 4
   },
   "orgStats": {
     "zed-industries": {
-      "score": 17,
-      "mergedPrs": 2,
+      "score": 25,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 2,
-      "issuesLinked": 1,
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
       "reactions": 4
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 17,
-        "mergedPrs": 2,
+        "score": 25,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
         "reactions": 4
       }
     }

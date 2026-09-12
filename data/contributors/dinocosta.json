@@ -1,13 +1,13 @@
 {
   "username": "dinocosta",
-  "lastUpdated": "2026-09-12T05:18:14.454Z",
+  "lastUpdated": "2026-09-12T23:29:27.917Z",
   "aggregatedStats": {
-    "score": 715,
-    "mergedPrs": 53,
-    "reviews": 122,
+    "score": 762,
+    "mergedPrs": 59,
+    "reviews": 126,
     "reviewsReceived": 52,
-    "issuesLinked": 12,
-    "reactions": 83
+    "issuesLinked": 14,
+    "reactions": 86
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 706,
-      "mergedPrs": 52,
-      "reviews": 121,
+      "score": 753,
+      "mergedPrs": 58,
+      "reviews": 125,
       "reviewsReceived": 51,
-      "issuesLinked": 12,
-      "reactions": 83
+      "issuesLinked": 14,
+      "reactions": 86
     }
   },
   "repoStats": {
@@ -48,12 +48,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 706,
-        "mergedPrs": 52,
-        "reviews": 121,
+        "score": 753,
+        "mergedPrs": 58,
+        "reviews": 125,
         "reviewsReceived": 51,
-        "issuesLinked": 12,
-        "reactions": 83
+        "issuesLinked": 14,
+        "reactions": 86
       }
     }
   }

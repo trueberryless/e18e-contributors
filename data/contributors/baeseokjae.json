@@ -1,13 +1,13 @@
 {
   "username": "baeseokjae",
-  "lastUpdated": "2026-09-06T21:10:39.558Z",
+  "lastUpdated": "2026-09-12T23:29:27.813Z",
   "aggregatedStats": {
-    "score": 21,
-    "mergedPrs": 2,
-    "reviews": 2,
+    "score": 31,
+    "mergedPrs": 3,
+    "reviews": 3,
     "reviewsReceived": 3,
-    "issuesLinked": 1,
-    "reactions": 1
+    "issuesLinked": 2,
+    "reactions": 2
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 10,
+      "mergedPrs": 1,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "issuesLinked": 1,
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
+        "issuesLinked": 1,
+        "reactions": 2
       }
     }
   }

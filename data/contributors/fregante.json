@@ -1,12 +1,12 @@
 {
   "username": "fregante",
-  "lastUpdated": "2026-09-12T05:18:14.508Z",
+  "lastUpdated": "2026-09-12T23:29:27.974Z",
   "aggregatedStats": {
-    "score": 1062,
-    "mergedPrs": 89,
-    "reviews": 98,
+    "score": 1087,
+    "mergedPrs": 92,
+    "reviews": 100,
     "reviewsReceived": 6,
-    "issuesLinked": 28,
+    "issuesLinked": 30,
     "reactions": 2610
   },
   "orgStats": {
@@ -43,11 +43,11 @@
       "reactions": 0
     },
     "refined-github": {
-      "score": 1048,
-      "mergedPrs": 88,
-      "reviews": 97,
+      "score": 1073,
+      "mergedPrs": 91,
+      "reviews": 99,
       "reviewsReceived": 5,
-      "issuesLinked": 27,
+      "issuesLinked": 29,
       "reactions": 2578
     },
     "sveltejs": {
@@ -134,11 +134,11 @@
         "reactions": 30
       },
       "refined-github": {
-        "score": 296,
-        "mergedPrs": 4,
-        "reviews": 6,
+        "score": 321,
+        "mergedPrs": 7,
+        "reviews": 8,
         "reviewsReceived": 0,
-        "issuesLinked": 2,
+        "issuesLinked": 4,
         "reactions": 2543
       },
       "shorten-repo-url": {

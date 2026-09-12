@@ -1,13 +1,13 @@
 {
   "username": "rgbkrk",
-  "lastUpdated": "2026-09-12T05:18:16.452Z",
+  "lastUpdated": "2026-09-12T23:29:30.032Z",
   "aggregatedStats": {
-    "score": 217,
-    "mergedPrs": 22,
-    "reviews": 12,
-    "reviewsReceived": 5,
-    "issuesLinked": 5,
-    "reactions": 559
+    "score": 378,
+    "mergedPrs": 46,
+    "reviews": 17,
+    "reviewsReceived": 14,
+    "issuesLinked": 13,
+    "reactions": 567
   },
   "orgStats": {
     "catppuccin": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 212,
-      "mergedPrs": 21,
-      "reviews": 12,
-      "reviewsReceived": 5,
-      "issuesLinked": 5,
-      "reactions": 559
+      "score": 373,
+      "mergedPrs": 45,
+      "reviews": 17,
+      "reviewsReceived": 14,
+      "issuesLinked": 13,
+      "reactions": 567
     }
   },
   "repoStats": {
@@ -66,12 +66,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 212,
-        "mergedPrs": 21,
-        "reviews": 12,
-        "reviewsReceived": 5,
-        "issuesLinked": 5,
-        "reactions": 559
+        "score": 373,
+        "mergedPrs": 45,
+        "reviews": 17,
+        "reviewsReceived": 14,
+        "issuesLinked": 13,
+        "reactions": 567
       }
     }
   }

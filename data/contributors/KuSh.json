@@ -1,13 +1,13 @@
 {
   "username": "KuSh",
-  "lastUpdated": "2026-09-10T19:08:39.524Z",
+  "lastUpdated": "2026-09-12T23:29:38.189Z",
   "aggregatedStats": {
-    "score": 123,
-    "mergedPrs": 18,
-    "reviews": 4,
-    "reviewsReceived": 16,
-    "issuesLinked": 2,
-    "reactions": 17
+    "score": 140,
+    "mergedPrs": 20,
+    "reviews": 5,
+    "reviewsReceived": 18,
+    "issuesLinked": 3,
+    "reactions": 19
   },
   "orgStats": {
     "oxc-project": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 9,
-      "mergedPrs": 1,
-      "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
-      "reactions": 2
+      "score": 26,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 1,
+      "reactions": 4
     }
   },
   "repoStats": {
@@ -116,12 +116,12 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 9,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 2
+        "score": 26,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 3,
+        "issuesLinked": 1,
+        "reactions": 4
       }
     }
   }

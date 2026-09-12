@@ -1,22 +1,22 @@
 {
   "username": "maxbrunsfeld",
-  "lastUpdated": "2026-09-12T05:18:59.044Z",
+  "lastUpdated": "2026-09-12T23:30:11.773Z",
   "aggregatedStats": {
-    "score": 759,
-    "mergedPrs": 79,
-    "reviews": 76,
+    "score": 821,
+    "mergedPrs": 89,
+    "reviews": 77,
     "reviewsReceived": 49,
-    "issuesLinked": 5,
-    "reactions": 767
+    "issuesLinked": 6,
+    "reactions": 839
   },
   "orgStats": {
     "zed-industries": {
-      "score": 759,
-      "mergedPrs": 79,
-      "reviews": 76,
+      "score": 821,
+      "mergedPrs": 89,
+      "reviews": 77,
       "reviewsReceived": 49,
-      "issuesLinked": 5,
-      "reactions": 767
+      "issuesLinked": 6,
+      "reactions": 839
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 1
       },
       "zed": {
-        "score": 759,
-        "mergedPrs": 79,
-        "reviews": 76,
+        "score": 821,
+        "mergedPrs": 89,
+        "reviews": 77,
         "reviewsReceived": 49,
-        "issuesLinked": 5,
-        "reactions": 766
+        "issuesLinked": 6,
+        "reactions": 838
       }
     }
   }

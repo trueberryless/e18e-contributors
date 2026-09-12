@@ -1,13 +1,13 @@
 {
   "username": "maxdeviant",
-  "lastUpdated": "2026-09-12T05:18:14.729Z",
+  "lastUpdated": "2026-09-12T23:29:28.229Z",
   "aggregatedStats": {
-    "score": 724,
-    "mergedPrs": 70,
-    "reviews": 84,
-    "reviewsReceived": 50,
-    "issuesLinked": 2,
-    "reactions": 681
+    "score": 923,
+    "mergedPrs": 105,
+    "reviews": 91,
+    "reviewsReceived": 51,
+    "issuesLinked": 3,
+    "reactions": 684
   },
   "orgStats": {
     "biomejs": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 716,
-      "mergedPrs": 69,
-      "reviews": 83,
-      "reviewsReceived": 50,
-      "issuesLinked": 2,
-      "reactions": 681
+      "score": 915,
+      "mergedPrs": 104,
+      "reviews": 90,
+      "reviewsReceived": 51,
+      "issuesLinked": 3,
+      "reactions": 684
     }
   },
   "repoStats": {
@@ -66,12 +66,12 @@
         "reactions": 20
       },
       "zed": {
-        "score": 714,
-        "mergedPrs": 69,
-        "reviews": 83,
-        "reviewsReceived": 50,
-        "issuesLinked": 2,
-        "reactions": 661
+        "score": 913,
+        "mergedPrs": 104,
+        "reviews": 90,
+        "reviewsReceived": 51,
+        "issuesLinked": 3,
+        "reactions": 664
       }
     }
   }

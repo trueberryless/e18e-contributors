@@ -1,33 +1,33 @@
 {
   "username": "tacshi",
-  "lastUpdated": "2026-09-11T13:11:05.099Z",
+  "lastUpdated": "2026-09-12T23:30:12.972Z",
   "aggregatedStats": {
-    "score": 18,
-    "mergedPrs": 1,
+    "score": 45,
+    "mergedPrs": 4,
     "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 73
+    "reviewsReceived": 2,
+    "issuesLinked": 4,
+    "reactions": 116
   },
   "orgStats": {
     "zed-industries": {
-      "score": 18,
-      "mergedPrs": 1,
+      "score": 45,
+      "mergedPrs": 4,
       "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 73
+      "reviewsReceived": 2,
+      "issuesLinked": 4,
+      "reactions": 116
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 18,
-        "mergedPrs": 1,
+        "score": 45,
+        "mergedPrs": 4,
         "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 73
+        "reviewsReceived": 2,
+        "issuesLinked": 4,
+        "reactions": 116
       }
     }
   }

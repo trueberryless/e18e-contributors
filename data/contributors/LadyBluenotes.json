@@ -1,20 +1,20 @@
 {
   "username": "LadyBluenotes",
-  "lastUpdated": "2026-09-12T05:18:34.862Z",
+  "lastUpdated": "2026-09-12T23:29:47.823Z",
   "aggregatedStats": {
-    "score": 1337,
-    "mergedPrs": 173,
+    "score": 1348,
+    "mergedPrs": 175,
     "reviews": 114,
-    "reviewsReceived": 65,
+    "reviewsReceived": 66,
     "issuesLinked": 32,
     "reactions": 13
   },
   "orgStats": {
     "tanstack": {
-      "score": 1337,
-      "mergedPrs": 173,
+      "score": 1348,
+      "mergedPrs": 175,
       "reviews": 114,
-      "reviewsReceived": 65,
+      "reviewsReceived": 66,
       "issuesLinked": 32,
       "reactions": 10
     },
@@ -86,8 +86,8 @@
         "reactions": 0
       },
       "intent": {
-        "score": 630,
-        "mergedPrs": 83,
+        "score": 635,
+        "mergedPrs": 84,
         "reviews": 47,
         "reviewsReceived": 20,
         "issuesLinked": 27,
@@ -134,10 +134,10 @@
         "reactions": 0
       },
       "router": {
-        "score": 43,
-        "mergedPrs": 5,
+        "score": 49,
+        "mergedPrs": 6,
         "reviews": 4,
-        "reviewsReceived": 5,
+        "reviewsReceived": 6,
         "issuesLinked": 0,
         "reactions": 6
       },

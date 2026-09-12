@@ -1,22 +1,22 @@
 {
   "username": "ozacod",
-  "lastUpdated": "2026-09-12T05:18:59.500Z",
+  "lastUpdated": "2026-09-12T23:30:12.220Z",
   "aggregatedStats": {
-    "score": 158,
-    "mergedPrs": 11,
+    "score": 220,
+    "mergedPrs": 22,
     "reviews": 2,
-    "reviewsReceived": 7,
+    "reviewsReceived": 12,
     "issuesLinked": 1,
-    "reactions": 883
+    "reactions": 897
   },
   "orgStats": {
     "zed-industries": {
-      "score": 158,
-      "mergedPrs": 11,
+      "score": 220,
+      "mergedPrs": 22,
       "reviews": 2,
-      "reviewsReceived": 7,
+      "reviewsReceived": 12,
       "issuesLinked": 1,
-      "reactions": 883
+      "reactions": 897
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 1
       },
       "zed": {
-        "score": 158,
-        "mergedPrs": 11,
+        "score": 220,
+        "mergedPrs": 22,
         "reviews": 2,
-        "reviewsReceived": 7,
+        "reviewsReceived": 12,
         "issuesLinked": 1,
-        "reactions": 882
+        "reactions": 896
       }
     }
   }

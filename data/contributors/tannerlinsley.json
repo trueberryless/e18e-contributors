@@ -1,21 +1,21 @@
 {
   "username": "tannerlinsley",
-  "lastUpdated": "2026-09-12T05:18:37.628Z",
+  "lastUpdated": "2026-09-12T23:29:50.442Z",
   "aggregatedStats": {
-    "score": 2615,
-    "mergedPrs": 363,
+    "score": 2627,
+    "mergedPrs": 365,
     "reviews": 186,
     "reviewsReceived": 36,
-    "issuesLinked": 52,
+    "issuesLinked": 53,
     "reactions": 1021
   },
   "orgStats": {
     "tanstack": {
-      "score": 2615,
-      "mergedPrs": 363,
+      "score": 2627,
+      "mergedPrs": 365,
       "reviews": 186,
       "reviewsReceived": 36,
-      "issuesLinked": 52,
+      "issuesLinked": 53,
       "reactions": 1021
     },
     "withastro": {
@@ -134,8 +134,8 @@
         "reactions": 11
       },
       "redact": {
-        "score": 79,
-        "mergedPrs": 14,
+        "score": 84,
+        "mergedPrs": 15,
         "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
@@ -166,11 +166,11 @@
         "reactions": 103
       },
       "tanstack.com": {
-        "score": 865,
-        "mergedPrs": 151,
+        "score": 872,
+        "mergedPrs": 152,
         "reviews": 23,
         "reviewsReceived": 11,
-        "issuesLinked": 12,
+        "issuesLinked": 13,
         "reactions": 56
       },
       "virtual": {
