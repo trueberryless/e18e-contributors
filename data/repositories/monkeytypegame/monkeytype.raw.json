@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T08:14:56.130Z",
+    "lastRunAt": "2026-09-12T00:31:19.338Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wNS0xNlQxMDowMDo1MFrOGPbq3Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -51012,6 +51012,20 @@
       "number": 8399,
       "user": {
         "login": "Sjmarf",
+        "type": "User"
+      }
+    },
+    "8400": {
+      "number": 8400,
+      "user": {
+        "login": "mackeymc",
+        "type": "User"
+      }
+    },
+    "8401": {
+      "number": 8401,
+      "user": {
+        "login": "straussg979",
         "type": "User"
       }
     }
@@ -183615,6 +183629,42 @@
       },
       "closingIssuesReferences": {
         "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "8400": {
+      "number": 8400,
+      "updatedAt": "2026-09-11T20:32:24Z",
+      "merged": false,
+      "author": {
+        "login": "mackeymc",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "8401": {
+      "number": 8401,
+      "updatedAt": "2026-09-11T21:37:01Z",
+      "merged": false,
+      "author": {
+        "login": "straussg979",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0

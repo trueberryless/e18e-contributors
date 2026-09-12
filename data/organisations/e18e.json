@@ -1,6 +1,6 @@
 {
   "id": "e18e",
-  "updatedAt": "2026-09-11T03:27:52.275Z",
+  "updatedAt": "2026-09-12T00:29:51.554Z",
   "stats": {
     "20jasper": {
       "score": 1,
@@ -11,9 +11,9 @@
       "reactions": 7
     },
     "43081j": {
-      "score": 3218,
+      "score": 3227,
       "mergedPrs": 264,
-      "reviews": 590,
+      "reviews": 593,
       "reviewsReceived": 44,
       "issuesLinked": 29,
       "reactions": 255
@@ -610,6 +610,14 @@
       "issuesLinked": 0,
       "reactions": 5
     },
+    "andreww2012": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "andrico1234": {
       "score": 0,
       "mergedPrs": 0,
@@ -867,11 +875,11 @@
       "reactions": 2
     },
     "dreyfus92": {
-      "score": 1020,
-      "mergedPrs": 88,
+      "score": 1046,
+      "mergedPrs": 91,
       "reviews": 116,
-      "reviewsReceived": 80,
-      "issuesLinked": 75,
+      "reviewsReceived": 83,
+      "issuesLinked": 79,
       "reactions": 24
     },
     "dsbert": {
