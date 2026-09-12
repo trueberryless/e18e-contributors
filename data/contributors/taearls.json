@@ -1,13 +1,13 @@
 {
   "username": "taearls",
-  "lastUpdated": "2026-09-11T08:25:15.205Z",
+  "lastUpdated": "2026-09-12T21:20:39.406Z",
   "aggregatedStats": {
-    "score": 45,
-    "mergedPrs": 5,
-    "reviews": 3,
-    "reviewsReceived": 6,
-    "issuesLinked": 2,
-    "reactions": 11
+    "score": 64,
+    "mergedPrs": 6,
+    "reviews": 4,
+    "reviewsReceived": 10,
+    "issuesLinked": 5,
+    "reactions": 15
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 26,
-      "mergedPrs": 3,
-      "reviews": 2,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
-      "reactions": 11
+      "score": 45,
+      "mergedPrs": 4,
+      "reviews": 3,
+      "reviewsReceived": 8,
+      "issuesLinked": 3,
+      "reactions": 15
     },
     "vitejs": {
       "score": 19,
@@ -48,12 +48,12 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 26,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
-        "reactions": 11
+        "score": 45,
+        "mergedPrs": 4,
+        "reviews": 3,
+        "reviewsReceived": 8,
+        "issuesLinked": 3,
+        "reactions": 15
       },
       "oxc-vscode": {
         "score": 0,

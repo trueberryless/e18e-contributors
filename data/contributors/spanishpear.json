@@ -1,12 +1,12 @@
 {
   "username": "spanishpear",
-  "lastUpdated": "2026-09-12T00:32:59.892Z",
+  "lastUpdated": "2026-09-12T21:20:35.825Z",
   "aggregatedStats": {
-    "score": 30,
-    "mergedPrs": 4,
-    "reviews": 2,
-    "reviewsReceived": 2,
-    "issuesLinked": 1,
+    "score": 41,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 3,
+    "issuesLinked": 2,
     "reactions": 1
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 1
     },
     "oxc-project": {
-      "score": 17,
-      "mergedPrs": 2,
-      "reviews": 2,
-      "reviewsReceived": 1,
-      "issuesLinked": 0,
+      "score": 28,
+      "mergedPrs": 3,
+      "reviews": 3,
+      "reviewsReceived": 2,
+      "issuesLinked": 1,
       "reactions": 0
     }
   },
@@ -76,11 +76,11 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 17,
-        "mergedPrs": 2,
-        "reviews": 2,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
+        "score": 28,
+        "mergedPrs": 3,
+        "reviews": 3,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       }
     }

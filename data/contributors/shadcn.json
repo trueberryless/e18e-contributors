@@ -1,13 +1,13 @@
 {
   "username": "shadcn",
-  "lastUpdated": "2026-09-10T16:17:36.588Z",
+  "lastUpdated": "2026-09-12T21:20:48.332Z",
   "aggregatedStats": {
-    "score": 4355,
-    "mergedPrs": 501,
-    "reviews": 522,
+    "score": 4374,
+    "mergedPrs": 504,
+    "reviews": 523,
     "reviewsReceived": 12,
     "issuesLinked": 25,
-    "reactions": 2220
+    "reactions": 2232
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "shadcn-ui": {
-      "score": 4355,
-      "mergedPrs": 501,
-      "reviews": 522,
+      "score": 4374,
+      "mergedPrs": 504,
+      "reviews": 523,
       "reviewsReceived": 12,
       "issuesLinked": 25,
-      "reactions": 2220
+      "reactions": 2232
     }
   },
   "repoStats": {
@@ -56,12 +56,12 @@
         "reactions": 0
       },
       "cn": {
-        "score": 36,
-        "mergedPrs": 6,
-        "reviews": 2,
+        "score": 44,
+        "mergedPrs": 7,
+        "reviews": 3,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 0
+        "reactions": 4
       },
       "registry-template": {
         "score": 3,
@@ -80,12 +80,12 @@
         "reactions": 0
       },
       "ui": {
-        "score": 4302,
-        "mergedPrs": 494,
+        "score": 4313,
+        "mergedPrs": 496,
         "reviews": 516,
         "reviewsReceived": 12,
         "issuesLinked": 25,
-        "reactions": 2220
+        "reactions": 2228
       }
     }
   }

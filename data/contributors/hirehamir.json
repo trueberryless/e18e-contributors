@@ -1,12 +1,12 @@
 {
   "username": "hirehamir",
-  "lastUpdated": "2026-09-12T00:32:59.604Z",
+  "lastUpdated": "2026-09-12T21:20:34.975Z",
   "aggregatedStats": {
-    "score": 151,
-    "mergedPrs": 16,
-    "reviews": 11,
-    "reviewsReceived": 13,
-    "issuesLinked": 12,
+    "score": 186,
+    "mergedPrs": 20,
+    "reviews": 12,
+    "reviewsReceived": 17,
+    "issuesLinked": 16,
     "reactions": 7
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 14,
-      "mergedPrs": 1,
-      "reviews": 2,
-      "reviewsReceived": 0,
-      "issuesLinked": 1,
+      "score": 49,
+      "mergedPrs": 5,
+      "reviews": 3,
+      "reviewsReceived": 4,
+      "issuesLinked": 5,
       "reactions": 7
     },
     "shadcn-ui": {
@@ -88,11 +88,11 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 1,
+        "score": 46,
+        "mergedPrs": 5,
+        "reviews": 2,
+        "reviewsReceived": 4,
+        "issuesLinked": 5,
         "reactions": 7
       },
       "website": {

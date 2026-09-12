@@ -1,22 +1,22 @@
 {
   "username": "Sysix",
-  "lastUpdated": "2026-09-12T00:33:10.725Z",
+  "lastUpdated": "2026-09-12T21:20:45.716Z",
   "aggregatedStats": {
-    "score": 4134,
-    "mergedPrs": 603,
-    "reviews": 217,
-    "reviewsReceived": 256,
-    "issuesLinked": 90,
-    "reactions": 315
+    "score": 4413,
+    "mergedPrs": 643,
+    "reviews": 232,
+    "reviewsReceived": 286,
+    "issuesLinked": 92,
+    "reactions": 320
   },
   "orgStats": {
     "oxc-project": {
-      "score": 4116,
-      "mergedPrs": 600,
-      "reviews": 217,
-      "reviewsReceived": 253,
-      "issuesLinked": 90,
-      "reactions": 315
+      "score": 4395,
+      "mergedPrs": 640,
+      "reviews": 232,
+      "reviewsReceived": 283,
+      "issuesLinked": 92,
+      "reactions": 320
     },
     "vitejs": {
       "score": 0,
@@ -54,12 +54,12 @@
         "reactions": 13
       },
       "oxc": {
-        "score": 2548,
-        "mergedPrs": 355,
-        "reviews": 137,
-        "reviewsReceived": 237,
-        "issuesLinked": 49,
-        "reactions": 265
+        "score": 2824,
+        "mergedPrs": 395,
+        "reviews": 151,
+        "reviewsReceived": 267,
+        "issuesLinked": 51,
+        "reactions": 270
       },
       "oxc-intellij-plugin": {
         "score": 0,
@@ -78,9 +78,9 @@
         "reactions": 0
       },
       "oxc-vscode": {
-        "score": 364,
+        "score": 367,
         "mergedPrs": 52,
-        "reviews": 25,
+        "reviews": 26,
         "reviewsReceived": 2,
         "issuesLinked": 13,
         "reactions": 14
