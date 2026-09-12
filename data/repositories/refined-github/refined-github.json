@@ -1,6 +1,6 @@
 {
   "id": "refined-github/refined-github",
-  "updatedAt": "2026-09-12T04:58:02.366Z",
+  "updatedAt": "2026-09-12T23:11:13.566Z",
   "stats": {
     "14113": {
       "score": 0,
@@ -1955,9 +1955,9 @@
       "reactions": 1
     },
     "IdrisGit": {
-      "score": 8,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 1,
       "reactions": 0
@@ -4377,6 +4377,14 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 1
+    },
+    "TheNetherWatcher": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     },
     "TheOnlyTails": {
       "score": 0,
@@ -7131,12 +7139,12 @@
       "reactions": 0
     },
     "cpmsmith": {
-      "score": 0,
+      "score": 1,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 4
+      "reactions": 5
     },
     "cpojer": {
       "score": 0,
@@ -8835,11 +8843,11 @@
       "reactions": 35
     },
     "fregante": {
-      "score": 296,
-      "mergedPrs": 4,
-      "reviews": 6,
+      "score": 321,
+      "mergedPrs": 7,
+      "reviews": 8,
       "reviewsReceived": 0,
-      "issuesLinked": 2,
+      "issuesLinked": 4,
       "reactions": 2543
     },
     "fry9": {
@@ -17075,8 +17083,8 @@
       "reactions": 2
     },
     "tris203": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,

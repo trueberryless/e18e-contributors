@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T05:08:01.314Z",
+    "lastRunAt": "2026-09-12T23:17:41.754Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMi0wM1QwMzoyNDo0OFrOIJWaww==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -9149,6 +9149,37 @@
     },
     "1267": {
       "number": 1267,
+      "user": {
+        "login": "tannerlinsley",
+        "type": "User"
+      }
+    },
+    "1268": {
+      "number": 1268,
+      "user": {
+        "login": "sentry[bot]",
+        "type": "Bot"
+      }
+    },
+    "1269": {
+      "number": 1269,
+      "user": {
+        "login": "lesha1201",
+        "type": "User"
+      }
+    },
+    "1270": {
+      "number": 1270,
+      "user": {
+        "login": "Sheraff",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "1271": {
+      "number": 1271,
       "user": {
         "login": "tannerlinsley",
         "type": "User"
@@ -33721,6 +33752,75 @@
       },
       "closingIssuesReferences": {
         "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1268": {
+      "number": 1268,
+      "updatedAt": "2026-09-12T11:03:27Z",
+      "merged": false,
+      "author": {
+        "login": "sentry",
+        "__typename": "Bot"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1270": {
+      "number": 1270,
+      "updatedAt": "2026-09-12T15:05:48Z",
+      "merged": true,
+      "author": {
+        "login": "Sheraff",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "schiller-manuel",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "1271": {
+      "number": 1271,
+      "updatedAt": "2026-09-12T15:53:28Z",
+      "merged": true,
+      "author": {
+        "login": "tannerlinsley",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0
