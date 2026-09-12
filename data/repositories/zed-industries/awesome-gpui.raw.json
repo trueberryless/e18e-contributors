@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T13:03:01.566Z",
+    "lastRunAt": "2026-09-12T05:13:05.521Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMi0wMVQyMDoyNjo0N1rOZb_Whg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -721,6 +721,20 @@
       "number": 97,
       "user": {
         "login": "nolight132",
+        "type": "User"
+      }
+    },
+    "98": {
+      "number": 98,
+      "user": {
+        "login": "JosephTLyons",
+        "type": "User"
+      }
+    },
+    "99": {
+      "number": 99,
+      "user": {
+        "login": "JosephTLyons",
         "type": "User"
       }
     }
@@ -2374,10 +2388,46 @@
     },
     "97": {
       "number": 97,
-      "updatedAt": "2026-09-11T08:13:26Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T17:41:02Z",
+      "merged": true,
       "author": {
         "login": "nolight132",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "98": {
+      "number": 98,
+      "updatedAt": "2026-09-11T17:37:18Z",
+      "merged": true,
+      "author": {
+        "login": "JosephTLyons",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "99": {
+      "number": 99,
+      "updatedAt": "2026-09-11T17:37:49Z",
+      "merged": true,
+      "author": {
+        "login": "JosephTLyons",
         "__typename": "User"
       },
       "closingIssuesReferences": {

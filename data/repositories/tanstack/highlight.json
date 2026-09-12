@@ -1,10 +1,10 @@
 {
   "id": "tanstack/highlight",
-  "updatedAt": "2026-09-11T12:58:02.968Z",
+  "updatedAt": "2026-09-12T05:08:07.416Z",
   "stats": {
     "AlemTuzlak": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "lukasbindreiter": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 13,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -43,11 +43,11 @@
       "reactions": 0
     },
     "tannerlinsley": {
-      "score": 34,
-      "mergedPrs": 5,
+      "score": 68,
+      "mergedPrs": 11,
       "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 3,
+      "issuesLinked": 5,
       "reactions": 0
     }
   }

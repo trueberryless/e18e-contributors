@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T08:17:53.804Z",
+    "lastRunAt": "2026-09-12T04:58:02.366Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wOS0wNFQxOTo0NjoyMVrPAAAAAQj4Who=",
     "prBackfillComplete": false,
     "issuesBackfillComplete": true
@@ -80640,6 +80640,9 @@
       "user": {
         "login": "fregante",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "10039": {
@@ -80898,9 +80901,70 @@
         "login": "IdrisGit",
         "type": "User"
       }
+    },
+    "10075": {
+      "number": 10075,
+      "user": {
+        "login": "fregante",
+        "type": "User"
+      }
+    },
+    "10076": {
+      "number": 10076,
+      "user": {
+        "login": "tris203",
+        "type": "User"
+      }
+    },
+    "10077": {
+      "number": 10077,
+      "user": {
+        "login": "tris203",
+        "type": "User"
+      }
     }
   },
   "prs": {
+    "10029": {
+      "number": 10029,
+      "updatedAt": "2026-09-11T08:40:23Z",
+      "merged": true,
+      "author": {
+        "login": "wakamex",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "wakamex",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
     "10032": {
       "number": 10032,
       "updatedAt": "2026-09-09T06:12:04Z",
@@ -80945,10 +81009,36 @@
         ]
       }
     },
+    "10040": {
+      "number": 10040,
+      "updatedAt": "2026-09-11T08:42:00Z",
+      "merged": true,
+      "author": {
+        "login": "fregante",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
     "10042": {
       "number": 10042,
-      "updatedAt": "2026-09-11T08:17:46Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T08:25:33Z",
+      "merged": true,
       "author": {
         "login": "fregante",
         "__typename": "User"
@@ -80973,8 +81063,8 @@
     },
     "10045": {
       "number": 10045,
-      "updatedAt": "2026-09-08T15:30:34Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T08:39:20Z",
+      "merged": true,
       "author": {
         "login": "moraesc",
         "__typename": "User"
@@ -81027,8 +81117,8 @@
     },
     "10046": {
       "number": 10046,
-      "updatedAt": "2026-09-05T05:35:43Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T08:39:59Z",
+      "merged": true,
       "author": {
         "login": "HasselNot7",
         "__typename": "User"
@@ -81172,7 +81262,7 @@
     },
     "10054": {
       "number": 10054,
-      "updatedAt": "2026-09-09T05:34:57Z",
+      "updatedAt": "2026-09-11T14:19:39Z",
       "merged": false,
       "author": {
         "login": "fregante",
@@ -81237,8 +81327,8 @@
     },
     "10061": {
       "number": 10061,
-      "updatedAt": "2026-09-08T17:36:37Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T08:39:26Z",
+      "merged": true,
       "author": {
         "login": "britsync07-prog",
         "__typename": "User"
@@ -81317,7 +81407,7 @@
     },
     "10072": {
       "number": 10072,
-      "updatedAt": "2026-09-11T06:10:22Z",
+      "updatedAt": "2026-09-11T16:08:36Z",
       "merged": false,
       "author": {
         "login": "IdrisGit",
@@ -81330,19 +81420,117 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "IdrisGit",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "IdrisGit",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "10074": {
       "number": 10074,
-      "updatedAt": "2026-09-11T06:25:47Z",
-      "merged": false,
+      "updatedAt": "2026-09-11T08:31:59Z",
+      "merged": true,
       "author": {
         "login": "IdrisGit",
         "__typename": "User"
       },
       "closingIssuesReferences": {
         "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "fregante",
+              "__typename": "User"
+            }
+          }
+        ]
+      }
+    },
+    "10075": {
+      "number": 10075,
+      "updatedAt": "2026-09-11T08:49:15Z",
+      "merged": true,
+      "author": {
+        "login": "fregante",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "10076": {
+      "number": 10076,
+      "updatedAt": "2026-09-11T20:55:50Z",
+      "merged": false,
+      "author": {
+        "login": "tris203",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "10077": {
+      "number": 10077,
+      "updatedAt": "2026-09-11T21:14:43Z",
+      "merged": false,
+      "author": {
+        "login": "tris203",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
       },
       "reactions": {
         "totalCount": 0

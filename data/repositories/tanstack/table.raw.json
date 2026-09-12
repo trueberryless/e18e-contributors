@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T12:57:54.369Z",
+    "lastRunAt": "2026-09-12T05:07:59.410Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNy0wMS0wOVQxODo1ODo1M1rOBdmpmA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -33200,6 +33200,13 @@
       "number": 6588,
       "user": {
         "login": "KevinVandy",
+        "type": "User"
+      }
+    },
+    "6589": {
+      "number": 6589,
+      "user": {
+        "login": "cpruijsen",
         "type": "User"
       }
     }
@@ -73344,7 +73351,7 @@
     },
     "6587": {
       "number": 6587,
-      "updatedAt": "2026-09-11T10:49:08Z",
+      "updatedAt": "2026-09-11T13:59:32Z",
       "merged": false,
       "author": {
         "login": "lx3133584",
@@ -73370,6 +73377,24 @@
       },
       "closingIssuesReferences": {
         "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "6589": {
+      "number": 6589,
+      "updatedAt": "2026-09-11T13:04:33Z",
+      "merged": false,
+      "author": {
+        "login": "cpruijsen",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0
