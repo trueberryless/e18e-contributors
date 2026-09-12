@@ -1,13 +1,13 @@
 {
   "username": "dreyfus92",
-  "lastUpdated": "2026-09-12T16:31:03.894Z",
+  "lastUpdated": "2026-09-12T18:40:33.455Z",
   "aggregatedStats": {
-    "score": 7222,
+    "score": 7223,
     "mergedPrs": 546,
     "reviews": 1200,
     "reviewsReceived": 681,
     "issuesLinked": 100,
-    "reactions": 116
+    "reactions": 118
   },
   "orgStats": {
     "biomejs": {
@@ -27,12 +27,12 @@
       "reactions": 53
     },
     "e18e": {
-      "score": 1046,
+      "score": 1047,
       "mergedPrs": 91,
       "reviews": 116,
       "reviewsReceived": 83,
       "issuesLinked": 79,
-      "reactions": 24
+      "reactions": 26
     },
     "npmx-dev": {
       "score": 6,
@@ -119,7 +119,7 @@
         "reviews": 68,
         "reviewsReceived": 57,
         "issuesLinked": 64,
-        "reactions": 15
+        "reactions": 17
       },
       "replacements.fyi": {
         "score": 34,
