@@ -1,10 +1,10 @@
 {
   "username": "wooorm",
-  "lastUpdated": "2026-09-08T06:25:19.428Z",
+  "lastUpdated": "2026-09-12T16:31:19.099Z",
   "aggregatedStats": {
-    "score": 3,
+    "score": 6,
     "mergedPrs": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 2
@@ -19,6 +19,14 @@
       "reactions": 2
     },
     "vuejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
+    "withastro": {
       "score": 3,
       "mergedPrs": 0,
       "reviews": 1,
@@ -40,6 +48,16 @@
     },
     "vuejs": {
       "core": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "withastro": {
+      "astro": {
         "score": 3,
         "mergedPrs": 0,
         "reviews": 1,

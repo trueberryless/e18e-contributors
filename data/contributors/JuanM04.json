@@ -1,13 +1,13 @@
 {
   "username": "JuanM04",
-  "lastUpdated": "2026-09-11T19:38:44.034Z",
+  "lastUpdated": "2026-09-12T16:31:06.420Z",
   "aggregatedStats": {
-    "score": 110,
-    "mergedPrs": 13,
-    "reviews": 5,
-    "reviewsReceived": 13,
-    "issuesLinked": 7,
-    "reactions": 36
+    "score": 206,
+    "mergedPrs": 24,
+    "reviews": 11,
+    "reviewsReceived": 22,
+    "issuesLinked": 14,
+    "reactions": 41
   },
   "orgStats": {
     "monkeytypegame": {
@@ -51,12 +51,12 @@
       "reactions": 4
     },
     "withastro": {
-      "score": 75,
-      "mergedPrs": 9,
-      "reviews": 4,
-      "reviewsReceived": 9,
-      "issuesLinked": 3,
-      "reactions": 29
+      "score": 171,
+      "mergedPrs": 20,
+      "reviews": 10,
+      "reviewsReceived": 18,
+      "issuesLinked": 10,
+      "reactions": 34
     }
   },
   "repoStats": {
@@ -120,12 +120,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 19,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 1,
-        "reactions": 22
+        "score": 116,
+        "mergedPrs": 13,
+        "reviews": 7,
+        "reviewsReceived": 11,
+        "issuesLinked": 8,
+        "reactions": 27
       },
       "compiler": {
         "score": 14,

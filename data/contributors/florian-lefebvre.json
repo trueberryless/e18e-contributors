@@ -1,13 +1,13 @@
 {
   "username": "florian-lefebvre",
-  "lastUpdated": "2026-09-11T19:38:41.492Z",
+  "lastUpdated": "2026-09-12T16:31:04.453Z",
   "aggregatedStats": {
-    "score": 6542,
-    "mergedPrs": 519,
-    "reviews": 1013,
-    "reviewsReceived": 730,
+    "score": 6573,
+    "mergedPrs": 523,
+    "reviews": 1014,
+    "reviewsReceived": 738,
     "issuesLinked": 72,
-    "reactions": 335
+    "reactions": 336
   },
   "orgStats": {
     "bombshell-dev": {
@@ -83,12 +83,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 6412,
-      "mergedPrs": 509,
-      "reviews": 994,
-      "reviewsReceived": 716,
+      "score": 6443,
+      "mergedPrs": 513,
+      "reviews": 995,
+      "reviewsReceived": 724,
       "issuesLinked": 70,
-      "reactions": 287
+      "reactions": 288
     }
   },
   "repoStats": {
@@ -296,12 +296,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 935,
-        "mergedPrs": 95,
-        "reviews": 104,
-        "reviewsReceived": 144,
+        "score": 966,
+        "mergedPrs": 99,
+        "reviews": 105,
+        "reviewsReceived": 152,
         "issuesLinked": 1,
-        "reactions": 21
+        "reactions": 22
       },
       "language-tools": {
         "score": 3,

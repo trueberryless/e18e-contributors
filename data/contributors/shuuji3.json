@@ -1,13 +1,13 @@
 {
   "username": "shuuji3",
-  "lastUpdated": "2026-09-11T19:38:45.018Z",
+  "lastUpdated": "2026-09-12T16:31:07.155Z",
   "aggregatedStats": {
-    "score": 2209,
-    "mergedPrs": 255,
-    "reviews": 79,
-    "reviewsReceived": 262,
+    "score": 2300,
+    "mergedPrs": 265,
+    "reviews": 87,
+    "reviewsReceived": 279,
     "issuesLinked": 215,
-    "reactions": 50
+    "reactions": 52
   },
   "orgStats": {
     "npmx-dev": {
@@ -51,12 +51,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 76,
-      "mergedPrs": 3,
-      "reviews": 18,
-      "reviewsReceived": 5,
+      "score": 167,
+      "mergedPrs": 13,
+      "reviews": 26,
+      "reviewsReceived": 22,
       "issuesLinked": 1,
-      "reactions": 2
+      "reactions": 4
     }
   },
   "repoStats": {
@@ -120,12 +120,12 @@
     },
     "withastro": {
       "docs": {
-        "score": 76,
-        "mergedPrs": 3,
-        "reviews": 18,
-        "reviewsReceived": 5,
+        "score": 167,
+        "mergedPrs": 13,
+        "reviews": 26,
+        "reviewsReceived": 22,
         "issuesLinked": 1,
-        "reactions": 2
+        "reactions": 4
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "username": "jhoward321",
-  "lastUpdated": "2026-08-19T23:20:20.144Z",
+  "lastUpdated": "2026-09-12T16:31:13.830Z",
   "aggregatedStats": {
     "score": 0,
     "mergedPrs": 0,
@@ -17,11 +17,29 @@
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
+    },
+    "withastro": {
+      "score": 0,
+      "mergedPrs": 0,
+      "reviews": 0,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     }
   },
   "repoStats": {
     "refined-github": {
       "refined-github": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "withastro": {
+      "starlight": {
         "score": 0,
         "mergedPrs": 0,
         "reviews": 0,

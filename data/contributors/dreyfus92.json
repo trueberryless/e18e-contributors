@@ -1,13 +1,13 @@
 {
   "username": "dreyfus92",
-  "lastUpdated": "2026-09-12T00:32:59.537Z",
+  "lastUpdated": "2026-09-12T16:31:03.894Z",
   "aggregatedStats": {
-    "score": 5929,
-    "mergedPrs": 441,
-    "reviews": 1006,
-    "reviewsReceived": 499,
-    "issuesLinked": 98,
-    "reactions": 114
+    "score": 7222,
+    "mergedPrs": 546,
+    "reviews": 1200,
+    "reviewsReceived": 681,
+    "issuesLinked": 100,
+    "reactions": 116
   },
   "orgStats": {
     "biomejs": {
@@ -51,12 +51,12 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 4361,
-      "mergedPrs": 320,
-      "reviews": 791,
-      "reviewsReceived": 378,
-      "issuesLinked": 4,
-      "reactions": 21
+      "score": 5654,
+      "mergedPrs": 425,
+      "reviews": 985,
+      "reviewsReceived": 560,
+      "issuesLinked": 6,
+      "reactions": 23
     }
   },
   "repoStats": {
@@ -184,12 +184,12 @@
         "reactions": 0
       },
       "docs": {
-        "score": 2943,
-        "mergedPrs": 168,
-        "reviews": 636,
-        "reviewsReceived": 194,
-        "issuesLinked": 0,
-        "reactions": 8
+        "score": 4236,
+        "mergedPrs": 273,
+        "reviews": 830,
+        "reviewsReceived": 376,
+        "issuesLinked": 2,
+        "reactions": 10
       },
       "language-tools": {
         "score": 6,

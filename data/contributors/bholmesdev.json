@@ -1,13 +1,13 @@
 {
   "username": "bholmesdev",
-  "lastUpdated": "2026-09-11T19:38:52.237Z",
+  "lastUpdated": "2026-09-12T16:31:12.717Z",
   "aggregatedStats": {
-    "score": 1705,
-    "mergedPrs": 164,
-    "reviews": 183,
-    "reviewsReceived": 230,
-    "issuesLinked": 34,
-    "reactions": 377
+    "score": 2123,
+    "mergedPrs": 198,
+    "reviews": 241,
+    "reviewsReceived": 277,
+    "issuesLinked": 47,
+    "reactions": 393
   },
   "orgStats": {
     "pnpm": {
@@ -27,12 +27,12 @@
       "reactions": 10
     },
     "withastro": {
-      "score": 1676,
-      "mergedPrs": 160,
-      "reviews": 182,
-      "reviewsReceived": 225,
-      "issuesLinked": 34,
-      "reactions": 365
+      "score": 2094,
+      "mergedPrs": 194,
+      "reviews": 240,
+      "reviewsReceived": 272,
+      "issuesLinked": 47,
+      "reactions": 381
     }
   },
   "repoStats": {
@@ -74,12 +74,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 1363,
-        "mergedPrs": 134,
-        "reviews": 134,
-        "reviewsReceived": 204,
-        "issuesLinked": 33,
-        "reactions": 207
+        "score": 1781,
+        "mergedPrs": 168,
+        "reviews": 192,
+        "reviewsReceived": 251,
+        "issuesLinked": 46,
+        "reactions": 223
       },
       "astro.build": {
         "score": 71,

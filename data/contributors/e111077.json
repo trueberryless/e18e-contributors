@@ -1,13 +1,13 @@
 {
   "username": "e111077",
-  "lastUpdated": "2026-09-11T19:38:51.380Z",
+  "lastUpdated": "2026-09-12T16:31:12.107Z",
   "aggregatedStats": {
-    "score": 20,
-    "mergedPrs": 2,
-    "reviews": 1,
-    "reviewsReceived": 3,
-    "issuesLinked": 1,
-    "reactions": 16
+    "score": 45,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 5,
+    "issuesLinked": 2,
+    "reactions": 19
   },
   "orgStats": {
     "oxc-project": {
@@ -27,12 +27,12 @@
       "reactions": 8
     },
     "withastro": {
-      "score": 19,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 3,
-      "issuesLinked": 1,
-      "reactions": 8
+      "score": 44,
+      "mergedPrs": 5,
+      "reviews": 3,
+      "reviewsReceived": 5,
+      "issuesLinked": 2,
+      "reactions": 11
     }
   },
   "repoStats": {
@@ -58,12 +58,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 4
+        "score": 37,
+        "mergedPrs": 4,
+        "reviews": 3,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
+        "reactions": 7
       },
       "astro.build": {
         "score": 7,

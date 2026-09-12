@@ -1,13 +1,13 @@
 {
   "username": "HiDeoo",
-  "lastUpdated": "2026-09-11T19:38:41.537Z",
+  "lastUpdated": "2026-09-12T16:31:04.494Z",
   "aggregatedStats": {
-    "score": 7044,
-    "mergedPrs": 514,
+    "score": 7077,
+    "mergedPrs": 518,
     "reviews": 1233,
-    "reviewsReceived": 612,
-    "issuesLinked": 51,
-    "reactions": 608
+    "reviewsReceived": 617,
+    "issuesLinked": 55,
+    "reactions": 609
   },
   "orgStats": {
     "bruits": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 6990,
-      "mergedPrs": 507,
+      "score": 7023,
+      "mergedPrs": 511,
       "reviews": 1230,
-      "reviewsReceived": 605,
-      "issuesLinked": 50,
-      "reactions": 597
+      "reviewsReceived": 610,
+      "issuesLinked": 54,
+      "reactions": 598
     }
   },
   "repoStats": {
@@ -92,12 +92,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 135,
-        "mergedPrs": 12,
+        "score": 168,
+        "mergedPrs": 16,
         "reviews": 18,
-        "reviewsReceived": 20,
-        "issuesLinked": 0,
-        "reactions": 11
+        "reviewsReceived": 25,
+        "issuesLinked": 4,
+        "reactions": 12
       },
       "astro.build": {
         "score": 176,

@@ -1,13 +1,13 @@
 {
   "username": "JerryWu1234",
-  "lastUpdated": "2026-09-11T19:39:04.386Z",
+  "lastUpdated": "2026-09-12T16:31:21.954Z",
   "aggregatedStats": {
-    "score": 103,
-    "mergedPrs": 11,
-    "reviews": 3,
-    "reviewsReceived": 24,
-    "issuesLinked": 7,
-    "reactions": 7
+    "score": 191,
+    "mergedPrs": 22,
+    "reviews": 6,
+    "reviewsReceived": 34,
+    "issuesLinked": 14,
+    "reactions": 8
   },
   "orgStats": {
     "vitejs": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 103,
-      "mergedPrs": 11,
-      "reviews": 3,
-      "reviewsReceived": 24,
-      "issuesLinked": 7,
-      "reactions": 7
+      "score": 191,
+      "mergedPrs": 22,
+      "reviews": 6,
+      "reviewsReceived": 34,
+      "issuesLinked": 14,
+      "reactions": 8
     }
   },
   "repoStats": {
@@ -90,12 +90,12 @@
     },
     "withastro": {
       "astro": {
-        "score": 97,
-        "mergedPrs": 10,
-        "reviews": 3,
-        "reviewsReceived": 23,
-        "issuesLinked": 7,
-        "reactions": 5
+        "score": 185,
+        "mergedPrs": 21,
+        "reviews": 6,
+        "reviewsReceived": 33,
+        "issuesLinked": 14,
+        "reactions": 6
       },
       "compiler": {
         "score": 0,

@@ -1,12 +1,12 @@
 {
   "username": "sasoria",
-  "lastUpdated": "2026-09-11T19:39:02.983Z",
+  "lastUpdated": "2026-09-12T16:31:21.372Z",
   "aggregatedStats": {
-    "score": 104,
-    "mergedPrs": 9,
-    "reviews": 12,
-    "reviewsReceived": 14,
-    "issuesLinked": 4,
+    "score": 169,
+    "mergedPrs": 15,
+    "reviews": 20,
+    "reviewsReceived": 23,
+    "issuesLinked": 5,
     "reactions": 5
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "withastro": {
-      "score": 99,
-      "mergedPrs": 8,
-      "reviews": 12,
-      "reviewsReceived": 14,
-      "issuesLinked": 4,
+      "score": 164,
+      "mergedPrs": 14,
+      "reviews": 20,
+      "reviewsReceived": 23,
+      "issuesLinked": 5,
       "reactions": 5
     }
   },
@@ -56,11 +56,11 @@
         "reactions": 0
       },
       "docs": {
-        "score": 72,
-        "mergedPrs": 4,
-        "reviews": 12,
-        "reviewsReceived": 8,
-        "issuesLinked": 4,
+        "score": 137,
+        "mergedPrs": 10,
+        "reviews": 20,
+        "reviewsReceived": 17,
+        "issuesLinked": 5,
         "reactions": 2
       },
       "prettier-plugin-astro": {

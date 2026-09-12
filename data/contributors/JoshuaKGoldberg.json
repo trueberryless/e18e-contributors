@@ -1,13 +1,13 @@
 {
   "username": "JoshuaKGoldberg",
-  "lastUpdated": "2026-09-11T19:38:40.054Z",
+  "lastUpdated": "2026-09-12T16:31:03.358Z",
   "aggregatedStats": {
-    "score": 325,
-    "mergedPrs": 29,
+    "score": 334,
+    "mergedPrs": 30,
     "reviews": 34,
-    "reviewsReceived": 31,
-    "issuesLinked": 15,
-    "reactions": 184
+    "reviewsReceived": 33,
+    "issuesLinked": 16,
+    "reactions": 185
   },
   "orgStats": {
     "all-contributors": {
@@ -123,12 +123,12 @@
       "reactions": 8
     },
     "withastro": {
-      "score": 55,
-      "mergedPrs": 7,
+      "score": 64,
+      "mergedPrs": 8,
       "reviews": 3,
-      "reviewsReceived": 9,
-      "issuesLinked": 0,
-      "reactions": 23
+      "reviewsReceived": 11,
+      "issuesLinked": 1,
+      "reactions": 24
     }
   },
   "repoStats": {
@@ -370,12 +370,12 @@
         "reactions": 2
       },
       "docs": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
+        "reactions": 3
       },
       "language-tools": {
         "score": 0,

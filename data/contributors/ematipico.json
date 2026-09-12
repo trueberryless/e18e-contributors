@@ -1,13 +1,13 @@
 {
   "username": "ematipico",
-  "lastUpdated": "2026-09-12T13:06:15.574Z",
+  "lastUpdated": "2026-09-12T16:31:03.906Z",
   "aggregatedStats": {
-    "score": 31632,
-    "mergedPrs": 2216,
-    "reviews": 5749,
-    "reviewsReceived": 1947,
-    "issuesLinked": 535,
-    "reactions": 2879
+    "score": 31787,
+    "mergedPrs": 2228,
+    "reviews": 5771,
+    "reviewsReceived": 1970,
+    "issuesLinked": 538,
+    "reactions": 2880
   },
   "orgStats": {
     "biomejs": {
@@ -107,12 +107,12 @@
       "reactions": 6
     },
     "withastro": {
-      "score": 13588,
-      "mergedPrs": 855,
-      "reviews": 2646,
-      "reviewsReceived": 1014,
-      "issuesLinked": 160,
-      "reactions": 413
+      "score": 13743,
+      "mergedPrs": 867,
+      "reviews": 2668,
+      "reviewsReceived": 1037,
+      "issuesLinked": 163,
+      "reactions": 414
     },
     "zed-industries": {
       "score": 0,
@@ -366,12 +366,12 @@
         "reactions": 0
       },
       "astro": {
-        "score": 11740,
-        "mergedPrs": 705,
-        "reviews": 2344,
-        "reviewsReceived": 851,
-        "issuesLinked": 156,
-        "reactions": 196
+        "score": 11868,
+        "mergedPrs": 714,
+        "reviews": 2364,
+        "reviewsReceived": 868,
+        "issuesLinked": 159,
+        "reactions": 197
       },
       "astro.build": {
         "score": 165,
@@ -398,10 +398,10 @@
         "reactions": 0
       },
       "docs": {
-        "score": 651,
-        "mergedPrs": 76,
-        "reviews": 57,
-        "reviewsReceived": 96,
+        "score": 678,
+        "mergedPrs": 79,
+        "reviews": 59,
+        "reviewsReceived": 102,
         "issuesLinked": 1,
         "reactions": 18
       },
