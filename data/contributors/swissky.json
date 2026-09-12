@@ -1,33 +1,33 @@
 {
   "username": "swissky",
-  "lastUpdated": "2026-09-11T03:29:19.603Z",
+  "lastUpdated": "2026-09-12T00:33:05.765Z",
   "aggregatedStats": {
-    "score": 517,
-    "mergedPrs": 63,
-    "reviews": 27,
-    "reviewsReceived": 51,
+    "score": 533,
+    "mergedPrs": 65,
+    "reviews": 28,
+    "reviewsReceived": 53,
     "issuesLinked": 34,
-    "reactions": 22
+    "reactions": 26
   },
   "orgStats": {
     "emdash-cms": {
-      "score": 517,
-      "mergedPrs": 63,
-      "reviews": 27,
-      "reviewsReceived": 51,
+      "score": 533,
+      "mergedPrs": 65,
+      "reviews": 28,
+      "reviewsReceived": 53,
       "issuesLinked": 34,
-      "reactions": 22
+      "reactions": 26
     }
   },
   "repoStats": {
     "emdash-cms": {
       "emdash": {
-        "score": 517,
-        "mergedPrs": 63,
-        "reviews": 27,
-        "reviewsReceived": 51,
+        "score": 533,
+        "mergedPrs": 65,
+        "reviews": 28,
+        "reviewsReceived": 53,
         "issuesLinked": 34,
-        "reactions": 22
+        "reactions": 26
       }
     }
   }

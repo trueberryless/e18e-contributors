@@ -1,12 +1,12 @@
 {
   "username": "dreyfus92",
-  "lastUpdated": "2026-09-11T19:38:40.780Z",
+  "lastUpdated": "2026-09-12T00:32:59.537Z",
   "aggregatedStats": {
-    "score": 5903,
-    "mergedPrs": 438,
+    "score": 5929,
+    "mergedPrs": 441,
     "reviews": 1006,
-    "reviewsReceived": 496,
-    "issuesLinked": 94,
+    "reviewsReceived": 499,
+    "issuesLinked": 98,
     "reactions": 114
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 53
     },
     "e18e": {
-      "score": 1020,
-      "mergedPrs": 88,
+      "score": 1046,
+      "mergedPrs": 91,
       "reviews": 116,
-      "reviewsReceived": 80,
-      "issuesLinked": 75,
+      "reviewsReceived": 83,
+      "issuesLinked": 79,
       "reactions": 24
     },
     "npmx-dev": {
@@ -114,11 +114,11 @@
         "reactions": 2
       },
       "module-replacements": {
-        "score": 690,
-        "mergedPrs": 62,
+        "score": 716,
+        "mergedPrs": 65,
         "reviews": 68,
-        "reviewsReceived": 54,
-        "issuesLinked": 60,
+        "reviewsReceived": 57,
+        "issuesLinked": 64,
         "reactions": 15
       },
       "replacements.fyi": {

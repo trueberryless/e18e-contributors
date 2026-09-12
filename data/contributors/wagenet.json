@@ -1,13 +1,13 @@
 {
   "username": "wagenet",
-  "lastUpdated": "2026-09-10T11:46:20.048Z",
+  "lastUpdated": "2026-09-12T00:32:59.946Z",
   "aggregatedStats": {
-    "score": 63,
-    "mergedPrs": 9,
+    "score": 71,
+    "mergedPrs": 10,
     "reviews": 1,
-    "reviewsReceived": 8,
+    "reviewsReceived": 11,
     "issuesLinked": 2,
-    "reactions": 35
+    "reactions": 36
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "oxc-project": {
-      "score": 63,
-      "mergedPrs": 9,
+      "score": 71,
+      "mergedPrs": 10,
       "reviews": 1,
-      "reviewsReceived": 8,
+      "reviewsReceived": 11,
       "issuesLinked": 2,
-      "reactions": 33
+      "reactions": 34
     },
     "pnpm": {
       "score": 0,
@@ -48,12 +48,12 @@
     },
     "oxc-project": {
       "oxc": {
-        "score": 29,
-        "mergedPrs": 4,
+        "score": 37,
+        "mergedPrs": 5,
         "reviews": 0,
-        "reviewsReceived": 4,
+        "reviewsReceived": 7,
         "issuesLinked": 1,
-        "reactions": 32
+        "reactions": 33
       },
       "oxc-node": {
         "score": 0,

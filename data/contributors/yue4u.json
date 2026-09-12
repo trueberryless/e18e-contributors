@@ -1,22 +1,22 @@
 {
   "username": "yue4u",
-  "lastUpdated": "2026-09-09T18:37:31.518Z",
+  "lastUpdated": "2026-09-12T00:33:11.081Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 1,
+    "score": 16,
+    "mergedPrs": 2,
     "reviews": 1,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 12
+    "reactions": 13
   },
   "orgStats": {
     "oxc-project": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 11
+      "reactions": 12
     },
     "vitejs": {
       "score": 0,
@@ -38,12 +38,12 @@
   "repoStats": {
     "oxc-project": {
       "oxc": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 11
+        "reactions": 12
       }
     },
     "vitejs": {
