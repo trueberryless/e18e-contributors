@@ -1,13 +1,13 @@
 {
   "username": "rchl",
-  "lastUpdated": "2026-09-11T13:10:31.207Z",
+  "lastUpdated": "2026-09-12T09:09:36.607Z",
   "aggregatedStats": {
-    "score": 506,
-    "mergedPrs": 55,
-    "reviews": 48,
-    "reviewsReceived": 37,
-    "issuesLinked": 17,
-    "reactions": 165
+    "score": 559,
+    "mergedPrs": 61,
+    "reviews": 50,
+    "reviewsReceived": 45,
+    "issuesLinked": 21,
+    "reactions": 168
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 1
     },
     "nuxt": {
-      "score": 318,
-      "mergedPrs": 38,
-      "reviews": 23,
-      "reviewsReceived": 28,
-      "issuesLinked": 11,
-      "reactions": 92
+      "score": 371,
+      "mergedPrs": 44,
+      "reviews": 25,
+      "reviewsReceived": 36,
+      "issuesLinked": 15,
+      "reactions": 95
     },
     "pnpm": {
       "score": 0,
@@ -136,12 +136,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 72,
-        "mergedPrs": 8,
-        "reviews": 5,
-        "reviewsReceived": 10,
-        "issuesLinked": 0,
-        "reactions": 65
+        "score": 124,
+        "mergedPrs": 14,
+        "reviews": 7,
+        "reviewsReceived": 18,
+        "issuesLinked": 4,
+        "reactions": 68
       },
       "press": {
         "score": 0,

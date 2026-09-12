@@ -1,22 +1,22 @@
 {
   "username": "kevinmarrec",
-  "lastUpdated": "2026-09-07T01:06:03.794Z",
+  "lastUpdated": "2026-09-12T09:09:44.456Z",
   "aggregatedStats": {
-    "score": 765,
-    "mergedPrs": 57,
-    "reviews": 127,
-    "reviewsReceived": 32,
+    "score": 935,
+    "mergedPrs": 70,
+    "reviews": 158,
+    "reviewsReceived": 43,
     "issuesLinked": 25,
-    "reactions": 172
+    "reactions": 183
   },
   "orgStats": {
     "nuxt": {
-      "score": 753,
-      "mergedPrs": 56,
-      "reviews": 125,
-      "reviewsReceived": 31,
+      "score": 923,
+      "mergedPrs": 69,
+      "reviews": 156,
+      "reviewsReceived": 42,
       "issuesLinked": 25,
-      "reactions": 172
+      "reactions": 183
     },
     "vitejs": {
       "score": 0,
@@ -102,12 +102,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 10,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 180,
+        "mergedPrs": 13,
+        "reviews": 31,
+        "reviewsReceived": 11,
         "issuesLinked": 0,
-        "reactions": 100
+        "reactions": 111
       },
       "nuxt.com": {
         "score": 100,

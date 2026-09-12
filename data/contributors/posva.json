@@ -1,10 +1,10 @@
 {
   "username": "posva",
-  "lastUpdated": "2026-09-11T13:10:31.384Z",
+  "lastUpdated": "2026-09-12T09:09:36.749Z",
   "aggregatedStats": {
-    "score": 6775,
+    "score": 6778,
     "mergedPrs": 331,
-    "reviews": 1539,
+    "reviews": 1540,
     "reviewsReceived": 96,
     "issuesLinked": 77,
     "reactions": 2542
@@ -27,9 +27,9 @@
       "reactions": 2
     },
     "nuxt": {
-      "score": 220,
+      "score": 223,
       "mergedPrs": 22,
-      "reviews": 23,
+      "reviews": 24,
       "reviewsReceived": 13,
       "issuesLinked": 5,
       "reactions": 182
@@ -146,9 +146,9 @@
         "reactions": 8
       },
       "nuxt": {
-        "score": 140,
+        "score": 143,
         "mergedPrs": 10,
-        "reviews": 19,
+        "reviews": 20,
         "reviewsReceived": 9,
         "issuesLinked": 4,
         "reactions": 162

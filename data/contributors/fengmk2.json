@@ -1,20 +1,20 @@
 {
   "username": "fengmk2",
-  "lastUpdated": "2026-09-12T00:33:06.436Z",
+  "lastUpdated": "2026-09-12T09:09:42.494Z",
   "aggregatedStats": {
-    "score": 136,
-    "mergedPrs": 18,
+    "score": 142,
+    "mergedPrs": 19,
     "reviews": 9,
-    "reviewsReceived": 15,
+    "reviewsReceived": 16,
     "issuesLinked": 1,
     "reactions": 20
   },
   "orgStats": {
     "npmx-dev": {
-      "score": 57,
-      "mergedPrs": 7,
+      "score": 63,
+      "mergedPrs": 8,
       "reviews": 4,
-      "reviewsReceived": 8,
+      "reviewsReceived": 9,
       "issuesLinked": 0,
       "reactions": 16
     },
@@ -70,10 +70,10 @@
   "repoStats": {
     "npmx-dev": {
       "npmx.dev": {
-        "score": 57,
-        "mergedPrs": 7,
+        "score": 63,
+        "mergedPrs": 8,
         "reviews": 4,
-        "reviewsReceived": 8,
+        "reviewsReceived": 9,
         "issuesLinked": 0,
         "reactions": 16
       }

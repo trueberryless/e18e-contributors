@@ -1,35 +1,27 @@
 {
-  "username": "yarwoob",
-  "lastUpdated": "2026-09-12T09:09:45.618Z",
+  "username": "leehoughtonAB",
+  "lastUpdated": "2026-09-12T09:09:46.389Z",
   "aggregatedStats": {
     "score": 0,
     "mergedPrs": 0,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 0
   },
   "orgStats": {
-    "nuxt": {
+    "pnpm": {
       "score": 0,
       "mergedPrs": 0,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 0
     }
   },
   "repoStats": {
-    "nuxt": {
-      "hints": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
-      },
-      "ui": {
+    "pnpm": {
+      "pnpm": {
         "score": 0,
         "mergedPrs": 0,
         "reviews": 0,

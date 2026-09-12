@@ -1,13 +1,13 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-11T13:10:31.364Z",
+  "lastUpdated": "2026-09-12T09:09:36.733Z",
   "aggregatedStats": {
-    "score": 61978,
-    "mergedPrs": 3479,
-    "reviews": 12908,
-    "reviewsReceived": 1457,
-    "issuesLinked": 1480,
-    "reactions": 14410
+    "score": 62107,
+    "mergedPrs": 3492,
+    "reviews": 12918,
+    "reviewsReceived": 1471,
+    "issuesLinked": 1489,
+    "reactions": 14430
   },
   "orgStats": {
     "bombshell-dev": {
@@ -27,20 +27,20 @@
       "reactions": 6
     },
     "npmx-dev": {
-      "score": 3443,
+      "score": 3446,
       "mergedPrs": 97,
-      "reviews": 954,
+      "reviews": 955,
       "reviewsReceived": 33,
       "issuesLinked": 13,
       "reactions": 370
     },
     "nuxt": {
-      "score": 57475,
-      "mergedPrs": 3289,
-      "reviews": 11804,
-      "reviewsReceived": 1365,
-      "issuesLinked": 1447,
-      "reactions": 13588
+      "score": 57601,
+      "mergedPrs": 3302,
+      "reviews": 11813,
+      "reviewsReceived": 1379,
+      "issuesLinked": 1456,
+      "reactions": 13608
     },
     "oxc-project": {
       "score": 317,
@@ -138,9 +138,9 @@
     },
     "npmx-dev": {
       "npmx.dev": {
-        "score": 3443,
+        "score": 3446,
         "mergedPrs": 97,
-        "reviews": 954,
+        "reviews": 955,
         "reviewsReceived": 33,
         "issuesLinked": 13,
         "reactions": 370
@@ -340,12 +340,12 @@
         "reactions": 1
       },
       "nuxt": {
-        "score": 22165,
-        "mergedPrs": 1454,
-        "reviews": 4063,
-        "reviewsReceived": 535,
-        "issuesLinked": 667,
-        "reactions": 8371
+        "score": 22291,
+        "mergedPrs": 1467,
+        "reviews": 4072,
+        "reviewsReceived": 549,
+        "issuesLinked": 676,
+        "reactions": 8391
       },
       "nuxt.com": {
         "score": 1313,

@@ -1,13 +1,13 @@
 {
   "username": "atinux",
-  "lastUpdated": "2026-09-11T13:10:38.370Z",
+  "lastUpdated": "2026-09-12T09:09:42.485Z",
   "aggregatedStats": {
-    "score": 5695,
-    "mergedPrs": 310,
-    "reviews": 1234,
-    "reviewsReceived": 146,
-    "issuesLinked": 30,
-    "reactions": 2378
+    "score": 6063,
+    "mergedPrs": 328,
+    "reviews": 1314,
+    "reviewsReceived": 159,
+    "issuesLinked": 34,
+    "reactions": 2545
   },
   "orgStats": {
     "npmx-dev": {
@@ -19,12 +19,12 @@
       "reactions": 4
     },
     "nuxt": {
-      "score": 5585,
-      "mergedPrs": 293,
-      "reviews": 1229,
-      "reviewsReceived": 138,
-      "issuesLinked": 30,
-      "reactions": 2349
+      "score": 5953,
+      "mergedPrs": 311,
+      "reviews": 1309,
+      "reviewsReceived": 151,
+      "issuesLinked": 34,
+      "reactions": 2516
     },
     "pnpm": {
       "score": 7,
@@ -256,12 +256,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 730,
-        "mergedPrs": 30,
-        "reviews": 136,
-        "reviewsReceived": 30,
-        "issuesLinked": 3,
-        "reactions": 1355
+        "score": 1097,
+        "mergedPrs": 48,
+        "reviews": 216,
+        "reviewsReceived": 43,
+        "issuesLinked": 7,
+        "reactions": 1522
       },
       "nuxt.com": {
         "score": 794,

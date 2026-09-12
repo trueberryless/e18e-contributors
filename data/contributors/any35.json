@@ -1,33 +1,33 @@
 {
   "username": "any35",
-  "lastUpdated": "2026-09-05T00:34:21.746Z",
+  "lastUpdated": "2026-09-12T09:09:43.617Z",
   "aggregatedStats": {
-    "score": 5,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 13,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 1
+    "reactions": 2
   },
   "orgStats": {
     "nuxt": {
-      "score": 5,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 13,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 8,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "vue-meta": {
         "score": 5,

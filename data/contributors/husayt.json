@@ -1,22 +1,22 @@
 {
   "username": "husayt",
-  "lastUpdated": "2026-09-07T01:06:03.442Z",
+  "lastUpdated": "2026-09-12T09:09:44.215Z",
   "aggregatedStats": {
-    "score": 119,
-    "mergedPrs": 12,
-    "reviews": 15,
-    "reviewsReceived": 7,
+    "score": 129,
+    "mergedPrs": 13,
+    "reviews": 16,
+    "reviewsReceived": 9,
     "issuesLinked": 0,
-    "reactions": 71
+    "reactions": 72
   },
   "orgStats": {
     "nuxt": {
-      "score": 116,
-      "mergedPrs": 12,
-      "reviews": 15,
-      "reviewsReceived": 7,
+      "score": 126,
+      "mergedPrs": 13,
+      "reviews": 16,
+      "reviewsReceived": 9,
       "issuesLinked": 0,
-      "reactions": 37
+      "reactions": 38
     },
     "oxc-project": {
       "score": 2,
@@ -78,12 +78,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 12,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 1,
+        "score": 22,
+        "mergedPrs": 2,
+        "reviews": 2,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
-        "reactions": 28
+        "reactions": 29
       },
       "typescript": {
         "score": 12,

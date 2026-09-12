@@ -1,19 +1,19 @@
 {
   "username": "Kronhyx",
-  "lastUpdated": "2026-09-05T20:07:04.104Z",
+  "lastUpdated": "2026-09-12T09:09:43.151Z",
   "aggregatedStats": {
-    "score": 34,
+    "score": 37,
     "mergedPrs": 2,
-    "reviews": 8,
+    "reviews": 9,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 0
   },
   "orgStats": {
     "nuxt": {
-      "score": 31,
+      "score": 34,
       "mergedPrs": 2,
-      "reviews": 7,
+      "reviews": 8,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -29,6 +29,14 @@
   },
   "repoStats": {
     "nuxt": {
+      "nuxt": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "nuxt.com": {
         "score": 3,
         "mergedPrs": 0,

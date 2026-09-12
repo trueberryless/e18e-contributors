@@ -1,15 +1,23 @@
 {
   "username": "indirectlylit",
-  "lastUpdated": "2026-09-05T00:34:40.154Z",
+  "lastUpdated": "2026-09-12T09:09:44.262Z",
   "aggregatedStats": {
-    "score": 14,
+    "score": 17,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 40
   },
   "orgStats": {
+    "nuxt": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
+    },
     "vitejs": {
       "score": 0,
       "mergedPrs": 0,
@@ -28,6 +36,16 @@
     }
   },
   "repoStats": {
+    "nuxt": {
+      "nuxt": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
     "vitejs": {
       "launch-editor": {
         "score": 0,
