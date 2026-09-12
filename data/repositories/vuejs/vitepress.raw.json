@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T19:33:37.644Z",
+    "lastRunAt": "2026-09-12T13:04:47.829Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMS0yMVQxNDoxNzoxN1rORui15Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -34356,6 +34356,20 @@
       "user": {
         "login": "dependabot[bot]",
         "type": "Bot"
+      }
+    },
+    "5430": {
+      "number": 5430,
+      "user": {
+        "login": "lllleolin-max",
+        "type": "User"
+      }
+    },
+    "5431": {
+      "number": 5431,
+      "user": {
+        "login": "brc-dd",
+        "type": "User"
       }
     }
   },
@@ -74858,7 +74872,7 @@
     },
     "5316": {
       "number": 5316,
-      "updatedAt": "2026-08-30T03:58:28Z",
+      "updatedAt": "2026-09-12T06:46:03Z",
       "merged": false,
       "author": {
         "login": "bluwy",
@@ -76292,7 +76306,7 @@
     },
     "5421": {
       "number": 5421,
-      "updatedAt": "2026-09-04T19:37:06Z",
+      "updatedAt": "2026-09-12T04:44:32Z",
       "merged": true,
       "author": {
         "login": "lazerg",
@@ -76310,7 +76324,7 @@
     },
     "5422": {
       "number": 5422,
-      "updatedAt": "2026-09-05T00:57:29Z",
+      "updatedAt": "2026-09-12T04:44:31Z",
       "merged": true,
       "author": {
         "login": "dragomano",
@@ -76346,8 +76360,8 @@
     },
     "5425": {
       "number": 5425,
-      "updatedAt": "2026-09-09T14:11:17Z",
-      "merged": false,
+      "updatedAt": "2026-09-12T05:33:33Z",
+      "merged": true,
       "author": {
         "login": "yuraoak",
         "__typename": "User"
@@ -76364,14 +76378,50 @@
     },
     "5429": {
       "number": 5429,
-      "updatedAt": "2026-09-11T01:26:15Z",
-      "merged": false,
+      "updatedAt": "2026-09-12T05:30:42Z",
+      "merged": true,
       "author": {
         "login": "dependabot",
         "__typename": "Bot"
       },
       "closingIssuesReferences": {
         "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "5430": {
+      "number": 5430,
+      "updatedAt": "2026-09-12T06:45:03Z",
+      "merged": true,
+      "author": {
+        "login": "lllleolin-max",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "5431": {
+      "number": 5431,
+      "updatedAt": "2026-09-12T12:11:09Z",
+      "merged": true,
+      "author": {
+        "login": "brc-dd",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0

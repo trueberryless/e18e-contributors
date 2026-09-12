@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T19:33:24.311Z",
+    "lastRunAt": "2026-09-12T13:04:35.975Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNy0wMS0xOFQxMzo1OTo0NVrOBhOrtA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -74879,7 +74879,7 @@
     },
     "3102": {
       "number": 3102,
-      "updatedAt": "2026-08-25T13:51:03Z",
+      "updatedAt": "2026-09-12T10:25:48Z",
       "merged": false,
       "author": {
         "login": "sxzz",
@@ -74930,6 +74930,20 @@
           },
           {
             "state": "COMMENTED",
+            "author": {
+              "login": "ota-meshi",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "sxzz",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "CHANGES_REQUESTED",
             "author": {
               "login": "ota-meshi",
               "__typename": "User"
