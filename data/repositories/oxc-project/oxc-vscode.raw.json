@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T00:32:05.695Z",
+    "lastRunAt": "2026-09-12T21:18:01.935Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0wNFQwOTo0NDozOFrOwWroFA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8455,8 +8455,8 @@
     },
     "380": {
       "number": 380,
-      "updatedAt": "2026-09-09T13:11:09Z",
-      "merged": false,
+      "updatedAt": "2026-09-12T20:29:16Z",
+      "merged": true,
       "author": {
         "login": "pgoldberg",
         "__typename": "User"
@@ -8468,7 +8468,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "Sysix",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "382": {
@@ -8491,8 +8499,8 @@
     },
     "383": {
       "number": 383,
-      "updatedAt": "2026-09-11T03:41:02Z",
-      "merged": false,
+      "updatedAt": "2026-09-12T20:32:38Z",
+      "merged": true,
       "author": {
         "login": "renovate",
         "__typename": "Bot"
@@ -8509,7 +8517,7 @@
     },
     "384": {
       "number": 384,
-      "updatedAt": "2026-09-12T00:25:33Z",
+      "updatedAt": "2026-09-12T16:16:47Z",
       "merged": false,
       "author": {
         "login": "fengmk2",

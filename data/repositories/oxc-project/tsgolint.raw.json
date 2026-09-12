@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T00:32:05.518Z",
+    "lastRunAt": "2026-09-12T21:18:01.509Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNy0xNFQwOTowNzo1NVrOnsK0_Q==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -8592,6 +8592,13 @@
       "number": 1175,
       "user": {
         "login": "jimmyl-oai",
+        "type": "User"
+      }
+    },
+    "1176": {
+      "number": 1176,
+      "user": {
+        "login": "crbanman",
         "type": "User"
       }
     }

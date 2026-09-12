@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T04:57:24.892Z",
+    "lastRunAt": "2026-09-12T21:19:33.704Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wOS0wMVQxMjowOToxM1rPAAAAAQb2sJE=",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -224,6 +224,9 @@
       "user": {
         "login": "shadcn",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 2
       }
     },
     "140": {
@@ -665,8 +668,8 @@
     },
     "138": {
       "number": 138,
-      "updatedAt": "2026-09-07T08:51:32Z",
-      "merged": false,
+      "updatedAt": "2026-09-12T11:09:19Z",
+      "merged": true,
       "author": {
         "login": "github-actions",
         "__typename": "Bot"
@@ -683,8 +686,8 @@
     },
     "139": {
       "number": 139,
-      "updatedAt": "2026-09-07T12:50:08Z",
-      "merged": false,
+      "updatedAt": "2026-09-12T11:08:08Z",
+      "merged": true,
       "author": {
         "login": "shadcn",
         "__typename": "User"
@@ -693,7 +696,7 @@
         "totalCount": 0
       },
       "reactions": {
-        "totalCount": 0
+        "totalCount": 2
       },
       "reviews": {
         "nodes": [
