@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T13:08:00.291Z",
+    "lastRunAt": "2026-09-12T09:04:59.380Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNy0xNlQwNzowODozM1rOdXQN3A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -107221,6 +107221,9 @@
       "user": {
         "login": "gustavohnsv",
         "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     },
     "15240": {
@@ -108195,6 +108198,61 @@
       "user": {
         "login": "dodo-md",
         "type": "User"
+      }
+    },
+    "15368": {
+      "number": 15368,
+      "user": {
+        "login": "cursor[bot]",
+        "type": "Bot"
+      }
+    },
+    "15370": {
+      "number": 15370,
+      "user": {
+        "login": "ast3150",
+        "type": "User"
+      }
+    },
+    "15372": {
+      "number": 15372,
+      "user": {
+        "login": "ast3150",
+        "type": "User"
+      }
+    },
+    "15373": {
+      "number": 15373,
+      "user": {
+        "login": "ast3150",
+        "type": "User"
+      }
+    },
+    "15374": {
+      "number": 15374,
+      "user": {
+        "login": "alex-batanix",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "15376": {
+      "number": 15376,
+      "user": {
+        "login": "ast3150",
+        "type": "User"
+      }
+    },
+    "15377": {
+      "number": 15377,
+      "user": {
+        "login": "Jukeboyx",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
       }
     }
   },
@@ -135324,7 +135382,7 @@
     },
     "12589": {
       "number": 12589,
-      "updatedAt": "2026-08-16T11:43:31Z",
+      "updatedAt": "2026-09-12T07:45:36Z",
       "merged": false,
       "author": {
         "login": "octaviusz",
@@ -148557,7 +148615,7 @@
     },
     "14449": {
       "number": 14449,
-      "updatedAt": "2026-07-05T04:31:39Z",
+      "updatedAt": "2026-09-12T08:42:02Z",
       "merged": false,
       "author": {
         "login": "ashvwinn",
@@ -151230,7 +151288,7 @@
     },
     "14832": {
       "number": 14832,
-      "updatedAt": "2026-09-11T08:44:59Z",
+      "updatedAt": "2026-09-12T08:44:15Z",
       "merged": false,
       "author": {
         "login": "patlux",
@@ -151304,6 +151362,13 @@
             "state": "COMMENTED",
             "author": {
               "login": "patlux",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "mr-cheffy",
               "__typename": "User"
             }
           },
@@ -151506,7 +151571,7 @@
     },
     "14854": {
       "number": 14854,
-      "updatedAt": "2026-08-10T18:08:44Z",
+      "updatedAt": "2026-09-12T08:54:03Z",
       "merged": false,
       "author": {
         "login": "KMontag42",
@@ -151519,7 +151584,15 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "mr-cheffy",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "14855": {
@@ -151703,7 +151776,7 @@
     },
     "14881": {
       "number": 14881,
-      "updatedAt": "2026-08-08T18:26:09Z",
+      "updatedAt": "2026-09-12T08:50:54Z",
       "merged": false,
       "author": {
         "login": "ashvwinn",
@@ -151923,7 +151996,7 @@
     },
     "14919": {
       "number": 14919,
-      "updatedAt": "2026-08-11T10:40:04Z",
+      "updatedAt": "2026-09-12T08:50:31Z",
       "merged": false,
       "author": {
         "login": "at0miqx",
@@ -151936,7 +152009,22 @@
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "mr-cheffy",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "mr-cheffy",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "14924": {
@@ -152313,7 +152401,7 @@
     },
     "14985": {
       "number": 14985,
-      "updatedAt": "2026-08-23T20:54:24Z",
+      "updatedAt": "2026-09-12T08:44:46Z",
       "merged": false,
       "author": {
         "login": "obi12341",
@@ -152920,20 +153008,28 @@
     },
     "15067": {
       "number": 15067,
-      "updatedAt": "2026-08-23T03:44:52Z",
+      "updatedAt": "2026-09-12T08:47:19Z",
       "merged": false,
       "author": {
         "login": "goransh-walia",
         "__typename": "User"
       },
       "closingIssuesReferences": {
-        "totalCount": 0
+        "totalCount": 1
       },
       "reactions": {
         "totalCount": 0
       },
       "reviews": {
-        "nodes": []
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "mr-cheffy",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     },
     "15070": {
@@ -152964,7 +153060,7 @@
     },
     "15074": {
       "number": 15074,
-      "updatedAt": "2026-08-29T12:54:09Z",
+      "updatedAt": "2026-09-12T08:40:50Z",
       "merged": false,
       "author": {
         "login": "barakor",
@@ -153010,6 +153106,13 @@
             "state": "COMMENTED",
             "author": {
               "login": "barakor",
+              "__typename": "User"
+            }
+          },
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "mr-cheffy",
               "__typename": "User"
             }
           }
@@ -154305,7 +154408,7 @@
     },
     "15239": {
       "number": 15239,
-      "updatedAt": "2026-09-06T15:20:41Z",
+      "updatedAt": "2026-09-12T08:52:46Z",
       "merged": false,
       "author": {
         "login": "gustavohnsv",
@@ -154315,7 +154418,7 @@
         "totalCount": 0
       },
       "reactions": {
-        "totalCount": 0
+        "totalCount": 1
       },
       "reviews": {
         "nodes": []
@@ -154572,7 +154675,7 @@
     },
     "15282": {
       "number": 15282,
-      "updatedAt": "2026-09-11T12:52:15Z",
+      "updatedAt": "2026-09-11T22:53:14Z",
       "merged": false,
       "author": {
         "login": "FlorianButz",
@@ -155351,7 +155454,7 @@
     },
     "15367": {
       "number": 15367,
-      "updatedAt": "2026-09-11T12:38:18Z",
+      "updatedAt": "2026-09-11T15:56:17Z",
       "merged": false,
       "author": {
         "login": "dodo-md",
@@ -155365,6 +155468,86 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "15370": {
+      "number": 15370,
+      "updatedAt": "2026-09-11T15:46:03Z",
+      "merged": false,
+      "author": {
+        "login": "ast3150",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15372": {
+      "number": 15372,
+      "updatedAt": "2026-09-11T15:27:23Z",
+      "merged": false,
+      "author": {
+        "login": "ast3150",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15373": {
+      "number": 15373,
+      "updatedAt": "2026-09-11T15:27:26Z",
+      "merged": false,
+      "author": {
+        "login": "ast3150",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "15376": {
+      "number": 15376,
+      "updatedAt": "2026-09-11T16:34:01Z",
+      "merged": false,
+      "author": {
+        "login": "ast3150",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "mr-cheffy",
+              "__typename": "User"
+            }
+          }
+        ]
       }
     }
   }

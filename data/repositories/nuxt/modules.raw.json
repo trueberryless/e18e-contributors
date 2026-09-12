@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T13:09:38.132Z",
+    "lastRunAt": "2026-09-12T09:06:53.253Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wOC0yNlQxNDo1OToxNVrOHEAoWA==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -11920,6 +11920,13 @@
       "number": 1611,
       "user": {
         "login": "sadjow",
+        "type": "User"
+      }
+    },
+    "1612": {
+      "number": 1612,
+      "user": {
+        "login": "asyntai",
         "type": "User"
       }
     }
@@ -36464,6 +36471,24 @@
       "merged": false,
       "author": {
         "login": "danh121097",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": []
+      }
+    },
+    "1612": {
+      "number": 1612,
+      "updatedAt": "2026-09-12T06:14:19Z",
+      "merged": false,
+      "author": {
+        "login": "asyntai",
         "__typename": "User"
       },
       "closingIssuesReferences": {
