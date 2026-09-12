@@ -1,13 +1,13 @@
 {
   "username": "benmccann",
-  "lastUpdated": "2026-09-11T17:03:56.100Z",
+  "lastUpdated": "2026-09-12T13:06:15.450Z",
   "aggregatedStats": {
-    "score": 13907,
-    "mergedPrs": 1311,
-    "reviews": 1879,
-    "reviewsReceived": 985,
-    "issuesLinked": 213,
-    "reactions": 3041
+    "score": 15229,
+    "mergedPrs": 1444,
+    "reviews": 2048,
+    "reviewsReceived": 1053,
+    "issuesLinked": 251,
+    "reactions": 3107
   },
   "orgStats": {
     "biomejs": {
@@ -67,12 +67,12 @@
       "reactions": 111
     },
     "sveltejs": {
-      "score": 13027,
-      "mergedPrs": 1230,
-      "reviews": 1769,
-      "reviewsReceived": 897,
-      "issuesLinked": 201,
-      "reactions": 2709
+      "score": 14064,
+      "mergedPrs": 1335,
+      "reviews": 1912,
+      "reviewsReceived": 910,
+      "issuesLinked": 234,
+      "reactions": 2753
     },
     "tanstack": {
       "score": 8,
@@ -83,12 +83,12 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 560,
-      "mergedPrs": 43,
-      "reviews": 84,
-      "reviewsReceived": 59,
-      "issuesLinked": 11,
-      "reactions": 119
+      "score": 845,
+      "mergedPrs": 71,
+      "reviews": 110,
+      "reviewsReceived": 114,
+      "issuesLinked": 16,
+      "reactions": 141
     },
     "vitest-dev": {
       "score": 56,
@@ -364,12 +364,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 7070,
-        "mergedPrs": 654,
-        "reviews": 960,
-        "reviewsReceived": 529,
-        "issuesLinked": 112,
-        "reactions": 1668
+        "score": 8107,
+        "mergedPrs": 759,
+        "reviews": 1103,
+        "reviewsReceived": 542,
+        "issuesLinked": 145,
+        "reactions": 1712
       },
       "language-tools": {
         "score": 77,
@@ -600,12 +600,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 528,
-        "mergedPrs": 39,
-        "reviews": 82,
-        "reviewsReceived": 55,
-        "issuesLinked": 10,
-        "reactions": 119
+        "score": 813,
+        "mergedPrs": 67,
+        "reviews": 108,
+        "reviewsReceived": 110,
+        "issuesLinked": 15,
+        "reactions": 141
       },
       "vite-ecosystem-ci": {
         "score": 9,

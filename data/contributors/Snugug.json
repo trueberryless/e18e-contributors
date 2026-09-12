@@ -1,12 +1,12 @@
 {
   "username": "Snugug",
-  "lastUpdated": "2026-09-09T23:32:24.956Z",
+  "lastUpdated": "2026-09-12T13:06:32.380Z",
   "aggregatedStats": {
-    "score": 47,
-    "mergedPrs": 4,
-    "reviews": 3,
-    "reviewsReceived": 5,
-    "issuesLinked": 2,
+    "score": 65,
+    "mergedPrs": 6,
+    "reviews": 4,
+    "reviewsReceived": 8,
+    "issuesLinked": 3,
     "reactions": 87
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 26,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 3,
-      "issuesLinked": 2,
+      "score": 44,
+      "mergedPrs": 4,
+      "reviews": 2,
+      "reviewsReceived": 6,
+      "issuesLinked": 3,
       "reactions": 61
     },
     "vitest-dev": {
@@ -80,11 +80,11 @@
         "reactions": 0
       },
       "vite": {
-        "score": 20,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 2,
+        "score": 38,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 5,
+        "issuesLinked": 3,
         "reactions": 61
       }
     },

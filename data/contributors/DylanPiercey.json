@@ -1,13 +1,13 @@
 {
   "username": "DylanPiercey",
-  "lastUpdated": "2026-09-09T00:32:53.893Z",
+  "lastUpdated": "2026-09-12T13:06:31.910Z",
   "aggregatedStats": {
-    "score": 42,
+    "score": 45,
     "mergedPrs": 6,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 44
+    "reactions": 46
   },
   "orgStats": {
     "sveltejs": {
@@ -19,12 +19,12 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 13,
+      "score": 16,
       "mergedPrs": 1,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 29
+      "reactions": 31
     },
     "vitest-dev": {
       "score": 7,
@@ -80,12 +80,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 13,
+        "score": 16,
         "mergedPrs": 1,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 29
+        "reactions": 31
       }
     },
     "vitest-dev": {

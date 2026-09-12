@@ -1,22 +1,22 @@
 {
   "username": "tanhauhau",
-  "lastUpdated": "2026-09-11T17:04:15.447Z",
+  "lastUpdated": "2026-09-12T13:06:34.783Z",
   "aggregatedStats": {
-    "score": 2904,
-    "mergedPrs": 311,
+    "score": 2909,
+    "mergedPrs": 312,
     "reviews": 225,
     "reviewsReceived": 96,
     "issuesLinked": 240,
-    "reactions": 976
+    "reactions": 977
   },
   "orgStats": {
     "sveltejs": {
-      "score": 2888,
-      "mergedPrs": 309,
+      "score": 2893,
+      "mergedPrs": 310,
       "reviews": 224,
       "reviewsReceived": 96,
       "issuesLinked": 239,
-      "reactions": 969
+      "reactions": 970
     },
     "vitejs": {
       "score": 1,
@@ -62,12 +62,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 45,
-        "mergedPrs": 6,
+        "score": 50,
+        "mergedPrs": 7,
         "reviews": 1,
         "reviewsReceived": 7,
         "issuesLinked": 2,
-        "reactions": 8
+        "reactions": 9
       },
       "language-tools": {
         "score": 25,

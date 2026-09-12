@@ -1,22 +1,22 @@
 {
   "username": "varholak-peter",
-  "lastUpdated": "2026-09-05T20:07:11.578Z",
+  "lastUpdated": "2026-09-12T13:06:34.947Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 31,
+    "mergedPrs": 4,
+    "reviews": 1,
     "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 5
+    "issuesLinked": 3,
+    "reactions": 7
   },
   "orgStats": {
     "sveltejs": {
-      "score": 14,
-      "mergedPrs": 2,
-      "reviews": 0,
+      "score": 31,
+      "mergedPrs": 4,
+      "reviews": 1,
       "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 5
+      "issuesLinked": 3,
+      "reactions": 7
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 18,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 4
+        "issuesLinked": 2,
+        "reactions": 6
       },
       "svelte.dev": {
         "score": 6,

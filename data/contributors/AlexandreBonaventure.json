@@ -1,20 +1,20 @@
 {
   "username": "AlexandreBonaventure",
-  "lastUpdated": "2026-09-10T21:51:46.323Z",
+  "lastUpdated": "2026-09-12T13:06:38.491Z",
   "aggregatedStats": {
-    "score": 101,
-    "mergedPrs": 9,
+    "score": 108,
+    "mergedPrs": 10,
     "reviews": 3,
-    "reviewsReceived": 5,
+    "reviewsReceived": 7,
     "issuesLinked": 1,
     "reactions": 398
   },
   "orgStats": {
     "vitejs": {
-      "score": 31,
-      "mergedPrs": 0,
+      "score": 38,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 311
     },
@@ -30,10 +30,10 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 31,
-        "mergedPrs": 0,
+        "score": 38,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 311
       }

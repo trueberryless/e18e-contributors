@@ -1,13 +1,13 @@
 {
   "username": "LostKobrakai",
-  "lastUpdated": "2026-09-07T23:39:31.408Z",
+  "lastUpdated": "2026-09-12T13:06:31.312Z",
   "aggregatedStats": {
-    "score": 14,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 32,
+    "mergedPrs": 5,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 36
+    "reactions": 37
   },
   "orgStats": {
     "slidevjs": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 19,
+      "mergedPrs": 3,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 5
+      "reactions": 6
     },
     "vitest-dev": {
       "score": 0,
@@ -64,12 +64,12 @@
     },
     "sveltejs": {
       "svelte": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 19,
+        "mergedPrs": 3,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 5
+        "reactions": 6
       },
       "svelte-repl": {
         "score": 0,

@@ -1,13 +1,13 @@
 {
   "username": "antfu",
-  "lastUpdated": "2026-09-12T09:09:42.484Z",
+  "lastUpdated": "2026-09-12T13:06:19.593Z",
   "aggregatedStats": {
-    "score": 9718,
-    "mergedPrs": 814,
-    "reviews": 1461,
-    "reviewsReceived": 459,
-    "issuesLinked": 176,
-    "reactions": 4542
+    "score": 10339,
+    "mergedPrs": 850,
+    "reviews": 1585,
+    "reviewsReceived": 504,
+    "issuesLinked": 187,
+    "reactions": 4559
   },
   "orgStats": {
     "npmx-dev": {
@@ -51,12 +51,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 1812,
-      "mergedPrs": 167,
-      "reviews": 263,
-      "reviewsReceived": 83,
-      "issuesLinked": 17,
-      "reactions": 708
+      "score": 2433,
+      "mergedPrs": 203,
+      "reviews": 387,
+      "reviewsReceived": 128,
+      "issuesLinked": 28,
+      "reactions": 725
     },
     "vitest-dev": {
       "score": 1256,
@@ -400,12 +400,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 893,
-        "mergedPrs": 76,
-        "reviews": 126,
-        "reviewsReceived": 78,
-        "issuesLinked": 12,
-        "reactions": 326
+        "score": 1513,
+        "mergedPrs": 112,
+        "reviews": 250,
+        "reviewsReceived": 123,
+        "issuesLinked": 23,
+        "reactions": 343
       },
       "vite-benchmark": {
         "score": 10,

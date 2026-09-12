@@ -1,13 +1,13 @@
 {
   "username": "innocenzi",
-  "lastUpdated": "2026-09-11T17:04:03.421Z",
+  "lastUpdated": "2026-09-12T13:06:23.036Z",
   "aggregatedStats": {
-    "score": 203,
-    "mergedPrs": 18,
+    "score": 222,
+    "mergedPrs": 19,
     "reviews": 27,
-    "reviewsReceived": 15,
-    "issuesLinked": 4,
-    "reactions": 101
+    "reviewsReceived": 16,
+    "issuesLinked": 10,
+    "reactions": 113
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 134,
-      "mergedPrs": 9,
+      "score": 153,
+      "mergedPrs": 10,
       "reviews": 26,
-      "reviewsReceived": 8,
-      "issuesLinked": 0,
-      "reactions": 32
+      "reviewsReceived": 9,
+      "issuesLinked": 6,
+      "reactions": 44
     },
     "vitest-dev": {
       "score": 6,
@@ -108,12 +108,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 43,
-        "mergedPrs": 4,
+        "score": 62,
+        "mergedPrs": 5,
         "reviews": 5,
-        "reviewsReceived": 5,
-        "issuesLinked": 0,
-        "reactions": 30
+        "reviewsReceived": 6,
+        "issuesLinked": 6,
+        "reactions": 42
       },
       "vite-ecosystem-ci": {
         "score": 12,

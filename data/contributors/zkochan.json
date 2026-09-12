@@ -1,10 +1,10 @@
 {
   "username": "zkochan",
-  "lastUpdated": "2026-09-12T09:09:41.863Z",
+  "lastUpdated": "2026-09-12T13:06:18.306Z",
   "aggregatedStats": {
-    "score": 29931,
+    "score": 29934,
     "mergedPrs": 3385,
-    "reviews": 3341,
+    "reviews": 3342,
     "reviewsReceived": 456,
     "issuesLinked": 1051,
     "reactions": 4243
@@ -25,6 +25,14 @@
       "reviewsReceived": 441,
       "issuesLinked": 1046,
       "reactions": 4207
+    },
+    "vitejs": {
+      "score": 3,
+      "mergedPrs": 0,
+      "reviews": 1,
+      "reviewsReceived": 0,
+      "issuesLinked": 0,
+      "reactions": 0
     }
   },
   "repoStats": {
@@ -116,6 +124,16 @@
         "mergedPrs": 9,
         "reviews": 5,
         "reviewsReceived": 2,
+        "issuesLinked": 0,
+        "reactions": 0
+      }
+    },
+    "vitejs": {
+      "vite": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       }

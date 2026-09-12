@@ -1,13 +1,13 @@
 {
   "username": "happycollision",
-  "lastUpdated": "2026-09-11T19:38:52.458Z",
+  "lastUpdated": "2026-09-12T13:06:27.274Z",
   "aggregatedStats": {
-    "score": 24,
-    "mergedPrs": 2,
-    "reviews": 3,
+    "score": 34,
+    "mergedPrs": 3,
+    "reviews": 4,
     "reviewsReceived": 3,
-    "issuesLinked": 0,
-    "reactions": 22
+    "issuesLinked": 1,
+    "reactions": 23
   },
   "orgStats": {
     "pnpm": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 15,
-      "mergedPrs": 1,
-      "reviews": 2,
+      "score": 25,
+      "mergedPrs": 2,
+      "reviews": 3,
       "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 16
+      "issuesLinked": 1,
+      "reactions": 17
     },
     "tanstack": {
       "score": 6,
@@ -72,12 +72,12 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2
+        "issuesLinked": 1,
+        "reactions": 3
       },
       "sapper": {
         "score": 10,

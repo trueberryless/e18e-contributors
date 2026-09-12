@@ -1,22 +1,22 @@
 {
   "username": "jpaquim",
-  "lastUpdated": "2026-09-11T17:04:14.300Z",
+  "lastUpdated": "2026-09-12T13:06:33.737Z",
   "aggregatedStats": {
-    "score": 26,
-    "mergedPrs": 4,
-    "reviews": 0,
+    "score": 36,
+    "mergedPrs": 5,
+    "reviews": 1,
     "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 23
+    "reactions": 43
   },
   "orgStats": {
     "sveltejs": {
-      "score": 26,
-      "mergedPrs": 4,
-      "reviews": 0,
+      "score": 36,
+      "mergedPrs": 5,
+      "reviews": 1,
       "reviewsReceived": 4,
       "issuesLinked": 0,
-      "reactions": 23
+      "reactions": 43
     },
     "withastro": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 8,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 18,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 20
+        "reactions": 40
       },
       "learn.svelte.dev": {
         "score": 12,

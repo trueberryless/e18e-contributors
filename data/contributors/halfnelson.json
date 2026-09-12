@@ -1,33 +1,33 @@
 {
   "username": "halfnelson",
-  "lastUpdated": "2026-09-10T19:08:44.696Z",
+  "lastUpdated": "2026-09-12T13:06:33.426Z",
   "aggregatedStats": {
-    "score": 126,
-    "mergedPrs": 17,
-    "reviews": 7,
+    "score": 154,
+    "mergedPrs": 21,
+    "reviews": 9,
     "reviewsReceived": 4,
     "issuesLinked": 2,
-    "reactions": 118
+    "reactions": 135
   },
   "orgStats": {
     "sveltejs": {
-      "score": 126,
-      "mergedPrs": 17,
-      "reviews": 7,
+      "score": 154,
+      "mergedPrs": 21,
+      "reviews": 9,
       "reviewsReceived": 4,
       "issuesLinked": 2,
-      "reactions": 118
+      "reactions": 135
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 2,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 14,
+        "mergedPrs": 1,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 17
+        "reactions": 34
       },
       "language-tools": {
         "score": 31,
@@ -46,8 +46,8 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 39,
-        "mergedPrs": 4,
+        "score": 54,
+        "mergedPrs": 7,
         "reviews": 2,
         "reviewsReceived": 3,
         "issuesLinked": 0,

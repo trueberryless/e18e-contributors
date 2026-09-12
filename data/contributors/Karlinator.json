@@ -1,11 +1,11 @@
 {
   "username": "Karlinator",
-  "lastUpdated": "2026-09-11T17:03:55.874Z",
+  "lastUpdated": "2026-09-12T13:06:15.212Z",
   "aggregatedStats": {
-    "score": 27,
-    "mergedPrs": 3,
-    "reviews": 2,
-    "reviewsReceived": 1,
+    "score": 36,
+    "mergedPrs": 4,
+    "reviews": 3,
+    "reviewsReceived": 2,
     "issuesLinked": 1,
     "reactions": 36
   },
@@ -19,10 +19,10 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 27,
-      "mergedPrs": 3,
-      "reviews": 2,
-      "reviewsReceived": 1,
+      "score": 36,
+      "mergedPrs": 4,
+      "reviews": 3,
+      "reviewsReceived": 2,
       "issuesLinked": 1,
       "reactions": 34
     }
@@ -40,10 +40,10 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 16,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 0,
+        "score": 25,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 1,
         "issuesLinked": 1,
         "reactions": 8
       },

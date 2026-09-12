@@ -1,13 +1,13 @@
 {
   "username": "utamori",
-  "lastUpdated": "2026-09-06T13:08:51.950Z",
+  "lastUpdated": "2026-09-12T13:06:25.456Z",
   "aggregatedStats": {
-    "score": 27,
-    "mergedPrs": 5,
-    "reviews": 0,
-    "reviewsReceived": 1,
+    "score": 49,
+    "mergedPrs": 8,
+    "reviews": 1,
+    "reviewsReceived": 5,
     "issuesLinked": 0,
-    "reactions": 7
+    "reactions": 8
   },
   "orgStats": {
     "nuxt": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
-      "reviewsReceived": 1,
+      "score": 28,
+      "mergedPrs": 4,
+      "reviews": 1,
+      "reviewsReceived": 5,
       "issuesLinked": 0,
-      "reactions": 1
+      "reactions": 2
     }
   },
   "repoStats": {
@@ -84,12 +84,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 22,
+        "mergedPrs": 3,
+        "reviews": 1,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       }
     }
   }

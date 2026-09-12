@@ -1,13 +1,13 @@
 {
   "username": "antony",
-  "lastUpdated": "2026-09-11T17:03:56.878Z",
+  "lastUpdated": "2026-09-12T13:06:16.298Z",
   "aggregatedStats": {
-    "score": 717,
-    "mergedPrs": 49,
-    "reviews": 132,
-    "reviewsReceived": 29,
+    "score": 769,
+    "mergedPrs": 52,
+    "reviews": 144,
+    "reviewsReceived": 30,
     "issuesLinked": 11,
-    "reactions": 253
+    "reactions": 254
   },
   "orgStats": {
     "bombshell-dev": {
@@ -35,12 +35,12 @@
       "reactions": 28
     },
     "sveltejs": {
-      "score": 711,
-      "mergedPrs": 49,
-      "reviews": 131,
-      "reviewsReceived": 29,
+      "score": 763,
+      "mergedPrs": 52,
+      "reviews": 143,
+      "reviewsReceived": 30,
       "issuesLinked": 11,
-      "reactions": 222
+      "reactions": 223
     },
     "vitejs": {
       "score": 0,
@@ -116,12 +116,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 147,
-        "mergedPrs": 17,
-        "reviews": 13,
-        "reviewsReceived": 18,
+        "score": 191,
+        "mergedPrs": 19,
+        "reviews": 24,
+        "reviewsReceived": 19,
         "issuesLinked": 0,
-        "reactions": 49
+        "reactions": 50
       },
       "rfcs": {
         "score": 13,
@@ -172,9 +172,9 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 224,
-        "mergedPrs": 12,
-        "reviews": 47,
+        "score": 232,
+        "mergedPrs": 13,
+        "reviews": 48,
         "reviewsReceived": 6,
         "issuesLinked": 6,
         "reactions": 49

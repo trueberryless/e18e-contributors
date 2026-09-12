@@ -1,21 +1,21 @@
 {
   "username": "Mlocik97",
-  "lastUpdated": "2026-09-11T17:04:12.771Z",
+  "lastUpdated": "2026-09-12T13:06:32.200Z",
   "aggregatedStats": {
-    "score": 116,
-    "mergedPrs": 9,
-    "reviews": 17,
+    "score": 137,
+    "mergedPrs": 11,
+    "reviews": 20,
     "reviewsReceived": 13,
-    "issuesLinked": 1,
+    "issuesLinked": 2,
     "reactions": 48
   },
   "orgStats": {
     "sveltejs": {
-      "score": 116,
-      "mergedPrs": 9,
-      "reviews": 17,
+      "score": 137,
+      "mergedPrs": 11,
+      "reviews": 20,
       "reviewsReceived": 13,
-      "issuesLinked": 1,
+      "issuesLinked": 2,
       "reactions": 47
     },
     "vitejs": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 62,
-        "mergedPrs": 6,
-        "reviews": 6,
+        "score": 83,
+        "mergedPrs": 8,
+        "reviews": 9,
         "reviewsReceived": 9,
-        "issuesLinked": 1,
+        "issuesLinked": 2,
         "reactions": 26
       },
       "language-tools": {

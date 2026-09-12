@@ -1,21 +1,21 @@
 {
   "username": "wiesson",
-  "lastUpdated": "2026-09-05T00:34:33.812Z",
+  "lastUpdated": "2026-09-12T13:06:35.037Z",
   "aggregatedStats": {
-    "score": 7,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 20,
+    "mergedPrs": 2,
+    "reviews": 2,
     "reviewsReceived": 1,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 10
   },
   "orgStats": {
     "sveltejs": {
-      "score": 1,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 14,
+      "mergedPrs": 1,
+      "reviews": 2,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 10
     },
     "tanstack": {
@@ -46,11 +46,11 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 13,
+        "mergedPrs": 1,
+        "reviews": 2,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 3
       },
       "svelte-preprocess": {

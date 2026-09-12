@@ -1,22 +1,22 @@
 {
   "username": "pzerelles",
-  "lastUpdated": "2026-09-10T19:08:45.453Z",
+  "lastUpdated": "2026-09-12T13:06:34.437Z",
   "aggregatedStats": {
-    "score": 24,
-    "mergedPrs": 3,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 1,
-    "reactions": 43
+    "score": 36,
+    "mergedPrs": 4,
+    "reviews": 2,
+    "reviewsReceived": 1,
+    "issuesLinked": 2,
+    "reactions": 47
   },
   "orgStats": {
     "sveltejs": {
-      "score": 17,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 43
+      "score": 29,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 47
     },
     "vitejs": {
       "score": 7,
@@ -30,12 +30,12 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 17,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 43
+        "score": 29,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 47
       }
     },
     "vitejs": {

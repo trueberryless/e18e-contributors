@@ -1,12 +1,12 @@
 {
   "username": "jthegedus",
-  "lastUpdated": "2026-09-11T17:04:08.899Z",
+  "lastUpdated": "2026-09-12T13:06:28.561Z",
   "aggregatedStats": {
-    "score": 38,
-    "mergedPrs": 3,
-    "reviews": 4,
-    "reviewsReceived": 4,
-    "issuesLinked": 0,
+    "score": 83,
+    "mergedPrs": 7,
+    "reviews": 11,
+    "reviewsReceived": 6,
+    "issuesLinked": 1,
     "reactions": 64
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 9
     },
     "sveltejs": {
-      "score": 35,
-      "mergedPrs": 3,
-      "reviews": 4,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "score": 80,
+      "mergedPrs": 7,
+      "reviews": 11,
+      "reviewsReceived": 6,
+      "issuesLinked": 1,
       "reactions": 40
     },
     "vuejs": {
@@ -64,11 +64,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 6,
-        "mergedPrs": 0,
-        "reviews": 2,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "score": 51,
+        "mergedPrs": 4,
+        "reviews": 9,
+        "reviewsReceived": 2,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "prettier-plugin-svelte": {

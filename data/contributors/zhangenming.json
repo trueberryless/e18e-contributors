@@ -1,20 +1,20 @@
 {
   "username": "zhangenming",
-  "lastUpdated": "2026-09-10T21:51:48.205Z",
+  "lastUpdated": "2026-09-12T13:06:41.677Z",
   "aggregatedStats": {
-    "score": 205,
-    "mergedPrs": 35,
+    "score": 212,
+    "mergedPrs": 36,
     "reviews": 2,
-    "reviewsReceived": 20,
+    "reviewsReceived": 22,
     "issuesLinked": 0,
     "reactions": 35
   },
   "orgStats": {
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 7,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
       "reactions": 0
     },
@@ -38,10 +38,10 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
         "reactions": 0
       }

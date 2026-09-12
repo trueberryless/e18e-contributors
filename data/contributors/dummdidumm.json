@@ -1,22 +1,22 @@
 {
   "username": "dummdidumm",
-  "lastUpdated": "2026-09-11T17:04:13.737Z",
+  "lastUpdated": "2026-09-12T13:06:33.139Z",
   "aggregatedStats": {
-    "score": 23388,
-    "mergedPrs": 1984,
-    "reviews": 3350,
-    "reviewsReceived": 1090,
-    "issuesLinked": 971,
-    "reactions": 3853
+    "score": 23624,
+    "mergedPrs": 2001,
+    "reviews": 3393,
+    "reviewsReceived": 1094,
+    "issuesLinked": 979,
+    "reactions": 3873
   },
   "orgStats": {
     "sveltejs": {
-      "score": 23349,
-      "mergedPrs": 1981,
-      "reviews": 3346,
-      "reviewsReceived": 1085,
-      "issuesLinked": 970,
-      "reactions": 3806
+      "score": 23585,
+      "mergedPrs": 1998,
+      "reviews": 3389,
+      "reviewsReceived": 1089,
+      "issuesLinked": 978,
+      "reactions": 3825
     },
     "tanstack": {
       "score": 24,
@@ -32,7 +32,7 @@
       "reviews": 1,
       "reviewsReceived": 2,
       "issuesLinked": 1,
-      "reactions": 1
+      "reactions": 2
     },
     "withastro": {
       "score": 3,
@@ -110,12 +110,12 @@
         "reactions": 1
       },
       "kit": {
-        "score": 6808,
-        "mergedPrs": 427,
-        "reviews": 1164,
-        "reviewsReceived": 430,
-        "issuesLinked": 311,
-        "reactions": 1285
+        "score": 7043,
+        "mergedPrs": 444,
+        "reviews": 1207,
+        "reviewsReceived": 434,
+        "issuesLinked": 319,
+        "reactions": 1304
       },
       "language-tools": {
         "score": 4155,
@@ -303,7 +303,7 @@
         "reviews": 1,
         "reviewsReceived": 2,
         "issuesLinked": 1,
-        "reactions": 1
+        "reactions": 2
       }
     },
     "withastro": {

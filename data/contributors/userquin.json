@@ -1,13 +1,13 @@
 {
   "username": "userquin",
-  "lastUpdated": "2026-09-11T17:04:00.227Z",
+  "lastUpdated": "2026-09-12T13:06:19.674Z",
   "aggregatedStats": {
-    "score": 2191,
-    "mergedPrs": 277,
-    "reviews": 143,
-    "reviewsReceived": 239,
-    "issuesLinked": 53,
-    "reactions": 316
+    "score": 2214,
+    "mergedPrs": 279,
+    "reviews": 144,
+    "reviewsReceived": 244,
+    "issuesLinked": 55,
+    "reactions": 317
   },
   "orgStats": {
     "npmx-dev": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 89,
-      "mergedPrs": 9,
-      "reviews": 7,
-      "reviewsReceived": 12,
-      "issuesLinked": 3,
-      "reactions": 54
+      "score": 112,
+      "mergedPrs": 11,
+      "reviews": 8,
+      "reviewsReceived": 17,
+      "issuesLinked": 5,
+      "reactions": 55
     },
     "vitest-dev": {
       "score": 1010,
@@ -214,12 +214,12 @@
         "reactions": 4
       },
       "vite": {
-        "score": 73,
-        "mergedPrs": 7,
-        "reviews": 6,
-        "reviewsReceived": 9,
-        "issuesLinked": 3,
-        "reactions": 45
+        "score": 95,
+        "mergedPrs": 9,
+        "reviews": 7,
+        "reviewsReceived": 14,
+        "issuesLinked": 5,
+        "reactions": 46
       },
       "vite-ecosystem-ci": {
         "score": 10,

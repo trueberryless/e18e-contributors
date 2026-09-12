@@ -1,22 +1,22 @@
 {
   "username": "jacwright",
-  "lastUpdated": "2026-09-11T17:04:14.165Z",
+  "lastUpdated": "2026-09-12T13:06:33.586Z",
   "aggregatedStats": {
-    "score": 61,
-    "mergedPrs": 8,
-    "reviews": 4,
+    "score": 154,
+    "mergedPrs": 23,
+    "reviews": 9,
     "reviewsReceived": 0,
-    "issuesLinked": 2,
-    "reactions": 52
+    "issuesLinked": 3,
+    "reactions": 64
   },
   "orgStats": {
     "sveltejs": {
-      "score": 61,
-      "mergedPrs": 8,
-      "reviews": 4,
+      "score": 154,
+      "mergedPrs": 23,
+      "reviews": 9,
       "reviewsReceived": 0,
-      "issuesLinked": 2,
-      "reactions": 52
+      "issuesLinked": 3,
+      "reactions": 64
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 28,
-        "mergedPrs": 2,
-        "reviews": 3,
+        "score": 121,
+        "mergedPrs": 17,
+        "reviews": 8,
         "reviewsReceived": 0,
-        "issuesLinked": 2,
-        "reactions": 50
+        "issuesLinked": 3,
+        "reactions": 62
       },
       "svelte-cli": {
         "score": 5,

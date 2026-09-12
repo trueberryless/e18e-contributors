@@ -1,13 +1,13 @@
 {
   "username": "43081j",
-  "lastUpdated": "2026-09-12T00:32:59.975Z",
+  "lastUpdated": "2026-09-12T13:06:16.279Z",
   "aggregatedStats": {
-    "score": 5133,
-    "mergedPrs": 466,
-    "reviews": 807,
-    "reviewsReceived": 224,
-    "issuesLinked": 55,
-    "reactions": 489
+    "score": 5157,
+    "mergedPrs": 469,
+    "reviews": 808,
+    "reviewsReceived": 227,
+    "issuesLinked": 56,
+    "reactions": 492
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,12 +75,12 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 148,
-      "mergedPrs": 19,
-      "reviews": 10,
+      "score": 164,
+      "mergedPrs": 21,
+      "reviews": 11,
       "reviewsReceived": 21,
-      "issuesLinked": 1,
-      "reactions": 3
+      "issuesLinked": 2,
+      "reactions": 6
     },
     "tanstack": {
       "score": 36,
@@ -91,10 +91,10 @@
       "reactions": 20
     },
     "vitejs": {
-      "score": 17,
-      "mergedPrs": 2,
+      "score": 25,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 3,
+      "reviewsReceived": 6,
       "issuesLinked": 0,
       "reactions": 10
     },
@@ -318,12 +318,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 3
+        "issuesLinked": 1,
+        "reactions": 6
       },
       "svelte-eslint-parser": {
         "score": 15,
@@ -370,10 +370,10 @@
         "reactions": 0
       },
       "vite": {
-        "score": 10,
-        "mergedPrs": 1,
+        "score": 18,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 10
       }

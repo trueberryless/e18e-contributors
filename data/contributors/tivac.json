@@ -1,11 +1,11 @@
 {
   "username": "tivac",
-  "lastUpdated": "2026-09-11T17:03:58.796Z",
+  "lastUpdated": "2026-09-12T13:06:18.277Z",
   "aggregatedStats": {
-    "score": 131,
-    "mergedPrs": 13,
-    "reviews": 14,
-    "reviewsReceived": 9,
+    "score": 166,
+    "mergedPrs": 18,
+    "reviews": 17,
+    "reviewsReceived": 10,
     "issuesLinked": 6,
     "reactions": 33
   },
@@ -19,10 +19,10 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 128,
-      "mergedPrs": 13,
-      "reviews": 13,
-      "reviewsReceived": 9,
+      "score": 163,
+      "mergedPrs": 18,
+      "reviews": 16,
+      "reviewsReceived": 10,
       "issuesLinked": 6,
       "reactions": 33
     },
@@ -96,10 +96,10 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 53,
-        "mergedPrs": 6,
-        "reviews": 3,
-        "reviewsReceived": 2,
+        "score": 88,
+        "mergedPrs": 11,
+        "reviews": 6,
+        "reviewsReceived": 3,
         "issuesLinked": 5,
         "reactions": 23
       },

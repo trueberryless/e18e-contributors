@@ -1,13 +1,13 @@
 {
   "username": "bluwy",
-  "lastUpdated": "2026-09-11T22:22:56.498Z",
+  "lastUpdated": "2026-09-12T13:06:16.305Z",
   "aggregatedStats": {
-    "score": 21769,
-    "mergedPrs": 1378,
-    "reviews": 4088,
-    "reviewsReceived": 1620,
-    "issuesLinked": 438,
-    "reactions": 1208
+    "score": 22050,
+    "mergedPrs": 1394,
+    "reviews": 4140,
+    "reviewsReceived": 1645,
+    "issuesLinked": 447,
+    "reactions": 1223
   },
   "orgStats": {
     "bombshell-dev": {
@@ -75,20 +75,20 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 2832,
-      "mergedPrs": 145,
-      "reviews": 614,
-      "reviewsReceived": 141,
+      "score": 2852,
+      "mergedPrs": 147,
+      "reviews": 617,
+      "reviewsReceived": 142,
       "issuesLinked": 56,
       "reactions": 124
     },
     "vitejs": {
-      "score": 10179,
-      "mergedPrs": 555,
-      "reviews": 2097,
-      "reviewsReceived": 633,
-      "issuesLinked": 203,
-      "reactions": 740
+      "score": 10440,
+      "mergedPrs": 569,
+      "reviews": 2146,
+      "reviewsReceived": 657,
+      "issuesLinked": 212,
+      "reactions": 755
     },
     "vitest-dev": {
       "score": 67,
@@ -254,10 +254,10 @@
         "reactions": 0
       },
       "kit": {
-        "score": 884,
-        "mergedPrs": 45,
-        "reviews": 190,
-        "reviewsReceived": 41,
+        "score": 904,
+        "mergedPrs": 47,
+        "reviews": 193,
+        "reviewsReceived": 42,
         "issuesLinked": 22,
         "reactions": 35
       },
@@ -360,12 +360,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 9864,
-        "mergedPrs": 524,
-        "reviews": 2055,
-        "reviewsReceived": 604,
-        "issuesLinked": 201,
-        "reactions": 726
+        "score": 10124,
+        "mergedPrs": 538,
+        "reviews": 2104,
+        "reviewsReceived": 628,
+        "issuesLinked": 210,
+        "reactions": 741
       },
       "vite-benchmark": {
         "score": 15,

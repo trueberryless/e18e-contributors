@@ -1,22 +1,22 @@
 {
   "username": "trbrc",
-  "lastUpdated": "2026-09-11T17:04:15.575Z",
+  "lastUpdated": "2026-09-12T13:06:34.889Z",
   "aggregatedStats": {
-    "score": 17,
-    "mergedPrs": 1,
-    "reviews": 1,
+    "score": 30,
+    "mergedPrs": 3,
+    "reviews": 2,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 87
+    "reactions": 88
   },
   "orgStats": {
     "sveltejs": {
-      "score": 17,
-      "mergedPrs": 1,
-      "reviews": 1,
+      "score": 30,
+      "mergedPrs": 3,
+      "reviews": 2,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 87
+      "reactions": 88
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 1
       },
       "svelte": {
-        "score": 16,
-        "mergedPrs": 1,
-        "reviews": 1,
+        "score": 30,
+        "mergedPrs": 3,
+        "reviews": 2,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 84
+        "reactions": 85
       },
       "svelte-repl": {
         "score": 0,

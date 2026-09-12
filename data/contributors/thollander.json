@@ -1,22 +1,22 @@
 {
   "username": "thollander",
-  "lastUpdated": "2026-09-10T19:08:45.739Z",
+  "lastUpdated": "2026-09-12T13:06:34.831Z",
   "aggregatedStats": {
-    "score": 22,
-    "mergedPrs": 2,
+    "score": 49,
+    "mergedPrs": 7,
     "reviews": 3,
     "reviewsReceived": 0,
-    "issuesLinked": 1,
-    "reactions": 10
+    "issuesLinked": 2,
+    "reactions": 11
   },
   "orgStats": {
     "sveltejs": {
-      "score": 22,
-      "mergedPrs": 2,
+      "score": 49,
+      "mergedPrs": 7,
       "reviews": 3,
       "reviewsReceived": 0,
-      "issuesLinked": 1,
-      "reactions": 10
+      "issuesLinked": 2,
+      "reactions": 11
     },
     "vuejs": {
       "score": 0,
@@ -46,12 +46,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 17,
-        "mergedPrs": 1,
+        "score": 44,
+        "mergedPrs": 6,
         "reviews": 3,
         "reviewsReceived": 0,
-        "issuesLinked": 1,
-        "reactions": 10
+        "issuesLinked": 2,
+        "reactions": 11
       }
     },
     "vuejs": {

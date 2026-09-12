@@ -1,13 +1,13 @@
 {
   "username": "arbassett",
-  "lastUpdated": "2026-09-05T00:34:36.868Z",
+  "lastUpdated": "2026-09-12T13:06:36.112Z",
   "aggregatedStats": {
-    "score": 8,
-    "mergedPrs": 0,
+    "score": 26,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 80
+    "reviewsReceived": 4,
+    "issuesLinked": 2,
+    "reactions": 81
   },
   "orgStats": {
     "tanstack": {
@@ -19,12 +19,12 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 8,
-      "mergedPrs": 0,
+      "score": 26,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 79
+      "reviewsReceived": 4,
+      "issuesLinked": 2,
+      "reactions": 80
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 8,
-        "mergedPrs": 0,
+        "score": 26,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 79
+        "reviewsReceived": 4,
+        "issuesLinked": 2,
+        "reactions": 80
       }
     }
   }

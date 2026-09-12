@@ -1,13 +1,13 @@
 {
   "username": "dominikg",
-  "lastUpdated": "2026-09-11T17:03:58.603Z",
+  "lastUpdated": "2026-09-12T13:06:18.038Z",
   "aggregatedStats": {
-    "score": 5972,
-    "mergedPrs": 586,
-    "reviews": 788,
-    "reviewsReceived": 457,
-    "issuesLinked": 71,
-    "reactions": 787
+    "score": 6165,
+    "mergedPrs": 610,
+    "reviews": 802,
+    "reviewsReceived": 480,
+    "issuesLinked": 74,
+    "reactions": 803
   },
   "orgStats": {
     "changesets": {
@@ -59,20 +59,20 @@
       "reactions": 8
     },
     "sveltejs": {
-      "score": 4607,
-      "mergedPrs": 443,
-      "reviews": 633,
-      "reviewsReceived": 326,
-      "issuesLinked": 56,
-      "reactions": 547
+      "score": 4709,
+      "mergedPrs": 459,
+      "reviews": 638,
+      "reviewsReceived": 331,
+      "issuesLinked": 57,
+      "reactions": 548
     },
     "vitejs": {
-      "score": 1278,
-      "mergedPrs": 134,
-      "reviews": 146,
-      "reviewsReceived": 125,
-      "issuesLinked": 14,
-      "reactions": 172
+      "score": 1369,
+      "mergedPrs": 142,
+      "reviews": 155,
+      "reviewsReceived": 143,
+      "issuesLinked": 16,
+      "reactions": 187
     },
     "vitest-dev": {
       "score": 58,
@@ -226,12 +226,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 980,
-        "mergedPrs": 74,
-        "reviews": 165,
-        "reviewsReceived": 72,
-        "issuesLinked": 6,
-        "reactions": 305
+        "score": 1082,
+        "mergedPrs": 90,
+        "reviews": 170,
+        "reviewsReceived": 77,
+        "issuesLinked": 7,
+        "reactions": 306
       },
       "language-tools": {
         "score": 10,
@@ -348,12 +348,12 @@
         "reactions": 2
       },
       "vite": {
-        "score": 370,
-        "mergedPrs": 33,
-        "reviews": 44,
-        "reviewsReceived": 47,
-        "issuesLinked": 8,
-        "reactions": 101
+        "score": 461,
+        "mergedPrs": 41,
+        "reviews": 53,
+        "reviewsReceived": 65,
+        "issuesLinked": 10,
+        "reactions": 116
       },
       "vite-ecosystem-ci": {
         "score": 881,

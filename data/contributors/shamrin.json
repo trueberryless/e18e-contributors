@@ -1,19 +1,19 @@
 {
   "username": "shamrin",
-  "lastUpdated": "2026-09-11T17:04:15.256Z",
+  "lastUpdated": "2026-09-12T13:06:34.647Z",
   "aggregatedStats": {
-    "score": 15,
+    "score": 18,
     "mergedPrs": 2,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 1,
     "issuesLinked": 2,
     "reactions": 5
   },
   "orgStats": {
     "sveltejs": {
-      "score": 5,
+      "score": 8,
       "mergedPrs": 1,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 2
@@ -29,6 +29,14 @@
   },
   "repoStats": {
     "sveltejs": {
+      "svelte": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "v2.svelte.dev": {
         "score": 5,
         "mergedPrs": 1,

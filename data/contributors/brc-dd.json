@@ -1,12 +1,12 @@
 {
   "username": "brc-dd",
-  "lastUpdated": "2026-09-09T00:32:41.516Z",
+  "lastUpdated": "2026-09-12T13:06:16.305Z",
   "aggregatedStats": {
-    "score": 3185,
-    "mergedPrs": 341,
+    "score": 3192,
+    "mergedPrs": 342,
     "reviews": 303,
     "reviewsReceived": 50,
-    "issuesLinked": 243,
+    "issuesLinked": 244,
     "reactions": 357
   },
   "orgStats": {
@@ -51,11 +51,11 @@
       "reactions": 10
     },
     "vuejs": {
-      "score": 3134,
-      "mergedPrs": 334,
+      "score": 3141,
+      "mergedPrs": 335,
       "reviews": 302,
       "reviewsReceived": 42,
-      "issuesLinked": 241,
+      "issuesLinked": 242,
       "reactions": 343
     },
     "withastro": {
@@ -192,11 +192,11 @@
         "reactions": 2
       },
       "vitepress": {
-        "score": 2853,
-        "mergedPrs": 313,
+        "score": 2860,
+        "mergedPrs": 314,
         "reviews": 252,
         "reviewsReceived": 32,
-        "issuesLinked": 234,
+        "issuesLinked": 235,
         "reactions": 323
       }
     },

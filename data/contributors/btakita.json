@@ -1,13 +1,13 @@
 {
   "username": "btakita",
-  "lastUpdated": "2026-09-11T17:03:58.574Z",
+  "lastUpdated": "2026-09-12T13:06:18.013Z",
   "aggregatedStats": {
-    "score": 68,
-    "mergedPrs": 6,
-    "reviews": 1,
+    "score": 88,
+    "mergedPrs": 9,
+    "reviews": 2,
     "reviewsReceived": 2,
-    "issuesLinked": 4,
-    "reactions": 254
+    "issuesLinked": 5,
+    "reactions": 256
   },
   "orgStats": {
     "changesets": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 68,
-      "mergedPrs": 6,
-      "reviews": 1,
+      "score": 88,
+      "mergedPrs": 9,
+      "reviews": 2,
       "reviewsReceived": 2,
-      "issuesLinked": 4,
-      "reactions": 248
+      "issuesLinked": 5,
+      "reactions": 250
     },
     "vitejs": {
       "score": 0,
@@ -114,12 +114,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 32,
-        "mergedPrs": 2,
-        "reviews": 0,
+        "score": 52,
+        "mergedPrs": 5,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 1,
-        "reactions": 202
+        "issuesLinked": 2,
+        "reactions": 204
       },
       "svelte-preprocess": {
         "score": 19,

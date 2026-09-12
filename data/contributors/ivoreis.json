@@ -1,21 +1,21 @@
 {
   "username": "ivoreis",
-  "lastUpdated": "2026-09-05T00:34:32.761Z",
+  "lastUpdated": "2026-09-12T13:06:33.571Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
+    "score": 15,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "issuesLinked": 1,
     "reactions": 1
   },
   "orgStats": {
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 15,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 1
     },
     "withastro": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 15,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 1
       }
     },

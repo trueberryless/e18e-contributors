@@ -1,12 +1,12 @@
 {
   "username": "mindrones",
-  "lastUpdated": "2026-09-11T17:04:08.976Z",
+  "lastUpdated": "2026-09-12T13:06:28.631Z",
   "aggregatedStats": {
-    "score": 69,
-    "mergedPrs": 9,
-    "reviews": 4,
-    "reviewsReceived": 0,
-    "issuesLinked": 5,
+    "score": 230,
+    "mergedPrs": 30,
+    "reviews": 13,
+    "reviewsReceived": 1,
+    "issuesLinked": 19,
     "reactions": 25
   },
   "orgStats": {
@@ -19,11 +19,11 @@
       "reactions": 1
     },
     "sveltejs": {
-      "score": 69,
-      "mergedPrs": 9,
-      "reviews": 4,
-      "reviewsReceived": 0,
-      "issuesLinked": 5,
+      "score": 230,
+      "mergedPrs": 30,
+      "reviews": 13,
+      "reviewsReceived": 1,
+      "issuesLinked": 19,
       "reactions": 24
     }
   },
@@ -80,11 +80,11 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 32,
-        "mergedPrs": 3,
-        "reviews": 3,
-        "reviewsReceived": 0,
-        "issuesLinked": 3,
+        "score": 193,
+        "mergedPrs": 24,
+        "reviews": 12,
+        "reviewsReceived": 1,
+        "issuesLinked": 17,
         "reactions": 17
       },
       "template": {

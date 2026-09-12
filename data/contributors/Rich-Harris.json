@@ -1,13 +1,13 @@
 {
   "username": "Rich-Harris",
-  "lastUpdated": "2026-09-11T17:04:01.451Z",
+  "lastUpdated": "2026-09-12T13:06:20.882Z",
   "aggregatedStats": {
-    "score": 36212,
-    "mergedPrs": 3392,
-    "reviews": 4788,
-    "reviewsReceived": 1576,
-    "issuesLinked": 903,
-    "reactions": 15064
+    "score": 39301,
+    "mergedPrs": 3854,
+    "reviews": 4866,
+    "reviewsReceived": 1667,
+    "issuesLinked": 1123,
+    "reactions": 15206
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 14
     },
     "sveltejs": {
-      "score": 36171,
-      "mergedPrs": 3389,
-      "reviews": 4788,
-      "reviewsReceived": 1573,
-      "issuesLinked": 901,
-      "reactions": 14868
+      "score": 39260,
+      "mergedPrs": 3851,
+      "reviews": 4866,
+      "reviewsReceived": 1664,
+      "issuesLinked": 1121,
+      "reactions": 15010
     },
     "vitejs": {
       "score": 34,
@@ -128,12 +128,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 15365,
-        "mergedPrs": 1064,
-        "reviews": 2626,
-        "reviewsReceived": 729,
-        "issuesLinked": 429,
-        "reactions": 5800
+        "score": 16331,
+        "mergedPrs": 1200,
+        "reviews": 2671,
+        "reviewsReceived": 766,
+        "issuesLinked": 483,
+        "reactions": 5856
       },
       "language-tools": {
         "score": 38,
@@ -224,12 +224,12 @@
         "reactions": 52
       },
       "svelte": {
-        "score": 12023,
-        "mergedPrs": 1133,
-        "reviews": 1482,
-        "reviewsReceived": 709,
-        "issuesLinked": 228,
-        "reactions": 7469
+        "score": 14147,
+        "mergedPrs": 1459,
+        "reviews": 1515,
+        "reviewsReceived": 763,
+        "issuesLinked": 394,
+        "reactions": 7555
       },
       "svelte-cli": {
         "score": 15,

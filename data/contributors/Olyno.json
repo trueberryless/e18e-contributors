@@ -1,11 +1,11 @@
 {
   "username": "Olyno",
-  "lastUpdated": "2026-09-11T17:04:07.353Z",
+  "lastUpdated": "2026-09-12T13:06:26.829Z",
   "aggregatedStats": {
-    "score": 26,
-    "mergedPrs": 3,
+    "score": 39,
+    "mergedPrs": 5,
     "reviews": 2,
-    "reviewsReceived": 2,
+    "reviewsReceived": 5,
     "issuesLinked": 1,
     "reactions": 9
   },
@@ -27,10 +27,10 @@
       "reactions": 3
     },
     "vitejs": {
-      "score": 12,
-      "mergedPrs": 1,
+      "score": 25,
+      "mergedPrs": 3,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 5,
       "issuesLinked": 1,
       "reactions": 0
     },
@@ -98,10 +98,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 25,
+        "mergedPrs": 3,
         "reviews": 1,
-        "reviewsReceived": 2,
+        "reviewsReceived": 5,
         "issuesLinked": 1,
         "reactions": 0
       }

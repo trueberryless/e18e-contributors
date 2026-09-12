@@ -1,13 +1,13 @@
 {
   "username": "silentworks",
-  "lastUpdated": "2026-09-10T19:08:45.625Z",
+  "lastUpdated": "2026-09-12T13:06:34.674Z",
   "aggregatedStats": {
     "score": 53,
     "mergedPrs": 9,
     "reviews": 2,
     "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 10
+    "reactions": 13
   },
   "orgStats": {
     "sveltejs": {
@@ -16,7 +16,7 @@
       "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 10
+      "reactions": 13
     },
     "vuejs": {
       "score": 5,
@@ -46,12 +46,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 3,
+        "score": 4,
         "mergedPrs": 0,
         "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 6
       },
       "v2.svelte.dev": {
         "score": 30,

@@ -1,22 +1,22 @@
 {
   "username": "GarrettGeorge",
-  "lastUpdated": "2026-09-05T00:34:31.626Z",
+  "lastUpdated": "2026-09-12T13:06:31.960Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
+    "score": 14,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 5
+    "reactions": 9
   },
   "orgStats": {
     "sveltejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
+      "score": 14,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 4
+      "reactions": 8
     },
     "vuejs": {
       "score": 0,
@@ -30,12 +30,12 @@
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 14,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 4
+        "reactions": 8
       },
       "v2.svelte.dev": {
         "score": 0,

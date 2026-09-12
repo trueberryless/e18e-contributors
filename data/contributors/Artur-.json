@@ -1,12 +1,12 @@
 {
   "username": "Artur-",
-  "lastUpdated": "2026-09-11T17:04:06.472Z",
+  "lastUpdated": "2026-09-12T13:06:25.975Z",
   "aggregatedStats": {
-    "score": 33,
-    "mergedPrs": 3,
-    "reviews": 1,
-    "reviewsReceived": 4,
-    "issuesLinked": 1,
+    "score": 61,
+    "mergedPrs": 6,
+    "reviews": 2,
+    "reviewsReceived": 10,
+    "issuesLinked": 3,
     "reactions": 86
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 27
     },
     "vitejs": {
-      "score": 28,
-      "mergedPrs": 3,
-      "reviews": 1,
-      "reviewsReceived": 4,
-      "issuesLinked": 1,
+      "score": 56,
+      "mergedPrs": 6,
+      "reviews": 2,
+      "reviewsReceived": 10,
+      "issuesLinked": 3,
       "reactions": 43
     },
     "vitest-dev": {
@@ -66,11 +66,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 28,
-        "mergedPrs": 3,
-        "reviews": 1,
-        "reviewsReceived": 4,
-        "issuesLinked": 1,
+        "score": 56,
+        "mergedPrs": 6,
+        "reviews": 2,
+        "reviewsReceived": 10,
+        "issuesLinked": 3,
         "reactions": 43
       },
       "vite-plugin-react": {

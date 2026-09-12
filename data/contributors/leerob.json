@@ -1,13 +1,13 @@
 {
   "username": "leerob",
-  "lastUpdated": "2026-09-11T17:04:03.987Z",
+  "lastUpdated": "2026-09-12T13:06:23.595Z",
   "aggregatedStats": {
-    "score": 35,
-    "mergedPrs": 4,
-    "reviews": 3,
+    "score": 43,
+    "mergedPrs": 5,
+    "reviews": 4,
     "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 16
+    "reactions": 17
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 5
     },
     "sveltejs": {
-      "score": 13,
-      "mergedPrs": 1,
-      "reviews": 2,
+      "score": 21,
+      "mergedPrs": 2,
+      "reviews": 3,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 5
+      "reactions": 6
     },
     "vitejs": {
       "score": 6,
@@ -80,12 +80,12 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 13,
-        "mergedPrs": 1,
-        "reviews": 2,
+        "score": 21,
+        "mergedPrs": 2,
+        "reviews": 3,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 5
+        "reactions": 6
       }
     },
     "vitejs": {

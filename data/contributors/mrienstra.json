@@ -1,10 +1,10 @@
 {
   "username": "mrienstra",
-  "lastUpdated": "2026-09-10T19:08:33.857Z",
+  "lastUpdated": "2026-09-12T13:06:18.165Z",
   "aggregatedStats": {
-    "score": 41,
+    "score": 44,
     "mergedPrs": 7,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 4,
     "issuesLinked": 1,
     "reactions": 7
@@ -35,9 +35,9 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 0,
+      "score": 3,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 0
@@ -124,9 +124,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

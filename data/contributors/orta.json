@@ -1,10 +1,10 @@
 {
   "username": "orta",
-  "lastUpdated": "2026-09-11T17:03:58.737Z",
+  "lastUpdated": "2026-09-12T13:06:18.182Z",
   "aggregatedStats": {
-    "score": 231,
+    "score": 234,
     "mergedPrs": 21,
-    "reviews": 18,
+    "reviews": 19,
     "reviewsReceived": 11,
     "issuesLinked": 3,
     "reactions": 549
@@ -35,9 +35,9 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 225,
+      "score": 228,
       "mergedPrs": 20,
-      "reviews": 18,
+      "reviews": 19,
       "reviewsReceived": 10,
       "issuesLinked": 3,
       "reactions": 547
@@ -75,6 +75,14 @@
       }
     },
     "sveltejs": {
+      "kit": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "language-tools": {
         "score": 127,
         "mergedPrs": 15,

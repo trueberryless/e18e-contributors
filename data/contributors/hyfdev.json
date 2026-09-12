@@ -1,13 +1,13 @@
 {
   "username": "hyfdev",
-  "lastUpdated": "2026-09-11T17:04:06.801Z",
+  "lastUpdated": "2026-09-12T13:06:26.310Z",
   "aggregatedStats": {
-    "score": 237,
-    "mergedPrs": 34,
-    "reviews": 4,
-    "reviewsReceived": 36,
-    "issuesLinked": 4,
-    "reactions": 112
+    "score": 343,
+    "mergedPrs": 43,
+    "reviews": 14,
+    "reviewsReceived": 54,
+    "issuesLinked": 10,
+    "reactions": 116
   },
   "orgStats": {
     "oxc-project": {
@@ -19,12 +19,12 @@
       "reactions": 79
     },
     "vitejs": {
-      "score": 31,
-      "mergedPrs": 3,
-      "reviews": 2,
-      "reviewsReceived": 5,
-      "issuesLinked": 1,
-      "reactions": 32
+      "score": 137,
+      "mergedPrs": 12,
+      "reviews": 12,
+      "reviewsReceived": 23,
+      "issuesLinked": 7,
+      "reactions": 36
     },
     "vuejs": {
       "score": 49,
@@ -72,12 +72,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 31,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 5,
-        "issuesLinked": 1,
-        "reactions": 32
+        "score": 137,
+        "mergedPrs": 12,
+        "reviews": 12,
+        "reviewsReceived": 23,
+        "issuesLinked": 7,
+        "reactions": 36
       }
     },
     "vuejs": {
