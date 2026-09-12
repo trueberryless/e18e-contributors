@@ -1,10 +1,10 @@
 {
   "username": "schiller-manuel",
-  "lastUpdated": "2026-09-10T16:17:38.677Z",
+  "lastUpdated": "2026-09-12T05:18:30.090Z",
   "aggregatedStats": {
-    "score": 563,
+    "score": 569,
     "mergedPrs": 48,
-    "reviews": 80,
+    "reviews": 82,
     "reviewsReceived": 36,
     "issuesLinked": 5,
     "reactions": 371
@@ -19,9 +19,9 @@
       "reactions": 0
     },
     "tanstack": {
-      "score": 530,
+      "score": 536,
       "mergedPrs": 43,
-      "reviews": 80,
+      "reviews": 82,
       "reviewsReceived": 32,
       "issuesLinked": 4,
       "reactions": 348
@@ -96,9 +96,9 @@
         "reactions": 0
       },
       "intent": {
-        "score": 9,
+        "score": 15,
         "mergedPrs": 0,
-        "reviews": 3,
+        "reviews": 5,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

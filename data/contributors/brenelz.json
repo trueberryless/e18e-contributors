@@ -1,22 +1,22 @@
 {
   "username": "brenelz",
-  "lastUpdated": "2026-09-10T16:17:44.004Z",
+  "lastUpdated": "2026-09-12T05:18:35.707Z",
   "aggregatedStats": {
-    "score": 354,
-    "mergedPrs": 46,
+    "score": 360,
+    "mergedPrs": 47,
     "reviews": 29,
-    "reviewsReceived": 26,
+    "reviewsReceived": 27,
     "issuesLinked": 1,
-    "reactions": 89
+    "reactions": 91
   },
   "orgStats": {
     "tanstack": {
-      "score": 349,
-      "mergedPrs": 45,
+      "score": 355,
+      "mergedPrs": 46,
       "reviews": 29,
-      "reviewsReceived": 26,
+      "reviewsReceived": 27,
       "issuesLinked": 1,
-      "reactions": 89
+      "reactions": 91
     },
     "withastro": {
       "score": 5,
@@ -78,12 +78,12 @@
         "reactions": 22
       },
       "router": {
-        "score": 77,
-        "mergedPrs": 9,
+        "score": 83,
+        "mergedPrs": 10,
         "reviews": 7,
-        "reviewsReceived": 6,
+        "reviewsReceived": 7,
         "issuesLinked": 0,
-        "reactions": 51
+        "reactions": 53
       },
       "store": {
         "score": 0,

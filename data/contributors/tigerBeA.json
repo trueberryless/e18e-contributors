@@ -1,32 +1,32 @@
 {
   "username": "tigerBeA",
-  "lastUpdated": "2026-09-07T23:39:36.373Z",
+  "lastUpdated": "2026-09-12T05:18:37.679Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
+    "score": 10,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
+    "reviewsReceived": 1,
+    "issuesLinked": 2,
     "reactions": 0
   },
   "orgStats": {
     "tanstack": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 10,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
+      "reviewsReceived": 1,
+      "issuesLinked": 2,
       "reactions": 0
     }
   },
   "repoStats": {
     "tanstack": {
       "virtual": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
+        "reviewsReceived": 1,
+        "issuesLinked": 2,
         "reactions": 0
       }
     }

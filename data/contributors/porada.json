@@ -1,11 +1,11 @@
 {
   "username": "porada",
-  "lastUpdated": "2026-09-05T17:41:17.555Z",
+  "lastUpdated": "2026-09-12T05:18:17.200Z",
   "aggregatedStats": {
-    "score": 29,
-    "mergedPrs": 3,
-    "reviews": 2,
-    "reviewsReceived": 3,
+    "score": 44,
+    "mergedPrs": 5,
+    "reviews": 3,
+    "reviewsReceived": 5,
     "issuesLinked": 2,
     "reactions": 12
   },
@@ -43,10 +43,10 @@
       "reactions": 0
     },
     "zed-industries": {
-      "score": 17,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 2,
+      "score": 32,
+      "mergedPrs": 4,
+      "reviews": 2,
+      "reviewsReceived": 4,
       "issuesLinked": 1,
       "reactions": 4
     },
@@ -102,10 +102,10 @@
     },
     "zed-industries": {
       "zed": {
-        "score": 17,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 2,
+        "score": 32,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 4,
         "issuesLinked": 1,
         "reactions": 4
       }

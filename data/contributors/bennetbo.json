@@ -1,22 +1,22 @@
 {
   "username": "bennetbo",
-  "lastUpdated": "2026-09-11T13:11:03.189Z",
+  "lastUpdated": "2026-09-12T05:18:56.962Z",
   "aggregatedStats": {
-    "score": 1946,
-    "mergedPrs": 198,
-    "reviews": 236,
+    "score": 2096,
+    "mergedPrs": 225,
+    "reviews": 241,
     "reviewsReceived": 134,
     "issuesLinked": 29,
-    "reactions": 558
+    "reactions": 564
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1946,
-      "mergedPrs": 198,
-      "reviews": 236,
+      "score": 2096,
+      "mergedPrs": 225,
+      "reviews": 241,
       "reviewsReceived": 134,
       "issuesLinked": 29,
-      "reactions": 558
+      "reactions": 564
     }
   },
   "repoStats": {
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 1931,
-        "mergedPrs": 195,
-        "reviews": 236,
+        "score": 2081,
+        "mergedPrs": 222,
+        "reviews": 241,
         "reviewsReceived": 134,
         "issuesLinked": 29,
-        "reactions": 558
+        "reactions": 564
       }
     }
   }

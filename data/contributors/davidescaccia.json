@@ -1,33 +1,33 @@
 {
   "username": "davidescaccia",
-  "lastUpdated": "2026-09-08T22:46:05.873Z",
+  "lastUpdated": "2026-09-12T05:18:57.369Z",
   "aggregatedStats": {
-    "score": 9,
-    "mergedPrs": 1,
+    "score": 16,
+    "mergedPrs": 2,
     "reviews": 0,
-    "reviewsReceived": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 34
+    "reactions": 38
   },
   "orgStats": {
     "zed-industries": {
-      "score": 9,
-      "mergedPrs": 1,
+      "score": 16,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 34
+      "reactions": 38
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 9,
-        "mergedPrs": 1,
+        "score": 16,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 34
+        "reactions": 38
       }
     }
   }

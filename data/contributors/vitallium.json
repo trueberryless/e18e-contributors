@@ -1,13 +1,13 @@
 {
   "username": "vitallium",
-  "lastUpdated": "2026-09-09T14:49:59.617Z",
+  "lastUpdated": "2026-09-12T05:18:15.073Z",
   "aggregatedStats": {
-    "score": 76,
-    "mergedPrs": 8,
+    "score": 83,
+    "mergedPrs": 9,
     "reviews": 4,
-    "reviewsReceived": 7,
+    "reviewsReceived": 9,
     "issuesLinked": 2,
-    "reactions": 131
+    "reactions": 133
   },
   "orgStats": {
     "biomejs": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "zed-industries": {
-      "score": 61,
-      "mergedPrs": 6,
+      "score": 68,
+      "mergedPrs": 7,
       "reviews": 3,
-      "reviewsReceived": 5,
+      "reviewsReceived": 7,
       "issuesLinked": 2,
-      "reactions": 129
+      "reactions": 131
     }
   },
   "repoStats": {
@@ -56,12 +56,12 @@
         "reactions": 23
       },
       "zed": {
-        "score": 59,
-        "mergedPrs": 6,
+        "score": 66,
+        "mergedPrs": 7,
         "reviews": 3,
-        "reviewsReceived": 5,
+        "reviewsReceived": 7,
         "issuesLinked": 2,
-        "reactions": 106
+        "reactions": 108
       }
     }
   }

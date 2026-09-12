@@ -1,22 +1,22 @@
 {
   "username": "amtoaer",
-  "lastUpdated": "2026-09-11T13:11:03.065Z",
+  "lastUpdated": "2026-09-12T05:18:56.743Z",
   "aggregatedStats": {
-    "score": 96,
-    "mergedPrs": 11,
+    "score": 126,
+    "mergedPrs": 15,
     "reviews": 1,
-    "reviewsReceived": 12,
-    "issuesLinked": 9,
-    "reactions": 75
+    "reviewsReceived": 16,
+    "issuesLinked": 12,
+    "reactions": 76
   },
   "orgStats": {
     "zed-industries": {
-      "score": 94,
-      "mergedPrs": 11,
+      "score": 124,
+      "mergedPrs": 15,
       "reviews": 1,
-      "reviewsReceived": 12,
-      "issuesLinked": 9,
-      "reactions": 60
+      "reviewsReceived": 16,
+      "issuesLinked": 12,
+      "reactions": 61
     },
     "zen-browser": {
       "score": 2,
@@ -30,12 +30,12 @@
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 94,
-        "mergedPrs": 11,
+        "score": 124,
+        "mergedPrs": 15,
         "reviews": 1,
-        "reviewsReceived": 12,
-        "issuesLinked": 9,
-        "reactions": 60
+        "reviewsReceived": 16,
+        "issuesLinked": 12,
+        "reactions": 61
       }
     },
     "zen-browser": {

@@ -1,40 +1,40 @@
 {
   "username": "MrSubidubi",
-  "lastUpdated": "2026-09-11T13:11:02.644Z",
+  "lastUpdated": "2026-09-12T05:18:56.098Z",
   "aggregatedStats": {
-    "score": 2238,
-    "mergedPrs": 153,
-    "reviews": 436,
+    "score": 2453,
+    "mergedPrs": 176,
+    "reviews": 468,
     "reviewsReceived": 127,
-    "issuesLinked": 2,
+    "issuesLinked": 4,
     "reactions": 340
   },
   "orgStats": {
     "zed-industries": {
-      "score": 2238,
-      "mergedPrs": 153,
-      "reviews": 436,
+      "score": 2453,
+      "mergedPrs": 176,
+      "reviews": 468,
       "reviewsReceived": 127,
-      "issuesLinked": 2,
+      "issuesLinked": 4,
       "reactions": 340
     }
   },
   "repoStats": {
     "zed-industries": {
       "extensions": {
-        "score": 279,
+        "score": 324,
         "mergedPrs": 0,
-        "reviews": 93,
+        "reviews": 108,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       },
       "zed": {
-        "score": 1959,
-        "mergedPrs": 153,
-        "reviews": 343,
+        "score": 2129,
+        "mergedPrs": 176,
+        "reviews": 360,
         "reviewsReceived": 127,
-        "issuesLinked": 2,
+        "issuesLinked": 4,
         "reactions": 340
       }
     }

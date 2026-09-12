@@ -1,22 +1,22 @@
 {
   "username": "Feel-ix-343",
-  "lastUpdated": "2026-09-09T21:15:13.622Z",
+  "lastUpdated": "2026-09-12T05:18:55.687Z",
   "aggregatedStats": {
-    "score": 37,
-    "mergedPrs": 0,
+    "score": 44,
+    "mergedPrs": 1,
     "reviews": 0,
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "issuesLinked": 0,
-    "reactions": 371
+    "reactions": 377
   },
   "orgStats": {
     "zed-industries": {
-      "score": 37,
-      "mergedPrs": 0,
+      "score": 44,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
+      "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 371
+      "reactions": 377
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 2
       },
       "zed": {
-        "score": 37,
-        "mergedPrs": 0,
+        "score": 44,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 369
+        "reactions": 375
       }
     }
   }

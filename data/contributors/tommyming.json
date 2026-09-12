@@ -1,22 +1,22 @@
 {
   "username": "tommyming",
-  "lastUpdated": "2026-09-11T13:11:05.182Z",
+  "lastUpdated": "2026-09-12T05:19:00.375Z",
   "aggregatedStats": {
-    "score": 29,
-    "mergedPrs": 2,
-    "reviews": 1,
-    "reviewsReceived": 1,
-    "issuesLinked": 1,
-    "reactions": 128
+    "score": 42,
+    "mergedPrs": 3,
+    "reviews": 2,
+    "reviewsReceived": 3,
+    "issuesLinked": 2,
+    "reactions": 136
   },
   "orgStats": {
     "zed-industries": {
-      "score": 29,
-      "mergedPrs": 2,
-      "reviews": 1,
-      "reviewsReceived": 1,
-      "issuesLinked": 1,
-      "reactions": 128
+      "score": 42,
+      "mergedPrs": 3,
+      "reviews": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 2,
+      "reactions": 136
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 29,
-        "mergedPrs": 2,
-        "reviews": 1,
-        "reviewsReceived": 1,
-        "issuesLinked": 1,
-        "reactions": 128
+        "score": 42,
+        "mergedPrs": 3,
+        "reviews": 2,
+        "reviewsReceived": 3,
+        "issuesLinked": 2,
+        "reactions": 136
       }
     }
   }

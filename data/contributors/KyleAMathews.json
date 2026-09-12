@@ -1,13 +1,13 @@
 {
   "username": "KyleAMathews",
-  "lastUpdated": "2026-09-11T13:10:33.004Z",
+  "lastUpdated": "2026-09-12T05:18:16.743Z",
   "aggregatedStats": {
-    "score": 2868,
-    "mergedPrs": 344,
-    "reviews": 236,
-    "reviewsReceived": 230,
-    "issuesLinked": 82,
-    "reactions": 459
+    "score": 2913,
+    "mergedPrs": 349,
+    "reviews": 240,
+    "reviewsReceived": 234,
+    "issuesLinked": 84,
+    "reactions": 460
   },
   "orgStats": {
     "changesets": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "tanstack": {
-      "score": 2860,
-      "mergedPrs": 343,
-      "reviews": 236,
-      "reviewsReceived": 229,
-      "issuesLinked": 82,
-      "reactions": 442
+      "score": 2905,
+      "mergedPrs": 348,
+      "reviews": 240,
+      "reviewsReceived": 233,
+      "issuesLinked": 84,
+      "reactions": 443
     },
     "vitest-dev": {
       "score": 8,
@@ -64,12 +64,12 @@
         "reactions": 2
       },
       "db": {
-        "score": 2491,
-        "mergedPrs": 291,
-        "reviews": 216,
-        "reviewsReceived": 192,
-        "issuesLinked": 76,
-        "reactions": 436
+        "score": 2536,
+        "mergedPrs": 296,
+        "reviews": 220,
+        "reviewsReceived": 196,
+        "issuesLinked": 78,
+        "reactions": 437
       },
       "intent": {
         "score": 263,

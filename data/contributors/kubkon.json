@@ -1,22 +1,22 @@
 {
   "username": "kubkon",
-  "lastUpdated": "2026-09-11T13:11:04.161Z",
+  "lastUpdated": "2026-09-12T05:18:58.734Z",
   "aggregatedStats": {
-    "score": 444,
-    "mergedPrs": 44,
-    "reviews": 59,
+    "score": 533,
+    "mergedPrs": 61,
+    "reviews": 60,
     "reviewsReceived": 29,
     "issuesLinked": 4,
-    "reactions": 103
+    "reactions": 113
   },
   "orgStats": {
     "zed-industries": {
-      "score": 444,
-      "mergedPrs": 44,
-      "reviews": 59,
+      "score": 533,
+      "mergedPrs": 61,
+      "reviews": 60,
       "reviewsReceived": 29,
       "issuesLinked": 4,
-      "reactions": 103
+      "reactions": 113
     }
   },
   "repoStats": {
@@ -30,12 +30,12 @@
         "reactions": 0
       },
       "zed": {
-        "score": 444,
-        "mergedPrs": 44,
-        "reviews": 59,
+        "score": 533,
+        "mergedPrs": 61,
+        "reviews": 60,
         "reviewsReceived": 29,
         "issuesLinked": 4,
-        "reactions": 103
+        "reactions": 113
       }
     }
   }

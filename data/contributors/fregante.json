@@ -1,13 +1,13 @@
 {
   "username": "fregante",
-  "lastUpdated": "2026-09-10T16:17:22.250Z",
+  "lastUpdated": "2026-09-12T05:18:14.508Z",
   "aggregatedStats": {
-    "score": 1025,
-    "mergedPrs": 86,
-    "reviews": 92,
+    "score": 1062,
+    "mergedPrs": 89,
+    "reviews": 98,
     "reviewsReceived": 6,
-    "issuesLinked": 26,
-    "reactions": 2609
+    "issuesLinked": 28,
+    "reactions": 2610
   },
   "orgStats": {
     "biomejs": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "refined-github": {
-      "score": 1011,
-      "mergedPrs": 85,
-      "reviews": 91,
+      "score": 1048,
+      "mergedPrs": 88,
+      "reviews": 97,
       "reviewsReceived": 5,
-      "issuesLinked": 25,
-      "reactions": 2577
+      "issuesLinked": 27,
+      "reactions": 2578
     },
     "sveltejs": {
       "score": 0,
@@ -134,12 +134,12 @@
         "reactions": 30
       },
       "refined-github": {
-        "score": 259,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 296,
+        "mergedPrs": 4,
+        "reviews": 6,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 2542
+        "issuesLinked": 2,
+        "reactions": 2543
       },
       "shorten-repo-url": {
         "score": 162,

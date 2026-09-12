@@ -1,33 +1,33 @@
 {
   "username": "Veykril",
-  "lastUpdated": "2026-09-11T13:11:02.887Z",
+  "lastUpdated": "2026-09-12T05:18:56.476Z",
   "aggregatedStats": {
-    "score": 1698,
-    "mergedPrs": 131,
-    "reviews": 283,
+    "score": 1920,
+    "mergedPrs": 163,
+    "reviews": 296,
     "reviewsReceived": 120,
-    "issuesLinked": 5,
-    "reactions": 641
+    "issuesLinked": 8,
+    "reactions": 806
   },
   "orgStats": {
     "zed-industries": {
-      "score": 1698,
-      "mergedPrs": 131,
-      "reviews": 283,
+      "score": 1920,
+      "mergedPrs": 163,
+      "reviews": 296,
       "reviewsReceived": 120,
-      "issuesLinked": 5,
-      "reactions": 641
+      "issuesLinked": 8,
+      "reactions": 806
     }
   },
   "repoStats": {
     "zed-industries": {
       "zed": {
-        "score": 1698,
-        "mergedPrs": 131,
-        "reviews": 283,
+        "score": 1920,
+        "mergedPrs": 163,
+        "reviews": 296,
         "reviewsReceived": 120,
-        "issuesLinked": 5,
-        "reactions": 641
+        "issuesLinked": 8,
+        "reactions": 806
       }
     }
   }

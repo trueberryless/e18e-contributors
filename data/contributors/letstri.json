@@ -1,6 +1,6 @@
 {
   "username": "letstri",
-  "lastUpdated": "2026-09-09T00:32:47.455Z",
+  "lastUpdated": "2026-09-12T05:18:22.622Z",
   "aggregatedStats": {
     "score": 30,
     "mergedPrs": 4,
@@ -60,6 +60,14 @@
         "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 1,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
+      "redact": {
+        "score": 0,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0
       },
