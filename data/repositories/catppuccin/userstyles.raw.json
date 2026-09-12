@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-11T19:36:21.314Z",
+    "lastRunAt": "2026-09-12T16:27:49.273Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMy0xOFQyMzozNjowN1rOTGCltw==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -16398,6 +16398,13 @@
       "number": 2321,
       "user": {
         "login": "ninetailedtori",
+        "type": "User"
+      }
+    },
+    "2322": {
+      "number": 2322,
+      "user": {
+        "login": "hayden-xyz",
         "type": "User"
       }
     }
@@ -76966,7 +76973,7 @@
     },
     "2085": {
       "number": 2085,
-      "updatedAt": "2026-07-03T16:48:22Z",
+      "updatedAt": "2026-09-11T21:04:00Z",
       "merged": false,
       "author": {
         "login": "renovate",
