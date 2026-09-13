@@ -1,13 +1,13 @@
 {
   "username": "rschristian",
-  "lastUpdated": "2026-09-11T17:03:56.939Z",
+  "lastUpdated": "2026-09-13T01:24:09.162Z",
   "aggregatedStats": {
-    "score": 92,
-    "mergedPrs": 9,
-    "reviews": 8,
+    "score": 105,
+    "mergedPrs": 11,
+    "reviews": 9,
     "reviewsReceived": 12,
     "issuesLinked": 2,
-    "reactions": 80
+    "reactions": 81
   },
   "orgStats": {
     "bombshell-dev": {
@@ -51,12 +51,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 48,
-      "mergedPrs": 5,
-      "reviews": 2,
+      "score": 61,
+      "mergedPrs": 7,
+      "reviews": 3,
       "reviewsReceived": 8,
       "issuesLinked": 1,
-      "reactions": 72
+      "reactions": 73
     },
     "vuejs": {
       "score": 0,
@@ -144,12 +144,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 48,
-        "mergedPrs": 5,
-        "reviews": 2,
+        "score": 61,
+        "mergedPrs": 7,
+        "reviews": 3,
         "reviewsReceived": 8,
         "issuesLinked": 1,
-        "reactions": 72
+        "reactions": 73
       }
     },
     "vuejs": {

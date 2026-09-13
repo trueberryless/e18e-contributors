@@ -1,13 +1,13 @@
 {
   "username": "hannoeru",
-  "lastUpdated": "2026-09-12T13:06:22.782Z",
+  "lastUpdated": "2026-09-13T01:24:15.871Z",
   "aggregatedStats": {
-    "score": 111,
-    "mergedPrs": 17,
-    "reviews": 4,
-    "reviewsReceived": 13,
-    "issuesLinked": 0,
-    "reactions": 17
+    "score": 143,
+    "mergedPrs": 21,
+    "reviews": 5,
+    "reviewsReceived": 20,
+    "issuesLinked": 1,
+    "reactions": 18
   },
   "orgStats": {
     "nuxt": {
@@ -43,12 +43,12 @@
       "reactions": 1
     },
     "vitejs": {
-      "score": 51,
-      "mergedPrs": 7,
-      "reviews": 2,
-      "reviewsReceived": 10,
-      "issuesLinked": 0,
-      "reactions": 3
+      "score": 83,
+      "mergedPrs": 11,
+      "reviews": 3,
+      "reviewsReceived": 17,
+      "issuesLinked": 1,
+      "reactions": 4
     },
     "vitest-dev": {
       "score": 16,
@@ -142,12 +142,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 41,
-        "mergedPrs": 5,
-        "reviews": 2,
-        "reviewsReceived": 10,
-        "issuesLinked": 0,
-        "reactions": 3
+        "score": 73,
+        "mergedPrs": 9,
+        "reviews": 3,
+        "reviewsReceived": 17,
+        "issuesLinked": 1,
+        "reactions": 4
       }
     },
     "vitest-dev": {

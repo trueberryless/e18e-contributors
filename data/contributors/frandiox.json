@@ -1,22 +1,22 @@
 {
   "username": "frandiox",
-  "lastUpdated": "2026-09-12T13:06:39.711Z",
+  "lastUpdated": "2026-09-13T01:24:32.938Z",
   "aggregatedStats": {
-    "score": 131,
-    "mergedPrs": 18,
-    "reviews": 5,
-    "reviewsReceived": 19,
+    "score": 148,
+    "mergedPrs": 20,
+    "reviews": 6,
+    "reviewsReceived": 23,
     "issuesLinked": 1,
-    "reactions": 51
+    "reactions": 55
   },
   "orgStats": {
     "vitejs": {
-      "score": 90,
-      "mergedPrs": 12,
-      "reviews": 4,
-      "reviewsReceived": 14,
+      "score": 107,
+      "mergedPrs": 14,
+      "reviews": 5,
+      "reviewsReceived": 18,
       "issuesLinked": 1,
-      "reactions": 17
+      "reactions": 21
     },
     "vuejs": {
       "score": 41,
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 63,
-        "mergedPrs": 7,
-        "reviews": 4,
-        "reviewsReceived": 12,
+        "score": 80,
+        "mergedPrs": 9,
+        "reviews": 5,
+        "reviewsReceived": 16,
         "issuesLinked": 1,
-        "reactions": 17
+        "reactions": 21
       },
       "vite-ecosystem-ci": {
         "score": 6,

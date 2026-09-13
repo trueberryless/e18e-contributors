@@ -1,13 +1,13 @@
 {
   "username": "andylizi",
-  "lastUpdated": "2026-09-12T13:06:36.079Z",
+  "lastUpdated": "2026-09-13T01:24:29.395Z",
   "aggregatedStats": {
-    "score": 58,
-    "mergedPrs": 7,
+    "score": 64,
+    "mergedPrs": 8,
     "reviews": 1,
-    "reviewsReceived": 9,
+    "reviewsReceived": 10,
     "issuesLinked": 3,
-    "reactions": 52
+    "reactions": 53
   },
   "orgStats": {
     "tanstack": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 41,
-      "mergedPrs": 4,
+      "score": 47,
+      "mergedPrs": 5,
       "reviews": 1,
-      "reviewsReceived": 9,
+      "reviewsReceived": 10,
       "issuesLinked": 2,
-      "reactions": 52
+      "reactions": 53
     },
     "vuejs": {
       "score": 12,
@@ -48,12 +48,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 41,
-        "mergedPrs": 4,
+        "score": 47,
+        "mergedPrs": 5,
         "reviews": 1,
-        "reviewsReceived": 9,
+        "reviewsReceived": 10,
         "issuesLinked": 2,
-        "reactions": 52
+        "reactions": 53
       }
     },
     "vuejs": {

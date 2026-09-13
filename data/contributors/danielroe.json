@@ -1,11 +1,11 @@
 {
   "username": "danielroe",
-  "lastUpdated": "2026-09-12T13:06:16.311Z",
+  "lastUpdated": "2026-09-13T01:24:09.123Z",
   "aggregatedStats": {
-    "score": 62122,
-    "mergedPrs": 3494,
+    "score": 62135,
+    "mergedPrs": 3496,
     "reviews": 12918,
-    "reviewsReceived": 1476,
+    "reviewsReceived": 1479,
     "issuesLinked": 1489,
     "reactions": 14434
   },
@@ -35,10 +35,10 @@
       "reactions": 370
     },
     "nuxt": {
-      "score": 57601,
-      "mergedPrs": 3302,
+      "score": 57607,
+      "mergedPrs": 3303,
       "reviews": 11813,
-      "reviewsReceived": 1379,
+      "reviewsReceived": 1380,
       "issuesLinked": 1456,
       "reactions": 13608
     },
@@ -75,10 +75,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 138,
-      "mergedPrs": 16,
+      "score": 145,
+      "mergedPrs": 17,
       "reviews": 8,
-      "reviewsReceived": 21,
+      "reviewsReceived": 23,
       "issuesLinked": 3,
       "reactions": 70
     },
@@ -340,10 +340,10 @@
         "reactions": 1
       },
       "nuxt": {
-        "score": 22291,
-        "mergedPrs": 1467,
+        "score": 22297,
+        "mergedPrs": 1468,
         "reviews": 4072,
-        "reviewsReceived": 549,
+        "reviewsReceived": 550,
         "issuesLinked": 676,
         "reactions": 8391
       },
@@ -518,10 +518,10 @@
         "reactions": 4
       },
       "vite": {
-        "score": 87,
-        "mergedPrs": 9,
+        "score": 94,
+        "mergedPrs": 10,
         "reviews": 6,
-        "reviewsReceived": 14,
+        "reviewsReceived": 16,
         "issuesLinked": 2,
         "reactions": 56
       },

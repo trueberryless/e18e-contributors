@@ -1,10 +1,10 @@
 {
   "username": "rixo",
-  "lastUpdated": "2026-09-11T17:04:15.111Z",
+  "lastUpdated": "2026-09-13T01:24:27.783Z",
   "aggregatedStats": {
-    "score": 147,
+    "score": 150,
     "mergedPrs": 19,
-    "reviews": 9,
+    "reviews": 10,
     "reviewsReceived": 8,
     "issuesLinked": 2,
     "reactions": 132
@@ -19,9 +19,9 @@
       "reactions": 130
     },
     "vitejs": {
-      "score": 9,
+      "score": 12,
       "mergedPrs": 1,
-      "reviews": 1,
+      "reviews": 2,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
@@ -120,9 +120,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 9,
+        "score": 12,
         "mergedPrs": 1,
-        "reviews": 1,
+        "reviews": 2,
         "reviewsReceived": 1,
         "issuesLinked": 0,
         "reactions": 2

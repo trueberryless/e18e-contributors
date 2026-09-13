@@ -1,13 +1,13 @@
 {
   "username": "Conduitry",
-  "lastUpdated": "2026-09-12T13:06:26.699Z",
+  "lastUpdated": "2026-09-13T01:24:19.780Z",
   "aggregatedStats": {
-    "score": 4345,
-    "mergedPrs": 369,
-    "reviews": 664,
-    "reviewsReceived": 139,
-    "issuesLinked": 154,
-    "reactions": 606
+    "score": 4864,
+    "mergedPrs": 436,
+    "reviews": 722,
+    "reviewsReceived": 140,
+    "issuesLinked": 158,
+    "reactions": 621
   },
   "orgStats": {
     "pnpm": {
@@ -19,12 +19,12 @@
       "reactions": 4
     },
     "sveltejs": {
-      "score": 4334,
-      "mergedPrs": 368,
-      "reviews": 663,
-      "reviewsReceived": 139,
-      "issuesLinked": 154,
-      "reactions": 576
+      "score": 4853,
+      "mergedPrs": 435,
+      "reviews": 721,
+      "reviewsReceived": 140,
+      "issuesLinked": 158,
+      "reactions": 591
     },
     "vitejs": {
       "score": 6,
@@ -112,11 +112,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 1423,
-        "mergedPrs": 80,
-        "reviews": 287,
-        "reviewsReceived": 76,
-        "issuesLinked": 32,
+        "score": 1467,
+        "mergedPrs": 81,
+        "reviews": 299,
+        "reviewsReceived": 77,
+        "issuesLinked": 33,
         "reactions": 218
       },
       "learn.svelte.dev": {
@@ -184,12 +184,12 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 2057,
-        "mergedPrs": 200,
-        "reviews": 266,
+        "score": 2532,
+        "mergedPrs": 266,
+        "reviews": 312,
         "reviewsReceived": 38,
-        "issuesLinked": 99,
-        "reactions": 228
+        "issuesLinked": 102,
+        "reactions": 243
       },
       "svelte-cli": {
         "score": 5,

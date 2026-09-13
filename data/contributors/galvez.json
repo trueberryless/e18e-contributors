@@ -1,22 +1,22 @@
 {
   "username": "galvez",
-  "lastUpdated": "2026-09-12T13:06:22.611Z",
+  "lastUpdated": "2026-09-13T01:24:15.720Z",
   "aggregatedStats": {
-    "score": 361,
-    "mergedPrs": 33,
-    "reviews": 59,
-    "reviewsReceived": 12,
-    "issuesLinked": 1,
-    "reactions": 51
+    "score": 784,
+    "mergedPrs": 61,
+    "reviews": 142,
+    "reviewsReceived": 42,
+    "issuesLinked": 2,
+    "reactions": 73
   },
   "orgStats": {
     "nuxt": {
-      "score": 351,
-      "mergedPrs": 32,
-      "reviews": 58,
-      "reviewsReceived": 10,
-      "issuesLinked": 1,
-      "reactions": 48
+      "score": 774,
+      "mergedPrs": 60,
+      "reviews": 141,
+      "reviewsReceived": 40,
+      "issuesLinked": 2,
+      "reactions": 69
     },
     "vitejs": {
       "score": 7,
@@ -24,7 +24,7 @@
       "reviews": 0,
       "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     },
     "vuejs": {
       "score": 3,
@@ -78,12 +78,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 119,
-        "mergedPrs": 5,
-        "reviews": 28,
-        "reviewsReceived": 5,
-        "issuesLinked": 1,
-        "reactions": 27
+        "score": 542,
+        "mergedPrs": 33,
+        "reviews": 111,
+        "reviewsReceived": 35,
+        "issuesLinked": 2,
+        "reactions": 48
       },
       "press": {
         "score": 84,
@@ -125,7 +125,7 @@
         "reviews": 0,
         "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       }
     },
     "vuejs": {

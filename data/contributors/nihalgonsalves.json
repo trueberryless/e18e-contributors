@@ -1,13 +1,13 @@
 {
   "username": "nihalgonsalves",
-  "lastUpdated": "2026-09-12T13:06:26.454Z",
+  "lastUpdated": "2026-09-13T01:24:19.538Z",
   "aggregatedStats": {
-    "score": 13,
-    "mergedPrs": 0,
-    "reviews": 3,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 43
+    "score": 204,
+    "mergedPrs": 16,
+    "reviews": 27,
+    "reviewsReceived": 29,
+    "issuesLinked": 4,
+    "reactions": 55
   },
   "orgStats": {
     "oxc-project": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 12,
-      "mergedPrs": 0,
-      "reviews": 3,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 34
+      "score": 203,
+      "mergedPrs": 16,
+      "reviews": 27,
+      "reviewsReceived": 29,
+      "issuesLinked": 4,
+      "reactions": 46
     }
   },
   "repoStats": {
@@ -66,12 +66,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 12,
-        "mergedPrs": 0,
-        "reviews": 3,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 34
+        "score": 203,
+        "mergedPrs": 16,
+        "reviews": 27,
+        "reviewsReceived": 29,
+        "issuesLinked": 4,
+        "reactions": 46
       }
     }
   }

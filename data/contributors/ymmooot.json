@@ -1,22 +1,22 @@
 {
   "username": "ymmooot",
-  "lastUpdated": "2026-09-05T17:41:25.449Z",
+  "lastUpdated": "2026-09-13T01:24:18.927Z",
   "aggregatedStats": {
-    "score": 56,
-    "mergedPrs": 8,
+    "score": 63,
+    "mergedPrs": 9,
     "reviews": 2,
     "reviewsReceived": 7,
-    "issuesLinked": 1,
-    "reactions": 7
+    "issuesLinked": 2,
+    "reactions": 8
   },
   "orgStats": {
     "nuxt": {
-      "score": 47,
-      "mergedPrs": 7,
+      "score": 54,
+      "mergedPrs": 8,
       "reviews": 1,
       "reviewsReceived": 6,
-      "issuesLinked": 1,
-      "reactions": 7
+      "issuesLinked": 2,
+      "reactions": 8
     },
     "vuejs": {
       "score": 9,
@@ -46,12 +46,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 7,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 3
+        "issuesLinked": 1,
+        "reactions": 4
       },
       "vue-meta": {
         "score": 0,

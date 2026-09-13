@@ -1,13 +1,13 @@
 {
   "username": "remorses",
-  "lastUpdated": "2026-09-09T23:32:11.806Z",
+  "lastUpdated": "2026-09-13T01:24:11.197Z",
   "aggregatedStats": {
-    "score": 36,
-    "mergedPrs": 3,
-    "reviews": 1,
-    "reviewsReceived": 3,
-    "issuesLinked": 2,
-    "reactions": 110
+    "score": 126,
+    "mergedPrs": 15,
+    "reviews": 4,
+    "reviewsReceived": 14,
+    "issuesLinked": 7,
+    "reactions": 112
   },
   "orgStats": {
     "changesets": {
@@ -43,12 +43,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 5,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 21
+      "score": 95,
+      "mergedPrs": 12,
+      "reviews": 4,
+      "reviewsReceived": 11,
+      "issuesLinked": 5,
+      "reactions": 23
     },
     "vitest-dev": {
       "score": 0,
@@ -118,12 +118,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 5,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 21
+        "score": 95,
+        "mergedPrs": 12,
+        "reviews": 4,
+        "reviewsReceived": 11,
+        "issuesLinked": 5,
+        "reactions": 23
       },
       "vite-plugin-react": {
         "score": 0,

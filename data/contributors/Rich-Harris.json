@@ -1,13 +1,13 @@
 {
   "username": "Rich-Harris",
-  "lastUpdated": "2026-09-12T13:06:20.882Z",
+  "lastUpdated": "2026-09-13T01:24:13.972Z",
   "aggregatedStats": {
-    "score": 39301,
-    "mergedPrs": 3854,
-    "reviews": 4866,
-    "reviewsReceived": 1667,
-    "issuesLinked": 1123,
-    "reactions": 15206
+    "score": 41987,
+    "mergedPrs": 4286,
+    "reviews": 4919,
+    "reviewsReceived": 1731,
+    "issuesLinked": 1271,
+    "reactions": 15279
   },
   "orgStats": {
     "nuxt": {
@@ -19,19 +19,19 @@
       "reactions": 14
     },
     "sveltejs": {
-      "score": 39260,
-      "mergedPrs": 3851,
-      "reviews": 4866,
-      "reviewsReceived": 1664,
-      "issuesLinked": 1121,
-      "reactions": 15010
+      "score": 41902,
+      "mergedPrs": 4276,
+      "reviews": 4919,
+      "reviewsReceived": 1727,
+      "issuesLinked": 1265,
+      "reactions": 15083
     },
     "vitejs": {
-      "score": 34,
-      "mergedPrs": 2,
+      "score": 78,
+      "mergedPrs": 9,
       "reviews": 0,
-      "reviewsReceived": 2,
-      "issuesLinked": 2,
+      "reviewsReceived": 3,
+      "issuesLinked": 6,
       "reactions": 178
     },
     "withastro": {
@@ -128,12 +128,12 @@
         "reactions": 0
       },
       "kit": {
-        "score": 16331,
-        "mergedPrs": 1200,
-        "reviews": 2671,
-        "reviewsReceived": 766,
-        "issuesLinked": 483,
-        "reactions": 5856
+        "score": 16938,
+        "mergedPrs": 1288,
+        "reviews": 2704,
+        "reviewsReceived": 786,
+        "issuesLinked": 507,
+        "reactions": 5857
       },
       "language-tools": {
         "score": 38,
@@ -224,12 +224,12 @@
         "reactions": 52
       },
       "svelte": {
-        "score": 14147,
-        "mergedPrs": 1459,
-        "reviews": 1515,
-        "reviewsReceived": 763,
-        "issuesLinked": 394,
-        "reactions": 7555
+        "score": 16182,
+        "mergedPrs": 1796,
+        "reviews": 1535,
+        "reviewsReceived": 806,
+        "issuesLinked": 514,
+        "reactions": 7627
       },
       "svelte-cli": {
         "score": 15,
@@ -378,11 +378,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 34,
-        "mergedPrs": 2,
+        "score": 78,
+        "mergedPrs": 9,
         "reviews": 0,
-        "reviewsReceived": 2,
-        "issuesLinked": 2,
+        "reviewsReceived": 3,
+        "issuesLinked": 6,
         "reactions": 178
       }
     },

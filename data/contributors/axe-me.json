@@ -1,13 +1,13 @@
 {
   "username": "axe-me",
-  "lastUpdated": "2026-09-11T17:04:02.132Z",
+  "lastUpdated": "2026-09-13T01:24:14.747Z",
   "aggregatedStats": {
-    "score": 26,
-    "mergedPrs": 3,
-    "reviews": 2,
-    "reviewsReceived": 4,
-    "issuesLinked": 0,
-    "reactions": 12
+    "score": 49,
+    "mergedPrs": 5,
+    "reviews": 5,
+    "reviewsReceived": 6,
+    "issuesLinked": 1,
+    "reactions": 13
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 19,
-      "mergedPrs": 2,
-      "reviews": 2,
-      "reviewsReceived": 2,
-      "issuesLinked": 0,
-      "reactions": 12
+      "score": 42,
+      "mergedPrs": 4,
+      "reviews": 5,
+      "reviewsReceived": 4,
+      "issuesLinked": 1,
+      "reactions": 13
     },
     "vuejs": {
       "score": 0,
@@ -74,12 +74,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 11,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
-        "reactions": 12
+        "score": 34,
+        "mergedPrs": 3,
+        "reviews": 4,
+        "reviewsReceived": 4,
+        "issuesLinked": 1,
+        "reactions": 13
       }
     },
     "vuejs": {

@@ -1,33 +1,33 @@
 {
   "username": "PaulBGD",
-  "lastUpdated": "2026-09-12T13:06:32.275Z",
+  "lastUpdated": "2026-09-13T01:24:25.404Z",
   "aggregatedStats": {
-    "score": 13,
-    "mergedPrs": 2,
-    "reviews": 0,
+    "score": 46,
+    "mergedPrs": 7,
+    "reviews": 2,
     "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 28
+    "issuesLinked": 1,
+    "reactions": 29
   },
   "orgStats": {
     "sveltejs": {
-      "score": 13,
-      "mergedPrs": 2,
-      "reviews": 0,
+      "score": 46,
+      "mergedPrs": 7,
+      "reviews": 2,
       "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 28
+      "issuesLinked": 1,
+      "reactions": 29
     }
   },
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 8,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 41,
+        "mergedPrs": 6,
+        "reviews": 2,
         "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 28
+        "issuesLinked": 1,
+        "reactions": 29
       },
       "template": {
         "score": 5,

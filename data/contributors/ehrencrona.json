@@ -1,33 +1,33 @@
 {
   "username": "ehrencrona",
-  "lastUpdated": "2026-09-12T13:06:33.171Z",
+  "lastUpdated": "2026-09-13T01:24:26.433Z",
   "aggregatedStats": {
-    "score": 375,
-    "mergedPrs": 44,
-    "reviews": 28,
-    "reviewsReceived": 21,
-    "issuesLinked": 21,
-    "reactions": 80
+    "score": 538,
+    "mergedPrs": 64,
+    "reviews": 42,
+    "reviewsReceived": 34,
+    "issuesLinked": 25,
+    "reactions": 81
   },
   "orgStats": {
     "sveltejs": {
-      "score": 375,
-      "mergedPrs": 44,
-      "reviews": 28,
-      "reviewsReceived": 21,
-      "issuesLinked": 21,
-      "reactions": 80
+      "score": 538,
+      "mergedPrs": 64,
+      "reviews": 42,
+      "reviewsReceived": 34,
+      "issuesLinked": 25,
+      "reactions": 81
     }
   },
   "repoStats": {
     "sveltejs": {
       "kit": {
-        "score": 10,
-        "mergedPrs": 1,
-        "reviews": 1,
-        "reviewsReceived": 2,
-        "issuesLinked": 0,
-        "reactions": 2
+        "score": 173,
+        "mergedPrs": 21,
+        "reviews": 15,
+        "reviewsReceived": 15,
+        "issuesLinked": 4,
+        "reactions": 3
       },
       "language-tools": {
         "score": 16,

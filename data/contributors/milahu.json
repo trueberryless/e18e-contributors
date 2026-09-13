@@ -1,11 +1,11 @@
 {
   "username": "milahu",
-  "lastUpdated": "2026-09-12T13:06:27.616Z",
+  "lastUpdated": "2026-09-13T01:24:20.603Z",
   "aggregatedStats": {
-    "score": 158,
-    "mergedPrs": 19,
+    "score": 165,
+    "mergedPrs": 20,
     "reviews": 9,
-    "reviewsReceived": 21,
+    "reviewsReceived": 23,
     "issuesLinked": 2,
     "reactions": 110
   },
@@ -35,10 +35,10 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 12,
-      "mergedPrs": 1,
+      "score": 19,
+      "mergedPrs": 2,
       "reviews": 1,
-      "reviewsReceived": 2,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
       "reactions": 15
     },
@@ -140,10 +140,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 12,
-        "mergedPrs": 1,
+        "score": 19,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 2,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 15
       }

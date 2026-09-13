@@ -1,22 +1,22 @@
 {
   "username": "jacobmischka",
-  "lastUpdated": "2026-09-12T13:06:33.584Z",
+  "lastUpdated": "2026-09-13T01:24:26.865Z",
   "aggregatedStats": {
-    "score": 23,
-    "mergedPrs": 3,
+    "score": 54,
+    "mergedPrs": 9,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 1,
-    "reactions": 60
+    "reactions": 63
   },
   "orgStats": {
     "sveltejs": {
-      "score": 22,
-      "mergedPrs": 3,
+      "score": 53,
+      "mergedPrs": 9,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 1,
-      "reactions": 54
+      "reactions": 57
     },
     "vuejs": {
       "score": 1,
@@ -38,12 +38,12 @@
         "reactions": 5
       },
       "svelte": {
-        "score": 11,
-        "mergedPrs": 1,
+        "score": 41,
+        "mergedPrs": 7,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 1,
-        "reactions": 41
+        "reactions": 44
       },
       "svelte-cli": {
         "score": 11,

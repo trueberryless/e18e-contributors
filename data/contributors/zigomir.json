@@ -1,9 +1,9 @@
 {
   "username": "zigomir",
-  "lastUpdated": "2026-09-09T05:08:47.004Z",
+  "lastUpdated": "2026-09-13T01:24:19.024Z",
   "aggregatedStats": {
-    "score": 285,
-    "mergedPrs": 48,
+    "score": 295,
+    "mergedPrs": 50,
     "reviews": 9,
     "reviewsReceived": 9,
     "issuesLinked": 2,
@@ -27,8 +27,8 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 11,
-      "mergedPrs": 2,
+      "score": 21,
+      "mergedPrs": 4,
       "reviews": 0,
       "reviewsReceived": 1,
       "issuesLinked": 0,
@@ -122,8 +122,8 @@
         "reactions": 2
       },
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 10,
+        "mergedPrs": 2,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

@@ -1,22 +1,22 @@
 {
   "username": "hperrin",
-  "lastUpdated": "2026-09-12T13:06:33.486Z",
+  "lastUpdated": "2026-09-13T01:24:26.783Z",
   "aggregatedStats": {
-    "score": 10,
-    "mergedPrs": 1,
+    "score": 20,
+    "mergedPrs": 3,
     "reviews": 0,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 45
+    "reactions": 46
   },
   "orgStats": {
     "sveltejs": {
-      "score": 10,
-      "mergedPrs": 1,
+      "score": 20,
+      "mergedPrs": 3,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 45
+      "reactions": 46
     }
   },
   "repoStats": {
@@ -54,12 +54,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 7,
-        "mergedPrs": 1,
+        "score": 17,
+        "mergedPrs": 3,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 23
+        "reactions": 24
       },
       "svelte-repl": {
         "score": 0,

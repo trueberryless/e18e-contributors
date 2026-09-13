@@ -1,22 +1,22 @@
 {
   "username": "damianstasik",
-  "lastUpdated": "2026-09-12T09:09:43.845Z",
+  "lastUpdated": "2026-09-13T01:24:15.151Z",
   "aggregatedStats": {
-    "score": 132,
-    "mergedPrs": 21,
-    "reviews": 3,
+    "score": 140,
+    "mergedPrs": 22,
+    "reviews": 4,
     "reviewsReceived": 17,
     "issuesLinked": 0,
-    "reactions": 14
+    "reactions": 15
   },
   "orgStats": {
     "nuxt": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 14,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 4
     },
     "sveltejs": {
       "score": 6,
@@ -54,12 +54,12 @@
   "repoStats": {
     "nuxt": {
       "nuxt": {
-        "score": 6,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 14,
+        "mergedPrs": 2,
+        "reviews": 1,
         "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 4
       }
     },
     "sveltejs": {

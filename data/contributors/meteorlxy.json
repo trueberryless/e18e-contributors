@@ -1,13 +1,13 @@
 {
   "username": "meteorlxy",
-  "lastUpdated": "2026-09-12T13:06:26.418Z",
+  "lastUpdated": "2026-09-13T01:24:19.505Z",
   "aggregatedStats": {
-    "score": 705,
-    "mergedPrs": 83,
-    "reviews": 59,
-    "reviewsReceived": 66,
-    "issuesLinked": 18,
-    "reactions": 101
+    "score": 740,
+    "mergedPrs": 86,
+    "reviews": 62,
+    "reviewsReceived": 73,
+    "issuesLinked": 20,
+    "reactions": 102
   },
   "orgStats": {
     "oxc-project": {
@@ -35,12 +35,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 32,
-      "mergedPrs": 4,
-      "reviews": 1,
-      "reviewsReceived": 6,
-      "issuesLinked": 1,
-      "reactions": 7
+      "score": 67,
+      "mergedPrs": 7,
+      "reviews": 4,
+      "reviewsReceived": 13,
+      "issuesLinked": 3,
+      "reactions": 8
     },
     "vitest-dev": {
       "score": 0,
@@ -100,12 +100,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 26,
-        "mergedPrs": 3,
-        "reviews": 1,
-        "reviewsReceived": 5,
-        "issuesLinked": 1,
-        "reactions": 5
+        "score": 61,
+        "mergedPrs": 6,
+        "reviews": 4,
+        "reviewsReceived": 12,
+        "issuesLinked": 3,
+        "reactions": 6
       },
       "vite-ecosystem-ci": {
         "score": 6,

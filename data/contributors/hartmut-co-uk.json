@@ -1,22 +1,22 @@
 {
   "username": "hartmut-co-uk",
-  "lastUpdated": "2026-09-05T17:41:22.313Z",
+  "lastUpdated": "2026-09-13T01:24:15.885Z",
   "aggregatedStats": {
-    "score": 25,
-    "mergedPrs": 2,
-    "reviews": 4,
-    "reviewsReceived": 2,
+    "score": 35,
+    "mergedPrs": 3,
+    "reviews": 5,
+    "reviewsReceived": 4,
     "issuesLinked": 0,
-    "reactions": 8
+    "reactions": 9
   },
   "orgStats": {
     "nuxt": {
-      "score": 25,
-      "mergedPrs": 2,
-      "reviews": 4,
-      "reviewsReceived": 2,
+      "score": 35,
+      "mergedPrs": 3,
+      "reviews": 5,
+      "reviewsReceived": 4,
       "issuesLinked": 0,
-      "reactions": 8
+      "reactions": 9
     },
     "withastro": {
       "score": 0,
@@ -54,12 +54,12 @@
         "reactions": 7
       },
       "nuxt": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 10,
+        "mergedPrs": 1,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 1
+        "reactions": 2
       },
       "vercel-builder": {
         "score": 0,

@@ -1,11 +1,11 @@
 {
   "username": "ghostdevv",
-  "lastUpdated": "2026-09-12T23:29:28.653Z",
+  "lastUpdated": "2026-09-13T01:24:09.130Z",
   "aggregatedStats": {
-    "score": 2133,
-    "mergedPrs": 88,
+    "score": 2140,
+    "mergedPrs": 89,
     "reviews": 521,
-    "reviewsReceived": 92,
+    "reviewsReceived": 94,
     "issuesLinked": 14,
     "reactions": 105
   },
@@ -91,10 +91,10 @@
       "reactions": 65
     },
     "vitejs": {
-      "score": 6,
-      "mergedPrs": 1,
+      "score": 13,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 1,
+      "reviewsReceived": 3,
       "issuesLinked": 0,
       "reactions": 2
     },
@@ -330,10 +330,10 @@
     },
     "vitejs": {
       "vite": {
-        "score": 6,
-        "mergedPrs": 1,
+        "score": 13,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 1,
+        "reviewsReceived": 3,
         "issuesLinked": 0,
         "reactions": 2
       }

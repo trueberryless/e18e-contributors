@@ -1,13 +1,13 @@
 {
   "username": "csr632",
-  "lastUpdated": "2026-09-10T21:51:37.183Z",
+  "lastUpdated": "2026-09-13T01:24:20.206Z",
   "aggregatedStats": {
-    "score": 254,
-    "mergedPrs": 25,
-    "reviews": 22,
-    "reviewsReceived": 7,
-    "issuesLinked": 24,
-    "reactions": 83
+    "score": 290,
+    "mergedPrs": 30,
+    "reviews": 23,
+    "reviewsReceived": 11,
+    "issuesLinked": 26,
+    "reactions": 84
   },
   "orgStats": {
     "pnpm": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 246,
-      "mergedPrs": 24,
-      "reviews": 21,
-      "reviewsReceived": 7,
-      "issuesLinked": 24,
-      "reactions": 83
+      "score": 282,
+      "mergedPrs": 29,
+      "reviews": 22,
+      "reviewsReceived": 11,
+      "issuesLinked": 26,
+      "reactions": 84
     },
     "vuejs": {
       "score": 3,
@@ -64,12 +64,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 34,
-        "mergedPrs": 2,
-        "reviews": 3,
-        "reviewsReceived": 5,
-        "issuesLinked": 1,
-        "reactions": 77
+        "score": 70,
+        "mergedPrs": 7,
+        "reviews": 4,
+        "reviewsReceived": 9,
+        "issuesLinked": 3,
+        "reactions": 78
       },
       "vite-ecosystem-ci": {
         "score": 3,

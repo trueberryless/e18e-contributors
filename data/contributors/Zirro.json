@@ -1,33 +1,33 @@
 {
   "username": "Zirro",
-  "lastUpdated": "2026-09-05T00:34:32.014Z",
+  "lastUpdated": "2026-09-13T01:24:25.667Z",
   "aggregatedStats": {
-    "score": 6,
-    "mergedPrs": 1,
-    "reviews": 0,
+    "score": 14,
+    "mergedPrs": 2,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
-    "reactions": 7
+    "reactions": 8
   },
   "orgStats": {
     "sveltejs": {
-      "score": 6,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 14,
+      "mergedPrs": 2,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 7
+      "reactions": 8
     }
   },
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 1,
-        "mergedPrs": 0,
-        "reviews": 0,
+        "score": 9,
+        "mergedPrs": 1,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 7
+        "reactions": 8
       },
       "v2.svelte.dev": {
         "score": 5,

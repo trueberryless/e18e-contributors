@@ -1,12 +1,12 @@
 {
   "username": "antony",
-  "lastUpdated": "2026-09-12T13:06:16.298Z",
+  "lastUpdated": "2026-09-13T01:24:09.108Z",
   "aggregatedStats": {
-    "score": 769,
-    "mergedPrs": 52,
-    "reviews": 144,
-    "reviewsReceived": 30,
-    "issuesLinked": 11,
+    "score": 872,
+    "mergedPrs": 63,
+    "reviews": 158,
+    "reviewsReceived": 32,
+    "issuesLinked": 13,
     "reactions": 254
   },
   "orgStats": {
@@ -35,11 +35,11 @@
       "reactions": 28
     },
     "sveltejs": {
-      "score": 763,
-      "mergedPrs": 52,
-      "reviews": 143,
-      "reviewsReceived": 30,
-      "issuesLinked": 11,
+      "score": 866,
+      "mergedPrs": 63,
+      "reviews": 157,
+      "reviewsReceived": 32,
+      "issuesLinked": 13,
       "reactions": 223
     },
     "vitejs": {
@@ -116,11 +116,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 191,
-        "mergedPrs": 19,
-        "reviews": 24,
-        "reviewsReceived": 19,
-        "issuesLinked": 0,
+        "score": 294,
+        "mergedPrs": 30,
+        "reviews": 38,
+        "reviewsReceived": 21,
+        "issuesLinked": 2,
         "reactions": 50
       },
       "rfcs": {

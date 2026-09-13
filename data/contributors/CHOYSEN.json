@@ -1,22 +1,22 @@
 {
   "username": "CHOYSEN",
-  "lastUpdated": "2026-09-12T13:06:38.543Z",
+  "lastUpdated": "2026-09-13T01:24:31.920Z",
   "aggregatedStats": {
-    "score": 193,
-    "mergedPrs": 30,
-    "reviews": 3,
-    "reviewsReceived": 21,
-    "issuesLinked": 6,
-    "reactions": 9
+    "score": 346,
+    "mergedPrs": 51,
+    "reviews": 9,
+    "reviewsReceived": 29,
+    "issuesLinked": 17,
+    "reactions": 13
   },
   "orgStats": {
     "vitejs": {
-      "score": 65,
-      "mergedPrs": 8,
-      "reviews": 2,
-      "reviewsReceived": 12,
-      "issuesLinked": 3,
-      "reactions": 5
+      "score": 218,
+      "mergedPrs": 29,
+      "reviews": 8,
+      "reviewsReceived": 20,
+      "issuesLinked": 14,
+      "reactions": 9
     },
     "vuejs": {
       "score": 128,
@@ -38,12 +38,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 58,
-        "mergedPrs": 7,
-        "reviews": 2,
-        "reviewsReceived": 12,
-        "issuesLinked": 2,
-        "reactions": 5
+        "score": 211,
+        "mergedPrs": 28,
+        "reviews": 8,
+        "reviewsReceived": 20,
+        "issuesLinked": 13,
+        "reactions": 9
       }
     },
     "vuejs": {

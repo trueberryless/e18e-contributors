@@ -1,33 +1,33 @@
 {
   "username": "emilos",
-  "lastUpdated": "2026-09-12T13:06:33.198Z",
+  "lastUpdated": "2026-09-13T01:24:26.463Z",
   "aggregatedStats": {
-    "score": 3,
-    "mergedPrs": 0,
-    "reviews": 1,
-    "reviewsReceived": 0,
-    "issuesLinked": 0,
-    "reactions": 1
+    "score": 29,
+    "mergedPrs": 4,
+    "reviews": 2,
+    "reviewsReceived": 1,
+    "issuesLinked": 1,
+    "reactions": 2
   },
   "orgStats": {
     "sveltejs": {
-      "score": 3,
-      "mergedPrs": 0,
-      "reviews": 1,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 1
+      "score": 29,
+      "mergedPrs": 4,
+      "reviews": 2,
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 2
     }
   },
   "repoStats": {
     "sveltejs": {
       "svelte": {
-        "score": 3,
-        "mergedPrs": 0,
-        "reviews": 1,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 1
+        "score": 29,
+        "mergedPrs": 4,
+        "reviews": 2,
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 2
       }
     }
   }

@@ -1,21 +1,21 @@
 {
   "username": "eddeisling",
-  "lastUpdated": "2026-09-08T06:25:24.089Z",
+  "lastUpdated": "2026-09-13T01:24:32.858Z",
   "aggregatedStats": {
-    "score": 57,
-    "mergedPrs": 5,
+    "score": 66,
+    "mergedPrs": 6,
     "reviews": 3,
-    "reviewsReceived": 10,
-    "issuesLinked": 1,
+    "reviewsReceived": 12,
+    "issuesLinked": 2,
     "reactions": 102
   },
   "orgStats": {
     "vitejs": {
-      "score": 19,
-      "mergedPrs": 1,
+      "score": 28,
+      "mergedPrs": 2,
       "reviews": 0,
-      "reviewsReceived": 4,
-      "issuesLinked": 0,
+      "reviewsReceived": 6,
+      "issuesLinked": 1,
       "reactions": 95
     },
     "vuejs": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 19,
-        "mergedPrs": 1,
+        "score": 28,
+        "mergedPrs": 2,
         "reviews": 0,
-        "reviewsReceived": 4,
-        "issuesLinked": 0,
+        "reviewsReceived": 6,
+        "issuesLinked": 1,
         "reactions": 95
       }
     },

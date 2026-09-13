@@ -1,13 +1,13 @@
 {
   "username": "GrygrFlzr",
-  "lastUpdated": "2026-09-12T13:06:26.736Z",
+  "lastUpdated": "2026-09-13T01:24:19.821Z",
   "aggregatedStats": {
-    "score": 472,
-    "mergedPrs": 55,
-    "reviews": 32,
-    "reviewsReceived": 25,
-    "issuesLinked": 22,
-    "reactions": 320
+    "score": 641,
+    "mergedPrs": 73,
+    "reviews": 46,
+    "reviewsReceived": 43,
+    "issuesLinked": 28,
+    "reactions": 387
   },
   "orgStats": {
     "pnpm": {
@@ -19,20 +19,20 @@
       "reactions": 0
     },
     "sveltejs": {
-      "score": 383,
-      "mergedPrs": 50,
-      "reviews": 23,
-      "reviewsReceived": 18,
-      "issuesLinked": 19,
+      "score": 478,
+      "mergedPrs": 62,
+      "reviews": 29,
+      "reviewsReceived": 27,
+      "issuesLinked": 23,
       "reactions": 82
     },
     "vitejs": {
-      "score": 89,
-      "mergedPrs": 5,
-      "reviews": 9,
-      "reviewsReceived": 7,
-      "issuesLinked": 3,
-      "reactions": 238
+      "score": 163,
+      "mergedPrs": 11,
+      "reviews": 17,
+      "reviewsReceived": 16,
+      "issuesLinked": 5,
+      "reactions": 305
     }
   },
   "repoStats": {
@@ -64,11 +64,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 281,
-        "mergedPrs": 38,
-        "reviews": 15,
-        "reviewsReceived": 10,
-        "issuesLinked": 14,
+        "score": 376,
+        "mergedPrs": 50,
+        "reviews": 21,
+        "reviewsReceived": 19,
+        "issuesLinked": 18,
         "reactions": 75
       },
       "language-tools": {
@@ -114,12 +114,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 89,
-        "mergedPrs": 5,
-        "reviews": 9,
-        "reviewsReceived": 7,
-        "issuesLinked": 3,
-        "reactions": 238
+        "score": 163,
+        "mergedPrs": 11,
+        "reviews": 17,
+        "reviewsReceived": 16,
+        "issuesLinked": 5,
+        "reactions": 305
       }
     }
   }

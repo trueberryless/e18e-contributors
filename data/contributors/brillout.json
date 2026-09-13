@@ -1,12 +1,12 @@
 {
   "username": "brillout",
-  "lastUpdated": "2026-09-12T13:06:16.306Z",
+  "lastUpdated": "2026-09-13T01:24:09.117Z",
   "aggregatedStats": {
-    "score": 418,
-    "mergedPrs": 50,
-    "reviews": 21,
-    "reviewsReceived": 68,
-    "issuesLinked": 8,
+    "score": 430,
+    "mergedPrs": 51,
+    "reviews": 22,
+    "reviewsReceived": 70,
+    "issuesLinked": 9,
     "reactions": 207
   },
   "orgStats": {
@@ -51,11 +51,11 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 396,
-      "mergedPrs": 48,
-      "reviews": 20,
-      "reviewsReceived": 65,
-      "issuesLinked": 8,
+      "score": 408,
+      "mergedPrs": 49,
+      "reviews": 21,
+      "reviewsReceived": 67,
+      "issuesLinked": 9,
       "reactions": 146
     },
     "vitest-dev": {
@@ -136,11 +136,11 @@
         "reactions": 2
       },
       "vite": {
-        "score": 296,
-        "mergedPrs": 34,
-        "reviews": 14,
-        "reviewsReceived": 54,
-        "issuesLinked": 8,
+        "score": 308,
+        "mergedPrs": 35,
+        "reviews": 15,
+        "reviewsReceived": 56,
+        "issuesLinked": 9,
         "reactions": 136
       },
       "vite-ecosystem-ci": {

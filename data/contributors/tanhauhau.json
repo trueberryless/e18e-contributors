@@ -1,30 +1,30 @@
 {
   "username": "tanhauhau",
-  "lastUpdated": "2026-09-12T13:06:34.783Z",
+  "lastUpdated": "2026-09-13T01:24:28.071Z",
   "aggregatedStats": {
-    "score": 2909,
-    "mergedPrs": 312,
-    "reviews": 225,
-    "reviewsReceived": 96,
-    "issuesLinked": 240,
-    "reactions": 977
+    "score": 2943,
+    "mergedPrs": 317,
+    "reviews": 226,
+    "reviewsReceived": 98,
+    "issuesLinked": 242,
+    "reactions": 982
   },
   "orgStats": {
     "sveltejs": {
-      "score": 2893,
-      "mergedPrs": 310,
-      "reviews": 224,
-      "reviewsReceived": 96,
-      "issuesLinked": 239,
+      "score": 2919,
+      "mergedPrs": 314,
+      "reviews": 225,
+      "reviewsReceived": 97,
+      "issuesLinked": 240,
       "reactions": 970
     },
     "vitejs": {
-      "score": 1,
-      "mergedPrs": 0,
+      "score": 9,
+      "mergedPrs": 1,
       "reviews": 0,
-      "reviewsReceived": 0,
-      "issuesLinked": 0,
-      "reactions": 7
+      "reviewsReceived": 1,
+      "issuesLinked": 1,
+      "reactions": 12
     },
     "vitest-dev": {
       "score": 5,
@@ -62,11 +62,11 @@
         "reactions": 0
       },
       "kit": {
-        "score": 50,
-        "mergedPrs": 7,
-        "reviews": 1,
-        "reviewsReceived": 7,
-        "issuesLinked": 2,
+        "score": 76,
+        "mergedPrs": 11,
+        "reviews": 2,
+        "reviewsReceived": 8,
+        "issuesLinked": 3,
         "reactions": 9
       },
       "language-tools": {
@@ -168,12 +168,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 1,
-        "mergedPrs": 0,
+        "score": 9,
+        "mergedPrs": 1,
         "reviews": 0,
-        "reviewsReceived": 0,
-        "issuesLinked": 0,
-        "reactions": 7
+        "reviewsReceived": 1,
+        "issuesLinked": 1,
+        "reactions": 12
       }
     },
     "vitest-dev": {

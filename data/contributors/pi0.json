@@ -1,22 +1,22 @@
 {
   "username": "pi0",
-  "lastUpdated": "2026-09-12T09:09:45.018Z",
+  "lastUpdated": "2026-09-13T01:24:17.671Z",
   "aggregatedStats": {
-    "score": 10341,
-    "mergedPrs": 542,
-    "reviews": 2177,
-    "reviewsReceived": 265,
-    "issuesLinked": 153,
-    "reactions": 5283
+    "score": 11736,
+    "mergedPrs": 597,
+    "reviews": 2526,
+    "reviewsReceived": 319,
+    "issuesLinked": 157,
+    "reactions": 5394
   },
   "orgStats": {
     "nuxt": {
-      "score": 10109,
-      "mergedPrs": 512,
-      "reviews": 2169,
-      "reviewsReceived": 253,
-      "issuesLinked": 147,
-      "reactions": 4952
+      "score": 11498,
+      "mergedPrs": 566,
+      "reviews": 2518,
+      "reviewsReceived": 306,
+      "issuesLinked": 151,
+      "reactions": 5062
     },
     "slidevjs": {
       "score": 0,
@@ -43,12 +43,12 @@
       "reactions": 7
     },
     "vitejs": {
-      "score": 20,
-      "mergedPrs": 2,
+      "score": 26,
+      "mergedPrs": 3,
       "reviews": 2,
-      "reviewsReceived": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 27
+      "reactions": 28
     },
     "vitest-dev": {
       "score": 16,
@@ -230,12 +230,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 2385,
-        "mergedPrs": 94,
-        "reviews": 503,
-        "reviewsReceived": 121,
-        "issuesLinked": 22,
-        "reactions": 2412
+        "score": 3774,
+        "mergedPrs": 148,
+        "reviews": 852,
+        "reviewsReceived": 174,
+        "issuesLinked": 26,
+        "reactions": 2522
       },
       "nuxt.com": {
         "score": 44,
@@ -398,12 +398,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 6,
-        "mergedPrs": 0,
+        "score": 12,
+        "mergedPrs": 1,
         "reviews": 1,
-        "reviewsReceived": 0,
+        "reviewsReceived": 1,
         "issuesLinked": 0,
-        "reactions": 27
+        "reactions": 28
       },
       "vite-plugin-react": {
         "score": 9,

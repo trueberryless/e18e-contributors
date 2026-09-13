@@ -1,9 +1,9 @@
 {
   "username": "cogor",
-  "lastUpdated": "2026-09-09T23:32:14.257Z",
+  "lastUpdated": "2026-09-13T01:24:15.079Z",
   "aggregatedStats": {
-    "score": 101,
-    "mergedPrs": 18,
+    "score": 106,
+    "mergedPrs": 19,
     "reviews": 1,
     "reviewsReceived": 8,
     "issuesLinked": 0,
@@ -19,8 +19,8 @@
       "reactions": 2
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
+      "score": 5,
+      "mergedPrs": 1,
       "reviews": 0,
       "reviewsReceived": 0,
       "issuesLinked": 0,
@@ -72,8 +72,8 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
+        "score": 5,
+        "mergedPrs": 1,
         "reviews": 0,
         "reviewsReceived": 0,
         "issuesLinked": 0,

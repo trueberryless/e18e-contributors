@@ -1,13 +1,13 @@
 {
   "username": "IanVS",
-  "lastUpdated": "2026-09-12T13:06:26.028Z",
+  "lastUpdated": "2026-09-13T01:24:19.125Z",
   "aggregatedStats": {
-    "score": 215,
-    "mergedPrs": 21,
+    "score": 226,
+    "mergedPrs": 22,
     "reviews": 13,
-    "reviewsReceived": 31,
-    "issuesLinked": 12,
-    "reactions": 166
+    "reviewsReceived": 33,
+    "issuesLinked": 14,
+    "reactions": 167
   },
   "orgStats": {
     "oxc-project": {
@@ -59,12 +59,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 172,
-      "mergedPrs": 16,
+      "score": 183,
+      "mergedPrs": 17,
       "reviews": 11,
-      "reviewsReceived": 27,
-      "issuesLinked": 9,
-      "reactions": 140
+      "reviewsReceived": 29,
+      "issuesLinked": 11,
+      "reactions": 141
     },
     "vitest-dev": {
       "score": 16,
@@ -186,12 +186,12 @@
         "reactions": 7
       },
       "vite": {
-        "score": 160,
-        "mergedPrs": 14,
+        "score": 171,
+        "mergedPrs": 15,
         "reviews": 11,
-        "reviewsReceived": 26,
-        "issuesLinked": 9,
-        "reactions": 130
+        "reviewsReceived": 28,
+        "issuesLinked": 11,
+        "reactions": 131
       },
       "vite-ecosystem-ci": {
         "score": 11,

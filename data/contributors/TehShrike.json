@@ -1,13 +1,13 @@
 {
   "username": "TehShrike",
-  "lastUpdated": "2026-09-12T13:06:28.288Z",
+  "lastUpdated": "2026-09-13T01:24:21.295Z",
   "aggregatedStats": {
-    "score": 100,
-    "mergedPrs": 13,
+    "score": 110,
+    "mergedPrs": 15,
     "reviews": 9,
     "reviewsReceived": 5,
     "issuesLinked": 0,
-    "reactions": 32
+    "reactions": 33
   },
   "orgStats": {
     "refined-github": {
@@ -19,12 +19,12 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 100,
-      "mergedPrs": 13,
+      "score": 110,
+      "mergedPrs": 15,
       "reviews": 9,
       "reviewsReceived": 5,
       "issuesLinked": 0,
-      "reactions": 30
+      "reactions": 31
     }
   },
   "repoStats": {
@@ -96,12 +96,12 @@
         "reactions": 0
       },
       "svelte": {
-        "score": 70,
-        "mergedPrs": 9,
+        "score": 80,
+        "mergedPrs": 11,
         "reviews": 6,
         "reviewsReceived": 4,
         "issuesLinked": 0,
-        "reactions": 30
+        "reactions": 31
       },
       "v2.svelte.dev": {
         "score": 0,

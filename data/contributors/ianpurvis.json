@@ -1,13 +1,13 @@
 {
   "username": "ianpurvis",
-  "lastUpdated": "2026-09-05T00:34:23.460Z",
+  "lastUpdated": "2026-09-13T01:24:16.034Z",
   "aggregatedStats": {
-    "score": 0,
-    "mergedPrs": 0,
-    "reviews": 0,
-    "reviewsReceived": 0,
+    "score": 16,
+    "mergedPrs": 2,
+    "reviews": 1,
+    "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 3
+    "reactions": 6
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 0,
-      "mergedPrs": 0,
-      "reviews": 0,
-      "reviewsReceived": 0,
+      "score": 16,
+      "mergedPrs": 2,
+      "reviews": 1,
+      "reviewsReceived": 2,
       "issuesLinked": 0,
-      "reactions": 3
+      "reactions": 6
     }
   },
   "repoStats": {
@@ -40,12 +40,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 0,
-        "mergedPrs": 0,
-        "reviews": 0,
-        "reviewsReceived": 0,
+        "score": 16,
+        "mergedPrs": 2,
+        "reviews": 1,
+        "reviewsReceived": 2,
         "issuesLinked": 0,
-        "reactions": 3
+        "reactions": 6
       }
     }
   }

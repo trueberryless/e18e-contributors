@@ -1,22 +1,22 @@
 {
   "username": "ricardogobbosouza",
-  "lastUpdated": "2026-09-12T09:09:45.104Z",
+  "lastUpdated": "2026-09-13T01:24:17.867Z",
   "aggregatedStats": {
-    "score": 380,
-    "mergedPrs": 45,
-    "reviews": 27,
-    "reviewsReceived": 30,
-    "issuesLinked": 17,
-    "reactions": 104
+    "score": 443,
+    "mergedPrs": 52,
+    "reviews": 30,
+    "reviewsReceived": 44,
+    "issuesLinked": 19,
+    "reactions": 111
   },
   "orgStats": {
     "nuxt": {
-      "score": 380,
-      "mergedPrs": 45,
-      "reviews": 27,
-      "reviewsReceived": 30,
-      "issuesLinked": 17,
-      "reactions": 104
+      "score": 443,
+      "mergedPrs": 52,
+      "reviews": 30,
+      "reviewsReceived": 44,
+      "issuesLinked": 19,
+      "reactions": 111
     }
   },
   "repoStats": {
@@ -86,12 +86,12 @@
         "reactions": 0
       },
       "nuxt": {
-        "score": 21,
-        "mergedPrs": 2,
-        "reviews": 2,
-        "reviewsReceived": 1,
-        "issuesLinked": 0,
-        "reactions": 36
+        "score": 83,
+        "mergedPrs": 9,
+        "reviews": 5,
+        "reviewsReceived": 15,
+        "issuesLinked": 2,
+        "reactions": 43
       },
       "test-utils": {
         "score": 206,

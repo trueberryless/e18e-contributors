@@ -1,10 +1,10 @@
 {
   "username": "lukeed",
-  "lastUpdated": "2026-09-12T13:06:18.362Z",
+  "lastUpdated": "2026-09-13T01:24:11.354Z",
   "aggregatedStats": {
-    "score": 595,
-    "mergedPrs": 58,
-    "reviews": 79,
+    "score": 630,
+    "mergedPrs": 62,
+    "reviews": 84,
     "reviewsReceived": 30,
     "issuesLinked": 10,
     "reactions": 180
@@ -35,17 +35,17 @@
       "reactions": 2
     },
     "sveltejs": {
-      "score": 564,
-      "mergedPrs": 56,
-      "reviews": 77,
+      "score": 596,
+      "mergedPrs": 60,
+      "reviews": 81,
       "reviewsReceived": 27,
       "issuesLinked": 9,
       "reactions": 75
     },
     "vitejs": {
-      "score": 23,
+      "score": 26,
       "mergedPrs": 2,
-      "reviews": 2,
+      "reviews": 3,
       "reviewsReceived": 3,
       "issuesLinked": 1,
       "reactions": 23
@@ -92,9 +92,9 @@
     },
     "sveltejs": {
       "kit": {
-        "score": 103,
-        "mergedPrs": 8,
-        "reviews": 17,
+        "score": 130,
+        "mergedPrs": 11,
+        "reviews": 21,
         "reviewsReceived": 7,
         "issuesLinked": 2,
         "reactions": 8
@@ -140,8 +140,8 @@
         "reactions": 2
       },
       "svelte": {
-        "score": 131,
-        "mergedPrs": 13,
+        "score": 136,
+        "mergedPrs": 14,
         "reviews": 18,
         "reviewsReceived": 5,
         "issuesLinked": 2,
@@ -190,9 +190,9 @@
     },
     "vitejs": {
       "vite": {
-        "score": 23,
+        "score": 26,
         "mergedPrs": 2,
-        "reviews": 2,
+        "reviews": 3,
         "reviewsReceived": 3,
         "issuesLinked": 1,
         "reactions": 23

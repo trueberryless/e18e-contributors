@@ -1,13 +1,13 @@
 {
   "username": "threepointone",
-  "lastUpdated": "2026-09-12T13:06:18.273Z",
+  "lastUpdated": "2026-09-13T01:24:11.246Z",
   "aggregatedStats": {
-    "score": 31,
-    "mergedPrs": 3,
-    "reviews": 0,
+    "score": 60,
+    "mergedPrs": 8,
+    "reviews": 1,
     "reviewsReceived": 2,
     "issuesLinked": 0,
-    "reactions": 144
+    "reactions": 148
   },
   "orgStats": {
     "changesets": {
@@ -27,12 +27,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 19,
-      "mergedPrs": 1,
-      "reviews": 0,
+      "score": 48,
+      "mergedPrs": 6,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
-      "reactions": 144
+      "reactions": 148
     }
   },
   "repoStats": {
@@ -58,12 +58,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 19,
-        "mergedPrs": 1,
-        "reviews": 0,
+        "score": 48,
+        "mergedPrs": 6,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
-        "reactions": 144
+        "reactions": 148
       }
     }
   }

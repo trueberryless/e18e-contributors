@@ -1,10 +1,10 @@
 {
   "username": "PuruVJ",
-  "lastUpdated": "2026-09-10T19:08:33.966Z",
+  "lastUpdated": "2026-09-13T01:24:11.314Z",
   "aggregatedStats": {
-    "score": 1251,
+    "score": 1254,
     "mergedPrs": 181,
-    "reviews": 87,
+    "reviews": 88,
     "reviewsReceived": 65,
     "issuesLinked": 5,
     "reactions": 106
@@ -35,9 +35,9 @@
       "reactions": 82
     },
     "vitejs": {
-      "score": 21,
+      "score": 24,
       "mergedPrs": 4,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 1,
       "issuesLinked": 0,
       "reactions": 2
@@ -172,9 +172,9 @@
         "reactions": 0
       },
       "vite": {
-        "score": 0,
+        "score": 3,
         "mergedPrs": 0,
-        "reviews": 0,
+        "reviews": 1,
         "reviewsReceived": 0,
         "issuesLinked": 0,
         "reactions": 0

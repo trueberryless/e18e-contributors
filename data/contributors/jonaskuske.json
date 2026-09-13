@@ -1,21 +1,21 @@
 {
   "username": "jonaskuske",
-  "lastUpdated": "2026-09-12T13:06:39.985Z",
+  "lastUpdated": "2026-09-13T01:24:33.216Z",
   "aggregatedStats": {
-    "score": 90,
-    "mergedPrs": 11,
-    "reviews": 2,
-    "reviewsReceived": 9,
-    "issuesLinked": 9,
+    "score": 118,
+    "mergedPrs": 15,
+    "reviews": 3,
+    "reviewsReceived": 10,
+    "issuesLinked": 11,
     "reactions": 21
   },
   "orgStats": {
     "vitejs": {
-      "score": 33,
-      "mergedPrs": 3,
-      "reviews": 2,
-      "reviewsReceived": 6,
-      "issuesLinked": 3,
+      "score": 61,
+      "mergedPrs": 7,
+      "reviews": 3,
+      "reviewsReceived": 7,
+      "issuesLinked": 5,
       "reactions": 0
     },
     "vuejs": {
@@ -30,11 +30,11 @@
   "repoStats": {
     "vitejs": {
       "vite": {
-        "score": 33,
-        "mergedPrs": 3,
-        "reviews": 2,
-        "reviewsReceived": 6,
-        "issuesLinked": 3,
+        "score": 61,
+        "mergedPrs": 7,
+        "reviews": 3,
+        "reviewsReceived": 7,
+        "issuesLinked": 5,
         "reactions": 0
       },
       "vite-plugin-vue2": {

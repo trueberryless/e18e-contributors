@@ -1,12 +1,12 @@
 {
   "username": "merceyz",
-  "lastUpdated": "2026-09-11T17:03:58.713Z",
+  "lastUpdated": "2026-09-13T01:24:11.145Z",
   "aggregatedStats": {
-    "score": 121,
-    "mergedPrs": 14,
+    "score": 128,
+    "mergedPrs": 15,
     "reviews": 12,
     "reviewsReceived": 9,
-    "issuesLinked": 2,
+    "issuesLinked": 3,
     "reactions": 18
   },
   "orgStats": {
@@ -27,11 +27,11 @@
       "reactions": 12
     },
     "vitejs": {
-      "score": 13,
-      "mergedPrs": 1,
+      "score": 20,
+      "mergedPrs": 2,
       "reviews": 2,
       "reviewsReceived": 2,
-      "issuesLinked": 0,
+      "issuesLinked": 1,
       "reactions": 0
     },
     "vuejs": {
@@ -98,11 +98,11 @@
     },
     "vitejs": {
       "vite": {
-        "score": 13,
-        "mergedPrs": 1,
+        "score": 20,
+        "mergedPrs": 2,
         "reviews": 2,
         "reviewsReceived": 2,
-        "issuesLinked": 0,
+        "issuesLinked": 1,
         "reactions": 0
       },
       "vite-plugin-vue2": {

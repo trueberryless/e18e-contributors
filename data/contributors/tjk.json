@@ -1,13 +1,13 @@
 {
   "username": "tjk",
-  "lastUpdated": "2026-09-12T13:06:25.321Z",
+  "lastUpdated": "2026-09-13T01:24:18.484Z",
   "aggregatedStats": {
-    "score": 54,
-    "mergedPrs": 6,
-    "reviews": 4,
-    "reviewsReceived": 7,
+    "score": 69,
+    "mergedPrs": 8,
+    "reviews": 5,
+    "reviewsReceived": 9,
     "issuesLinked": 2,
-    "reactions": 11
+    "reactions": 13
   },
   "orgStats": {
     "nuxt": {
@@ -19,12 +19,12 @@
       "reactions": 0
     },
     "vitejs": {
-      "score": 38,
-      "mergedPrs": 4,
-      "reviews": 3,
-      "reviewsReceived": 6,
+      "score": 53,
+      "mergedPrs": 6,
+      "reviews": 4,
+      "reviewsReceived": 8,
       "issuesLinked": 1,
-      "reactions": 11
+      "reactions": 13
     },
     "vuejs": {
       "score": 11,
@@ -56,12 +56,12 @@
     },
     "vitejs": {
       "vite": {
-        "score": 38,
-        "mergedPrs": 4,
-        "reviews": 3,
-        "reviewsReceived": 6,
+        "score": 53,
+        "mergedPrs": 6,
+        "reviews": 4,
+        "reviewsReceived": 8,
         "issuesLinked": 1,
-        "reactions": 11
+        "reactions": 13
       }
     },
     "vuejs": {

@@ -1,13 +1,13 @@
 {
   "username": "underfin",
-  "lastUpdated": "2026-09-12T13:06:25.439Z",
+  "lastUpdated": "2026-09-13T01:24:18.584Z",
   "aggregatedStats": {
-    "score": 705,
-    "mergedPrs": 94,
-    "reviews": 35,
-    "reviewsReceived": 23,
-    "issuesLinked": 48,
-    "reactions": 108
+    "score": 1274,
+    "mergedPrs": 139,
+    "reviews": 106,
+    "reviewsReceived": 69,
+    "issuesLinked": 90,
+    "reactions": 125
   },
   "orgStats": {
     "nuxt": {
@@ -27,12 +27,12 @@
       "reactions": 4
     },
     "vitejs": {
-      "score": 138,
-      "mergedPrs": 8,
-      "reviews": 20,
-      "reviewsReceived": 15,
-      "issuesLinked": 9,
-      "reactions": 45
+      "score": 707,
+      "mergedPrs": 53,
+      "reviews": 91,
+      "reviewsReceived": 61,
+      "issuesLinked": 51,
+      "reactions": 62
     },
     "vuejs": {
       "score": 560,
@@ -82,12 +82,12 @@
         "reactions": 0
       },
       "vite": {
-        "score": 110,
-        "mergedPrs": 6,
-        "reviews": 15,
-        "reviewsReceived": 12,
-        "issuesLinked": 9,
-        "reactions": 45
+        "score": 679,
+        "mergedPrs": 51,
+        "reviews": 86,
+        "reviewsReceived": 58,
+        "issuesLinked": 51,
+        "reactions": 62
       },
       "vite-plugin-react": {
         "score": 13,

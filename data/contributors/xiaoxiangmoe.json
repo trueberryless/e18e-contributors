@@ -1,11 +1,11 @@
 {
   "username": "xiaoxiangmoe",
-  "lastUpdated": "2026-09-09T00:32:49.043Z",
+  "lastUpdated": "2026-09-13T01:24:18.840Z",
   "aggregatedStats": {
-    "score": 268,
-    "mergedPrs": 38,
+    "score": 276,
+    "mergedPrs": 39,
     "reviews": 12,
-    "reviewsReceived": 18,
+    "reviewsReceived": 21,
     "issuesLinked": 5,
     "reactions": 137
   },
@@ -19,10 +19,10 @@
       "reactions": 7
     },
     "vitejs": {
-      "score": 75,
-      "mergedPrs": 11,
+      "score": 83,
+      "mergedPrs": 12,
       "reviews": 2,
-      "reviewsReceived": 6,
+      "reviewsReceived": 9,
       "issuesLinked": 1,
       "reactions": 64
     },
@@ -56,10 +56,10 @@
         "reactions": 4
       },
       "vite": {
-        "score": 15,
-        "mergedPrs": 1,
+        "score": 23,
+        "mergedPrs": 2,
         "reviews": 1,
-        "reviewsReceived": 1,
+        "reviewsReceived": 4,
         "issuesLinked": 0,
         "reactions": 58
       },

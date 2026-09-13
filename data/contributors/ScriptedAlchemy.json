@@ -1,19 +1,19 @@
 {
   "username": "ScriptedAlchemy",
-  "lastUpdated": "2026-09-05T00:34:21.349Z",
+  "lastUpdated": "2026-09-13T01:24:14.034Z",
   "aggregatedStats": {
-    "score": 18,
+    "score": 21,
     "mergedPrs": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsReceived": 0,
     "issuesLinked": 0,
     "reactions": 187
   },
   "orgStats": {
     "nuxt": {
-      "score": 12,
+      "score": 15,
       "mergedPrs": 0,
-      "reviews": 0,
+      "reviews": 1,
       "reviewsReceived": 0,
       "issuesLinked": 0,
       "reactions": 121
@@ -45,6 +45,14 @@
   },
   "repoStats": {
     "nuxt": {
+      "nuxt": {
+        "score": 3,
+        "mergedPrs": 0,
+        "reviews": 1,
+        "reviewsReceived": 0,
+        "issuesLinked": 0,
+        "reactions": 0
+      },
       "rfcs": {
         "score": 12,
         "mergedPrs": 0,

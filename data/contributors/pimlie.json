@@ -1,22 +1,22 @@
 {
   "username": "pimlie",
-  "lastUpdated": "2026-09-12T09:09:45.021Z",
+  "lastUpdated": "2026-09-13T01:24:17.678Z",
   "aggregatedStats": {
-    "score": 948,
-    "mergedPrs": 108,
-    "reviews": 87,
-    "reviewsReceived": 76,
-    "issuesLinked": 22,
-    "reactions": 266
+    "score": 1205,
+    "mergedPrs": 137,
+    "reviews": 108,
+    "reviewsReceived": 119,
+    "issuesLinked": 25,
+    "reactions": 272
   },
   "orgStats": {
     "nuxt": {
-      "score": 917,
-      "mergedPrs": 104,
-      "reviews": 86,
-      "reviewsReceived": 74,
-      "issuesLinked": 19,
-      "reactions": 265
+      "score": 1174,
+      "mergedPrs": 133,
+      "reviews": 107,
+      "reviewsReceived": 117,
+      "issuesLinked": 22,
+      "reactions": 271
     },
     "pnpm": {
       "score": 6,
@@ -102,12 +102,12 @@
         "reactions": 2
       },
       "nuxt": {
-        "score": 407,
-        "mergedPrs": 37,
-        "reviews": 46,
-        "reviewsReceived": 50,
-        "issuesLinked": 8,
-        "reactions": 181
+        "score": 665,
+        "mergedPrs": 66,
+        "reviews": 67,
+        "reviewsReceived": 93,
+        "issuesLinked": 11,
+        "reactions": 187
       },
       "press": {
         "score": 139,
