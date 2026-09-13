@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T09:08:03.127Z",
+    "lastRunAt": "2026-09-13T01:20:49.935Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNS0xMVQxNjo0NTozOVrO2k91Kg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -1896,7 +1896,7 @@
     },
     "52": {
       "number": 52,
-      "updatedAt": "2026-09-04T20:57:41Z",
+      "updatedAt": "2026-09-12T12:16:22Z",
       "merged": false,
       "author": {
         "login": "sebdanielsson",

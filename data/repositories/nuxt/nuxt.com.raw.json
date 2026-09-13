@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T09:06:56.914Z",
+    "lastRunAt": "2026-09-13T01:20:02.814Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMi0wMi0wMlQxMzo0OToyNlrOMfVTEg==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -17500,6 +17500,13 @@
       "number": 2421,
       "user": {
         "login": "yuraoak",
+        "type": "User"
+      }
+    },
+    "2422": {
+      "number": 2422,
+      "user": {
+        "login": "favorodera",
         "type": "User"
       }
     }
@@ -55511,6 +55518,39 @@
       },
       "reviews": {
         "nodes": []
+      }
+    },
+    "2422": {
+      "number": 2422,
+      "updatedAt": "2026-09-12T23:35:22Z",
+      "merged": false,
+      "author": {
+        "login": "favorodera",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T09:06:56.477Z",
+    "lastRunAt": "2026-09-13T01:20:02.042Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAyMS0xMS0xOFQxMzoxNTo0NlrOLraJ-A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -53109,6 +53109,13 @@
       "number": 6935,
       "user": {
         "login": "yarwoob",
+        "type": "User"
+      }
+    },
+    "6936": {
+      "number": 6936,
+      "user": {
+        "login": "naruko-hstk",
         "type": "User"
       }
     }

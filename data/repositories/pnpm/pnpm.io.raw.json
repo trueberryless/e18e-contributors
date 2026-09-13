@@ -1,6 +1,6 @@
 {
   "syncState": {
-    "lastRunAt": "2026-09-12T09:08:00.388Z",
+    "lastRunAt": "2026-09-13T01:20:48.231Z",
     "prBackfillCursor": "Y3Vyc29yOnYyOpK0MjAxNy0wNy0wNlQyMDo0MjowOFrOB7QF9A==",
     "prBackfillComplete": true,
     "issuesBackfillComplete": true
@@ -6790,6 +6790,23 @@
       "number": 927,
       "user": {
         "login": "zkochan",
+        "type": "User"
+      },
+      "reactions": {
+        "total_count": 1
+      }
+    },
+    "928": {
+      "number": 928,
+      "user": {
+        "login": "alumryhsn5-pixel",
+        "type": "User"
+      }
+    },
+    "929": {
+      "number": 929,
+      "user": {
+        "login": "BaconMan1168",
         "type": "User"
       },
       "reactions": {
@@ -27053,6 +27070,65 @@
             "state": "APPROVED",
             "author": {
               "login": "greptile-apps",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "928": {
+      "number": 928,
+      "updatedAt": "2026-09-12T13:17:06Z",
+      "merged": false,
+      "author": {
+        "login": "alumryhsn5-pixel",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "APPROVED",
+            "author": {
+              "login": "coderabbitai",
+              "__typename": "Bot"
+            }
+          }
+        ]
+      }
+    },
+    "929": {
+      "number": 929,
+      "updatedAt": "2026-09-13T00:37:10Z",
+      "merged": false,
+      "author": {
+        "login": "BaconMan1168",
+        "__typename": "User"
+      },
+      "closingIssuesReferences": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "reviews": {
+        "nodes": [
+          {
+            "state": "COMMENTED",
+            "author": {
+              "login": "greptile-apps",
+              "__typename": "Bot"
+            }
+          },
+          {
+            "state": "CHANGES_REQUESTED",
+            "author": {
+              "login": "coderabbitai",
               "__typename": "Bot"
             }
           }
